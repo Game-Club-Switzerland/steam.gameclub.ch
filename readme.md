@@ -1,6 +1,6 @@
 # Doku
 
-
+## Types
 * Player
 * Game
 * Playtime
