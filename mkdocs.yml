@@ -1,0 +1,65 @@
+# Project information
+site_name: Steam Game-Club
+site_url: https://steam.game-club.ch
+site_author: D3lta
+site_description: >-
+  All Player of the Steam Game-Club Group
+
+# Theme
+theme:
+  name: material
+  language: de
+  features:
+    #- navigation.instant
+    #- navigation.instant.progress
+    #- navigation.tracking
+    - navigation.tabs
+    #- navigation.tabs.sticky
+    #- navigation.sections
+    #- navigation.expand
+    - navigation.indexes
+    #- toc.follow
+    #- toc.integrate
+    #- navigation.top
+    - content.tabs.link
+    - content.code.copy
+    - content.action.view
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+    - search.share
+
+plugin:
+  - meta
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - tables
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - index.md
+  - Games: games.md
+  - Player: player.md
