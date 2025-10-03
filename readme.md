@@ -31,3 +31,7 @@ mindmap
 http://steamcommunity.com/gid/103582791430857185/memberslistxml/?xml=1
 
 
+
+## Goal
+
+* Widget integration für Profil und Groupe
