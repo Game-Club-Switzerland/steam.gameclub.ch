@@ -33,5 +33,5 @@ jobs:
       - run: pip install mkdocs-git-committers-plugin-2
       - run: pip install mkdocs-git-authors-plugin
       - name: Create CNAME file
-        run: echo "steam.game-club.ch" > ./docs/CNAME
+        run: echo "steam.gameclub.ch" > ./docs/CNAME
       - run: mkdocs gh-deploy --force
