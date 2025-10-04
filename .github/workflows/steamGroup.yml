@@ -34,7 +34,7 @@ jobs:
       - run: pip install mkdocs-git-revision-date-localized-plugin
       - run: pip install mkdocs-git-committers-plugin-2
       - run: pip install mkdocs-git-authors-plugin
-      - run: src/command/steamGroup.py
+      - run: python src/command/steamGroup.py
       - name: Create CNAME file
         run: echo "steam.game-club.ch" > ./docs/CNAME
       - run: mkdocs gh-deploy --force
