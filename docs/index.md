@@ -7,6 +7,10 @@
 1 in Game
 44 im Chat - Chat beitretten
 
+## TeamSpeak 2/512
+
+tsviewer.com Widget
+
 
 ## In Game Members
 
