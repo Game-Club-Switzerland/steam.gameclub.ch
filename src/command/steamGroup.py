@@ -14,20 +14,22 @@ def fetch_steam_group_members():
     membersInGame = root.findtext('groupDetails/membersInGame')
     membersInChat = root.findtext('groupDetails/membersInChat')
     membersOnline = root.findtext('groupDetails/membersOnline')
+    avatarIcon = root.findtext('groupDetails/avatarIcon')
+    groupURL = root.findtext('groupDetails/groupURL')
     members = []
     for member in root.findall('members/steamID64'):
         members.append(member.text)
-    return group_name, members, memberCount, membersInGame, membersInChat, membersOnline
+    return group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL
 
 def steam_group_widget():
-    group_name, members, memberCount, membersInGame, membersInChat, membersOnline = fetch_steam_group_members()
+    group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL = fetch_steam_group_members()
     html = f"""
     <div class="steam-group-widget">
-        <h3>{group_name}</h3>
-        <p>Total Members: {memberCount}</p>
-        <p style="color: #62a7e3;">Online: {membersOnline}</p>
-        <p style="color: #8bc53f;">In Game: {membersInGame}</p>
-        <p>In Chat: {membersInChat}</p>
+        <h3><a href="https://steamcommunity.com/groups/{groupURL}"><img src="{avatarIcon}" alt="{group_name} Avatar" /> {group_name}</a></h3>
+        <p>{memberCount} Total Members</p>
+        <p style="color: #62a7e3;">{membersOnline} Online</p>
+        <p style="color: #8bc53f;">{membersInGame} In Game</p>
+        <p>{membersInChat} im Chat - <a href="https://steamcommunity.com/chat/invite/IQhgcbIe">Chat beitreten</a></p>
     </div>
     """
     # Ensure the directory exists
