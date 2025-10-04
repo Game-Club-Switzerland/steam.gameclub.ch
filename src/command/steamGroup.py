@@ -27,7 +27,7 @@ def steam_group_widget():
     <h3><a href="https://steamcommunity.com/groups/{groupURL}"><img src="{avatarIcon}" alt="{group_name} Avatar" /> {group_name}</a></h3>
     <span style="color: #62a7e3;">{memberCount} Total Members</span><br>
     <span style="color: #62a7e3;">{membersOnline} Online</span><br>
-    <span style="color: #8bc53f;">{membersInGame} In Game</span>
+    <span style="color: #8bc53f;">{membersInGame} In Game</span><br>
     <span>{membersInChat} im Chat - <a href="https://steamcommunity.com/chat/invite/IQhgcbIe" style="color: #62a7e3;">Chat beitreten</a></span>
 </div>"""
     # Ensure the directory exists
