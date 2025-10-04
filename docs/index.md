@@ -2,7 +2,7 @@
 
 
 ## Stats
-125 Mitglieder
+125 Members
 6 Online
 1 in Game
 44 im Chat - Chat beitretten
