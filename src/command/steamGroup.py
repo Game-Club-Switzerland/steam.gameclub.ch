@@ -23,15 +23,13 @@ def fetch_steam_group_members():
 
 def steam_group_widget():
     group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL = fetch_steam_group_members()
-    html = f"""
-    <div class="steam-group-widget">
-        <h3><a href="https://steamcommunity.com/groups/{groupURL}"><img src="{avatarIcon}" alt="{group_name} Avatar" /> {group_name}</a></h3>
-        <span>{memberCount} Total Members</span><br>
-        <span style="color: #62a7e3;">{membersOnline} Online</span><br>
-        <span style="color: #8bc53f;">{membersInGame} In Game</span>
-        <span>{membersInChat} im Chat - <a href="https://steamcommunity.com/chat/invite/IQhgcbIe">Chat beitreten</a></span>
-    </div>
-    """
+    html = f"""<div class="steam-group-widget">
+    <h3><a href="https://steamcommunity.com/groups/{groupURL}"><img src="{avatarIcon}" alt="{group_name} Avatar" /> {group_name}</a></h3>
+    <span>{memberCount} Total Members</span><br>
+    <span style="color: #62a7e3;">{membersOnline} Online</span><br>
+    <span style="color: #8bc53f;">{membersInGame} In Game</span>
+    <span>{membersInChat} im Chat - <a href="https://steamcommunity.com/chat/invite/IQhgcbIe">Chat beitreten</a></span>
+</div>"""
     # Ensure the directory exists
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group')
     os.makedirs(output_dir, exist_ok=True)
