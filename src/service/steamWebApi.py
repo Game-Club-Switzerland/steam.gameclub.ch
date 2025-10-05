@@ -35,13 +35,12 @@ class SteamWebApi:
             response.raise_for_status()
             
     @staticmethod
-    def fetch_steam_player_GetOwnedGames(steamid, api_key):
+    def fetch_steam_player_GetOwnedGames(steamids, api_key):
         import requests
-        url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={api_key}&steamid={steamid}&format=json"
-        print(f"Fetching owned games for SteamID: {steamid}")
-        print(f"Request URL: {url}")
+        url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={api_key}&steamid={','.join(steamids)}&format=json"
         response = requests.get(url)
         if response.status_code == 200:
-            return response.json()['response']
+            if 'response' in response.json() and 'games' in response.json()['response']:
+                return response.json()['response']['games']
         else:
             response.raise_for_status()
