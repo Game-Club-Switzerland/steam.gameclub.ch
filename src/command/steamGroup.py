@@ -23,12 +23,27 @@ def fetch_steam_group_members():
 
 def steam_group_widget():
     group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL = fetch_steam_group_members()
-    html = f"""<div class="steam-group-widget">
-    <h3><a href="https://steamcommunity.com/groups/{groupURL}"><img src="{avatarIcon}" alt="{group_name} Avatar" /> {group_name}</a></h3>
-    <span style="color: #62a7e3;">{memberCount} Total Members</span><br>
-    <span style="color: #62a7e3;">{membersOnline} Online</span><br>
-    <span style="color: #8bc53f;">{membersInGame} In Game</span><br>
-    <span>{membersInChat} im Chat - <a href="https://steamcommunity.com/chat/invite/IQhgcbIe" style="color: #62a7e3;">Chat beitreten</a></span>
+    html = f"""<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px;">
+    <h3 style="margin: 0 0 10px 0; font-size: 20px; font-weight: 700;">
+        <a href="https://steamcommunity.com/groups/{groupURL}" style="color: #66c0f4; text-decoration: none;">
+            <img src="{avatarIcon}" alt="{group_name} Avatar" style="vertical-align: middle; border-radius: 2px; margin-right: 8px; width: 32px; height: 32px;" />
+            {group_name}
+        </a>
+    </h3>
+    <div style="margin-bottom: 4px;">
+        <span style="color: #66c0f4; font-weight: 500;">{memberCount} Mitglieder insgesamt</span>
+    </div>
+    <div style="margin-bottom: 4px;">
+        <span style="color: #c7d5e0;">{membersOnline} online</span>
+    </div>
+    <div style="margin-bottom: 4px;">
+        <span style="color: #59bf40;">{membersInGame} im Spiel</span>
+    </div>
+    <div>
+        <span style="color: #c7d5e0;">{membersInChat} im Chat - 
+            <a href="https://steamcommunity.com/chat/invite/IQhgcbIe" style="color: #66c0f4; text-decoration: underline;">Chat beitreten</a>
+        </span>
+    </div>
 </div>"""
     # Ensure the directory exists
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group')

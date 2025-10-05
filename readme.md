@@ -1,12 +1,14 @@
 # Doku
 
 ## Types
+* Groups
 * Player
 * Game
 * Playtime
 
 ```mermaid
 graph TD
+    Groups --> Player
     Player --> Playtime
     Game --> Playtime
     Playtime
@@ -16,12 +18,13 @@ graph TD
 ```mermaid
 mindmap
   root((steam.game-club.ch))
+    Groups
+        Group
     Players
         Player
     Games
         Game
     Playtime
-
 ```
 
 
