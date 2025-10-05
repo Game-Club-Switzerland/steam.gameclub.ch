@@ -24,7 +24,24 @@ def fetch_steam_group_members():
 
 def steam_group_widget():
     group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL, groupID64 = fetch_steam_group_members()
-    html = f"""<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px;">
+    html = f"""<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px; box-sizing: border-box; width: 100%;">
+    <style>
+    @media (max-width: 480px) {{
+        .steam-group-widget {{
+            padding: 10px;
+            max-width: 100vw;
+            font-size: 16px;
+        }}
+        .steam-group-widget h3 {{
+            font-size: 18px !important;
+        }}
+        .steam-group-widget img {{
+            width: 24px !important;
+            height: 24px !important;
+            margin-right: 6px !important;
+        }}
+    }}
+    </style>
     <h3 style="margin: 0 0 10px 0; font-size: 20px; font-weight: 700;">
         <a href="https://steamcommunity.com/groups/{groupURL}" style="color: #66c0f4; text-decoration: none;">
             <img src="{avatarIcon}" alt="{group_name} Avatar" style="vertical-align: middle; border-radius: 2px; margin-right: 8px; width: 32px; height: 32px;" />
@@ -45,6 +62,7 @@ def steam_group_widget():
             <a href="https://steamcommunity.com/chat/invite/IQhgcbIe" style="color: #66c0f4; text-decoration: underline;">Chat beitreten</a>
         </span>
     </div>
+    <div style="height:16px;"></div>
 </div>"""
     # Ensure the directory exists
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group/')
