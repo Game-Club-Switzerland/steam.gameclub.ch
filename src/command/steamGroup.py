@@ -136,6 +136,10 @@ def createMarkdownFile(groupID64):
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
     os.makedirs(output_dir, exist_ok=True)
     with open(os.path.join(output_dir, f'index.md'), "w", encoding="utf-8") as f:
+        f.write("---\n")
+        f.write("hide:\n")
+        f.write("  - navigation\n")
+        f.write("  - toc\n")
         f.write("# Steam Group Members\n\n")
             # Write DataTable HTML header
         f.write("""<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
