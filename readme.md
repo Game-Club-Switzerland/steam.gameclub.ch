@@ -28,8 +28,7 @@ mindmap
 ```
 
 
-## SteamGroup
-
+## SteamGroups
 
 http://steamcommunity.com/gid/103582791430857185/memberslistxml/?xml=1
 

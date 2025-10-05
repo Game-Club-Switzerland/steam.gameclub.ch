@@ -9,6 +9,7 @@ def fetch_steam_group_members():
     response = requests.get(STEAM_GROUP_URL)
     response.raise_for_status()
     root = ET.fromstring(response.content)
+    groupID64 = root.findtext('groupID64')
     group_name = root.findtext('groupDetails/groupName')
     memberCount = root.findtext('groupDetails/memberCount')
     membersInGame = root.findtext('groupDetails/membersInGame')
@@ -19,10 +20,10 @@ def fetch_steam_group_members():
     members = []
     for member in root.findall('members/steamID64'):
         members.append(member.text)
-    return group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL
+    return group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL, groupID64
 
 def steam_group_widget():
-    group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL = fetch_steam_group_members()
+    group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL, groupID64 = fetch_steam_group_members()
     html = f"""<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px;">
     <h3 style="margin: 0 0 10px 0; font-size: 20px; font-weight: 700;">
         <a href="https://steamcommunity.com/groups/{groupURL}" style="color: #66c0f4; text-decoration: none;">
@@ -46,9 +47,9 @@ def steam_group_widget():
     </div>
 </div>"""
     # Ensure the directory exists
-    output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group')
+    output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group/')
     os.makedirs(output_dir, exist_ok=True)
-    output_path = os.path.join(output_dir, 'index.html')
+    output_path = os.path.join(output_dir, f'{groupID64}.html')
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html)
     return html
