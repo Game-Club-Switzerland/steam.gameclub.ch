@@ -22,7 +22,7 @@ def fetch_steam_group_members():
         members.append(member.text)
     return group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL, groupID64
 
-def steam_group_widget():
+def steam_group_widget_html():
     group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL, groupID64 = fetch_steam_group_members()
     html = f"""<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px; box-sizing: border-box; width: 100%;">
     <style>
@@ -72,5 +72,32 @@ def steam_group_widget():
         f.write(html)
     return html
 
+def steam_group_widget_JavaScript(groupID64):
+    js = f"""<script>
+    async function loadSteamGroupWidget() {{
+        const response = await fetch('https://steam.gameclub.ch/widget/group/{groupID64}.html');
+        const html = await response.text();
+        document.getElementById('steam-group-widget-container').innerHTML = html;
+    }}
+    document.addEventListener('DOMContentLoaded', loadSteamGroupWidget);
+    </script>"""
+    #<div id="steam-group-widget-container" style="width:100%;"></div>
+    return js
+
+def steam_group_widget_JavaScript_min(groupID64):
+    js = f"""<script>async function loadSteamGroupWidget(){{const e=await fetch('https://steam.gameclub.ch/widget/group/{groupID64}.html'),t=await e.text();document.getElementById('steam-group-widget-container').innerHTML=t}}document.addEventListener('DOMContentLoaded',loadSteamGroupWidget);</script>"""
+    return js
+
+def steam_group_Javascript_widget(groupID64):
+    js = steam_group_widget_JavaScript_min(groupID64)
+    output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group/')
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, f'{groupID64}.js')
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(js)
+    return js
+
 if __name__ == "__main__":
-    steam_group_widget()
+    steam_group_widget_html()
+    steam_group_Javascript_widget("103582791430857185")
+    
