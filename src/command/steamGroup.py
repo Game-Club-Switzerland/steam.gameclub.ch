@@ -138,25 +138,23 @@ def createMarkdownFile(groupID64):
     with open(os.path.join(output_dir, f'{groupID64}.md'), "w", encoding="utf-8") as f:
         f.write("# Steam Group Members\n\n")
             # Write DataTable HTML header
-        f.write("""
-        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
-        <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-        <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+        f.write("""<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
-        <table id="steam-members" class="display" style="width:100%">
-            <thead>
-            <tr>
-                <th>Avatar</th>
-                <th>Name</th>
-                <th>SteamID</th>
-                <th>Profile</th>
-                <th>Games Owned</th>
-            </tr>
-            </thead>
-            <tbody>
-        """)
+<table id="steam-members" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Avatar</th>
+            <th>Name</th>
+            <th>SteamID</th>
+            <th>Profile</th>
+            <th>Games Owned</th>
+        </tr>
+    </thead>
+    <tbody>""")
         for player in summaries:
-                #games = steamWebApi.SteamWebApi.fetch_steam_player_GetOwnedGames(player['steamid'], STEAMWEBAPIKEY)
+            #games = steamWebApi.SteamWebApi.fetch_steam_player_GetOwnedGames(player['steamid'], STEAMWEBAPIKEY)
                 f.write(f"""<tr>
                 <td><img src="{player.get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>{player.get('personaname')}</td>
@@ -166,19 +164,18 @@ def createMarkdownFile(groupID64):
             </tr>
             """)
         f.write("""
-            </tbody>
-        </table>
-        <script>
-        $(document).ready(function() {
-            $('#steam-members').DataTable({
+    </tbody>
+</table>
+<script>
+    $(document).ready(function() {
+        $('#steam-members').DataTable({
             "pageLength": 25,
             "language": {
                 "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/de-DE.json"
             }
-            });
         });
-        </script>
-        """)
+    });
+</script>""")
     print("Markdown file 'steam_players.md' created.")
 
 if __name__ == "__main__":
