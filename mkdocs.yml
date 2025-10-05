@@ -29,6 +29,20 @@ theme:
     - search.highlight
     - search.share
 
+extra_css:
+  - https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css
+  - https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css
+  - https://cdn.datatables.net/responsive/2.5.0/css/responsive.bootstrap5.min.css
+
+extra_javascript:
+  - https://code.jquery.com/jquery-3.7.0.min.js
+  - https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js
+  - https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js
+  - https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js
+  - https://cdn.datatables.net/responsive/2.5.0/js/responsive.bootstrap5.min.js
+  - javascripts/datatables-init.js
+  - javascripts/tablesorts.js
+
 plugin:
   - meta
   - search
