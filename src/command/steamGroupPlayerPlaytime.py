@@ -63,6 +63,7 @@ def createMarkdownFile(groupID64):
         f.write("hide:\n")
         f.write("  - navigation\n")
         f.write("  - toc\n")
+        f.write("---\n")
         f.write("# Steam Group Members - Playtime\n\n")
             # Write DataTable HTML header
         
