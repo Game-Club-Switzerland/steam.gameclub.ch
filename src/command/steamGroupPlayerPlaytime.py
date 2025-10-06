@@ -84,7 +84,8 @@ def createMarkdownFile(groupID64):
             <th>playtime_disconnected</th>
         </tr>
     </thead>
-    <tbody>""")
+    <tbody>
+""")
         for playerPlaytime in allPlayerGetOwnedGames:
             if allPlayerGetOwnedGames[playerPlaytime]:
                 for game in allPlayerGetOwnedGames[playerPlaytime]:
