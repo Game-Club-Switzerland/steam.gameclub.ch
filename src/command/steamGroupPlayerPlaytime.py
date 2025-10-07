@@ -64,7 +64,7 @@ def createMarkdownFile(groupID64):
         f.write("  - navigation\n")
         f.write("  - toc\n")
         f.write("---\n")
-        f.write("# Steam Group Members - Playtime\n\n")
+        f.write(f"# Steam Group - {steamGroup['groupName']} - Members - Playtime\n\n")
             # Write DataTable HTML header
         
         f.write("""<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>

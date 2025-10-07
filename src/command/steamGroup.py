@@ -14,25 +14,8 @@ load_dotenv(find_dotenv())
 STEAM_GROUP_URL = "https://steamcommunity.com/gid/103582791430857185/memberslistxml/?xml=1"
 STEAMWEBAPIKEY = getenv("STEAMWEBAPIKEY")
 
-def fetch_steam_group_members(url):
-    response = requests.get(url)
-    response.raise_for_status()
-    root = ET.fromstring(response.content)
-    groupID64 = root.findtext('groupID64')
-    group_name = root.findtext('groupDetails/groupName')
-    memberCount = root.findtext('groupDetails/memberCount')
-    membersInGame = root.findtext('groupDetails/membersInGame')
-    membersInChat = root.findtext('groupDetails/membersInChat')
-    membersOnline = root.findtext('groupDetails/membersOnline')
-    avatarIcon = root.findtext('groupDetails/avatarIcon')
-    groupURL = root.findtext('groupDetails/groupURL')
-    members = []
-    for member in root.findall('members/steamID64'):
-        members.append(member.text)
-    return group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL, groupID64
-
-def steam_group_widget_html():
-    group_name, members, memberCount, membersInGame, membersInChat, membersOnline, avatarIcon, groupURL, groupID64 = fetch_steam_group_members(STEAM_GROUP_URL)
+def steam_group_widget_html(groupID64):
+    steamGroup = steamWebApi.SteamWebApi.fetch_steam_group_members(groupID64)
     html = f"""<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px; box-sizing: border-box; width: 100%;">
     <style>
     @media (max-width: 480px) {{
@@ -52,22 +35,22 @@ def steam_group_widget_html():
     }}
     </style>
     <h3 style="margin: 0 0 10px 0; font-size: 20px; font-weight: 700;">
-        <a href="https://steamcommunity.com/groups/{groupURL}" style="color: #66c0f4; text-decoration: none;">
-            <img src="{avatarIcon}" alt="{group_name} Avatar" style="vertical-align: middle; border-radius: 2px; margin-right: 8px; width: 32px; height: 32px;" />
-            {group_name}
+        <a href="https://steamcommunity.com/groups/{steamGroup['groupURL']}" style="color: #66c0f4; text-decoration: none;">
+            <img src="{steamGroup['avatarIcon']}" alt="{steamGroup['groupName']} Avatar" style="vertical-align: middle; border-radius: 2px; margin-right: 8px; width: 32px; height: 32px;" />
+            {steamGroup['groupName']}
         </a>
     </h3>
     <div style="margin-bottom: 4px;">
-        <span style="color: #66c0f4; font-weight: 500;">{memberCount} Mitglieder insgesamt</span>
+        <span style="color: #66c0f4; font-weight: 500;">{steamGroup['memberCount']} Mitglieder insgesamt</span>
     </div>
     <div style="margin-bottom: 4px;">
-        <span style="color: #c7d5e0;">{membersOnline} online</span>
+        <span style="color: #c7d5e0;">{steamGroup['memberOnline']} online</span>
     </div>
     <div style="margin-bottom: 4px;">
-        <span style="color: #59bf40;">{membersInGame} im Spiel</span>
+        <span style="color: #59bf40;">{steamGroup['memberInGame']} im Spiel</span>
     </div>
     <div>
-        <span style="color: #c7d5e0;">{membersInChat} im Chat - 
+        <span style="color: #c7d5e0;">{steamGroup['memberInChat']} im Chat - 
             <a href="https://steamcommunity.com/chat/invite/IQhgcbIe" style="color: #66c0f4; text-decoration: underline;">Chat beitreten</a>
         </span>
     </div>
@@ -76,7 +59,7 @@ def steam_group_widget_html():
     # Ensure the directory exists
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group/')
     os.makedirs(output_dir, exist_ok=True)
-    output_path = os.path.join(output_dir, f'{groupID64}.html')
+    output_path = os.path.join(output_dir, f'{steamGroup['groupID64']}.html')
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html)
     return html
@@ -141,7 +124,7 @@ def createMarkdownFile(groupID64):
         f.write("  - navigation\n")
         f.write("  - toc\n")
         f.write("---\n")
-        f.write("# Steam Group Members\n\n")
+        f.write(f"# {steamGroup['groupName']} - Members\n\n")
             # Write DataTable HTML header
         f.write("""<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
@@ -184,6 +167,6 @@ def createMarkdownFile(groupID64):
     print("Markdown file 'steam_players.md' created.")
 
 if __name__ == "__main__":
-    steam_group_widget_html()
+    steam_group_widget_html("103582791430857185")
     steam_group_Javascript_widget("103582791430857185")
     createMarkdownFile("103582791430857185")

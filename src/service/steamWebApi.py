@@ -1,9 +1,10 @@
+import requests
+import xml.etree.ElementTree as ET
+
 class SteamWebApi:
     
     @staticmethod
     def fetch_steam_group_members(groupID64):
-        import requests
-        import xml.etree.ElementTree as ET
         url = f"https://steamcommunity.com/gid/{groupID64}/memberslistxml/?xml=1"
         response = requests.get(url)
         if response.status_code == 200:
@@ -13,7 +14,7 @@ class SteamWebApi:
             for member in root.findall('members/steamID64'):
                 steamGroup['members'].append(member.text)
             steamGroup['groupID64'] = root.findtext('groupID64')
-            steamGroup['group_name'] = root.findtext('groupDetails/groupName')
+            steamGroup['groupName'] = root.findtext('groupDetails/groupName')
             steamGroup['memberCount'] = root.findtext('groupDetails/memberCount')
             steamGroup['memberInGame'] = root.findtext('groupDetails/membersInGame')
             steamGroup['memberInChat'] = root.findtext('groupDetails/membersInChat')
@@ -26,7 +27,6 @@ class SteamWebApi:
     
     @staticmethod
     def fetch_steam_player_summaries(steamids, api_key):
-        import requests
         url = f"http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key={api_key}&steamids={','.join(steamids)}"
         response = requests.get(url)
         if response.status_code == 200:
@@ -36,7 +36,6 @@ class SteamWebApi:
             
     @staticmethod
     def fetch_steam_player_GetOwnedGames(steamids, api_key):
-        import requests
         url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={api_key}&steamid={','.join(steamids)}&format=json"
         response = requests.get(url)
         if response.status_code == 200:
