@@ -79,8 +79,6 @@ def createMarkdownFile(groupID64):
             <th>playtime_windows_forever</th>
             <th>playtime_mac_forever</th>
             <th>playtime_linux_forever</th>
-            <th>rtime_last_played</th>
-            <th>playtime_disconnected</th>
         </tr>
     </thead>
     <tbody>
@@ -96,8 +94,6 @@ def createMarkdownFile(groupID64):
                     <td>{game.get('playtime_windows_forever', '')}</td>
                     <td>{game.get('playtime_mac_forever', '')}</td>
                     <td>{game.get('playtime_linux_forever', '')}</td>
-                    <td>{game.get('rtime_last_played', '')}</td>
-                    <td>{game.get('playtime_disconnected', '')}</td>
                 </tr>
                 """)
         f.write("""
