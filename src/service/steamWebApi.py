@@ -43,3 +43,14 @@ class SteamWebApi:
                 return response.json()['response']['games']
         else:
             response.raise_for_status()
+    
+    @staticmethod
+    def fetchGetRecentlyPlayedGames(steamids, api_key):
+        #https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key=STEAMKEY&steamid=76561197966417969&format=json
+        url = f"http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key={api_key}&steamid={','.join(steamids)}&format=json"
+        response = requests.get(url)
+        if response.status_code == 200:
+            if 'response' in response.json() and 'games' in response.json()['response']:
+                return response.json()['response']['games']
+        else:
+            response.raise_for_status()

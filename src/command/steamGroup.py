@@ -130,6 +130,10 @@ def createMarkdownFile(groupID64):
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
+
+[Playtime](playtime.md)
+[Playtime 2 Weeks](playtime2weeks.md)
+
 <table id="steam-members" class="display" style="width:100%">
     <thead>
         <tr>

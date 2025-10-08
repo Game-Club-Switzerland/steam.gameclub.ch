@@ -29,6 +29,15 @@ document.addEventListener('DOMContentLoaded', function () {
         // Sprache anpassen (Deutsch)
         language: {
             url: 'https://cdn.datatables.net/plug-ins/1.13.6/i18n/de-DE.json'
+        },
+
+        // Such‑Panes konfigurieren
+        layout: {
+            top1: {
+                searchPanes: {
+                    viewTotal: true
+                }
+            }
         }
     });
 });

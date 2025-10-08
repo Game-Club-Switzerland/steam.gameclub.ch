@@ -41,30 +41,30 @@ def fetch_steam_player_GetOwnedGames(steam_id):
     data = response.json()
     return data.get("response", {}).get("games", [])
 
-def fetchAllPlayerGetOwnedGames(members):
-    allPlayergetOwnedGames = {}
+def fetchAllPlayerGetRecentlyPlayedGames(members):
+    allPlayerGetRecentlyPlayedGames = {}
     for member in members:
-        print(f"Fetching owned games for SteamID: {member}")
-        getOwnedGames = steamWebApi.SteamWebApi.fetch_steam_player_GetOwnedGames([member], STEAMWEBAPIKEY)
-        allPlayergetOwnedGames[member] = getOwnedGames
-    return allPlayergetOwnedGames
+        print(f"Fetching recently played games for SteamID: {member}")
+        recentlyPlayedGames = steamWebApi.SteamWebApi.fetchGetRecentlyPlayedGames([member], STEAMWEBAPIKEY)
+        allPlayerGetRecentlyPlayedGames[member] = recentlyPlayedGames
+    return allPlayerGetRecentlyPlayedGames
 
 def createMarkdownFile(groupID64):
     steamGroup = steamWebApi.SteamWebApi().fetch_steam_group_members(groupID64)
     if not steamGroup:
         print("No members found.")
         return
-    allPlayerGetOwnedGames = fetchAllPlayerGetOwnedGames(steamGroup['members'])
+    allPlayerGetRecentlyPlayedGames = fetchAllPlayerGetRecentlyPlayedGames(steamGroup['members'])
     
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
     os.makedirs(output_dir, exist_ok=True)
-    with open(os.path.join(output_dir, f'playtime.md'), "w", encoding="utf-8") as f:
+    with open(os.path.join(output_dir, f'playtime2weeks.md'), "w", encoding="utf-8") as f:
         f.write("---\n")
         f.write("hide:\n")
         f.write("  - navigation\n")
         f.write("  - toc\n")
         f.write("---\n")
-        f.write(f"# Steam Group - {steamGroup['groupName']} - Members - Playtime\n\n")
+        f.write(f"# Steam Group - {steamGroup['groupName']} - Members - Playtime 2 Weeks\n\n")
             # Write DataTable HTML header
         
         f.write("""<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
@@ -75,27 +75,31 @@ def createMarkdownFile(groupID64):
         <tr>
             <th>Player</th>
             <th>Appid</th>
+            <th>Game Name</th>
+            <th>playtime_2weeks</th>
             <th>playtime_forever</th>
             <th>playtime_windows_forever</th>
             <th>playtime_mac_forever</th>
             <th>playtime_linux_forever</th>
-            <th>rtime_last_played</th>
+            <th>playtime_deck_forever</th>
         </tr>
     </thead>
     <tbody>
 """)
-        for playerPlaytime in allPlayerGetOwnedGames:
-            if allPlayerGetOwnedGames[playerPlaytime]:
-                for game in allPlayerGetOwnedGames[playerPlaytime]:
+        for playerPlaytime in allPlayerGetRecentlyPlayedGames:
+            if allPlayerGetRecentlyPlayedGames[playerPlaytime]:
+                for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]:
                     print(game)
                     f.write(f"""<tr>
                     <td>{playerPlaytime}</td>
                     <td>{game.get('appid', '')}</td>
+                    <td>{game.get('name', '')}</td>
+                    <td>{game.get('playtime_2weeks', '')}</td>
                     <td>{game.get('playtime_forever', '')}</td>
                     <td>{game.get('playtime_windows_forever', '')}</td>
                     <td>{game.get('playtime_mac_forever', '')}</td>
                     <td>{game.get('playtime_linux_forever', '')}</td>
-                    <td>{game.get('rtime_last_played', '')}</td>
+                    <td>{game.get('playtime_deck_forever', '')}</td>
                 </tr>
                 """)
         f.write("""
@@ -111,7 +115,7 @@ def createMarkdownFile(groupID64):
         });
     });
 </script>""")
-    print("Markdown file 'playtime.md' created.")
+    print("Markdown file 'playtime2weeks.md' created.")
 
 def main():
     members = fetch_steam_group_members()
