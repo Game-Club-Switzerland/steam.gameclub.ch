@@ -15,7 +15,7 @@ STEAM_GROUP_URL = "https://steamcommunity.com/gid/103582791430857185/memberslist
 STEAMWEBAPIKEY = getenv("STEAMWEBAPIKEY")
 
 def steam_group_widget_html(groupID64):
-    steamGroup = steamWebApi.SteamWebApi.fetch_steam_group_members(groupID64)
+    steamGroup = steamWebApi.SteamWebApi.fetchSteamGroup(groupID64)
     html = f"""<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px; box-sizing: border-box; width: 100%;">
     <style>
     @media (max-width: 480px) {{
@@ -92,29 +92,26 @@ def steam_group_Javascript_widget(groupID64):
 def fetchAllPlayerSummaries(members):
     all_summaries = []
     for member in members:
-        summaries = steamWebApi.SteamWebApi.fetch_steam_player_summaries([member], STEAMWEBAPIKEY)
+        summaries = steamWebApi.SteamWebApi.fetchGetPlayerSummaries([member], STEAMWEBAPIKEY)
         #print(summaries)
         all_summaries.extend(summaries)
     return all_summaries
 
 def fetchSummaries(groupID64):
-    steamGroup = steamWebApi.SteamWebApi.fetch_steam_group_members(groupID64)
+    steamGroup = steamWebApi.SteamWebApi.fetchSteamGroup(groupID64)
     if not steamGroup:
         print("No members found.")
         return []
     print(f"Fetched {len(steamGroup)} group members.")
 
-    summaries = steamWebApi.SteamWebApi.fetch_steam_player_summaries(steamGroup, STEAMWEBAPIKEY)
+    summaries = steamWebApi.SteamWebApi.fetchGetPlayerSummaries(steamGroup, STEAMWEBAPIKEY)
     return summaries
 
-def createMarkdownFile(groupID64):
-    steamGroup = steamWebApi.SteamWebApi.fetch_steam_group_members(groupID64)
+def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries):
     if not steamGroup['members']:
         print("No members found.")
         return
     print(f"Fetched {len(steamGroup['members'])} members.")
-
-    summaries = fetchAllPlayerSummaries(steamGroup['members'])
 
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
     os.makedirs(output_dir, exist_ok=True)
@@ -146,13 +143,14 @@ def createMarkdownFile(groupID64):
         </tr>
     </thead>
     <tbody>""")
-        for player in summaries:
+        for player in allPlayerSummaries:
+            print (player)
             #games = steamWebApi.SteamWebApi.fetch_steam_player_GetOwnedGames(player['steamid'], STEAMWEBAPIKEY)
-                f.write(f"""<tr>
-                <td><img src="{player.get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>{player.get('personaname')}</td>
-                <td>{player.get('steamid')}</td>
-                <td><a href="{player.get('profileurl')}" target="_blank">Profil</a></td>
+            f.write(f"""<tr>
+                <td><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>{allPlayerSummaries[player].get('personaname')}</td>
+                <td>{allPlayerSummaries[player].get('steamid')}</td>
+                <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             """)
@@ -170,8 +168,17 @@ def createMarkdownFile(groupID64):
     });
 </script>""")
     print("Markdown file 'steam_players.md' created.")
+    
+    
+def main():
+    steamGroup = steamWebApi.SteamWebApi().fetchSteamGroup("103582791430857185")
+    allPlayerSummaries = steamWebApi.SteamWebApi().fetchAllPlayerSummaries(steamGroup['members'], STEAMWEBAPIKEY)
 
-if __name__ == "__main__":
+    createMarkdownFile("103582791430857185", steamGroup, allPlayerSummaries)
     steam_group_widget_html("103582791430857185")
     steam_group_Javascript_widget("103582791430857185")
-    createMarkdownFile("103582791430857185")
+
+
+
+if __name__ == "__main__":
+    main()

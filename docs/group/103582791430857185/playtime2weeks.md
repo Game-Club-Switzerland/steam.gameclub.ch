@@ -214,7 +214,7 @@ hide:
                     <td>RuMpI</td>
                     <td>1046930</td>
                     <td>Dota Underlords</td>
-                    <td>1951</td>
+                    <td>1842</td>
                     <td>73253</td>
                     <td></td>
                     <td></td>
@@ -280,8 +280,8 @@ hide:
                     <td>HypN-EyEs</td>
                     <td>2507950</td>
                     <td>Delta Force</td>
-                    <td>7334</td>
-                    <td>11548</td>
+                    <td>7458</td>
+                    <td>11823</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -299,11 +299,66 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
+                    <td>tamsin</td>
+                    <td>730</td>
+                    <td>Counter-Strike 2</td>
+                    <td>4252</td>
+                    <td>83020</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>tamsin</td>
+                    <td>578080</td>
+                    <td>PUBG: BATTLEGROUNDS</td>
+                    <td>41</td>
+                    <td>279680</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>tamsin</td>
+                    <td>647960</td>
+                    <td>Rusted Warfare - RTS</td>
+                    <td>21</td>
+                    <td>123625</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>tamsin</td>
+                    <td>1677740</td>
+                    <td>Stumble Guys</td>
+                    <td>13</td>
+                    <td>13</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>tamsin</td>
+                    <td>1938090</td>
+                    <td>Call of Duty®</td>
+                    <td>5</td>
+                    <td>3393</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
                     <td>LФгd_Кдçкё</td>
                     <td>1285190</td>
                     <td>Borderlands® 4</td>
-                    <td>830</td>
-                    <td>1840</td>
+                    <td>1115</td>
+                    <td>2125</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -324,8 +379,8 @@ hide:
                     <td>m93</td>
                     <td>1763250</td>
                     <td>SWORN</td>
-                    <td>321</td>
-                    <td>2856</td>
+                    <td>334</td>
+                    <td>2870</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -348,6 +403,72 @@ hide:
                     <td>100 Doors Game - Escape from School</td>
                     <td>31</td>
                     <td>160</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Roesti</td>
+                    <td>1645820</td>
+                    <td>SurrounDead</td>
+                    <td>707</td>
+                    <td>707</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Roesti</td>
+                    <td>2582470</td>
+                    <td>Wacky West</td>
+                    <td>639</td>
+                    <td>1618</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Roesti</td>
+                    <td>669330</td>
+                    <td>Mechabellum</td>
+                    <td>215</td>
+                    <td>3053</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Roesti</td>
+                    <td>281990</td>
+                    <td>Stellaris</td>
+                    <td>181</td>
+                    <td>19849</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Roesti</td>
+                    <td>3527290</td>
+                    <td>PEAK</td>
+                    <td>77</td>
+                    <td>77</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Roesti</td>
+                    <td>236390</td>
+                    <td>War Thunder</td>
+                    <td>9</td>
+                    <td>14881</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -420,10 +541,98 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
+                    <td>[DMH] Rexon</td>
+                    <td>686810</td>
+                    <td>Hell Let Loose</td>
+                    <td>621</td>
+                    <td>51066</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>[DMH] Rexon</td>
+                    <td>1677280</td>
+                    <td>Company of Heroes 3</td>
+                    <td>452</td>
+                    <td>14291</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>[DMH] Rexon</td>
+                    <td>550</td>
+                    <td>Left 4 Dead 2</td>
+                    <td>154</td>
+                    <td>76380</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>[DMH] Rexon</td>
+                    <td>1172620</td>
+                    <td>Sea of Thieves</td>
+                    <td>101</td>
+                    <td>45860</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>[DMH] Rexon</td>
+                    <td>578080</td>
+                    <td>PUBG: BATTLEGROUNDS</td>
+                    <td>77</td>
+                    <td>21357</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>[N1M] Zireas</td>
+                    <td>1086940</td>
+                    <td>Baldur's Gate 3</td>
+                    <td>2324</td>
+                    <td>4821</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>[N1M] Zireas</td>
+                    <td>2947440</td>
+                    <td>SILENT HILL f</td>
+                    <td>67</td>
+                    <td>67</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>[N1M] Zireas</td>
+                    <td>972660</td>
+                    <td>Spiritfarer®: Farewell Edition</td>
+                    <td>4</td>
+                    <td>4</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
                     <td>ΠΞΧUS_4202</td>
                     <td>400750</td>
                     <td>Call to Arms - Gates of Hell: Ostfront</td>
-                    <td>691</td>
+                    <td>671</td>
                     <td>8287</td>
                     <td></td>
                     <td></td>
@@ -456,8 +665,8 @@ hide:
                     <td>dANTE</td>
                     <td>228200</td>
                     <td>Company of Heroes </td>
-                    <td>1359</td>
-                    <td>243349</td>
+                    <td>1433</td>
+                    <td>243422</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -720,7 +929,7 @@ hide:
                     <td>piipmatz</td>
                     <td>548430</td>
                     <td>Deep Rock Galactic</td>
-                    <td>452</td>
+                    <td>278</td>
                     <td>5785</td>
                     <td></td>
                     <td></td>
@@ -766,72 +975,6 @@ hide:
                     <td>Bloons TD 6</td>
                     <td>1</td>
                     <td>247</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Roesti</td>
-                    <td>1645820</td>
-                    <td>SurrounDead</td>
-                    <td>649</td>
-                    <td>649</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Roesti</td>
-                    <td>2582470</td>
-                    <td>Wacky West</td>
-                    <td>639</td>
-                    <td>1618</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Roesti</td>
-                    <td>669330</td>
-                    <td>Mechabellum</td>
-                    <td>215</td>
-                    <td>3053</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Roesti</td>
-                    <td>281990</td>
-                    <td>Stellaris</td>
-                    <td>181</td>
-                    <td>19849</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Roesti</td>
-                    <td>3527290</td>
-                    <td>PEAK</td>
-                    <td>77</td>
-                    <td>77</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Roesti</td>
-                    <td>236390</td>
-                    <td>War Thunder</td>
-                    <td>9</td>
-                    <td>14881</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -887,61 +1030,6 @@ hide:
                     <td>PUBG: BATTLEGROUNDS</td>
                     <td>2444</td>
                     <td>93829</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>tamsin</td>
-                    <td>730</td>
-                    <td>Counter-Strike 2</td>
-                    <td>4197</td>
-                    <td>82924</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>tamsin</td>
-                    <td>578080</td>
-                    <td>PUBG: BATTLEGROUNDS</td>
-                    <td>41</td>
-                    <td>279680</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>tamsin</td>
-                    <td>647960</td>
-                    <td>Rusted Warfare - RTS</td>
-                    <td>21</td>
-                    <td>123625</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>tamsin</td>
-                    <td>1677740</td>
-                    <td>Stumble Guys</td>
-                    <td>13</td>
-                    <td>13</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>tamsin</td>
-                    <td>1938090</td>
-                    <td>Call of Duty®</td>
-                    <td>5</td>
-                    <td>3393</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -1146,61 +1234,6 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>[DMH] Rexon</td>
-                    <td>686810</td>
-                    <td>Hell Let Loose</td>
-                    <td>621</td>
-                    <td>51066</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>[DMH] Rexon</td>
-                    <td>1677280</td>
-                    <td>Company of Heroes 3</td>
-                    <td>390</td>
-                    <td>14229</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>[DMH] Rexon</td>
-                    <td>1172620</td>
-                    <td>Sea of Thieves</td>
-                    <td>100</td>
-                    <td>45858</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>[DMH] Rexon</td>
-                    <td>550</td>
-                    <td>Left 4 Dead 2</td>
-                    <td>92</td>
-                    <td>76318</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>[DMH] Rexon</td>
-                    <td>578080</td>
-                    <td>PUBG: BATTLEGROUNDS</td>
-                    <td>77</td>
-                    <td>21357</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
                     <td>cortez</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
@@ -1355,28 +1388,6 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>[N1M] Zireas</td>
-                    <td>1086940</td>
-                    <td>Baldur's Gate 3</td>
-                    <td>2324</td>
-                    <td>4821</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>[N1M] Zireas</td>
-                    <td>2947440</td>
-                    <td>SILENT HILL f</td>
-                    <td>67</td>
-                    <td>67</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
                     <td>Cobra</td>
                     <td>1113120</td>
                     <td>IXION</td>
@@ -1435,7 +1446,7 @@ hide:
                     <td>dortLii</td>
                     <td>3026450</td>
                     <td>Deadly Days: Roadtrip</td>
-                    <td>718</td>
+                    <td>540</td>
                     <td>905</td>
                     <td></td>
                     <td></td>

@@ -74,10 +74,7 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRe
 """)
         for playerPlaytime in allPlayerGetRecentlyPlayedGames:
             if allPlayerGetRecentlyPlayedGames[playerPlaytime]:
-                print(f"Player: {playerPlaytime}")
-                print(f"Games: {allPlayerSummaries[playerPlaytime]}")
                 for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]:
-                    print(game)
                     f.write(f"""<tr>
                     <td>{allPlayerSummaries[playerPlaytime].get('personaname', '')}</td>
                     <td>{game.get('appid', '')}</td>
@@ -106,7 +103,7 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRe
     print("Markdown file 'playtime2weeks.md' created.")
 
 def main(groupID64):
-    steamGroup = steamWebApi.SteamWebApi().fetch_steam_group_members(groupID64)
+    steamGroup = steamWebApi.SteamWebApi().fetchSteamGroup(groupID64)
     if not steamGroup:
         print("No members found.")
         return

@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 class SteamWebApi:
     
     @staticmethod
-    def fetch_steam_group_members(groupID64):
+    def fetchSteamGroup(groupID64):
         url = f"https://steamcommunity.com/gid/{groupID64}/memberslistxml/?xml=1"
         response = requests.get(url)
         if response.status_code == 200:
