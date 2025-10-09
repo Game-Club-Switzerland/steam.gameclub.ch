@@ -214,8 +214,8 @@ hide:
                     <td>76561197965729401</td>
                     <td>1046930</td>
                     <td>Dota Underlords</td>
-                    <td>1959</td>
-                    <td>73211</td>
+                    <td>1951</td>
+                    <td>73253</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -277,11 +277,33 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
+                    <td>76561198001272059</td>
+                    <td>2507950</td>
+                    <td>Delta Force</td>
+                    <td>7330</td>
+                    <td>11495</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>76561198001272059</td>
+                    <td>2139460</td>
+                    <td>Once Human</td>
+                    <td>5</td>
+                    <td>47058</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
                     <td>76561198153937434</td>
                     <td>1763250</td>
                     <td>SWORN</td>
-                    <td>264</td>
-                    <td>2800</td>
+                    <td>295</td>
+                    <td>2830</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -304,6 +326,72 @@ hide:
                     <td>100 Doors Game - Escape from School</td>
                     <td>31</td>
                     <td>160</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>76561197975664729</td>
+                    <td>2321470</td>
+                    <td>Deep Rock Galactic: Survivor</td>
+                    <td>1627</td>
+                    <td>15871</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>76561197975664729</td>
+                    <td>2073850</td>
+                    <td>THE FINALS</td>
+                    <td>1027</td>
+                    <td>31636</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>76561197975664729</td>
+                    <td>1046930</td>
+                    <td>Dota Underlords</td>
+                    <td>645</td>
+                    <td>81020</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>76561197975664729</td>
+                    <td>3314790</td>
+                    <td>CloverPit</td>
+                    <td>618</td>
+                    <td>618</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>76561197975664729</td>
+                    <td>1997040</td>
+                    <td>MARVEL SNAP</td>
+                    <td>401</td>
+                    <td>43202</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>76561197975664729</td>
+                    <td>3556770</td>
+                    <td>Heroes of Might and Magic: Olden Era Playtest</td>
+                    <td>116</td>
+                    <td>1126</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -346,8 +434,8 @@ hide:
                     <td>76561197989675888</td>
                     <td>228200</td>
                     <td>Company of Heroes </td>
-                    <td>1343</td>
-                    <td>243332</td>
+                    <td>1351</td>
+                    <td>243341</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -475,28 +563,6 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198001272059</td>
-                    <td>2507950</td>
-                    <td>Delta Force</td>
-                    <td>7372</td>
-                    <td>11465</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198001272059</td>
-                    <td>2139460</td>
-                    <td>Once Human</td>
-                    <td>5</td>
-                    <td>47058</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
                     <td>76561197976381532</td>
                     <td>1285190</td>
                     <td>Borderlands® 4</td>
@@ -601,6 +667,17 @@ hide:
                     <td>Clair Obscur: Expedition 33</td>
                     <td>3</td>
                     <td>6363</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>76561198124796053</td>
+                    <td>594650</td>
+                    <td>Hunt: Showdown 1896</td>
+                    <td>736</td>
+                    <td>6588</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -997,72 +1074,6 @@ hide:
                     <td>Warframe</td>
                     <td>4</td>
                     <td>217391</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>2321470</td>
-                    <td>Deep Rock Galactic: Survivor</td>
-                    <td>1627</td>
-                    <td>15871</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>2073850</td>
-                    <td>THE FINALS</td>
-                    <td>1027</td>
-                    <td>31636</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>1046930</td>
-                    <td>Dota Underlords</td>
-                    <td>645</td>
-                    <td>81020</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>3314790</td>
-                    <td>CloverPit</td>
-                    <td>618</td>
-                    <td>618</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>1997040</td>
-                    <td>MARVEL SNAP</td>
-                    <td>401</td>
-                    <td>43202</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>3556770</td>
-                    <td>Heroes of Might and Magic: Olden Era Playtest</td>
-                    <td>116</td>
-                    <td>1126</td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -1470,17 +1481,6 @@ hide:
                     <td>PEAK</td>
                     <td>234</td>
                     <td>914</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198124796053</td>
-                    <td>594650</td>
-                    <td>Hunt: Showdown 1896</td>
-                    <td>736</td>
-                    <td>6588</td>
                     <td></td>
                     <td></td>
                     <td></td>
