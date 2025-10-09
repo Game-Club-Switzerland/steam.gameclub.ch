@@ -24,7 +24,7 @@ hide:
     </thead>
     <tbody>
 <tr>
-                    <td>76561197966417969</td>
+                    <td>3W | D3lt@.ch</td>
                     <td>673950</td>
                     <td>Farm Together</td>
                     <td>259</td>
@@ -35,7 +35,7 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>76561197966417969</td>
+                    <td>3W | D3lt@.ch</td>
                     <td>440</td>
                     <td>Team Fortress 2</td>
                     <td>210</td>
@@ -46,7 +46,7 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>76561197966417969</td>
+                    <td>3W | D3lt@.ch</td>
                     <td>1472930</td>
                     <td>Flock</td>
                     <td>66</td>
@@ -57,7 +57,7 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>76561197966417969</td>
+                    <td>3W | D3lt@.ch</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
                     <td>43</td>
@@ -68,7 +68,7 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>76561197966417969</td>
+                    <td>3W | D3lt@.ch</td>
                     <td>3116470</td>
                     <td>IDUN Prologue - Frontline Survival</td>
                     <td>37</td>
@@ -79,7 +79,7 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>76561197966417969</td>
+                    <td>3W | D3lt@.ch</td>
                     <td>2321470</td>
                     <td>Deep Rock Galactic: Survivor</td>
                     <td>25</td>
@@ -90,7 +90,7 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>76561197966417969</td>
+                    <td>3W | D3lt@.ch</td>
                     <td>3520070</td>
                     <td>Megabonk Demo</td>
                     <td>8</td>
@@ -101,7 +101,7 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>76561197966417969</td>
+                    <td>3W | D3lt@.ch</td>
                     <td>728880</td>
                     <td>Overcooked! 2</td>
                     <td>3</td>
@@ -112,7 +112,7 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
                     <td>221</td>
@@ -123,7 +123,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>674940</td>
                     <td>Stick Fight: The Game</td>
                     <td>142</td>
@@ -134,7 +134,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>249130</td>
                     <td>LEGO® MARVEL Super Heroes</td>
                     <td>109</td>
@@ -145,7 +145,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>42640</td>
                     <td>Blur</td>
                     <td>94</td>
@@ -156,7 +156,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>2211170</td>
                     <td>Unrailed 2: Back on Track</td>
                     <td>69</td>
@@ -167,7 +167,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>308080</td>
                     <td>Wing Breakers</td>
                     <td>45</td>
@@ -178,7 +178,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>2272400</td>
                     <td>Station to Station</td>
                     <td>27</td>
@@ -189,7 +189,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>2001120</td>
                     <td>Split Fiction</td>
                     <td>23</td>
@@ -200,7 +200,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197970585783</td>
+                    <td>Jim doesn't feel like dancing.</td>
                     <td>1731460</td>
                     <td>LEGO® Brawls</td>
                     <td>4</td>
@@ -211,7 +211,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197965729401</td>
+                    <td>RuMpI</td>
                     <td>1046930</td>
                     <td>Dota Underlords</td>
                     <td>1951</td>
@@ -222,7 +222,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197965729401</td>
+                    <td>RuMpI</td>
                     <td>2273980</td>
                     <td>Orcs Must Die! Deathtrap</td>
                     <td>1161</td>
@@ -233,7 +233,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197965729401</td>
+                    <td>RuMpI</td>
                     <td>3017860</td>
                     <td>DOOM: The Dark Ages</td>
                     <td>917</td>
@@ -244,7 +244,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197969110834</td>
+                    <td>predch</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
                     <td>1695</td>
@@ -255,7 +255,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197969110834</td>
+                    <td>predch</td>
                     <td>813780</td>
                     <td>Age of Empires II: Definitive Edition</td>
                     <td>37</td>
@@ -266,7 +266,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197969110834</td>
+                    <td>predch</td>
                     <td>252950</td>
                     <td>Rocket League</td>
                     <td>25</td>
@@ -277,18 +277,18 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198001272059</td>
+                    <td>HypN-EyEs</td>
                     <td>2507950</td>
                     <td>Delta Force</td>
-                    <td>7330</td>
-                    <td>11495</td>
+                    <td>7334</td>
+                    <td>11548</td>
                     <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198001272059</td>
+                    <td>HypN-EyEs</td>
                     <td>2139460</td>
                     <td>Once Human</td>
                     <td>5</td>
@@ -299,271 +299,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198153937434</td>
-                    <td>1763250</td>
-                    <td>SWORN</td>
-                    <td>295</td>
-                    <td>2830</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198153937434</td>
-                    <td>730</td>
-                    <td>Counter-Strike 2</td>
-                    <td>169</td>
-                    <td>32816</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198153937434</td>
-                    <td>1238280</td>
-                    <td>100 Doors Game - Escape from School</td>
-                    <td>31</td>
-                    <td>160</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>2321470</td>
-                    <td>Deep Rock Galactic: Survivor</td>
-                    <td>1627</td>
-                    <td>15871</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>2073850</td>
-                    <td>THE FINALS</td>
-                    <td>1027</td>
-                    <td>31636</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>1046930</td>
-                    <td>Dota Underlords</td>
-                    <td>645</td>
-                    <td>81020</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>3314790</td>
-                    <td>CloverPit</td>
-                    <td>618</td>
-                    <td>618</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>1997040</td>
-                    <td>MARVEL SNAP</td>
-                    <td>401</td>
-                    <td>43202</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197975664729</td>
-                    <td>3556770</td>
-                    <td>Heroes of Might and Magic: Olden Era Playtest</td>
-                    <td>116</td>
-                    <td>1126</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198112257105</td>
-                    <td>400750</td>
-                    <td>Call to Arms - Gates of Hell: Ostfront</td>
-                    <td>691</td>
-                    <td>8287</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198112257105</td>
-                    <td>739630</td>
-                    <td>Phasmophobia</td>
-                    <td>28</td>
-                    <td>22140</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198008816919</td>
-                    <td>1282690</td>
-                    <td>Crysis® 3 </td>
-                    <td>120</td>
-                    <td>173</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197989675888</td>
-                    <td>228200</td>
-                    <td>Company of Heroes </td>
-                    <td>1351</td>
-                    <td>243341</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197989675888</td>
-                    <td>393380</td>
-                    <td>Squad</td>
-                    <td>55</td>
-                    <td>21844</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197989675888</td>
-                    <td>578080</td>
-                    <td>PUBG: BATTLEGROUNDS</td>
-                    <td>12</td>
-                    <td>104449</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197993773607</td>
-                    <td>3008130</td>
-                    <td>Dying Light: The Beast</td>
-                    <td>1901</td>
-                    <td>2692</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197993773607</td>
-                    <td>1941540</td>
-                    <td>Mafia: The Old Country</td>
-                    <td>428</td>
-                    <td>558</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197993773607</td>
-                    <td>2909400</td>
-                    <td>FINAL FANTASY VII REBIRTH</td>
-                    <td>2</td>
-                    <td>4153</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197993773607</td>
-                    <td>1449320</td>
-                    <td>Alfred Hitchcock - Vertigo</td>
-                    <td>1</td>
-                    <td>11</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197993773607</td>
-                    <td>3017860</td>
-                    <td>DOOM: The Dark Ages</td>
-                    <td>1</td>
-                    <td>48</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197993773607</td>
-                    <td>2677660</td>
-                    <td>Indiana Jones and the Great Circle</td>
-                    <td>1</td>
-                    <td>43</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197993773607</td>
-                    <td>1091500</td>
-                    <td>Cyberpunk 2077</td>
-                    <td>1</td>
-                    <td>312</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198035642423</td>
-                    <td>310470</td>
-                    <td>Grand Ages: Medieval</td>
-                    <td>322</td>
-                    <td>322</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561198035642423</td>
-                    <td>1455840</td>
-                    <td>Dorfromantik</td>
-                    <td>13</td>
-                    <td>59</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>76561197976381532</td>
+                    <td>LФгd_Кдçкё</td>
                     <td>1285190</td>
                     <td>Borderlands® 4</td>
                     <td>830</td>
@@ -574,7 +310,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197976381532</td>
+                    <td>LФгd_Кдçкё</td>
                     <td>1868140</td>
                     <td>DAVE THE DIVER</td>
                     <td>65</td>
@@ -585,7 +321,271 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197969764480</td>
+                    <td>m93</td>
+                    <td>1763250</td>
+                    <td>SWORN</td>
+                    <td>321</td>
+                    <td>2856</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>m93</td>
+                    <td>730</td>
+                    <td>Counter-Strike 2</td>
+                    <td>169</td>
+                    <td>32816</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>m93</td>
+                    <td>1238280</td>
+                    <td>100 Doors Game - Escape from School</td>
+                    <td>31</td>
+                    <td>160</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>wasoen</td>
+                    <td>2321470</td>
+                    <td>Deep Rock Galactic: Survivor</td>
+                    <td>1627</td>
+                    <td>15871</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>wasoen</td>
+                    <td>2073850</td>
+                    <td>THE FINALS</td>
+                    <td>1027</td>
+                    <td>31636</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>wasoen</td>
+                    <td>1046930</td>
+                    <td>Dota Underlords</td>
+                    <td>645</td>
+                    <td>81020</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>wasoen</td>
+                    <td>3314790</td>
+                    <td>CloverPit</td>
+                    <td>618</td>
+                    <td>618</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>wasoen</td>
+                    <td>1997040</td>
+                    <td>MARVEL SNAP</td>
+                    <td>401</td>
+                    <td>43202</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>wasoen</td>
+                    <td>3556770</td>
+                    <td>Heroes of Might and Magic: Olden Era Playtest</td>
+                    <td>116</td>
+                    <td>1126</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>ΠΞΧUS_4202</td>
+                    <td>400750</td>
+                    <td>Call to Arms - Gates of Hell: Ostfront</td>
+                    <td>691</td>
+                    <td>8287</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>ΠΞΧUS_4202</td>
+                    <td>739630</td>
+                    <td>Phasmophobia</td>
+                    <td>28</td>
+                    <td>22140</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>bladeol</td>
+                    <td>1282690</td>
+                    <td>Crysis® 3 </td>
+                    <td>120</td>
+                    <td>173</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>dANTE</td>
+                    <td>228200</td>
+                    <td>Company of Heroes </td>
+                    <td>1359</td>
+                    <td>243349</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>dANTE</td>
+                    <td>393380</td>
+                    <td>Squad</td>
+                    <td>55</td>
+                    <td>21844</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>dANTE</td>
+                    <td>578080</td>
+                    <td>PUBG: BATTLEGROUNDS</td>
+                    <td>12</td>
+                    <td>104449</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dismieter (CH)</td>
+                    <td>3008130</td>
+                    <td>Dying Light: The Beast</td>
+                    <td>1901</td>
+                    <td>2692</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dismieter (CH)</td>
+                    <td>1941540</td>
+                    <td>Mafia: The Old Country</td>
+                    <td>428</td>
+                    <td>558</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dismieter (CH)</td>
+                    <td>2909400</td>
+                    <td>FINAL FANTASY VII REBIRTH</td>
+                    <td>2</td>
+                    <td>4153</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dismieter (CH)</td>
+                    <td>1449320</td>
+                    <td>Alfred Hitchcock - Vertigo</td>
+                    <td>1</td>
+                    <td>11</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dismieter (CH)</td>
+                    <td>3017860</td>
+                    <td>DOOM: The Dark Ages</td>
+                    <td>1</td>
+                    <td>48</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dismieter (CH)</td>
+                    <td>2677660</td>
+                    <td>Indiana Jones and the Great Circle</td>
+                    <td>1</td>
+                    <td>43</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Dismieter (CH)</td>
+                    <td>1091500</td>
+                    <td>Cyberpunk 2077</td>
+                    <td>1</td>
+                    <td>312</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Häsi</td>
+                    <td>310470</td>
+                    <td>Grand Ages: Medieval</td>
+                    <td>322</td>
+                    <td>322</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Häsi</td>
+                    <td>1455840</td>
+                    <td>Dorfromantik</td>
+                    <td>13</td>
+                    <td>59</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>m4niac</td>
                     <td>526870</td>
                     <td>Satisfactory</td>
                     <td>1780</td>
@@ -596,7 +596,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197969764480</td>
+                    <td>m4niac</td>
                     <td>647960</td>
                     <td>Rusted Warfare - RTS</td>
                     <td>173</td>
@@ -607,7 +607,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197961153140</td>
+                    <td>mYKe</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
                     <td>1939</td>
@@ -618,7 +618,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197961153140</td>
+                    <td>mYKe</td>
                     <td>1124300</td>
                     <td>HUMANKIND™</td>
                     <td>514</td>
@@ -629,7 +629,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197961153140</td>
+                    <td>mYKe</td>
                     <td>813780</td>
                     <td>Age of Empires II: Definitive Edition</td>
                     <td>35</td>
@@ -640,7 +640,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197961153140</td>
+                    <td>mYKe</td>
                     <td>252950</td>
                     <td>Rocket League</td>
                     <td>21</td>
@@ -651,7 +651,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197961153140</td>
+                    <td>mYKe</td>
                     <td>553850</td>
                     <td>HELLDIVERS™ 2</td>
                     <td>9</td>
@@ -662,7 +662,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197961153140</td>
+                    <td>mYKe</td>
                     <td>1903340</td>
                     <td>Clair Obscur: Expedition 33</td>
                     <td>3</td>
@@ -673,7 +673,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198124796053</td>
+                    <td>Pallas</td>
                     <td>594650</td>
                     <td>Hunt: Showdown 1896</td>
                     <td>736</td>
@@ -684,7 +684,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198023797045</td>
+                    <td>Pecunifex</td>
                     <td>570</td>
                     <td>Dota 2</td>
                     <td>754</td>
@@ -695,7 +695,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198130026522</td>
+                    <td>piipmatz</td>
                     <td>2479810</td>
                     <td>Gray Zone Warfare</td>
                     <td>1352</td>
@@ -706,7 +706,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198130026522</td>
+                    <td>piipmatz</td>
                     <td>1366540</td>
                     <td>Dyson Sphere Program</td>
                     <td>488</td>
@@ -717,10 +717,10 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198130026522</td>
+                    <td>piipmatz</td>
                     <td>548430</td>
                     <td>Deep Rock Galactic</td>
-                    <td>474</td>
+                    <td>452</td>
                     <td>5785</td>
                     <td></td>
                     <td></td>
@@ -728,7 +728,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198130026522</td>
+                    <td>piipmatz</td>
                     <td>283960</td>
                     <td>Pajama Sam in No Need to Hide When It's Dark Outside</td>
                     <td>65</td>
@@ -739,7 +739,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198130026522</td>
+                    <td>piipmatz</td>
                     <td>1144200</td>
                     <td>Ready or Not</td>
                     <td>45</td>
@@ -750,7 +750,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198130026522</td>
+                    <td>piipmatz</td>
                     <td>3164500</td>
                     <td>Schedule I</td>
                     <td>3</td>
@@ -761,7 +761,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198130026522</td>
+                    <td>piipmatz</td>
                     <td>960090</td>
                     <td>Bloons TD 6</td>
                     <td>1</td>
@@ -772,7 +772,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197979480386</td>
+                    <td>Roesti</td>
                     <td>1645820</td>
                     <td>SurrounDead</td>
                     <td>649</td>
@@ -783,7 +783,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197979480386</td>
+                    <td>Roesti</td>
                     <td>2582470</td>
                     <td>Wacky West</td>
                     <td>639</td>
@@ -794,7 +794,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197979480386</td>
+                    <td>Roesti</td>
                     <td>669330</td>
                     <td>Mechabellum</td>
                     <td>215</td>
@@ -805,7 +805,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197979480386</td>
+                    <td>Roesti</td>
                     <td>281990</td>
                     <td>Stellaris</td>
                     <td>181</td>
@@ -816,7 +816,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197979480386</td>
+                    <td>Roesti</td>
                     <td>3527290</td>
                     <td>PEAK</td>
                     <td>77</td>
@@ -827,7 +827,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197979480386</td>
+                    <td>Roesti</td>
                     <td>236390</td>
                     <td>War Thunder</td>
                     <td>9</td>
@@ -838,7 +838,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197989327467</td>
+                    <td>ROOB1984</td>
                     <td>275850</td>
                     <td>No Man's Sky</td>
                     <td>1648</td>
@@ -849,7 +849,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197963370733</td>
+                    <td>SEL</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
                     <td>525</td>
@@ -860,7 +860,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197963370733</td>
+                    <td>SEL</td>
                     <td>2427700</td>
                     <td>Backpack Battles</td>
                     <td>521</td>
@@ -871,7 +871,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197963370733</td>
+                    <td>SEL</td>
                     <td>1285190</td>
                     <td>Borderlands® 4</td>
                     <td>466</td>
@@ -882,7 +882,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198026440838</td>
+                    <td>Spargelauflauf</td>
                     <td>578080</td>
                     <td>PUBG: BATTLEGROUNDS</td>
                     <td>2444</td>
@@ -893,7 +893,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198990547488</td>
+                    <td>tamsin</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
                     <td>4197</td>
@@ -904,7 +904,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198990547488</td>
+                    <td>tamsin</td>
                     <td>578080</td>
                     <td>PUBG: BATTLEGROUNDS</td>
                     <td>41</td>
@@ -915,7 +915,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198990547488</td>
+                    <td>tamsin</td>
                     <td>647960</td>
                     <td>Rusted Warfare - RTS</td>
                     <td>21</td>
@@ -926,7 +926,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198990547488</td>
+                    <td>tamsin</td>
                     <td>1677740</td>
                     <td>Stumble Guys</td>
                     <td>13</td>
@@ -937,7 +937,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198990547488</td>
+                    <td>tamsin</td>
                     <td>1938090</td>
                     <td>Call of Duty®</td>
                     <td>5</td>
@@ -948,7 +948,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197967612667</td>
+                    <td>Tard</td>
                     <td>319630</td>
                     <td>Life is Strange™</td>
                     <td>127</td>
@@ -959,7 +959,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198042465028</td>
+                    <td>TTV-P0LYTv</td>
                     <td>1366800</td>
                     <td>Crosshair X</td>
                     <td>6396</td>
@@ -970,7 +970,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198042465028</td>
+                    <td>TTV-P0LYTv</td>
                     <td>1285190</td>
                     <td>Borderlands® 4</td>
                     <td>1164</td>
@@ -981,7 +981,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198042465028</td>
+                    <td>TTV-P0LYTv</td>
                     <td>1144200</td>
                     <td>Ready or Not</td>
                     <td>1120</td>
@@ -992,7 +992,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198042465028</td>
+                    <td>TTV-P0LYTv</td>
                     <td>1302240</td>
                     <td>Labyrinthine</td>
                     <td>286</td>
@@ -1003,7 +1003,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198042465028</td>
+                    <td>TTV-P0LYTv</td>
                     <td>739630</td>
                     <td>Phasmophobia</td>
                     <td>199</td>
@@ -1014,7 +1014,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198042465028</td>
+                    <td>TTV-P0LYTv</td>
                     <td>2881650</td>
                     <td>Content Warning</td>
                     <td>134</td>
@@ -1025,7 +1025,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198042465028</td>
+                    <td>TTV-P0LYTv</td>
                     <td>3527290</td>
                     <td>PEAK</td>
                     <td>9</td>
@@ -1036,7 +1036,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197984860875</td>
+                    <td>Tumba</td>
                     <td>1149460</td>
                     <td>Icarus</td>
                     <td>1575</td>
@@ -1047,7 +1047,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197984860875</td>
+                    <td>Tumba</td>
                     <td>1285190</td>
                     <td>Borderlands® 4</td>
                     <td>779</td>
@@ -1058,7 +1058,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197984860875</td>
+                    <td>Tumba</td>
                     <td>3520070</td>
                     <td>Megabonk Demo</td>
                     <td>53</td>
@@ -1069,7 +1069,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197984860875</td>
+                    <td>Tumba</td>
                     <td>230410</td>
                     <td>Warframe</td>
                     <td>4</td>
@@ -1080,7 +1080,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198016103694</td>
+                    <td>[+]Dragnforce ©</td>
                     <td>251570</td>
                     <td>7 Days to Die</td>
                     <td>1036</td>
@@ -1091,7 +1091,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198016103694</td>
+                    <td>[+]Dragnforce ©</td>
                     <td>381210</td>
                     <td>Dead by Daylight</td>
                     <td>495</td>
@@ -1102,7 +1102,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198016103694</td>
+                    <td>[+]Dragnforce ©</td>
                     <td>1549970</td>
                     <td>Aliens: Fireteam Elite</td>
                     <td>481</td>
@@ -1113,7 +1113,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198016103694</td>
+                    <td>[+]Dragnforce ©</td>
                     <td>1594320</td>
                     <td>Captain of Industry</td>
                     <td>185</td>
@@ -1124,7 +1124,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198016103694</td>
+                    <td>[+]Dragnforce ©</td>
                     <td>1144200</td>
                     <td>Ready or Not</td>
                     <td>97</td>
@@ -1135,7 +1135,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198016103694</td>
+                    <td>[+]Dragnforce ©</td>
                     <td>552520</td>
                     <td>Far Cry 5</td>
                     <td>83</td>
@@ -1146,7 +1146,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197986218171</td>
+                    <td>[DMH] Rexon</td>
                     <td>686810</td>
                     <td>Hell Let Loose</td>
                     <td>621</td>
@@ -1157,7 +1157,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197986218171</td>
+                    <td>[DMH] Rexon</td>
                     <td>1677280</td>
                     <td>Company of Heroes 3</td>
                     <td>390</td>
@@ -1168,7 +1168,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197986218171</td>
+                    <td>[DMH] Rexon</td>
                     <td>1172620</td>
                     <td>Sea of Thieves</td>
                     <td>100</td>
@@ -1179,7 +1179,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197986218171</td>
+                    <td>[DMH] Rexon</td>
                     <td>550</td>
                     <td>Left 4 Dead 2</td>
                     <td>92</td>
@@ -1190,7 +1190,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197986218171</td>
+                    <td>[DMH] Rexon</td>
                     <td>578080</td>
                     <td>PUBG: BATTLEGROUNDS</td>
                     <td>77</td>
@@ -1201,7 +1201,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197960504659</td>
+                    <td>cortez</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
                     <td>1308</td>
@@ -1212,7 +1212,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197960504659</td>
+                    <td>cortez</td>
                     <td>251570</td>
                     <td>7 Days to Die</td>
                     <td>440</td>
@@ -1223,7 +1223,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197960504659</td>
+                    <td>cortez</td>
                     <td>813780</td>
                     <td>Age of Empires II: Definitive Edition</td>
                     <td>54</td>
@@ -1234,7 +1234,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197960504659</td>
+                    <td>cortez</td>
                     <td>252950</td>
                     <td>Rocket League</td>
                     <td>19</td>
@@ -1245,7 +1245,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197967889695</td>
+                    <td>sniffels</td>
                     <td>813780</td>
                     <td>Age of Empires II: Definitive Edition</td>
                     <td>60</td>
@@ -1256,7 +1256,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197967889695</td>
+                    <td>sniffels</td>
                     <td>730</td>
                     <td>Counter-Strike 2</td>
                     <td>34</td>
@@ -1267,7 +1267,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197967889695</td>
+                    <td>sniffels</td>
                     <td>252950</td>
                     <td>Rocket League</td>
                     <td>25</td>
@@ -1278,7 +1278,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197977007065</td>
+                    <td>Calmo.CH</td>
                     <td>1145350</td>
                     <td>Hades II</td>
                     <td>222</td>
@@ -1289,7 +1289,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197977007065</td>
+                    <td>Calmo.CH</td>
                     <td>3405340</td>
                     <td>Megabonk</td>
                     <td>138</td>
@@ -1300,7 +1300,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197977007065</td>
+                    <td>Calmo.CH</td>
                     <td>3026450</td>
                     <td>Deadly Days: Roadtrip</td>
                     <td>83</td>
@@ -1311,7 +1311,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197977007065</td>
+                    <td>Calmo.CH</td>
                     <td>252950</td>
                     <td>Rocket League</td>
                     <td>17</td>
@@ -1322,7 +1322,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197977007065</td>
+                    <td>Calmo.CH</td>
                     <td>2375530</td>
                     <td>Descenders Next</td>
                     <td>13</td>
@@ -1333,7 +1333,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197977007065</td>
+                    <td>Calmo.CH</td>
                     <td>3102400</td>
                     <td>Deadly Days: Roadtrip Demo</td>
                     <td>1</td>
@@ -1344,7 +1344,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561197998933782</td>
+                    <td>BlackDragon</td>
                     <td>550650</td>
                     <td>Black Squad</td>
                     <td>46</td>
@@ -1355,7 +1355,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198023839324</td>
+                    <td>[N1M] Zireas</td>
                     <td>1086940</td>
                     <td>Baldur's Gate 3</td>
                     <td>2324</td>
@@ -1366,7 +1366,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198023839324</td>
+                    <td>[N1M] Zireas</td>
                     <td>2947440</td>
                     <td>SILENT HILL f</td>
                     <td>67</td>
@@ -1377,7 +1377,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198028651568</td>
+                    <td>Cobra</td>
                     <td>1113120</td>
                     <td>IXION</td>
                     <td>2202</td>
@@ -1388,7 +1388,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198041193763</td>
+                    <td>187 | hodechrampf</td>
                     <td>2479810</td>
                     <td>Gray Zone Warfare</td>
                     <td>221</td>
@@ -1399,7 +1399,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198041193763</td>
+                    <td>187 | hodechrampf</td>
                     <td>2073620</td>
                     <td>Arena Breakout: Infinite</td>
                     <td>71</td>
@@ -1410,7 +1410,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198041193763</td>
+                    <td>187 | hodechrampf</td>
                     <td>2073850</td>
                     <td>THE FINALS</td>
                     <td>55</td>
@@ -1421,7 +1421,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198046884406</td>
+                    <td>dortLii</td>
                     <td>3405340</td>
                     <td>Megabonk</td>
                     <td>968</td>
@@ -1432,7 +1432,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198046884406</td>
+                    <td>dortLii</td>
                     <td>3026450</td>
                     <td>Deadly Days: Roadtrip</td>
                     <td>718</td>
@@ -1443,7 +1443,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198046884406</td>
+                    <td>dortLii</td>
                     <td>1154030</td>
                     <td>Titan Quest II</td>
                     <td>138</td>
@@ -1454,7 +1454,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198046884406</td>
+                    <td>dortLii</td>
                     <td>632360</td>
                     <td>Risk of Rain 2</td>
                     <td>88</td>
@@ -1465,7 +1465,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198089726608</td>
+                    <td>IamAdi</td>
                     <td>268500</td>
                     <td>XCOM 2</td>
                     <td>1504</td>
@@ -1476,7 +1476,7 @@ hide:
                     <td></td>
                 </tr>
                 <tr>
-                    <td>76561198089726608</td>
+                    <td>IamAdi</td>
                     <td>3527290</td>
                     <td>PEAK</td>
                     <td>234</td>

@@ -45,7 +45,7 @@ def fetchAllPlayerGetOwnedGames(members):
     allPlayergetOwnedGames = {}
     for member in members:
         print(f"Fetching owned games for SteamID: {member}")
-        getOwnedGames = steamWebApi.SteamWebApi.fetch_steam_player_GetOwnedGames([member], STEAMWEBAPIKEY)
+        getOwnedGames = steamWebApi.SteamWebApi.GetOwnedGames([member], STEAMWEBAPIKEY)
         allPlayergetOwnedGames[member] = getOwnedGames
     return allPlayergetOwnedGames
 
