@@ -1,3 +1,9 @@
+---
+hide:
+    - navigation
+    - toc
+---
+
 # Groups
 
 Übersicht der integrierten Gruppen
