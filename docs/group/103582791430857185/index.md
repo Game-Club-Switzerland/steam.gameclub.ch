@@ -14,7 +14,7 @@ hide:
 
 [Playtime 2 Weeks](playtime2weeks.md)
 
-<table id="steam-members" class="display" style="width:100%">
+<table id="charts-table" class="display" style="width:100%">
     <thead>
         <tr>
             <th>Avatar</th>
@@ -32,6 +32,13 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/3f006227f5d26fb37941b0a23adb7fafc72530ad_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>RuMpI</td>
+                <td>76561197965729401</td>
+                <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/20dfd9331cbbdd8b9b7812cacc6cd4528d375f23_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>bl4ckbird</td>
                 <td>76561197970871407</td>
@@ -43,13 +50,6 @@ hide:
                 <td>Jim doesn't feel like dancing.</td>
                 <td>76561197970585783</td>
                 <td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/3f006227f5d26fb37941b0a23adb7fafc72530ad_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>RuMpI</td>
-                <td>76561197965729401</td>
-                <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -81,31 +81,17 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/faa3fc7efb1b5a6fd17e8dbd1d883d5762ab0ada_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>tamsin</td>
-                <td>76561198990547488</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank">Profil</a></td>
+                <td><img src="https://avatars.steamstatic.com/d22bddc8695f515c5eac24ca3fc0dc330f4fd328_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>(-poker-)</td>
+                <td>76561197990818282</td>
+                <td><a href="https://steamcommunity.com/profiles/76561197990818282/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>ツ</td>
-                <td>76561198068302332</td>
-                <td><a href="https://steamcommunity.com/id/Naomichloe/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>(CH)Wobi</td>
-                <td>76561197985122419</td>
-                <td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>BigApple</td>
-                <td>76561198014147147</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Profil</a></td>
+                <td><img src="https://avatars.steamstatic.com/d196d679e937132dfaf0109f209c1553a98ce1d2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Bailig</td>
+                <td>76561198068605472</td>
+                <td><a href="https://steamcommunity.com/id/bailig/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -116,17 +102,17 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>LФгd_Кдçкё</td>
-                <td>76561197976381532</td>
-                <td><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank">Profil</a></td>
+                <td><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>CML</td>
+                <td>76561197977864713</td>
+                <td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Lama Rage Kine</td>
-                <td>76561197963321401</td>
-                <td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Profil</a></td>
+                <td><img src="https://avatars.steamstatic.com/86466f3b37dd219616d01467ba3b69a2dcdfde09_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>jeremynyf</td>
+                <td>76561198165631738</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198165631738/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -137,10 +123,24 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/465101bfab5d034db38a77ae512b947906930e56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>mavethegreat</td>
+                <td>76561198377237961</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198377237961/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/1080d0b6680c13d8ad37086de683791b549bbff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>modano</td>
                 <td>76561197960353130</td>
                 <td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>piipmatz</td>
+                <td>76561198130026522</td>
+                <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -158,6 +158,13 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/79d3fe5839617eb83a9661071ed021dd56ac8a5b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Xiati</td>
+                <td>76561197992525257</td>
+                <td><a href="https://steamcommunity.com/profiles/76561197992525257/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/ff27da6904cdcc60a85efa5a5eca593ba37b3396_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>XMan666</td>
                 <td>76561198054154675</td>
@@ -172,13 +179,6 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>[N1M] Zireas</td>
-                <td>76561198023839324</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
                 <td><img src="https://avatars.steamstatic.com/3bdc59e43871ad009c2d17b8eb58c61d73df17d0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>ΠΞΧUS_4202</td>
                 <td>76561198112257105</td>
@@ -186,10 +186,24 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/d22bddc8695f515c5eac24ca3fc0dc330f4fd328_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>(-poker-)</td>
-                <td>76561197990818282</td>
-                <td><a href="https://steamcommunity.com/profiles/76561197990818282/" target="_blank">Profil</a></td>
+                <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>ツ</td>
+                <td>76561198068302332</td>
+                <td><a href="https://steamcommunity.com/id/Naomichloe/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>(CH)Wobi</td>
+                <td>76561197985122419</td>
+                <td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/7eb86a98d34da786dc134603a248c7169791a9fa_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>187 | hodechrampf</td>
+                <td>76561198041193763</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198041193763/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -214,6 +228,20 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/5c3d7bbf299f87f3eb6048942bff17b235f23f2b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Antraxx</td>
+                <td>76561197975995210</td>
+                <td><a href="https://steamcommunity.com/profiles/76561197975995210/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>BigApple</td>
+                <td>76561198014147147</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/f86cb15260c9a19ff5dea7a644a8aa753b158a12_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>bladeol</td>
                 <td>76561198008816919</td>
@@ -221,10 +249,17 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>CML</td>
-                <td>76561197977864713</td>
-                <td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Profil</a></td>
+                <td><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Cobra</td>
+                <td>76561198028651568</td>
+                <td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>cortez</td>
+                <td>76561197960504659</td>
+                <td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -256,6 +291,13 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/25e38073a4cf8004ea845ca954731cea7e5e781b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Ettiennchen</td>
+                <td>76561198237426558</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198237426558/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/a5d9bc20906f4b023fe5dbd06fa05f588db5a650_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>GENRES</td>
                 <td>76561197989620656</td>
@@ -284,6 +326,13 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>IamAdi</td>
+                <td>76561198089726608</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/b66d8fe924313266f72d936238cc399292f3aff9_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>KamiPanda</td>
                 <td>76561198027621852</td>
@@ -298,10 +347,24 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>LФгd_Кдçкё</td>
+                <td>76561197976381532</td>
+                <td><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/5d2541364dbdc0bc1b2d8311b2d2c02780b5252b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>L'Cie</td>
                 <td>76561198015592930</td>
                 <td><a href="https://steamcommunity.com/profiles/76561198015592930/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Lama Rage Kine</td>
+                <td>76561197963321401</td>
+                <td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -347,13 +410,6 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>piipmatz</td>
-                <td>76561198130026522</td>
-                <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
                 <td><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>ROOB1984</td>
                 <td>76561197989327467</td>
@@ -382,6 +438,13 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/faa3fc7efb1b5a6fd17e8dbd1d883d5762ab0ada_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>tamsin</td>
+                <td>76561198990547488</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank">Profil</a></td>
+                <td><!-- Placeholder for games owned --></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/2638a64954803952a51ac873b090da8f2359cf1f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>Tard</td>
                 <td>76561197967612667</td>
@@ -403,10 +466,10 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/79d3fe5839617eb83a9661071ed021dd56ac8a5b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Xiati</td>
-                <td>76561197992525257</td>
-                <td><a href="https://steamcommunity.com/profiles/76561197992525257/" target="_blank">Profil</a></td>
+                <td><img src="https://avatars.steamstatic.com/fb919dd049db5065d56f1cce32628b0c092faff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Ultroon1000</td>
+                <td>76561198133815812</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198133815812/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -417,10 +480,10 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>cortez</td>
-                <td>76561197960504659</td>
-                <td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Profil</a></td>
+                <td><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>[N1M] Zireas</td>
+                <td>76561198023839324</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -449,13 +512,6 @@ hide:
                 <td>Marco-san</td>
                 <td>76561197975971094</td>
                 <td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/5c3d7bbf299f87f3eb6048942bff17b235f23f2b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Antraxx</td>
-                <td>76561197975995210</td>
-                <td><a href="https://steamcommunity.com/profiles/76561197975995210/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -592,13 +648,6 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Cobra</td>
-                <td>76561198028651568</td>
-                <td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
                 <td><img src="https://avatars.steamstatic.com/8a8d6d6442ea28153a0d3e12906a8d91408ea24d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>R@ccon²</td>
                 <td>76561198029573496</td>
@@ -676,13 +725,6 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/7eb86a98d34da786dc134603a248c7169791a9fa_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>187 | hodechrampf</td>
-                <td>76561198041193763</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198041193763/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
                 <td><img src="https://avatars.steamstatic.com/8d92866adf83064def47c2115f53a78f3919c74c_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>Sora_Taranow</td>
                 <td>76561198041714966</td>
@@ -732,13 +774,6 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/d196d679e937132dfaf0109f209c1553a98ce1d2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Bailig</td>
-                <td>76561198068605472</td>
-                <td><a href="https://steamcommunity.com/id/bailig/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
                 <td><img src="https://avatars.steamstatic.com/a5429a508c4a3cbd504449f957e23db61520c233_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>[N1M] Japouz</td>
                 <td>76561198068839250</td>
@@ -764,13 +799,6 @@ hide:
                 <td>CoolDown08</td>
                 <td>76561198087598572</td>
                 <td><a href="https://steamcommunity.com/profiles/76561198087598572/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>IamAdi</td>
-                <td>76561198089726608</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -816,31 +844,10 @@ hide:
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
-                <td><img src="https://avatars.steamstatic.com/fb919dd049db5065d56f1cce32628b0c092faff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Ultroon1000</td>
-                <td>76561198133815812</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198133815812/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
                 <td><img src="https://avatars.steamstatic.com/e97ad67e675cd7b596ebb91f229ce868146e3609_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>Grizzly</td>
                 <td>76561198151276360</td>
                 <td><a href="https://steamcommunity.com/id/JaschaS/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/86466f3b37dd219616d01467ba3b69a2dcdfde09_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>jeremynyf</td>
-                <td>76561198165631738</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198165631738/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/25e38073a4cf8004ea845ca954731cea7e5e781b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Ettiennchen</td>
-                <td>76561198237426558</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198237426558/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>
@@ -862,13 +869,6 @@ hide:
                 <td>sharegc</td>
                 <td>76561198369436317</td>
                 <td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/465101bfab5d034db38a77ae512b947906930e56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>mavethegreat</td>
-                <td>76561198377237961</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198377237961/" target="_blank">Profil</a></td>
                 <td><!-- Placeholder for games owned --></td>
             </tr>
             <tr>

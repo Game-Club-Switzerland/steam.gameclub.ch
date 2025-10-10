@@ -132,7 +132,7 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries):
 
 [Playtime 2 Weeks](playtime2weeks.md)
 
-<table id="steam-members" class="display" style="width:100%">
+<table id="charts-table" class="display" style="width:100%">
     <thead>
         <tr>
             <th>Avatar</th>
