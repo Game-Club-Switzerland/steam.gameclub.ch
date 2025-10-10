@@ -1,4 +1,3 @@
-import requests
 import os
 import sys
 
@@ -12,9 +11,7 @@ from os import getenv
 
 load_dotenv(find_dotenv())
 
-STEAM_GROUP_URL = "https://steamcommunity.com/gid/103582791430857185/memberslistxml/?xml=1"
 STEAMWEBAPIKEY = getenv("STEAMWEBAPIKEY")
-
 
 def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames):
     if not steamGroup:
@@ -40,11 +37,11 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOw
         <tr>
             <th>Player</th>
             <th>Appid</th>
-            <th>playtime_forever</th>
-            <th>playtime_windows_forever</th>
-            <th>playtime_mac_forever</th>
-            <th>playtime_linux_forever</th>
-            <th>rtime_last_played</th>
+            <th>Forever</th>
+            <th>Windows</th>
+            <th>Mac</th>
+            <th>Linux</th>
+            <th>Last Played</th>
         </tr>
     </thead>
     <tbody>
@@ -52,9 +49,11 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOw
         for playerPlaytime in allPlayerGetOwnedGames:
             if allPlayerGetOwnedGames[playerPlaytime]:
                 for game in allPlayerGetOwnedGames[playerPlaytime]:
+                    #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
+                    #print(gameDetail)
                     f.write(f"""<tr>
                     <td>{allPlayerSummaries[playerPlaytime].get('personaname', '')}</td>
-                    <td>{game.get('appid', '')}</td>
+                    <td>{game.get('appid')}</td>
                     <td>{game.get('playtime_forever', '')}</td>
                     <td>{game.get('playtime_windows_forever', '')}</td>
                     <td>{game.get('playtime_mac_forever', '')}</td>

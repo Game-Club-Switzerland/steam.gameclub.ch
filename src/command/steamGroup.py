@@ -1,4 +1,3 @@
-import requests
 import os
 import sys
 import xml.etree.ElementTree as ET
@@ -11,7 +10,6 @@ from os import getenv
 
 load_dotenv(find_dotenv())
 
-STEAM_GROUP_URL = "https://steamcommunity.com/gid/103582791430857185/memberslistxml/?xml=1"
 STEAMWEBAPIKEY = getenv("STEAMWEBAPIKEY")
 
 def steam_group_widget_html(groupID64):
@@ -107,7 +105,7 @@ def fetchSummaries(groupID64):
     summaries = steamWebApi.SteamWebApi.fetchGetPlayerSummaries(steamGroup, STEAMWEBAPIKEY)
     return summaries
 
-def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries):
+def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayerGamesCount):
     if not steamGroup['members']:
         print("No members found.")
         return
@@ -145,13 +143,13 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries):
     <tbody>""")
         for player in allPlayerSummaries:
             print (player)
-            #games = steamWebApi.SteamWebApi.fetch_steam_player_GetOwnedGames(player['steamid'], STEAMWEBAPIKEY)
+            
             f.write(f"""<tr>
                 <td><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>{allPlayerSummaries[player].get('personaname')}</td>
                 <td>{allPlayerSummaries[player].get('steamid')}</td>
                 <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>
-                <td><!-- Placeholder for games owned --></td>
+                <td>{allPlayerGamesCount[player]}</td>
             </tr>
             """)
         f.write("""
@@ -168,17 +166,62 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries):
     });
 </script>""")
     print("Markdown file 'steam_players.md' created.")
-    
-    
+
+def createMarkdownFileGames(gameListwithAllPlayTime):
+    print("Creating Markdown file for group games...")
+
+    output_dir = os.path.join(os.path.dirname(__file__), '../../docs')
+    os.makedirs(output_dir, exist_ok=True)
+    with open(os.path.join(output_dir, f'games.md'), "w", encoding="utf-8") as f:
+        f.write("---\n")
+        f.write("hide:\n")
+        f.write("  - navigation\n")
+        f.write("  - toc\n")
+        f.write("---\n")
+        f.write(f"# Games\n\n")
+        f.write("""<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<table id="charts-table" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Appid</th>
+            <th>PlayTime Total Forever</th>
+            <th>PlayTime Total Windows Forever</th>
+            <th>PlayTime Total Mac Forever</th>
+            <th>PlayTime Total Linux Forever</th>
+        </tr>
+    </thead>
+    <tbody>
+""")
+        for playerPlaytime in gameListwithAllPlayTime:
+                    #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
+                    #print(gameDetail)
+                    f.write(f"""<tr>
+                    <td>{playerPlaytime}</td>
+                    <td>{playerPlaytime.get('playtime_forever', '')}</td>
+                    <td>{playerPlaytime.get('playtime_windows_forever', '')}</td>
+                    <td>{playerPlaytime.get('playtime_mac_forever', '')}</td>
+                    <td>{playerPlaytime.get('playtime_linux_forever', '')}</td>
+                </tr>
+                """)
+        f.write("""
+    </tbody>
+</table>""")
+    print("Markdown file 'steam_games.md' created.")
+
 def main():
     steamGroup = steamWebApi.SteamWebApi().fetchSteamGroup("103582791430857185")
     allPlayerSummaries = steamWebApi.SteamWebApi().fetchAllPlayerSummaries(steamGroup['members'], STEAMWEBAPIKEY)
+    allPlayerGetOwnedGames = steamWebApi.SteamWebApi().fetchAllPlayerGetOwnedGames(steamGroup['members'], STEAMWEBAPIKEY)
+    allPlayerGamesCount = steamWebApi.SteamWebApi().fetchAllPlayerGetOwnedGamesCount(steamGroup['members'], STEAMWEBAPIKEY)
+    
+    #gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
 
-    createMarkdownFile("103582791430857185", steamGroup, allPlayerSummaries)
+    createMarkdownFileGroup("103582791430857185", steamGroup, allPlayerSummaries, allPlayerGamesCount)
+    #createMarkdownFileGames(gameListwithAllPlayTime)
     steam_group_widget_html("103582791430857185")
     steam_group_Javascript_widget("103582791430857185")
-
-
 
 if __name__ == "__main__":
     main()

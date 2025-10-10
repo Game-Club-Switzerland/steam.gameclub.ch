@@ -1,4 +1,3 @@
-import requests
 import os
 import sys
 
@@ -12,34 +11,7 @@ from os import getenv
 
 load_dotenv(find_dotenv())
 
-STEAM_GROUP_URL = "https://steamcommunity.com/gid/103582791430857185/memberslistxml/?xml=1"
 STEAMWEBAPIKEY = getenv("STEAMWEBAPIKEY")
-
-def fetch_steam_group_members():
-    response = requests.get(STEAM_GROUP_URL)
-    response.raise_for_status()
-    root = ET.fromstring(response.content)
-    members = []
-    for member in root.findall('members/steamID64'):
-        members.append(member.text)
-    return members
-
-def fetch_steam_player_summaries(steam_ids):
-    if not steam_ids:
-        return []
-    ids_string = ",".join(steam_ids)
-    url = f"http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key={STEAMWEBAPIKEY}&steamids={ids_string}"
-    response = requests.get(url)
-    response.raise_for_status()
-    data = response.json()
-    return data.get("response", {}).get("players", [])
-
-def fetch_steam_player_GetOwnedGames(steam_id):
-    url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={STEAMWEBAPIKEY}&steamid={steam_id}&format=json"
-    response = requests.get(url)
-    response.raise_for_status()
-    data = response.json()
-    return data.get("response", {}).get("games", [])
 
 def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRecentlyPlayedGames):
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
@@ -62,12 +34,12 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRe
             <th>Player</th>
             <th>Appid</th>
             <th>Game Name</th>
-            <th>playtime_2weeks</th>
-            <th>playtime_forever</th>
-            <th>playtime_windows_forever</th>
-            <th>playtime_mac_forever</th>
-            <th>playtime_linux_forever</th>
-            <th>playtime_deck_forever</th>
+            <th>2 Weeks</th>
+            <th>Forever</th>
+            <th>Windows</th>
+            <th>Mac</th>
+            <th>Linux</th>
+            <th>Deck</th>
         </tr>
     </thead>
     <tbody>
@@ -75,10 +47,11 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRe
         for playerPlaytime in allPlayerGetRecentlyPlayedGames:
             if allPlayerGetRecentlyPlayedGames[playerPlaytime]:
                 for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]:
+                    gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
                     f.write(f"""<tr>
                     <td>{allPlayerSummaries[playerPlaytime].get('personaname', '')}</td>
                     <td>{game.get('appid', '')}</td>
-                    <td>{game.get('name', '')}</td>
+                    <td>{gameDetail.get('name', '')}</td>
                     <td>{game.get('playtime_2weeks', '')}</td>
                     <td>{game.get('playtime_forever', '')}</td>
                     <td>{game.get('playtime_windows_forever', '')}</td>
