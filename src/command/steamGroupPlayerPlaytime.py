@@ -63,17 +63,7 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOw
                 """)
         f.write("""
     </tbody>
-</table>
-<script>
-    $(document).ready(function() {
-        $('#steam-members').DataTable({
-            "pageLength": 25,
-            "language": {
-                "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/de-DE.json"
-            }
-        });
-    });
-</script>""")
+</table>""")
     print("Markdown file 'playtime.md' created.")
 
 def main():

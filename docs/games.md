@@ -14,6 +14,7 @@ hide:
             <th>Appid</th>
             <th>Name</th>
             <th>PlayTime Total Forever</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -21,6 +22,7 @@ hide:
             <td>570</td>
             <td>Dota 2</td>
             <td>123456</td>
+            <td></td>
         </tr>        
     </tbody>
 </table>

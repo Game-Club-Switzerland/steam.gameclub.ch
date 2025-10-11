@@ -45,13 +45,14 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRe
     <tbody>
 """)
         for playerPlaytime in allPlayerGetRecentlyPlayedGames:
-            if allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
-                for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
-                    gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
-                    f.write(f"""<tr>
+            if allPlayerGetRecentlyPlayedGames[playerPlaytime]:
+                    if 'games' in allPlayerGetRecentlyPlayedGames[playerPlaytime]:
+                        for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
+                    #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
+                            f.write(f"""<tr>
                     <td>{allPlayerSummaries[playerPlaytime].get('personaname', '')}</td>
                     <td>{game.get('appid', '')}</td>
-                    <td>{gameDetail.get('name', '')}</td>
+                    <td>{game.get('name', '')}</td>
                     <td>{game.get('playtime_2weeks', '')}</td>
                     <td>{game.get('playtime_forever', '')}</td>
                     <td>{game.get('playtime_windows_forever', '')}</td>
@@ -62,17 +63,7 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRe
                 """)
         f.write("""
     </tbody>
-</table>
-<script>
-    $(document).ready(function() {
-        $('#steam-members').DataTable({
-            "pageLength": 25,
-            "language": {
-                "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/de-DE.json"
-            }
-        });
-    });
-</script>""")
+</table>""")
     print("Markdown file 'playtime2weeks.md' created.")
 
 def main(groupID64):
