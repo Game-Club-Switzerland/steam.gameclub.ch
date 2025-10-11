@@ -209,7 +209,7 @@ def createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries):
             f.write(f"<td>{len(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>\n")
             #f.write(f"<td>{', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>\n")
             players = gameListwithAllPlayTime[playerPlaytime].get('player', [])
-            player_html = ', '.join([
+            player_html = ''.join([
                 f"<a href=\"{allPlayerSummaries[p].get('profileurl', '')}\" target=\"_blank\" style=\"text-decoration:none;color:#66c0f4;\">"
                 f"<img src=\"{allPlayerSummaries[p].get('avatarfull', '')}\" alt=\"{allPlayerSummaries[p].get('personaname', '')}\" style=\"width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;\" />"
                 f"</a>"
