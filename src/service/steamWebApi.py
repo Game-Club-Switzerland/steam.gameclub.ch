@@ -113,19 +113,18 @@ class SteamWebApi:
         allGameDetails = {}
         for player in allPlayerSummaries:
             if allPlayerGetOwnedGames[player]:
-                for game in allPlayerGetOwnedGames[player]:
+                for game in allPlayerGetOwnedGames[player]['games']:
                     appid = game.get('appid')
-                    
                     if appid not in allGameDetails:
                         print(f"Fetching app details for AppID: {appid}")
-                        appDetails = SteamWebApi.fetchAppDetails(appid)
+                        #appDetails = SteamWebApi.fetchAppDetails(appid)
                         allGameDetails[appid] = {}
-                        if appDetails:
-                            allGameDetails[appid]['playtime_forever'] = game.get('playtime_forever', '')
-                            allGameDetails[appid]['playtime_windows_forever'] = game.get('playtime_windows_forever', 0)
-                            allGameDetails[appid]['playtime_mac_forever'] = game.get('playtime_mac_forever', 0)
-                            allGameDetails[appid]['playtime_linux_forever'] = game.get('playtime_linux_forever', 0)
-                            allGameDetails[appid]['playtime_deck_forever'] = game.get('playtime_deck_forever', 0)
+                        allGameDetails[appid]['playtime_forever'] = game.get('playtime_forever', '')
+                        allGameDetails[appid]['playtime_windows_forever'] = game.get('playtime_windows_forever', 0)
+                        allGameDetails[appid]['playtime_mac_forever'] = game.get('playtime_mac_forever', 0)
+                        allGameDetails[appid]['playtime_linux_forever'] = game.get('playtime_linux_forever', 0)
+                        allGameDetails[appid]['playtime_deck_forever'] = game.get('playtime_deck_forever', 0)
+                        allGameDetails[appid]['player'] = [player]
                     else:
                         # Sum playtime if app already exists form all Player
                         allGameDetails[appid]['playtime_forever'] = allGameDetails[appid]['playtime_forever'] + game.get('playtime_forever')
@@ -133,4 +132,5 @@ class SteamWebApi:
                         allGameDetails[appid]['playtime_mac_forever'] = allGameDetails[appid]['playtime_mac_forever'] + game.get('playtime_mac_forever', 0)
                         allGameDetails[appid]['playtime_linux_forever'] = allGameDetails[appid]['playtime_linux_forever'] + game.get('playtime_linux_forever', 0)
                         allGameDetails[appid]['playtime_deck_forever'] = allGameDetails[appid]['playtime_deck_forever'] + game.get('playtime_deck_forever', 0)
+                        allGameDetails[appid]['player'].append(player)
         return allGameDetails

@@ -179,30 +179,33 @@ def createMarkdownFileGames(gameListwithAllPlayTime):
         f.write("  - toc\n")
         f.write("---\n")
         f.write(f"# Games\n\n")
-        f.write("""<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
-<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+        f.write("""
 <table id="charts-table" class="display" style="width:100%">
     <thead>
         <tr>
             <th>Appid</th>
-            <th>PlayTime Total Forever</th>
-            <th>PlayTime Total Windows Forever</th>
-            <th>PlayTime Total Mac Forever</th>
-            <th>PlayTime Total Linux Forever</th>
+            <th>Playtime Total Forever</th>
+            <th>Playtime Total Windows Forever</th>
+            <th>Playtime Total Mac Forever</th>
+            <th>Playtime Total Linux Forever</th>
+            <th>Playtime Total Deck Forever</th>
+            <th>Players</th>
         </tr>
     </thead>
     <tbody>
 """)
         for playerPlaytime in gameListwithAllPlayTime:
-                    #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
-                    #print(gameDetail)
-                    f.write(f"""<tr>
+            print (playerPlaytime)
+            #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
+            #print(gameDetail)
+            f.write(f"""<tr>
                     <td>{playerPlaytime}</td>
-                    <td>{playerPlaytime.get('playtime_forever', '')}</td>
-                    <td>{playerPlaytime.get('playtime_windows_forever', '')}</td>
-                    <td>{playerPlaytime.get('playtime_mac_forever', '')}</td>
-                    <td>{playerPlaytime.get('playtime_linux_forever', '')}</td>
+                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_forever', '')}</td>
+                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_windows_forever', '')}</td>
+                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_mac_forever', '')}</td>
+                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_linux_forever', '')}</td>
+                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_deck_forever', '')}</td>
+                    <td>{len(gameListwithAllPlayTime[playerPlaytime].get('player', []))}, {', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>
                 </tr>
                 """)
         f.write("""
@@ -215,10 +218,10 @@ def main():
     allPlayerSummaries = steamWebApi.SteamWebApi().fetchAllPlayerSummaries(steamGroup['members'], STEAMWEBAPIKEY)
     allPlayerGetOwnedGames = steamWebApi.SteamWebApi().fetchAllPlayerGetOwnedGames(steamGroup['members'], STEAMWEBAPIKEY)
     
-    #gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
+    gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
 
     createMarkdownFileGroup("103582791430857185", steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
-    #createMarkdownFileGames(gameListwithAllPlayTime)
+    createMarkdownFileGames(gameListwithAllPlayTime)
     steam_group_widget_html("103582791430857185")
     steam_group_Javascript_widget("103582791430857185")
 

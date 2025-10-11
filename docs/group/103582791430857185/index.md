@@ -29,7 +29,7 @@ hide:
                 <td>3W | D3lt@.ch</td>
                 <td>76561197966417969</td>
                 <td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Profil</a></td>
-                <td>421</td>
+                <td>424</td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/20dfd9331cbbdd8b9b7812cacc6cd4528d375f23_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -79,6 +79,13 @@ hide:
                 <td>76561197987386127</td>
                 <td><a href="https://steamcommunity.com/profiles/76561197987386127/" target="_blank">Profil</a></td>
                 <td>80</td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/5d2541364dbdc0bc1b2d8311b2d2c02780b5252b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>L'Cie</td>
+                <td>76561198015592930</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198015592930/" target="_blank">Profil</a></td>
+                <td></td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -317,13 +324,6 @@ hide:
                 <td>76561197976381532</td>
                 <td><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank">Profil</a></td>
                 <td>208</td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/5d2541364dbdc0bc1b2d8311b2d2c02780b5252b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>L'Cie</td>
-                <td>76561198015592930</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198015592930/" target="_blank">Profil</a></td>
-                <td></td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
