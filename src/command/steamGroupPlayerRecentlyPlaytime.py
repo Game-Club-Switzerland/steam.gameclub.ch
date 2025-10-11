@@ -51,7 +51,7 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRe
                     #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
                             f.write(f"""<tr>
                     <td>{allPlayerSummaries[playerPlaytime].get('personaname', '')}</td>
-                    <td>{game.get('appid', '')}</td>
+                    <td><a href="https://steamdb.info/app/{game.get('appid', '')}">{game.get('appid', '')}</a></td>
                     <td>{game.get('name', '')}</td>
                     <td>{game.get('playtime_2weeks', '')}</td>
                     <td>{game.get('playtime_forever', '')}</td>

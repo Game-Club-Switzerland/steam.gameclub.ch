@@ -74,6 +74,13 @@ hide:
                 <td>141</td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>ツ</td>
+                <td>76561198068302332</td>
+                <td><a href="https://steamcommunity.com/id/Naomichloe/" target="_blank">Profil</a></td>
+                <td></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/3141d19096a1e3bfb9163590d1aee7a277a408ee_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>Chnobli</td>
                 <td>76561197987386127</td>
@@ -114,13 +121,6 @@ hide:
                 <td>76561198112257105</td>
                 <td><a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank">Profil</a></td>
                 <td>42</td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>ツ</td>
-                <td>76561198068302332</td>
-                <td><a href="https://steamcommunity.com/id/Naomichloe/" target="_blank">Profil</a></td>
-                <td></td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/d22bddc8695f515c5eac24ca3fc0dc330f4fd328_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>

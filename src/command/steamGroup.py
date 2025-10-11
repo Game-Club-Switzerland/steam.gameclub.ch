@@ -184,11 +184,12 @@ def createMarkdownFileGames(gameListwithAllPlayTime):
     <thead>
         <tr>
             <th>Appid</th>
-            <th>Playtime Total Forever</th>
-            <th>Playtime Total Windows Forever</th>
-            <th>Playtime Total Mac Forever</th>
-            <th>Playtime Total Linux Forever</th>
-            <th>Playtime Total Deck Forever</th>
+            <th>Forever</th>
+            <th>Windows</th>
+            <th>Mac</th>
+            <th>Linux</th>
+            <th>Deck</th>
+            <th>Anzahl Players</th>
             <th>Players</th>
         </tr>
     </thead>
@@ -199,13 +200,14 @@ def createMarkdownFileGames(gameListwithAllPlayTime):
             #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
             #print(gameDetail)
             f.write(f"""<tr>
-                    <td>{playerPlaytime}</td>
+                    <td><a href="https://steamdb.info/app/{playerPlaytime}">{playerPlaytime}</a></td>
                     <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_forever', '')}</td>
                     <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_windows_forever', '')}</td>
                     <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_mac_forever', '')}</td>
                     <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_linux_forever', '')}</td>
                     <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_deck_forever', '')}</td>
-                    <td>{len(gameListwithAllPlayTime[playerPlaytime].get('player', []))}, {', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>
+                    <td>{len(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>
+                    <td>{', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>
                 </tr>
                 """)
         f.write("""
