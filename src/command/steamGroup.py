@@ -167,7 +167,7 @@ def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayer
 </script>""")
     print("Markdown file 'steam_players.md' created.")
 
-def createMarkdownFileGames(gameListwithAllPlayTime):
+def createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries):
     print("Creating Markdown file for group games...")
 
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs')
@@ -199,20 +199,25 @@ def createMarkdownFileGames(gameListwithAllPlayTime):
             print (playerPlaytime)
             #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
             #print(gameDetail)
-            f.write(f"""<tr>
-                    <td><a href="https://steamdb.info/app/{playerPlaytime}">{playerPlaytime}</a></td>
-                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_forever', '')}</td>
-                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_windows_forever', '')}</td>
-                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_mac_forever', '')}</td>
-                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_linux_forever', '')}</td>
-                    <td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_deck_forever', '')}</td>
-                    <td>{len(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>
-                    <td>{', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>
-                </tr>
-                """)
-        f.write("""
-    </tbody>
-</table>""")
+            f.write(f"<tr>\n")
+            f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{playerPlaytime}</a></td>\n")
+            f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_forever', '')}</td>\n")
+            f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_windows_forever', '')}</td>\n")
+            f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_mac_forever', '')}</td>\n")
+            f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_linux_forever', '')}</td>\n")
+            f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_deck_forever', '')}</td>\n")
+            f.write(f"<td>{len(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>\n")
+            #f.write(f"<td>{', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>\n")
+            players = gameListwithAllPlayTime[playerPlaytime].get('player', [])
+            player_html = ', '.join([
+                f"<a href=\"{allPlayerSummaries[p].get('profileurl', '')}\" target=\"_blank\" style=\"text-decoration:none;color:#66c0f4;\">"
+                f"<img src=\"{allPlayerSummaries[p].get('avatarfull', '')}\" alt=\"{allPlayerSummaries[p].get('personaname', '')}\" style=\"width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;\" />"
+                f"{allPlayerSummaries[p].get('personaname', '')}</a>"
+                for p in players if p in allPlayerSummaries
+            ])
+            f.write(f"<td>{player_html}</td>\n")
+            f.write(f"</tr>\n")
+        f.write(f"</tbody>\n</table>\n")
     print("Markdown file 'steam_games.md' created.")
 
 def main():
@@ -223,7 +228,7 @@ def main():
     gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
 
     createMarkdownFileGroup("103582791430857185", steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
-    createMarkdownFileGames(gameListwithAllPlayTime)
+    createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries)
     steam_group_widget_html("103582791430857185")
     steam_group_Javascript_widget("103582791430857185")
 
