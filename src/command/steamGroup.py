@@ -3,6 +3,7 @@ import sys
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '../service/'))
 import steamWebApi
+import steamGameClub
 
 from dotenv import load_dotenv, find_dotenv
 from os import getenv
@@ -196,10 +197,12 @@ def createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries):
 """)
         for playerPlaytime in gameListwithAllPlayTime:
             print (playerPlaytime)
-            #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
-            #print(gameDetail)
             f.write(f"<tr>\n")
-            f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{playerPlaytime}</a></td>\n")
+            SteamGameClub = steamGameClub.SteamGameClub.getGameDetails(playerPlaytime)
+            if SteamGameClub:
+                f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
+            else:
+                f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{playerPlaytime}</a></td>\n")
             f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_forever', '')}</td>\n")
             f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_windows_forever', '')}</td>\n")
             f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_mac_forever', '')}</td>\n")
