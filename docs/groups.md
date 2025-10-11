@@ -19,7 +19,7 @@ hide:
     </thead>
     <tbody>
         <tr>
-            <td>[103582791430857185](/group/103582791430857185)</td>
+            <td><a href="group/103582791430857185">103582791430857185</a></td>
             <td>Game Club Switzerland</td>
             <td>125</td>
             <td></td>
