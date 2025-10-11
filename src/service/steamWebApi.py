@@ -34,24 +34,14 @@ class SteamWebApi:
                 return response.json()['response']['players'][0]
         else:
             response.raise_for_status()
-
-    @staticmethod
-    def fetchGetOwnedGamesCount(steamids, apiKey):
-        url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={apiKey}&steamid={','.join(steamids)}&format=json"
-        response = requests.get(url)
-        if response.status_code == 200:
-            if 'response' in response.json() and 'game_count' in response.json()['response']:
-                return response.json()['response']['game_count']
-        else:
-            response.raise_for_status()
     
     @staticmethod
     def fetchGetOwnedGames(steamids, apiKey):
         url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={apiKey}&steamid={','.join(steamids)}&format=json"
         response = requests.get(url)
         if response.status_code == 200:
-            if 'response' in response.json() and 'games' in response.json()['response']:
-                return response.json()['response']['games']
+            if 'response' in response.json():
+                return response.json()['response']
         else:
             response.raise_for_status()
     
@@ -61,8 +51,8 @@ class SteamWebApi:
         url = f"http://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key={apiKey}&steamid={','.join(steamids)}&format=json"
         response = requests.get(url)
         if response.status_code == 200:
-            if 'response' in response.json() and 'games' in response.json()['response']:
-                return response.json()['response']['games']
+            if 'response' in response.json():
+                return response.json()['response']
         else:
             response.raise_for_status()
             pass
@@ -99,15 +89,6 @@ class SteamWebApi:
             getOwnedGames = SteamWebApi.fetchGetOwnedGames([member], apiKey)
             allPlayerGetOwnedGames[member] = getOwnedGames
         return allPlayerGetOwnedGames
-    
-    @staticmethod
-    def fetchAllPlayerGetOwnedGamesCount(members, apiKey):
-        allPlayerGetOwnedGamesCount = {}
-        for member in members:
-            print(f"Fetching owned games count for SteamID: {member}")
-            getOwnedGamesCount = SteamWebApi.fetchGetOwnedGamesCount([member], apiKey)
-            allPlayerGetOwnedGamesCount[member] = getOwnedGamesCount
-        return allPlayerGetOwnedGamesCount
 
     @staticmethod
     def fetchAllPlayerGetRecentlyPlayedGames(members, apiKey):

@@ -105,7 +105,7 @@ def fetchSummaries(groupID64):
     summaries = steamWebApi.SteamWebApi.fetchGetPlayerSummaries(steamGroup, STEAMWEBAPIKEY)
     return summaries
 
-def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayerGamesCount):
+def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames):
     if not steamGroup['members']:
         print("No members found.")
         return
@@ -149,7 +149,7 @@ def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayer
                 <td>{allPlayerSummaries[player].get('personaname')}</td>
                 <td>{allPlayerSummaries[player].get('steamid')}</td>
                 <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>
-                <td>{allPlayerGamesCount[player]}</td>
+                <td>{allPlayerGetOwnedGames[player].get('game_count', '')}</td>
             </tr>
             """)
         f.write("""
@@ -214,11 +214,10 @@ def main():
     steamGroup = steamWebApi.SteamWebApi().fetchSteamGroup("103582791430857185")
     allPlayerSummaries = steamWebApi.SteamWebApi().fetchAllPlayerSummaries(steamGroup['members'], STEAMWEBAPIKEY)
     allPlayerGetOwnedGames = steamWebApi.SteamWebApi().fetchAllPlayerGetOwnedGames(steamGroup['members'], STEAMWEBAPIKEY)
-    allPlayerGamesCount = steamWebApi.SteamWebApi().fetchAllPlayerGetOwnedGamesCount(steamGroup['members'], STEAMWEBAPIKEY)
     
     #gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
 
-    createMarkdownFileGroup("103582791430857185", steamGroup, allPlayerSummaries, allPlayerGamesCount)
+    createMarkdownFileGroup("103582791430857185", steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
     #createMarkdownFileGames(gameListwithAllPlayTime)
     steam_group_widget_html("103582791430857185")
     steam_group_Javascript_widget("103582791430857185")

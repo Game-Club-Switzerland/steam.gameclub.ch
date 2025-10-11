@@ -45,8 +45,8 @@ def createMarkdownFile(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRe
     <tbody>
 """)
         for playerPlaytime in allPlayerGetRecentlyPlayedGames:
-            if allPlayerGetRecentlyPlayedGames[playerPlaytime]:
-                for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]:
+            if allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
+                for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
                     gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
                     f.write(f"""<tr>
                     <td>{allPlayerSummaries[playerPlaytime].get('personaname', '')}</td>
