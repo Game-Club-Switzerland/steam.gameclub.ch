@@ -9,6 +9,11 @@
         "name": "Team Fortress 2",
         "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213"
     },
+    "240": {
+        "appid": "240",
+        "name": "Counter-Strike: Source",
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10"
+    },
     "1472930": {
         "appid": "1472930",
         "name": "Flock",
