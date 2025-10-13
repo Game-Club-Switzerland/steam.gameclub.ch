@@ -121,11 +121,7 @@ def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayer
         f.write("---\n")
         f.write(f"# {steamGroup['groupName']} - Members\n\n")
             # Write DataTable HTML header
-        f.write("""<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
-<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-
-
+        f.write("""
 [Playtime](playtime.md)
 
 [Playtime 2 Weeks](playtime2weeks.md)
@@ -165,7 +161,7 @@ def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayer
         });
     });
 </script>""")
-    print("Markdown file 'steam_players.md' created.")
+    print("Markdown file Group 'index.md' created.")
 
 def createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries):
     print("Creating Markdown file for group games...")
@@ -200,7 +196,10 @@ def createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries):
             f.write(f"<tr>\n")
             SteamGameClub = steamGameClub.SteamGameClub.getGameDetails(playerPlaytime)
             if SteamGameClub:
-                f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
+                if SteamGameClub.get('img_icon_url', ''):
+                    f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{playerPlaytime}/{SteamGameClub.get('img_icon_url', '')}.jpg\" alt=\"{SteamGameClub.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a></td>\n")
+                else:
+                    f.write(f"<td><a href=\"https://store.steampowered.com/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
             else:
                 f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{playerPlaytime}</a></td>\n")
             f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_forever', '')}</td>\n")
@@ -220,7 +219,7 @@ def createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries):
             f.write(f"<td>{player_html}</td>\n")
             f.write(f"</tr>\n")
         f.write(f"</tbody>\n</table>\n")
-    print("Markdown file 'steam_games.md' created.")
+    print("Markdown file 'games.md' created.")
 
 def main():
     steamGroup = steamWebApi.SteamWebApi().fetchSteamGroup("103582791430857185")
