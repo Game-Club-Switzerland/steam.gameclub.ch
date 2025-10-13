@@ -14,6 +14,18 @@
         "name": "Counter-Strike: Source",
         "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10"
     },
+    "220": {
+        "appid": "220",
+        "name": "Half-Life 2"
+    },
+    "320": {
+        "appid": "320",
+        "name": "Half-Life 2: Deathmatch"
+    },
+    "360": {
+        "appid": "360",
+        "name": "Half-Life Deathmatch: Source"
+    },
     "1472930": {
         "appid": "1472930",
         "name": "Flock",
