@@ -1,9 +1,4 @@
 {
-    "673950": {
-        "appid": "673950",
-        "name": "Farm Together",
-        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716"
-    },
     "440": {
         "appid": "440",
         "name": "Team Fortress 2",
@@ -30,15 +25,65 @@
         "appid": "400",
         "name": "Portal"
     },
+    "730": {
+        "appid": "730",
+        "name": "Counter-Strike 2",
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+    },
     "1472930": {
         "appid": "1472930",
         "name": "Flock",
         "img_icon_url": "d86e1f92dd32768f5dc2de20cea5d443bf259898"
     },
-    "730": {
-        "appid": "730",
-        "name": "Counter-Strike 2",
-        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+    "673950": {
+        "appid": "673950",
+        "name": "Farm Together",
+        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716"
+    },
+    "2904000": {
+        "appid": "2904000",
+        "name": "The Spell Brigade",
+        "img_icon_url": "6df73644737e8e4c401c86dff97a1b699fb410d5"
+    },
+    "1018830": {
+        "appid": "1018830",
+        "name": "Element TD 2",
+        "img_icon_url": "fd9708e0d7a90c5f6f91ef6917af78a5e256a3e6"
+    },
+    "204880": {
+        "appid": "204880",
+        "name": "Sins of a Solar Empire: Rebellion",
+        "img_icon_url": "31832cdd443b665a8ae599f76761411f3d939b98"
+    },
+    "1455840" : {
+        "appid": "1455840",
+        "name": "Dorfromantik",
+        "img_icon_url": "c7f24bc1facf1af3378ad655eed2dee7acc5c7b2"
+    },
+    "1637320": {
+        "appid": "1637320",
+        "name": "Dome Keeper",
+        "img_icon_url": "4ecf3a011cf5eeb37d0072a1a182b7ea5140e3e2"
+    },
+    "1016920": {
+        "appid": "1016920",
+        "name": "Unrailed!",
+        "img_icon_url": "d52e7b3ffc58010b2792160e07ce6834f8c3d80b"
+    },
+    "1426210": {
+        "appid": "1426210",
+        "name": "It Takes Two",
+        "img_icon_url": "6b15f6d81c4fc52056f4928b363b7fac591a945b"
+    },
+    "1029690": {
+        "appid": "1029690",
+        "name": "Sniper Elite 5",
+        "img_icon_url": "00bce3b25aed4dfd96e864e03dd315448dcb834b"
+    },
+    "1489630": {
+        "appid": "1489630",
+        "name": "Carrier Command 2",
+        "img_icon_url": "25ec1d2707d671f2391ea7db9ddde5a271dd54b9"
     },
     "3116470": {
         "appid": "3116470",
