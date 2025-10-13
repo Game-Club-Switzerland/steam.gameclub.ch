@@ -85,6 +85,41 @@
         "name": "Carrier Command 2",
         "img_icon_url": "25ec1d2707d671f2391ea7db9ddde5a271dd54b9"
     },
+    "620590": {
+        "appid": "620590",
+        "name": "Ancestors Legacy",
+        "img_icon_url": "356eb85a96475126c0f31816bbef73972838642f"
+    },
+    "648800": {
+        "appid": "648800",
+        "name": "Raft",
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68"
+    },
+    "312670": {
+        "appid": "312670",
+        "name": "Strange Brigade",
+        "img_icon_url": "328f1ee6525320b82ad06033da1e0194a9ae0436"
+    },
+    "221380": {
+        "appid": "221380",
+        "name": "Age of Empires II (2013)",
+        "img_icon_url": "109c74df17f9b67ea47d8f01e3d1ec25278b9f73"
+    },
+    "945360": {
+        "appid": "945360",
+        "name": "Among Us",
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801"
+    },
+    "848480": {
+        "appid": "848480",
+        "name": "Creeper World 4",
+        "img_icon_url": "f1a79108f91fa64069f4bdd3f1cf66e944c28360"
+    },
+    "701160": {
+        "appid": "701160",
+        "name": "Kingdom Two Crowns",
+        "img_icon_url": "7bf44c4e301a0f6fae78f697b39b5a1268223945"
+    },
     "3116470": {
         "appid": "3116470",
         "name": "IDUN Prologue - Frontline Survival",
