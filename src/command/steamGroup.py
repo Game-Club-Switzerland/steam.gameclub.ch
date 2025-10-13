@@ -12,8 +12,7 @@ load_dotenv(find_dotenv())
 
 STEAMWEBAPIKEY = getenv("STEAMWEBAPIKEY")
 
-def steam_group_widget_html(groupID64):
-    steamGroup = steamWebApi.SteamWebApi.fetchSteamGroup(groupID64)
+def steamGroupWidget(steamGroup):
     html = f"""<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px; box-sizing: border-box; width: 100%;">
     <style>
     @media (max-width: 480px) {{
@@ -54,6 +53,10 @@ def steam_group_widget_html(groupID64):
     </div>
     <div style="height:16px;"></div>
 </div>"""
+    return html
+
+def steam_group_widget_html(steamGroup):
+    html = steamGroupWidget(steamGroup)
     # Ensure the directory exists
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group/')
     os.makedirs(output_dir, exist_ok=True)
@@ -62,10 +65,10 @@ def steam_group_widget_html(groupID64):
         f.write(html)
     return html
 
-def steam_group_widget_JavaScript(groupID64):
+def steam_group_widget_JavaScript(steamGroup):
     js = f"""<script>
     async function loadSteamGroupWidget() {{
-        const response = await fetch('https://steam.gameclub.ch/widget/group/{groupID64}.html');
+        const response = await fetch('https://steam.gameclub.ch/widget/group/{steamGroup['groupID64']}.html');
         const html = await response.text();
         document.getElementById('steam-group-widget-container').innerHTML = html;
     }}
@@ -78,11 +81,11 @@ def steam_group_widget_JavaScript_min(groupID64):
     js = f"""<script>async function loadSteamGroupWidget(){{const e=await fetch('https://steam.gameclub.ch/widget/group/{groupID64}.html'),t=await e.text();document.getElementById('steam-group-widget-container').innerHTML=t}}document.addEventListener('DOMContentLoaded',loadSteamGroupWidget);</script>"""
     return js
 
-def steam_group_Javascript_widget(groupID64):
-    js = steam_group_widget_JavaScript_min(groupID64)
+def steam_group_Javascript_widget(steamGroup):
+    js = steam_group_widget_JavaScript_min(steamGroup['groupID64'])
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group/')
     os.makedirs(output_dir, exist_ok=True)
-    output_path = os.path.join(output_dir, f'{groupID64}.js')
+    output_path = os.path.join(output_dir, f'{steamGroup['groupID64']}.js')
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(js)
     return js
@@ -110,6 +113,8 @@ def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayer
         print("No members found.")
         return
     print(f"Fetched {len(steamGroup['members'])} members.")
+    
+    steamGroupWidgetHtml = steamGroupWidget(steamGroup)
 
     output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
     os.makedirs(output_dir, exist_ok=True)
@@ -120,8 +125,9 @@ def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayer
         f.write("  - toc\n")
         f.write("---\n")
         f.write(f"# {steamGroup['groupName']} - Members\n\n")
-            # Write DataTable HTML header
-        f.write("""
+        f.write(f"{steamGroupWidgetHtml}\n")
+        f.write(f"""
+
 [Playtime](playtime.md)
 
 [Playtime 2 Weeks](playtime2weeks.md)
@@ -230,8 +236,8 @@ def main():
 
     createMarkdownFileGroup("103582791430857185", steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
     createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries)
-    steam_group_widget_html("103582791430857185")
-    steam_group_Javascript_widget("103582791430857185")
+    steam_group_widget_html(steamGroup)
+    steam_group_Javascript_widget(steamGroup)
 
 if __name__ == "__main__":
     main()

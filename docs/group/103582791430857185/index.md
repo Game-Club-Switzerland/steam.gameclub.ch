@@ -5,6 +5,47 @@ hide:
 ---
 # Game-Club Switzerland - Members
 
+<div class="steam-group-widget" style="background: #171a21; color: #c7d5e0; border-radius: 4px; padding: 16px; font-family: 'Motiva Sans', Arial, Helvetica, sans-serif; max-width: 350px; box-sizing: border-box; width: 100%;">
+    <style>
+    @media (max-width: 480px) {
+        .steam-group-widget {
+            padding: 10px;
+            max-width: 100vw;
+            font-size: 16px;
+        }
+        .steam-group-widget h3 {
+            font-size: 18px !important;
+        }
+        .steam-group-widget img {
+            width: 24px !important;
+            height: 24px !important;
+            margin-right: 6px !important;
+        }
+    }
+    </style>
+    <h3 style="margin: 0 0 10px 0; font-size: 20px; font-weight: 700;">
+        <a href="https://steamcommunity.com/groups/gcch" style="color: #66c0f4; text-decoration: none;">
+            <img src="https://avatars.fastly.steamstatic.com/01357566d6bc75a7840f3fe11895506f089c3e98.jpg" alt="Game-Club Switzerland Avatar" style="vertical-align: middle; border-radius: 2px; margin-right: 8px; width: 32px; height: 32px;" />
+            Game-Club Switzerland
+        </a>
+    </h3>
+    <div style="margin-bottom: 4px;">
+        <span style="color: #66c0f4; font-weight: 500;">125 Mitglieder insgesamt</span>
+    </div>
+    <div style="margin-bottom: 4px;">
+        <span style="color: #c7d5e0;">24 online</span>
+    </div>
+    <div style="margin-bottom: 4px;">
+        <span style="color: #59bf40;">3 im Spiel</span>
+    </div>
+    <div>
+        <span style="color: #c7d5e0;">44 im Chat - 
+            <a href="https://steamcommunity.com/chat/invite/IQhgcbIe" style="color: #66c0f4; text-decoration: underline;">Chat beitreten</a>
+        </span>
+    </div>
+    <div style="height:16px;"></div>
+</div>
+
 
 [Playtime](playtime.md)
 
@@ -161,17 +202,17 @@ hide:
                 <td>224</td>
             </tr>
             <tr>
+                <td><img src="https://avatars.steamstatic.com/58fd836d406e0054bdd28aa3ff17a2d5ffdd1ff8_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>CoolDown08</td>
+                <td>76561198087598572</td>
+                <td><a href="https://steamcommunity.com/profiles/76561198087598572/" target="_blank">Profil</a></td>
+                <td></td>
+            </tr>
+            <tr>
                 <td><img src="https://avatars.steamstatic.com/25e38073a4cf8004ea845ca954731cea7e5e781b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                 <td>Ettiennchen</td>
                 <td>76561198237426558</td>
                 <td><a href="https://steamcommunity.com/profiles/76561198237426558/" target="_blank">Profil</a></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/494c7d6c3e0895e62d166b82de01b38de0ade0ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Kortay</td>
-                <td>76561198077393839</td>
-                <td><a href="https://steamcommunity.com/id/Kortay/" target="_blank">Profil</a></td>
                 <td></td>
             </tr>
             <tr>
@@ -186,7 +227,7 @@ hide:
                 <td>piipmatz</td>
                 <td>76561198130026522</td>
                 <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Profil</a></td>
-                <td>162</td>
+                <td>163</td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/d11c33497819af95e1c7f16ea77362f87b76117d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -208,6 +249,13 @@ hide:
                 <td>76561198042465028</td>
                 <td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Profil</a></td>
                 <td>118</td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Tumba</td>
+                <td>76561197984860875</td>
+                <td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Profil</a></td>
+                <td>175</td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/79d3fe5839617eb83a9661071ed021dd56ac8a5b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -285,13 +333,6 @@ hide:
                 <td>76561198028651568</td>
                 <td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Profil</a></td>
                 <td>181</td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/58fd836d406e0054bdd28aa3ff17a2d5ffdd1ff8_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>CoolDown08</td>
-                <td>76561198087598572</td>
-                <td><a href="https://steamcommunity.com/profiles/76561198087598572/" target="_blank">Profil</a></td>
-                <td></td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -396,6 +437,13 @@ hide:
                 <td>KamiPanda</td>
                 <td>76561198027621852</td>
                 <td><a href="https://steamcommunity.com/profiles/76561198027621852/" target="_blank">Profil</a></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/494c7d6c3e0895e62d166b82de01b38de0ade0ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>Kortay</td>
+                <td>76561198077393839</td>
+                <td><a href="https://steamcommunity.com/id/Kortay/" target="_blank">Profil</a></td>
                 <td></td>
             </tr>
             <tr>
@@ -516,13 +564,6 @@ hide:
                 <td>76561197967612667</td>
                 <td><a href="https://steamcommunity.com/profiles/76561197967612667/" target="_blank">Profil</a></td>
                 <td>78</td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>Tumba</td>
-                <td>76561197984860875</td>
-                <td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Profil</a></td>
-                <td>175</td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
