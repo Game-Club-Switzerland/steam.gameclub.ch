@@ -26,6 +26,10 @@
         "appid": "360",
         "name": "Half-Life Deathmatch: Source"
     },
+    "400": {
+        "appid": "400",
+        "name": "Portal"
+    },
     "1472930": {
         "appid": "1472930",
         "name": "Flock",

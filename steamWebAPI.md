@@ -7,6 +7,8 @@ https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=STEAMKEY&s
 # Player - Zu letzt gespielt
 https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/?key=STEAMKEY&steamid=76561197966417969&format=json
 
+https://developer.valvesoftware.com/wiki/Steam_Web_API#GetRecentlyPlayedGames_(v0001)
+
 # Player - Playtime all Games
 https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=STEAMKEY&steamid=76561197966417969&format=json
 
