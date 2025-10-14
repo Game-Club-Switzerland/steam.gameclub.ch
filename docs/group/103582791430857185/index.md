@@ -33,7 +33,7 @@ hide:
         <span style="color: #66c0f4; font-weight: 500;">125 Mitglieder insgesamt</span>
     </div>
     <div style="margin-bottom: 4px;">
-        <span style="color: #c7d5e0;">5 online</span>
+        <span style="color: #c7d5e0;">6 online</span>
     </div>
     <div style="margin-bottom: 4px;">
         <span style="color: #59bf40;">1 im Spiel</span>
@@ -123,6 +123,13 @@ hide:
                 <td>76561197987386127</td>
                 <td><a href="https://steamcommunity.com/profiles/76561197987386127/" target="_blank">Profil</a></td>
                 <td>80</td>
+            </tr>
+            <tr>
+                <td><img src="https://avatars.steamstatic.com/1080d0b6680c13d8ad37086de683791b549bbff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                <td>modano</td>
+                <td>76561197960353130</td>
+                <td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Profil</a></td>
+                <td>109</td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/ff27da6904cdcc60a85efa5a5eca593ba37b3396_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -452,13 +459,6 @@ hide:
                 <td>76561197983320063</td>
                 <td><a href="https://steamcommunity.com/profiles/76561197983320063/" target="_blank">Profil</a></td>
                 <td></td>
-            </tr>
-            <tr>
-                <td><img src="https://avatars.steamstatic.com/1080d0b6680c13d8ad37086de683791b549bbff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                <td>modano</td>
-                <td>76561197960353130</td>
-                <td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Profil</a></td>
-                <td>109</td>
             </tr>
             <tr>
                 <td><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
