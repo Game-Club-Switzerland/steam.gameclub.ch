@@ -36,7 +36,7 @@ hide:
             <span style="color: #c7d5e0;">8 online</span>
         </div>
         <div style="margin-bottom: 4px;">
-            <span style="color: #59bf40;">1 im Spiel</span>
+            <span style="color: #59bf40;">0 im Spiel</span>
         </div>
         <div>
             <span style="color: #c7d5e0;">44 im Chat - 
@@ -125,6 +125,13 @@ hide:
                     <td>76561198090894909</td>
                     <td><a href="https://steamcommunity.com/profiles/76561198090894909/" target="_blank">Profil</a></td>
                     <td></td>
+                </tr>
+                <tr>
+                    <td><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                    <td>BigApple</td>
+                    <td>76561198014147147</td>
+                    <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Profil</a></td>
+                    <td>119</td>
                 </tr>
                 <tr>
                     <td><img src="https://avatars.steamstatic.com/3141d19096a1e3bfb9163590d1aee7a277a408ee_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -216,13 +223,6 @@ hide:
                     <td>76561198068605472</td>
                     <td><a href="https://steamcommunity.com/id/bailig/" target="_blank">Profil</a></td>
                     <td></td>
-                </tr>
-                <tr>
-                    <td><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                    <td>BigApple</td>
-                    <td>76561198014147147</td>
-                    <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Profil</a></td>
-                    <td>119</td>
                 </tr>
                 <tr>
                     <td><img src="https://avatars.steamstatic.com/6a1907e8131e1ab1e98336df80cea8f4e1a07dfa_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>

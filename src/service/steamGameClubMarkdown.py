@@ -121,7 +121,7 @@ class SteamGameClubMarkdown:
         with open(os.path.join(output_dir, f'games.md'), "w", encoding="utf-8") as f:
             f.write("---\n")
             f.write("hide:\n")
-            f.write("  - navigation\n")
+            f.write("#  - navigation\n")
             f.write("  - toc\n")
             f.write("---\n")
             f.write(f"# Games\n\n")
