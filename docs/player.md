@@ -1,7 +1,7 @@
 ---
 hide:
   - navigation
-#  - toc
+  - toc
 ---
 # Player 
 
@@ -104,6 +104,13 @@ hide:
                     <td>76561197960353130</td>
                     <td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Profil</a></td>
                     <td>109</td>
+                </tr>
+                <tr>
+                    <td><img src="https://avatars.steamstatic.com/e0d1bc9b6c9f8586c23338164259a9fa1567b842_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                    <td>Pecunifex</td>
+                    <td>76561198023797045</td>
+                    <td><a href="https://steamcommunity.com/id/Pecunifex/" target="_blank">Profil</a></td>
+                    <td>151</td>
                 </tr>
                 <tr>
                     <td><img src="https://avatars.steamstatic.com/ff27da6904cdcc60a85efa5a5eca593ba37b3396_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -426,13 +433,6 @@ hide:
                     <td>76561198124796053</td>
                     <td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Profil</a></td>
                     <td>626</td>
-                </tr>
-                <tr>
-                    <td><img src="https://avatars.steamstatic.com/e0d1bc9b6c9f8586c23338164259a9fa1567b842_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                    <td>Pecunifex</td>
-                    <td>76561198023797045</td>
-                    <td><a href="https://steamcommunity.com/id/Pecunifex/" target="_blank">Profil</a></td>
-                    <td>151</td>
                 </tr>
                 <tr>
                     <td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
