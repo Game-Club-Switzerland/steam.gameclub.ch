@@ -18,3 +18,18 @@ class SteamGameClub:
     def getGameDetails(appid):
         gamesList = SteamGameClub.getGamesList()
         return gamesList.get(str(appid), None)
+    
+    @staticmethod
+    def steamGroupInGamePlayer(groupID64, allPlayerSummaries):
+        inGamePlayers = {}
+        for player in allPlayerSummaries:
+            if allPlayerSummaries[player].get('gameextrainfo'):
+                inGamePlayers[player] = allPlayerSummaries[player]
+        return inGamePlayers
+    
+    @staticmethod
+    def createSteamProfileWidget(steamProfile):
+        return f"""<a href="https://steamcommunity.com/profiles/{steamProfile['steamid']}" target="_blank" style="text-decoration:none;color:#66c0f4;">
+            <img src="{steamProfile.get('avatarfull', '')}" alt="{steamProfile.get('personaname', '')}" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" />
+            {steamProfile.get('personaname', '')}
+        </a>"""

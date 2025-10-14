@@ -80,3 +80,29 @@ class SteamGameClubMarkdown:
                 f.write(f"</tr>\n")
             f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'steam_games.md' created.")
+        
+    @staticmethod
+    def createSteamProfileWidget(steamProfile):
+        return f"""<a href="https://steamcommunity.com/profiles/{steamProfile['steamid']}" target="_blank" style="text-decoration:none;color:#66c0f4;">
+            <img src="{steamProfile.get('avatarfull', '')}" alt="{steamProfile.get('personaname', '')}" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" />
+            {steamProfile.get('personaname', '')}
+        </a>"""
+
+    @staticmethod
+    def createMarkdownFileInGamePlayer(groupID64, inGamePlayers):
+        
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'ingame.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# Steam Group - Members - In-Game\n\n")
+            for player in inGamePlayers:
+                print (player)
+                print (inGamePlayers[player])
+                f.write(f"{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}\n")
+                f.write(f"<br/>\n")
+        print("Markdown file 'ingame.md' created.")

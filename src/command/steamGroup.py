@@ -4,6 +4,7 @@ import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '../service/'))
 import steamWebApi
 import steamGameClub
+import steamGameClubMarkdown
 
 from dotenv import load_dotenv, find_dotenv
 from os import getenv
@@ -228,13 +229,17 @@ def createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries):
     print("Markdown file 'games.md' created.")
 
 def main():
-    steamGroup = steamWebApi.SteamWebApi().fetchSteamGroup("103582791430857185")
+    steamGroup64ID = "103582791430857185"
+    steamGroup = steamWebApi.SteamWebApi().fetchSteamGroup(steamGroup64ID)
     allPlayerSummaries = steamWebApi.SteamWebApi().fetchAllPlayerSummaries(steamGroup['members'], STEAMWEBAPIKEY)
     allPlayerGetOwnedGames = steamWebApi.SteamWebApi().fetchAllPlayerGetOwnedGames(steamGroup['members'], STEAMWEBAPIKEY)
     
     gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
 
-    createMarkdownFileGroup("103582791430857185", steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
+    inGamePlayers = steamGameClub.SteamGameClub.steamGroupInGamePlayer(steamGroup64ID, allPlayerSummaries)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileInGamePlayer(steamGroup64ID, inGamePlayers)
+    
+    createMarkdownFileGroup(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
     createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries)
     steam_group_widget_html(steamGroup)
     steam_group_Javascript_widget(steamGroup)
