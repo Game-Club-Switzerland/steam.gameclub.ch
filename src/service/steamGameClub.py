@@ -29,7 +29,30 @@ class SteamGameClub:
     
     @staticmethod
     def createSteamProfileWidget(steamProfile):
-        return f"""<a href="https://steamcommunity.com/profiles/{steamProfile['steamid']}" target="_blank" style="text-decoration:none;color:#66c0f4;">
-            <img src="{steamProfile.get('avatarfull', '')}" alt="{steamProfile.get('personaname', '')}" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" />
-            {steamProfile.get('personaname', '')}
-        </a>"""
+        # Create a Steam profile widget similar to steamcommunity.com, including the currently played game
+        profile_url = f"https://steamcommunity.com/profiles/{steamProfile['steamid']}"
+        avatar_url = steamProfile.get('avatarfull', '')
+        persona_name = steamProfile.get('personaname', '')
+        game_info = steamProfile.get('gameextrainfo')
+        #game_icon = steamProfile.get('gameiconurl', '')  # Optional: if available
+        game_appid = steamProfile.get('gameid')  # Optional: if available
+
+        game_html = ""
+        if game_info:
+                game_html = f"""
+                <div style="margin-top:4px;">
+                    <span style="font-size:12px;color:#a4d007;">Playing: {game_info}</span>
+                </div>
+                """
+
+        return f"""
+        <div style="background:#171a21;border-radius:4px;padding:8px;display:flex;align-items:center;max-width:320px;">
+            <a href="{profile_url}" target="_blank" style="text-decoration:none;display:flex;align-items:center;">
+            <img src="{avatar_url}" alt="{persona_name}" style="width:48px;height:48px;border-radius:4px;margin-right:12px;border:2px solid #3a3f4b;" />
+            <div>
+                <div style="font-weight:bold;color:#c7d5e0;font-size:16px;">{persona_name}</div>
+                {game_html}
+            </div>
+            </a>
+        </div>
+        """
