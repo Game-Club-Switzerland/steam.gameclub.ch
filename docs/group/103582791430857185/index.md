@@ -33,7 +33,7 @@ hide:
             <span style="color: #66c0f4; font-weight: 500;">125 Mitglieder insgesamt</span>
         </div>
         <div style="margin-bottom: 4px;">
-            <span style="color: #c7d5e0;">6 online</span>
+            <span style="color: #c7d5e0;">8 online</span>
         </div>
         <div style="margin-bottom: 4px;">
             <span style="color: #59bf40;">1 im Spiel</span>
@@ -46,17 +46,15 @@ hide:
         <div style="height:16px;"></div>
     </div>
 
+[Games](games.md)
 
-    [Games](games.md)
-    
-    [In-Game](ingame.md)
-    
-    [Playtime](playtime.md)
+[In-Game](ingame.md)
 
-    [Playtime 2 Weeks](playtime2weeks.md)
+[Playtime](playtime.md)
 
-    <table id="charts-table" class="display" style="width:100%">
-        <thead>
+[Playtime 2 Weeks](playtime2weeks.md)
+
+<table id="charts-table" class="display" style="width:100%"><thead>
             <tr>
                 <th>Avatar</th>
                 <th>Name</th>
@@ -115,6 +113,13 @@ hide:
                     <td>141</td>
                 </tr>
                 <tr>
+                    <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                    <td>ツ</td>
+                    <td>76561198068302332</td>
+                    <td><a href="https://steamcommunity.com/id/Naomichloe/" target="_blank">Profil</a></td>
+                    <td></td>
+                </tr>
+                <tr>
                     <td><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                     <td>alexander.hopfe</td>
                     <td>76561198090894909</td>
@@ -127,6 +132,13 @@ hide:
                     <td>76561197987386127</td>
                     <td><a href="https://steamcommunity.com/profiles/76561197987386127/" target="_blank">Profil</a></td>
                     <td>80</td>
+                </tr>
+                <tr>
+                    <td><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                    <td>m93</td>
+                    <td>76561198153937434</td>
+                    <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">Profil</a></td>
+                    <td>55</td>
                 </tr>
                 <tr>
                     <td><img src="https://avatars.steamstatic.com/1080d0b6680c13d8ad37086de683791b549bbff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -155,13 +167,6 @@ hide:
                     <td>76561198112257105</td>
                     <td><a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank">Profil</a></td>
                     <td>42</td>
-                </tr>
-                <tr>
-                    <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                    <td>ツ</td>
-                    <td>76561198068302332</td>
-                    <td><a href="https://steamcommunity.com/id/Naomichloe/" target="_blank">Profil</a></td>
-                    <td></td>
                 </tr>
                 <tr>
                     <td><img src="https://avatars.steamstatic.com/d22bddc8695f515c5eac24ca3fc0dc330f4fd328_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
@@ -428,13 +433,6 @@ hide:
                     <td>76561197969764480</td>
                     <td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Profil</a></td>
                     <td>1891</td>
-                </tr>
-                <tr>
-                    <td><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                    <td>m93</td>
-                    <td>76561198153937434</td>
-                    <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">Profil</a></td>
-                    <td>55</td>
                 </tr>
                 <tr>
                     <td><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
