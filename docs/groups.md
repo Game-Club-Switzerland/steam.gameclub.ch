@@ -11,18 +11,18 @@ hide:
 <table id="charts-table" class="display" style="width:100%">
     <thead>
         <tr>
-            <th>GroupID64</th>
+            <th></th>
             <th>Name</th>
             <th>Members</th>
-            <th></th>
+            <th>GroupID64</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td><img src="https://avatars.fastly.steamstatic.com/01357566d6bc75a7840f3fe11895506f089c3e98.jpg" alt="avatarIcon" /><td>
             <td><a href="/group/103582791430857185">103582791430857185</a></td>
-            <td>Game Club Switzerland</td>
             <td>125</td>
-            <td></td>
+            <td><a href="/group/103582791430857185">Game Club Switzerland</a></td>
         </tr>        
     </tbody>
 </table>
