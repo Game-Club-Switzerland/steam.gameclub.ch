@@ -106,9 +106,27 @@ class SteamGameClubMarkdown:
             f.write("  - toc\n")
             f.write("---\n")
             f.write(f"# Steam Group - Members - In-Game\n\n")
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Avatar</th>
+                <th>Name</th>
+                <th>Game</th>
+                <th>Game ID</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
             for player in inGamePlayers:
-                f.write(f"<div>{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}</div>\n")
-                f.write(f"<br/>\n")
+                f.write(f"<tr>\n")
+                f.write(f"<td><img src=\"{inGamePlayers[player].get('avatarfull', '')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></td>\n")
+                f.write(f"<td><a href=\"/player/{player}\">{inGamePlayers[player].get('personaname')}</a></td>\n")
+                f.write(f"<td>{inGamePlayers[player].get('gameextrainfo', 'N/A')}</td>\n")
+                f.write(f"<td>{inGamePlayers[player].get('gameid', 'N/A')}</td>\n")
+                f.write(f"</tr>\n")
+                #f.write(f"<div>{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}</div>\n")
+                #f.write(f"<br/>\n")
+            f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'ingame.md' created.")
     
     @staticmethod
