@@ -1,8 +1,6 @@
 import os
 import json
 
-from torch import div
-
 class SteamGameClub:
     
     @staticmethod

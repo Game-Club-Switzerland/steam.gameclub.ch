@@ -11,24 +11,33 @@
     },
     "220": {
         "appid": "220",
-        "name": "Half-Life 2"
+        "name": "Half-Life 2",
+        "img_icon_url": "fcfb366051782b8ebf2aa297f3b746395858cb62"
     },
     "320": {
         "appid": "320",
-        "name": "Half-Life 2: Deathmatch"
+        "name": "Half-Life 2: Deathmatch",
+        "img_icon_url": "795e85364189511f4990861b578084deef086cb1"
     },
     "360": {
         "appid": "360",
-        "name": "Half-Life Deathmatch: Source"
+        "name": "Half-Life Deathmatch: Source",
+        "img_icon_url": "40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3"
     },
     "400": {
         "appid": "400",
-        "name": "Portal"
+        "name": "Portal",
+        "img_icon_url": "cfa928ab4119dd137e50d728e8fe703e4e970aff"
     },
     "730": {
         "appid": "730",
         "name": "Counter-Strike 2",
         "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+    },
+    "10180": {
+        "appid": "10180",
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "img_icon_url": "ad502494f1658220f9166c7e17ac90422bf6a479"
     },
     "1472930": {
         "appid": "1472930",
@@ -151,7 +160,8 @@
     },
     "10190": {
         "appid": "10190",
-        "name": "Call of Duty: Modern Warfare 2 (2009) - Multiplayer"
+        "name": "Call of Duty: Modern Warfare 2 (2009) - Multiplayer",
+        "img_icon_url": "7dd7c2d5bce2413131762d7cbee3f059614ed69d"
     },
     "728880": {
         "appid": "728880",
