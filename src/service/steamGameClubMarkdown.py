@@ -107,9 +107,7 @@ class SteamGameClubMarkdown:
             f.write("---\n")
             f.write(f"# Steam Group - Members - In-Game\n\n")
             for player in inGamePlayers:
-                print (player)
-                print (inGamePlayers[player])
-                f.write(f"{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}\n")
+                f.write(f"<div>{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}</div>\n")
                 f.write(f"<br/>\n")
         print("Markdown file 'ingame.md' created.")
     
@@ -192,11 +190,13 @@ class SteamGameClubMarkdown:
             f.write("  - toc\n")
             f.write("---\n")
             f.write(f"# {steamGroup['groupName']} - Members\n\n")
+            f.write(f"<div class=\"grid cards\" markdown>\n\n")
+            f.write(f"- :material-gamepad-variant: [Games](games.md)\n\n")
+            f.write(f"- :video_game: [In-Game](ingame.md)\n\n")
+            f.write(f"- :material-play: [Playtime](playtime.md)\n\n")
+            f.write(f"- :material-timer-play: [Playtime 2 Weeks](playtime2weeks.md)\n\n")
+            f.write(f"</div>\n")
             f.write(f"{steamGroupWidgetHtml}\n\n")
-            f.write(f"[Games](games.md)\n\n")
-            f.write(f"[In-Game](ingame.md)\n\n")
-            f.write(f"[Playtime](playtime.md)\n\n")
-            f.write(f"[Playtime 2 Weeks](playtime2weeks.md)\n\n")
             f.write(f"""<table id="charts-table" class="display" style="width:100%">""")
             f.write(f"""<thead>
             <tr>
@@ -213,7 +213,7 @@ class SteamGameClubMarkdown:
                     print (player)
                     f.write(f"""<tr>
                         <td><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td>{allPlayerSummaries[player].get('personaname')}</td>
+                        <td><a href="/player/{player}">{allPlayerSummaries[player].get('personaname')}</a></td>
                         <td>{allPlayerSummaries[player].get('steamid')}</td>
                         <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>""")
                     if 'game_count' in allPlayerGetOwnedGames[player]:
@@ -233,7 +233,7 @@ class SteamGameClubMarkdown:
     def createMarkdownFilePlayerIndex(allPlayerSummaries, allPlayerGetOwnedGames):
         output_dir = os.path.join(os.path.dirname(__file__), '../../docs')
         os.makedirs(output_dir, exist_ok=True)
-        with open(os.path.join(output_dir, f'player.md'), "w", encoding="utf-8") as f:
+        with open(os.path.join(output_dir, f'players.md'), "w", encoding="utf-8") as f:
             f.write("---\n")
             f.write("hide:\n")
             f.write("  - navigation\n")
@@ -252,13 +252,11 @@ class SteamGameClubMarkdown:
         </thead>
         <tbody>""")
             for player in allPlayerSummaries:
-                print (player)
-                
                 f.write(f"""<tr>
                     <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank"><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
-                    <td>{allPlayerSummaries[player].get('personaname')}</td>
+                    <td><a href="/player/{player}">{allPlayerSummaries[player].get('personaname')}</a></td>
                     <td>{allPlayerSummaries[player].get('steamid')}</td>
-                    <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>
+                    <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Steam Profil</a></td>
                     <td>{allPlayerGetOwnedGames[player].get('game_count', '')}</td>
                 </tr>
                 """)
