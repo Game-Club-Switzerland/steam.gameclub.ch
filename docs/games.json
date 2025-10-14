@@ -64,6 +64,16 @@
         "name": "Red Orchestra: Ostfront 41-45",
         "img_icon_url": "66519d69efc5b98bdafe61347db4ec8be01dff7b"
     },
+    "1230": {
+        "appid": "1230",
+        "name": "Mare Nostrum",
+        "img_icon_url": "1e1f56340d2d98a66a9b357257be8e020fb6061f"
+    },
+    "1280": {
+        "appid": "1280",
+        "name": "Darkest Hour: Europe '44-'45",
+        "img_icon_url": "fb56136d0327b403e276460aca1ff0f559b02215"
+    },
     "8930": {
         "appid": "8930",
         "name": "Sid Meier's Civilization V",
@@ -91,13 +101,13 @@
     },
     "42690": {
         "appid": "42690",
-        "name": "Call of Duty: Black Ops - Multiplayer",
-        "img_icon_url": "d595fb4b01201cade09e1232f2c41c0866840628"
+        "name": "Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer",
+        "img_icon_url": "c3330a875925437d8216949b6571f6e941ba0679"
     },
     "42710": {
         "appid": "42710",
-        "name": "Call of Duty®: Modern Warfare® 3 (2011)",
-        "img_icon_url": "c3330a875925437d8216949b6571f6e941ba0679"
+        "name": "Call of Duty: Black Ops - Multiplayer",
+        "img_icon_url": "d595fb4b01201cade09e1232f2c41c0866840628"
     },
     "107410": {
         "appid": "107410",
@@ -116,15 +126,43 @@
     },
     "1250410": {
         "appid": "1250410",
-        "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition"
+        "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+        "img_icon_url": "e374de450803dc212690bf721a14843a0dd2ad58"
     },
     "271590": {
         "appid": "271590",
-        "name": "Grand Theft Auto V Legacy"
+        "name": "Grand Theft Auto V Legacy",
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251"
     },
     "2169200": {
         "appid": "2169200",
-        "name": "Sniper Elite: Resistance"
+        "name": "Sniper Elite: Resistance",
+        "img_icon_url": "ff42cff6fe9771e468421603cb051fff1ba6f8d1"
+    },
+    "2567870": {
+        "appid": "2567870",
+        "name": "Chained Together",
+        "img_icon_url": "231b8f624ff26721431fe5749fa5ab5bccd75ff4"
+    },
+    "1561960": {
+        "appid": "1561960",
+        "name": "Yield! Fall of Rome",
+        "img_icon_url": "51e9e2af5b360dd9a56f58f76a6204d237a61f26"
+    },
+    "1285060": {
+        "appid": "1285060",
+        "name": "Winter Falling",
+        "img_icon_url": "2f36069ce17d0d462783b5041bd4b99de753b886"
+    },
+    "2680990": {
+        "appid": "2680990",
+        "name": "GUNTOUCHABLES Playtestx",
+        "img_icon_url": "c15efe5b46521835f62310398191d10739baef5d"
+    },
+    "2198150": {
+        "appid": "2198150",
+        "name": "Tiny Glade",
+        "img_icon_url": "cabab057d40458476ae363e7c6b8281d561cde7f"
     },
     "673950": {
         "appid": "673950",
