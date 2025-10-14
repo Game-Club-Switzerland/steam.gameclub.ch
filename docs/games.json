@@ -4,10 +4,30 @@
         "name": "Counter-Strike",
         "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5"
     },
+    "80": {
+        "appid": "80",
+        "name": "Counter-Strike: Condition Zero",
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+    },
+    "100": {
+        "appid": "100",
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+    },
+    "300": {
+        "appid": "300",
+        "name": "Day of Defeat: Source",
+        "img_icon_url": "062754bb5853b0534283ae27dc5d58200692b22d"
+    },
     "440": {
         "appid": "440",
         "name": "Team Fortress 2",
         "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213"
+    },
+    "620": {
+        "appid": "620",
+        "name": "Portal 2",
+        "img_icon_url": "25a5a16b2423bf7487ac5340b5b0948cef48c5f8"
     },
     "240": {
         "appid": "240",
@@ -39,15 +59,68 @@
         "name": "Counter-Strike 2",
         "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
     },
+    "1200": {
+        "appid": "1200",
+        "name": "Red Orchestra: Ostfront 41-45",
+        "img_icon_url": "66519d69efc5b98bdafe61347db4ec8be01dff7b"
+    },
+    "8930": {
+        "appid": "8930",
+        "name": "Sid Meier's Civilization V",
+        "img_icon_url": "fbe80c4743e226f0bf65559c91b12953d4446808"
+    },
     "10180": {
         "appid": "10180",
         "name": "Call of Duty: Modern Warfare 2 (2009)",
         "img_icon_url": "ad502494f1658220f9166c7e17ac90422bf6a479"
     },
+    "221100": {
+        "appid": "221100",
+        "name": "DayZ",
+        "img_icon_url": "16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d"
+    },
+    "252490": {
+        "appid": "252490",
+        "name": "Rust",
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+    },
+    "244850": {
+        "appid": "244850",
+        "name": "Space Engineers",
+        "img_icon_url": "f9856a90000d88e9a89441a7381fe9877e91eaca"
+    },
+    "42690": {
+        "appid": "42690",
+        "name": "Call of Duty: Black Ops - Multiplayer",
+        "img_icon_url": "d595fb4b01201cade09e1232f2c41c0866840628"
+    },
+    "42710": {
+        "appid": "42710",
+        "name": "Call of Duty®: Modern Warfare® 3 (2011)",
+        "img_icon_url": "c3330a875925437d8216949b6571f6e941ba0679"
+    },
+    "107410": {
+        "appid": "107410",
+        "name": "Arma 3",
+        "img_icon_url": "3212af52faf994c558bd622cb0f360c1ef295a6b"
+    },
     "1472930": {
         "appid": "1472930",
         "name": "Flock",
         "img_icon_url": "d86e1f92dd32768f5dc2de20cea5d443bf259898"
+    },
+    "359550": {
+        "appid": "359550",
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+    },
+    "1250410": {
+        "appid": "1250410",
+        "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition"
+    },
+    "271590": {
+        "appid": "271590",
+        "name": "Grand Theft Auto V Legacy"
     },
     "673950": {
         "appid": "673950",
