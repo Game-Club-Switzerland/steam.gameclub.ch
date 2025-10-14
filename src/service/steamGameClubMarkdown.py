@@ -27,7 +27,7 @@ class SteamGameClubMarkdown:
         return markdown
     
     @staticmethod
-    def createMarkdownFileGames(gameListwithAllPlayTime, allPlayerSummaries):
+    def createMarkdownFileGamesIndex(gameListwithAllPlayTime, allPlayerSummaries):
         print("Creating Markdown file for group games...")
 
         output_dir = os.path.join(os.path.dirname(__file__), '../../docs')
@@ -175,7 +175,7 @@ class SteamGameClubMarkdown:
         print("Markdown file 'games.md' created.")
     
     @staticmethod
-    def createMarkdownFileGroup(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames):
+    def createMarkdownFileGroupIndex(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames):
         if not steamGroup['members']:
             print("No members found.")
             return
@@ -221,15 +221,43 @@ class SteamGameClubMarkdown:
                 """)
             f.write("""
         </tbody>
-    </table>
-    <script>
-        $(document).ready(function() {
-            $('#steam-members').DataTable({
-                "pageLength": 25,
-                "language": {
-                    "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/de-DE.json"
-                }
-            });
-        });
-    </script>""")
+    </table>""")
         print("Markdown file Group 'index.md' created.")
+        
+    @staticmethod
+    def createMarkdownFilePlayerIndex(allPlayerSummaries, allPlayerGetOwnedGames):
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs')
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'player.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("#  - toc\n")
+            f.write("---\n")
+            f.write(f"# Player \n\n")
+            f.write(f"""<table id="charts-table" class="display" style="width:100%">""")
+            f.write(f"""<thead>
+            <tr>
+                <th>Avatar</th>
+                <th>Name</th>
+                <th>SteamID</th>
+                <th>Profile</th>
+                <th>Games</th>
+            </tr>
+        </thead>
+        <tbody>""")
+            for player in allPlayerSummaries:
+                print (player)
+                
+                f.write(f"""<tr>
+                    <td><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                    <td>{allPlayerSummaries[player].get('personaname')}</td>
+                    <td>{allPlayerSummaries[player].get('steamid')}</td>
+                    <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>
+                    <td>{allPlayerGetOwnedGames[player].get('game_count', '')}</td>
+                </tr>
+                """)
+            f.write("""
+        </tbody>
+    </table>""")
+        print("Markdown file Player 'player.md' created.")
