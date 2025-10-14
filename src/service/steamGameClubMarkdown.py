@@ -42,7 +42,7 @@ class SteamGameClubMarkdown:
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
-                <th>Appid</th>
+                <th></th>
                 <th>Name</th>
                 <th>Forever</th>
                 <th>Windows</th>
@@ -62,7 +62,7 @@ class SteamGameClubMarkdown:
                 if SteamGameClub:
                     if SteamGameClub.get('img_icon_url', ''):
                         f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{playerPlaytime}/{SteamGameClub.get('img_icon_url', '')}.jpg\" alt=\"{SteamGameClub.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a></td>\n")
-                        f.write(f"<td>{SteamGameClub.get('name', '')}</td>\n")
+                        f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
                     else:
                         f.write(f"<td></td>\n")
                         f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
@@ -128,7 +128,7 @@ class SteamGameClubMarkdown:
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
-                <th>Appid</th>
+                <th></th>
                 <th>Name</th>
                 <th>Forever</th>
                 <th>Windows</th>
@@ -148,7 +148,7 @@ class SteamGameClubMarkdown:
                 if SteamGameClub:
                     if SteamGameClub.get('img_icon_url', ''):
                         f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{playerPlaytime}/{SteamGameClub.get('img_icon_url', '')}.jpg\" alt=\"{SteamGameClub.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a></td>\n")
-                        f.write(f"<td>{SteamGameClub.get('name', '')}</td>\n")
+                        f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
                     else:
                         f.write(f"<td></td>\n")
                         f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
@@ -209,16 +209,21 @@ class SteamGameClubMarkdown:
         </thead>
         <tbody>""")
             for player in allPlayerSummaries:
-                print (player)
-                
-                f.write(f"""<tr>
-                    <td><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                    <td>{allPlayerSummaries[player].get('personaname')}</td>
-                    <td>{allPlayerSummaries[player].get('steamid')}</td>
-                    <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>
-                    <td>{allPlayerGetOwnedGames[player].get('game_count', '')}</td>
-                </tr>
-                """)
+                if player in allPlayerGetOwnedGames:
+                    print (player)
+                    f.write(f"""<tr>
+                        <td><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td>{allPlayerSummaries[player].get('personaname')}</td>
+                        <td>{allPlayerSummaries[player].get('steamid')}</td>
+                        <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>""")
+                    if 'game_count' in allPlayerGetOwnedGames[player]:
+                        f.write(f"""
+                        <td>{allPlayerGetOwnedGames[player].get('game_count', '')}</td>""")
+                    else:
+                        f.write(f"""
+                            <td></td>
+                        </tr>
+                        """)
             f.write("""
         </tbody>
     </table>""")
@@ -250,7 +255,7 @@ class SteamGameClubMarkdown:
                 print (player)
                 
                 f.write(f"""<tr>
-                    <td><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                    <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank"><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
                     <td>{allPlayerSummaries[player].get('personaname')}</td>
                     <td>{allPlayerSummaries[player].get('steamid')}</td>
                     <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Profil</a></td>

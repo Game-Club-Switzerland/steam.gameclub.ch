@@ -30,6 +30,10 @@ class SteamWebApi:
         if response.status_code == 200:
             if 'response' in response.json() and 'players' in response.json()['response'] and len(response.json()['response']['players']) > 0:
                 return response.json()['response']['players'][0]
+            else:
+                return None
+        else:
+            return None
     
     @staticmethod
     def fetchGetOwnedGames(steamids, apiKey):
@@ -38,6 +42,10 @@ class SteamWebApi:
         if response.status_code == 200:
             if 'response' in response.json():
                 return response.json()['response']
+            else:
+                return {'game_count': 0, 'games': []}
+        else:
+            return {'game_count': 0, 'games': []}
     
     @staticmethod
     def fetchGetRecentlyPlayedGames(steamids, apiKey):
@@ -47,6 +55,10 @@ class SteamWebApi:
         if response.status_code == 200:
             if 'response' in response.json():
                 return response.json()['response']
+            else:
+                return {'total_count': 0, 'games': []}
+        else:
+            return {'total_count': 0, 'games': []}
     
     @staticmethod
     # https://store.steampowered.com/api/appdetails/?appids=570&language=de
@@ -70,9 +82,13 @@ class SteamWebApi:
     def fetchAllPlayerGetOwnedGames(members, apiKey):
         allPlayerGetOwnedGames = {}
         for member in members:
-            print(f"Fetching owned games for SteamID: {member}")
-            getOwnedGames = SteamWebApi.fetchGetOwnedGames([member], apiKey)
-            allPlayerGetOwnedGames[member] = getOwnedGames
+            if member:
+                print(f"Fetching owned games for SteamID: {member}")
+                getOwnedGames = SteamWebApi.fetchGetOwnedGames([member], apiKey)
+                if getOwnedGames:
+                    allPlayerGetOwnedGames[member] = getOwnedGames
+                else:
+                    allPlayerGetOwnedGames[member] = {'game_count': 0, 'games': []}
         return allPlayerGetOwnedGames
 
     @staticmethod
@@ -81,7 +97,10 @@ class SteamWebApi:
         for member in members:
             print(f"Fetching recently played games for SteamID: {member}")
             recentlyPlayedGames = SteamWebApi.fetchGetRecentlyPlayedGames([member], apiKey)
-            allPlayerGetRecentlyPlayedGames[member] = recentlyPlayedGames
+            if recentlyPlayedGames:
+                allPlayerGetRecentlyPlayedGames[member] = recentlyPlayedGames
+            else:
+                allPlayerGetRecentlyPlayedGames[member] = {'total_count': 0, 'games': []}
         return allPlayerGetRecentlyPlayedGames
     
     @staticmethod
@@ -90,32 +109,36 @@ class SteamWebApi:
         for member in members:
             print(f"Fetching player summary for SteamID: {member}")
             playerSummary = SteamWebApi.fetchGetPlayerSummaries([member], apiKey)
-            allPlayerSummaries[member] = playerSummary
+            if playerSummary:
+                allPlayerSummaries[member] = playerSummary
+            else:
+                allPlayerSummaries[member] = {'steamid': member}
         return allPlayerSummaries
     
     @staticmethod
     def getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames):
         allGameDetails = {}
         for player in allPlayerSummaries:
-            if allPlayerGetOwnedGames[player]:
-                for game in allPlayerGetOwnedGames[player]['games']:
-                    appid = game.get('appid')
-                    if appid not in allGameDetails:
-                        print(f"Fetching app details for AppID: {appid}")
-                        #appDetails = SteamWebApi.fetchAppDetails(appid)
-                        allGameDetails[appid] = {}
-                        allGameDetails[appid]['playtime_forever'] = game.get('playtime_forever', '')
-                        allGameDetails[appid]['playtime_windows_forever'] = game.get('playtime_windows_forever', 0)
-                        allGameDetails[appid]['playtime_mac_forever'] = game.get('playtime_mac_forever', 0)
-                        allGameDetails[appid]['playtime_linux_forever'] = game.get('playtime_linux_forever', 0)
-                        allGameDetails[appid]['playtime_deck_forever'] = game.get('playtime_deck_forever', 0)
-                        allGameDetails[appid]['player'] = [player]
-                    else:
-                        # Sum playtime if app already exists form all Player
-                        allGameDetails[appid]['playtime_forever'] = allGameDetails[appid]['playtime_forever'] + game.get('playtime_forever')
-                        allGameDetails[appid]['playtime_windows_forever'] = allGameDetails[appid]['playtime_windows_forever'] + game.get('playtime_windows_forever', 0)
-                        allGameDetails[appid]['playtime_mac_forever'] = allGameDetails[appid]['playtime_mac_forever'] + game.get('playtime_mac_forever', 0)
-                        allGameDetails[appid]['playtime_linux_forever'] = allGameDetails[appid]['playtime_linux_forever'] + game.get('playtime_linux_forever', 0)
-                        allGameDetails[appid]['playtime_deck_forever'] = allGameDetails[appid]['playtime_deck_forever'] + game.get('playtime_deck_forever', 0)
-                        allGameDetails[appid]['player'].append(player)
+            if player in allPlayerGetOwnedGames:
+                if allPlayerGetOwnedGames[player]:
+                    for game in allPlayerGetOwnedGames[player]['games']:
+                        appid = game.get('appid')
+                        if appid not in allGameDetails:
+                            print(f"Fetching app details for AppID: {appid}")
+                            #appDetails = SteamWebApi.fetchAppDetails(appid)
+                            allGameDetails[appid] = {}
+                            allGameDetails[appid]['playtime_forever'] = game.get('playtime_forever', '')
+                            allGameDetails[appid]['playtime_windows_forever'] = game.get('playtime_windows_forever', 0)
+                            allGameDetails[appid]['playtime_mac_forever'] = game.get('playtime_mac_forever', 0)
+                            allGameDetails[appid]['playtime_linux_forever'] = game.get('playtime_linux_forever', 0)
+                            allGameDetails[appid]['playtime_deck_forever'] = game.get('playtime_deck_forever', 0)
+                            allGameDetails[appid]['player'] = [player]
+                        else:
+                            # Sum playtime if app already exists form all Player
+                            allGameDetails[appid]['playtime_forever'] = allGameDetails[appid]['playtime_forever'] + game.get('playtime_forever')
+                            allGameDetails[appid]['playtime_windows_forever'] = allGameDetails[appid]['playtime_windows_forever'] + game.get('playtime_windows_forever', 0)
+                            allGameDetails[appid]['playtime_mac_forever'] = allGameDetails[appid]['playtime_mac_forever'] + game.get('playtime_mac_forever', 0)
+                            allGameDetails[appid]['playtime_linux_forever'] = allGameDetails[appid]['playtime_linux_forever'] + game.get('playtime_linux_forever', 0)
+                            allGameDetails[appid]['playtime_deck_forever'] = allGameDetails[appid]['playtime_deck_forever'] + game.get('playtime_deck_forever', 0)
+                            allGameDetails[appid]['player'].append(player)
         return allGameDetails
