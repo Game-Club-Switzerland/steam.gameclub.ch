@@ -22,8 +22,6 @@ class SteamWebApi:
             steamGroup['avatarIcon'] = root.findtext('groupDetails/avatarIcon')
             steamGroup['groupURL'] = root.findtext('groupDetails/groupURL')
             return steamGroup
-        else:
-            response.raise_for_status()
     
     @staticmethod
     def fetchGetPlayerSummaries(steamids, apiKey):
@@ -32,8 +30,6 @@ class SteamWebApi:
         if response.status_code == 200:
             if 'response' in response.json() and 'players' in response.json()['response'] and len(response.json()['response']['players']) > 0:
                 return response.json()['response']['players'][0]
-        else:
-            response.raise_for_status()
     
     @staticmethod
     def fetchGetOwnedGames(steamids, apiKey):
@@ -42,8 +38,6 @@ class SteamWebApi:
         if response.status_code == 200:
             if 'response' in response.json():
                 return response.json()['response']
-        else:
-            response.raise_for_status()
     
     @staticmethod
     def fetchGetRecentlyPlayedGames(steamids, apiKey):
@@ -53,9 +47,6 @@ class SteamWebApi:
         if response.status_code == 200:
             if 'response' in response.json():
                 return response.json()['response']
-        else:
-            response.raise_for_status()
-            pass
     
     @staticmethod
     # https://store.steampowered.com/api/appdetails/?appids=570&language=de
@@ -66,10 +57,6 @@ class SteamWebApi:
             data = response.json()
             if str(appid) in data and data[str(appid)]['success']:
                 return data[str(appid)]['data']
-            else:
-                return None
-        else:
-            response.raise_for_status()
 
     @staticmethod
     # https://api.steampowered.com/ISteamApps/GetAppList/v0002/?language=de
@@ -78,8 +65,6 @@ class SteamWebApi:
         response = requests.get(url)
         if response.status_code == 200:
             return response.json()['applist']['apps']
-        else:
-            response.raise_for_status()
 
     @staticmethod
     def fetchAllPlayerGetOwnedGames(members, apiKey):
