@@ -148,6 +148,13 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
+                    <td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank"><img src="https://avatars.steamstatic.com/faa3fc7efb1b5a6fd17e8dbd1d883d5762ab0ada_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
+                    <td><a href="/player/76561198990547488">tamsin</a></td>
+                    <td>76561198990547488</td>
+                    <td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank">Steam Profil</a></td>
+                    <td>38</td>
+                </tr>
+                <tr>
                     <td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
                     <td><a href="/player/76561198042465028">TTV-P0LYTv</a></td>
                     <td>76561198042465028</td>
@@ -806,10 +813,10 @@ hide:
                     <td>55</td>
                 </tr>
                 <tr>
-                    <td><a href="None" target="_blank"><img src="None" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
-                    <td><a href="/player/76561198165631738">None</a></td>
+                    <td><a href="https://steamcommunity.com/profiles/76561198165631738/" target="_blank"><img src="https://avatars.steamstatic.com/86466f3b37dd219616d01467ba3b69a2dcdfde09_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
+                    <td><a href="/player/76561198165631738">jeremynyf</a></td>
                     <td>76561198165631738</td>
-                    <td><a href="None" target="_blank">Steam Profil</a></td>
+                    <td><a href="https://steamcommunity.com/profiles/76561198165631738/" target="_blank">Steam Profil</a></td>
                     <td>0</td>
                 </tr>
                 <tr>
@@ -874,13 +881,6 @@ hide:
                     <td>76561198951559117</td>
                     <td><a href="https://steamcommunity.com/profiles/76561198951559117/" target="_blank">Steam Profil</a></td>
                     <td>4</td>
-                </tr>
-                <tr>
-                    <td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank"><img src="https://avatars.steamstatic.com/faa3fc7efb1b5a6fd17e8dbd1d883d5762ab0ada_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
-                    <td><a href="/player/76561198990547488">tamsin</a></td>
-                    <td>76561198990547488</td>
-                    <td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank">Steam Profil</a></td>
-                    <td>38</td>
                 </tr>
                 <tr>
                     <td><a href="https://steamcommunity.com/id/beesheek/" target="_blank"><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>

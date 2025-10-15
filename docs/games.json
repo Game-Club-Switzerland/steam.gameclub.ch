@@ -54,6 +54,11 @@
         "name": "Portal",
         "img_icon_url": "cfa928ab4119dd137e50d728e8fe703e4e970aff"
     },
+    "500": {
+        "appid": "500",
+        "name": "Left 4 Dead",
+        "img_icon_url": "428df26bc35b09319e31b1ffb712487b20b3245c"
+    },
     "730": {
         "appid": "730",
         "name": "Counter-Strike 2",
@@ -74,6 +79,11 @@
         "name": "Darkest Hour: Europe '44-'45",
         "img_icon_url": "fb56136d0327b403e276460aca1ff0f559b02215"
     },
+    "4000": {
+        "appid": "4000",
+        "name": "Garry's Mod",
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b"
+    },
     "8930": {
         "appid": "8930",
         "name": "Sid Meier's Civilization V",
@@ -84,10 +94,25 @@
         "name": "Call of Duty: Modern Warfare 2 (2009)",
         "img_icon_url": "ad502494f1658220f9166c7e17ac90422bf6a479"
     },
+    "49520": {
+        "appid": "49520",
+        "name": "Borderlands 2",
+        "img_icon_url": "a3f4945226e69b6196074df4c776e342d3e5a3be"
+    },
+    "218620": {
+        "appid": "218620",
+        "name": "PAYDAY 2",
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414"
+    },
     "221100": {
         "appid": "221100",
         "name": "DayZ",
         "img_icon_url": "16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d"
+    },
+    "231430": {
+        "appid": "231430",
+        "name": "Company of Heroes 2",
+        "img_icon_url": "5e7e1866fb4f33a17393b0441cd1c750dbd91c5f"
     },
     "252490": {
         "appid": "252490",
@@ -103,6 +128,11 @@
         "appid": "42690",
         "name": "Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer",
         "img_icon_url": "c3330a875925437d8216949b6571f6e941ba0679"
+    },
+    "42700": {
+        "appid": "42700",
+        "name": "Call of Duty: Black Ops",
+        "img_icon_url": "ea744d59efded3feaeebcafed224be9eadde90ac"
     },
     "42710": {
         "appid": "42710",
@@ -123,6 +153,11 @@
         "appid": "359550",
         "name": "Tom Clancy's Rainbow Six® Siege X",
         "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+    },
+    "407530": {
+        "appid": "407530",
+        "name": "ARK: Survival Of The Fittest",
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
     },
     "1250410": {
         "appid": "1250410",

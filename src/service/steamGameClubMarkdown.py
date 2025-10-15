@@ -111,6 +111,7 @@ class SteamGameClubMarkdown:
             <tr>
                 <th>Avatar</th>
                 <th>Name</th>
+                <th>Steam Profile</th>
                 <th>Game</th>
                 <th>Game ID</th>
             </tr>
@@ -119,13 +120,17 @@ class SteamGameClubMarkdown:
     """)
             if len(inGamePlayers) == 0:
                 f.write(f"<tr>\n")
-                f.write(f"<td colspan=\"4\">Niemand ist im Spiel</td>\n")
+                f.write(f"<td></td>\n")
+                f.write(f"<td>Niemand ist im Spiel</td>\n")
+                f.write(f"<td></td>\n")
+                f.write(f"<td></td>\n")
                 f.write(f"</tr>\n")
             else:
                 for player in inGamePlayers:
                     f.write(f"<tr>\n")
                     f.write(f"<td><img src=\"{inGamePlayers[player].get('avatarfull', '')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></td>\n")
                     f.write(f"<td><a href=\"/player/{player}\">{inGamePlayers[player].get('personaname')}</a></td>\n")
+                    f.write(f"<td><a href=\"{inGamePlayers[player].get('profileurl', '')}\" target=\"_blank\">Profil</a></td>\n")
                     f.write(f"<td>{inGamePlayers[player].get('gameextrainfo', 'N/A')}</td>\n")
                     f.write(f"<td>{inGamePlayers[player].get('gameid', 'N/A')}</td>\n")
                     f.write(f"</tr>\n")
@@ -287,3 +292,103 @@ class SteamGameClubMarkdown:
         </tbody>
     </table>""")
         print("Markdown file Player 'player.md' created.")
+
+    def createMarkdownFileGroupPlaytime(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames):
+        if not steamGroup:
+            print("No members found.")
+            return
+
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'playtime.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# Steam Group - {steamGroup['groupName']} - Members - Playtime\n\n")
+                # Write DataTable HTML header
+            
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Player</th>
+                <th>Appid</th>
+                <th>Forever</th>
+                <th>Windows</th>
+                <th>Mac</th>
+                <th>Linux</th>
+                <th>Last Played</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            for playerPlaytime in allPlayerGetOwnedGames:
+                if allPlayerGetOwnedGames[playerPlaytime]:
+                    for game in allPlayerGetOwnedGames[playerPlaytime]['games']:
+                        #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
+                        #print(gameDetail)
+                        f.write(f"""<tr>
+                        <td><a href="{allPlayerSummaries[playerPlaytime].get('profileurl', '')}" target="_blank">{allPlayerSummaries[playerPlaytime].get('personaname', '')}</a></td>
+                        <td><a href="https://steamdb.info/app/{game.get('appid')}">{game.get('appid')}</a></td>
+                        <td>{game.get('playtime_forever', '')}</td>
+                        <td>{game.get('playtime_windows_forever', '')}</td>
+                        <td>{game.get('playtime_mac_forever', '')}</td>
+                        <td>{game.get('playtime_linux_forever', '')}</td>
+                        <td>{game.get('rtime_last_played', '')}</td>
+                    </tr>
+                    """)
+            f.write("""
+        </tbody>
+    </table>""")
+        print("Markdown file 'playtime.md' created.")
+        
+    def createMarkdownFileGroupPlaytime2Week(groupID64, steamGroup, allPlayerSummaries, allPlayerGetRecentlyPlayedGames):
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'playtime2weeks.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# Steam Group - {steamGroup['groupName']} - Members - Playtime 2 Weeks\n\n")
+                # Write DataTable HTML header
+            
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Player</th>
+                <th>Appid</th>
+                <th>Game Name</th>
+                <th>2 Weeks</th>
+                <th>Forever</th>
+                <th>Windows</th>
+                <th>Mac</th>
+                <th>Linux</th>
+                <th>Deck</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            for playerPlaytime in allPlayerGetRecentlyPlayedGames:
+                if allPlayerGetRecentlyPlayedGames[playerPlaytime]:
+                        if 'games' in allPlayerGetRecentlyPlayedGames[playerPlaytime]:
+                            for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
+                        #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
+                                f.write(f"""<tr>
+                        <td><a href="{allPlayerSummaries[playerPlaytime].get('profileurl', '')}" target="_blank">{allPlayerSummaries[playerPlaytime].get('personaname', '')}</a></td>
+                        <td><a href="https://steamdb.info/app/{game.get('appid', '')}">{game.get('appid', '')}</a></td>
+                        <td>{game.get('name', '')}</td>
+                        <td>{game.get('playtime_2weeks', '')}</td>
+                        <td>{game.get('playtime_forever', '')}</td>
+                        <td>{game.get('playtime_windows_forever', '')}</td>
+                        <td>{game.get('playtime_mac_forever', '')}</td>
+                        <td>{game.get('playtime_linux_forever', '')}</td>
+                        <td>{game.get('playtime_deck_forever', '')}</td>
+                    </tr>
+                    """)
+            f.write("""
+        </tbody>
+    </table>""")
+        print("Markdown file 'playtime2weeks.md' created.")

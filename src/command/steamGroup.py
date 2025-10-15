@@ -96,6 +96,7 @@ def main():
     steamGroup = steamWebApi.SteamWebApi().fetchSteamGroup(steamGroup64ID)
     allPlayerSummaries = steamWebApi.SteamWebApi().fetchAllPlayerSummaries(steamGroup['members'], STEAMWEBAPIKEY)
     allPlayerGetOwnedGames = steamWebApi.SteamWebApi().fetchAllPlayerGetOwnedGames(steamGroup['members'], STEAMWEBAPIKEY)
+    allPlayerGetRecentlyPlayedGames = steamWebApi.SteamWebApi().fetchAllPlayerGetRecentlyPlayedGames(steamGroup['members'], STEAMWEBAPIKEY)
     
     gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
 
@@ -103,6 +104,8 @@ def main():
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileInGamePlayer(steamGroup64ID, inGamePlayers)
     
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupIndex(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime2Week(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetRecentlyPlayedGames)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFilePlayerIndex(allPlayerSummaries, allPlayerGetOwnedGames)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGamesIndex(gameListwithAllPlayTime, allPlayerSummaries)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupGames(steamGroup64ID, steamGroup, gameListwithAllPlayTime, allPlayerSummaries)
