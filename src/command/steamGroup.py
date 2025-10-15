@@ -100,9 +100,7 @@ def main():
     gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
 
     inGamePlayers = steamGameClub.SteamGameClub.steamGroupInGamePlayer(steamGroup64ID, allPlayerSummaries)
-    if inGamePlayers:
-        print(f"Found {len(inGamePlayers)} players currently in-game.")
-        steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileInGamePlayer(steamGroup64ID, inGamePlayers)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileInGamePlayer(steamGroup64ID, inGamePlayers)
     
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupIndex(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFilePlayerIndex(allPlayerSummaries, allPlayerGetOwnedGames)

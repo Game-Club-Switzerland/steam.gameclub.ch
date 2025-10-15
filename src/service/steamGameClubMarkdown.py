@@ -117,15 +117,20 @@ class SteamGameClubMarkdown:
         </thead>
         <tbody>
     """)
-            for player in inGamePlayers:
+            if len(inGamePlayers) == 0:
                 f.write(f"<tr>\n")
-                f.write(f"<td><img src=\"{inGamePlayers[player].get('avatarfull', '')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></td>\n")
-                f.write(f"<td><a href=\"/player/{player}\">{inGamePlayers[player].get('personaname')}</a></td>\n")
-                f.write(f"<td>{inGamePlayers[player].get('gameextrainfo', 'N/A')}</td>\n")
-                f.write(f"<td>{inGamePlayers[player].get('gameid', 'N/A')}</td>\n")
+                f.write(f"<td colspan=\"4\">Niemand ist im Spiel</td>\n")
                 f.write(f"</tr>\n")
-                #f.write(f"<div>{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}</div>\n")
-                #f.write(f"<br/>\n")
+            else:
+                for player in inGamePlayers:
+                    f.write(f"<tr>\n")
+                    f.write(f"<td><img src=\"{inGamePlayers[player].get('avatarfull', '')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></td>\n")
+                    f.write(f"<td><a href=\"/player/{player}\">{inGamePlayers[player].get('personaname')}</a></td>\n")
+                    f.write(f"<td>{inGamePlayers[player].get('gameextrainfo', 'N/A')}</td>\n")
+                    f.write(f"<td>{inGamePlayers[player].get('gameid', 'N/A')}</td>\n")
+                    f.write(f"</tr>\n")
+                    #f.write(f"<div>{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}</div>\n")
+                    #f.write(f"<br/>\n")
             f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'ingame.md' created.")
     
