@@ -84,10 +84,20 @@
         "name": "Garry's Mod",
         "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b"
     },
+    "8500": {
+        "appid": "8500",
+        "name": "EVE Online",
+        "img_icon_url": "884d8c6482487e74b18ceef872ee9543a1c5828d"
+    },
     "8930": {
         "appid": "8930",
         "name": "Sid Meier's Civilization V",
         "img_icon_url": "fbe80c4743e226f0bf65559c91b12953d4446808"
+    },
+    "72850": {
+        "appid": "72850",
+        "name": "The Elder Scrolls V: Skyrim",
+        "img_icon_url": "b9aca8a189abd8d6aaf09047dbb0f57582683e1c"
     },
     "10180": {
         "appid": "10180",
@@ -103,6 +113,11 @@
         "appid": "218620",
         "name": "PAYDAY 2",
         "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414"
+    },
+    "202990": {
+        "appid": "202990",
+        "name": "Call of Duty: Black Ops II - Multiplayer",
+        "img_icon_url": "1f3a69123b4c7e47904dcd0c55e48c5522e30284"
     },
     "221100": {
         "appid": "221100",
@@ -124,6 +139,21 @@
         "name": "Space Engineers",
         "img_icon_url": "f9856a90000d88e9a89441a7381fe9877e91eaca"
     },
+    "392160": {
+        "appid": "392160",
+        "name": "X4: Foundations",
+        "img_icon_url": "89022109a84c57ed7e329933e42c1153e06c1096"
+    },
+    "1623730": {
+        "appid": "1623730",
+        "name": "Palworld",
+        "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73"
+    },
+    "377160": {
+        "appid": "377160",
+        "name": "Fallout 4",
+        "img_icon_url": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f"
+    },
     "42690": {
         "appid": "42690",
         "name": "Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer",
@@ -141,13 +171,18 @@
     },
     "107410": {
         "appid": "107410",
-        "name": "Arma 3",
-        "img_icon_url": "3212af52faf994c558bd622cb0f360c1ef295a6b"
+        "name": "SCUM",
+        "img_icon_url": "c25483e3e989239b932901118e44cf71606b5973"
     },
     "1472930": {
         "appid": "1472930",
         "name": "Flock",
         "img_icon_url": "d86e1f92dd32768f5dc2de20cea5d443bf259898"
+    },
+    "513710": {
+        "appid": "513710",
+        "name": "Tom Clancy's Rainbow Six® Siege",
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
     },
     "359550": {
         "appid": "359550",
