@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 21961
+**Forever:** 22820
 
 **Windows:** 0
 
@@ -19,8 +19,8 @@ hide:
 
 **Deck:** 0
 
-**Anzahl Players:** 3
-## 3 Player
+**Anzahl Players:** 4
+## 4 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -44,6 +44,8 @@ hide:
 <tr>
 <td><a href="https://steamcommunity.com/id/wasoen/" target="_blank"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975664729">wasoen</a></td><td>76561197975664729</td><td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Steam Profil</a></td><td>19058</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank"><img src="https://avatars.steamstatic.com/8de675938148c0df03b2db741e544543c0bf0c41_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198040885982">☠SENTINEL☠</a></td><td>76561198040885982</td><td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank">Steam Profil</a></td><td>1316</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank"><img src="https://avatars.steamstatic.com/1f669976d9bc2680ccad3a8869dd3108d7897818_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198012900634">Mudi2</a></td><td>76561198012900634</td><td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank">Steam Profil</a></td><td>859</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
+<td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank"><img src="https://avatars.steamstatic.com/8de675938148c0df03b2db741e544543c0bf0c41_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198040885982">☠SENTINEL☠</a></td><td>76561198040885982</td><td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank">Steam Profil</a></td><td>1316</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

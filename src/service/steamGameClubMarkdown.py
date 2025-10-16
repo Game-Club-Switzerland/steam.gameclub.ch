@@ -462,6 +462,10 @@ class SteamGameClubMarkdown:
                                     f.write(f"<td>{game.get('playtime_2weeks', 0)}</td>")
                                 else:
                                     f.write(f"<td></td>")
+                            else:
+                                f.write(f"<td></td>")
+                        else:   
+                            f.write(f"<td></td>")
                     f.write(f"</tr>\n")
                 f.write(f"</tbody>\n</table>\n")
             else:
