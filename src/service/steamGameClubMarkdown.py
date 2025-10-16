@@ -25,7 +25,23 @@ class SteamGameClubMarkdown:
                 markdown += f"![Screenshot]({screenshot['path_full']})\n\n"
         
         return markdown
-    
+
+    @staticmethod
+    def getAppDetailsHtmlTd(appid):
+        createTd = ""
+        SteamGameClub = steamGameClub.SteamGameClub.getGameDetails(appid)
+        if SteamGameClub:
+            if SteamGameClub.get('img_icon_url', ''):
+                createTd = f"<td><a href=\"https://steamdb.info/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{SteamGameClub.get('img_icon_url', '')}.jpg\" alt=\"{SteamGameClub.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a></td>\n"
+                createTd += f"<td><a href=\"https://steamdb.info/app/{appid}\">{SteamGameClub.get('name', '')}</a></td>\n"
+            else:
+                createTd = f"<td></td>\n"
+                createTd += f"<td><a href=\"https://steamdb.info/app/{appid}\">{SteamGameClub.get('name', '')}</a></td>\n"
+        else:
+            createTd = f"<td></td>\n"
+            createTd += f"<td><a href=\"https://steamdb.info/app/{appid}\">{appid}</a></td>\n"
+        return createTd
+
     @staticmethod
     def createMarkdownFileGamesIndex(gameListwithAllPlayTime, allPlayerSummaries):
         print("Creating Markdown file for group games...")
@@ -58,17 +74,7 @@ class SteamGameClubMarkdown:
             for playerPlaytime in gameListwithAllPlayTime:
                 print (playerPlaytime)
                 f.write(f"<tr>\n")
-                SteamGameClub = steamGameClub.SteamGameClub.getGameDetails(playerPlaytime)
-                if SteamGameClub:
-                    if SteamGameClub.get('img_icon_url', ''):
-                        f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{playerPlaytime}/{SteamGameClub.get('img_icon_url', '')}.jpg\" alt=\"{SteamGameClub.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a></td>\n")
-                        f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
-                    else:
-                        f.write(f"<td></td>\n")
-                        f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
-                else:
-                    f.write(f"<td></td>\n")
-                    f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{playerPlaytime}</a></td>\n")
+                f.write(SteamGameClubMarkdown.getAppDetailsHtmlTd(playerPlaytime))
                 f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_forever', '')}</td>\n")
                 f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_windows_forever', '')}</td>\n")
                 f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_mac_forever', '')}</td>\n")
@@ -106,37 +112,40 @@ class SteamGameClubMarkdown:
             f.write("  - toc\n")
             f.write("---\n")
             f.write(f"# Steam Group - Members - In-Game\n\n")
-            f.write("""<table id="charts-table" class="display" style="width:100%">
-        <thead>
-            <tr>
-                <th>Avatar</th>
-                <th>Name</th>
-                <th>Steam Profile</th>
-                <th>Game</th>
-                <th>Game ID</th>
-            </tr>
-        </thead>
-        <tbody>
-    """)
             if len(inGamePlayers) == 0:
-                f.write(f"<tr>\n")
-                f.write(f"<td></td>\n")
-                f.write(f"<td>Niemand ist im Spiel</td>\n")
-                f.write(f"<td></td>\n")
-                f.write(f"<td></td>\n")
-                f.write(f"</tr>\n")
+                f.write(f"<p>Niemand ist im Spiel.</p>\n")
             else:
-                for player in inGamePlayers:
+                f.write("""<table id="charts-table" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Avatar</th>
+                    <th>Name</th>
+                    <th>Steam Profile</th>
+                    <th>Game</th>
+                    <th>Game ID</th>
+                </tr>
+            </thead>
+            <tbody>
+        """)
+                if len(inGamePlayers) == 0:
                     f.write(f"<tr>\n")
-                    f.write(f"<td><img src=\"{inGamePlayers[player].get('avatarfull', '')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></td>\n")
-                    f.write(f"<td><a href=\"/player/{player}\">{inGamePlayers[player].get('personaname')}</a></td>\n")
-                    f.write(f"<td><a href=\"{inGamePlayers[player].get('profileurl', '')}\" target=\"_blank\">Profil</a></td>\n")
-                    f.write(f"<td>{inGamePlayers[player].get('gameextrainfo', 'N/A')}</td>\n")
-                    f.write(f"<td>{inGamePlayers[player].get('gameid', 'N/A')}</td>\n")
+                    f.write(f"<td></td>\n")
+                    f.write(f"<td>Niemand ist im Spiel</td>\n")
+                    f.write(f"<td></td>\n")
+                    f.write(f"<td></td>\n")
                     f.write(f"</tr>\n")
-                    #f.write(f"<div>{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}</div>\n")
-                    #f.write(f"<br/>\n")
-            f.write(f"</tbody>\n</table>\n")
+                else:
+                    for player in inGamePlayers:
+                        f.write(f"<tr>\n")
+                        f.write(f"<td><img src=\"{inGamePlayers[player].get('avatarfull', '')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></td>\n")
+                        f.write(f"<td><a href=\"/player/{player}\">{inGamePlayers[player].get('personaname')}</a></td>\n")
+                        f.write(f"<td><a href=\"{inGamePlayers[player].get('profileurl', '')}\" target=\"_blank\">Profil</a></td>\n")
+                        f.write(f"<td>{inGamePlayers[player].get('gameextrainfo', 'N/A')}</td>\n")
+                        f.write(f"<td>{inGamePlayers[player].get('gameid', 'N/A')}</td>\n")
+                        f.write(f"</tr>\n")
+                        #f.write(f"<div>{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}</div>\n")
+                        #f.write(f"<br/>\n")
+                f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'ingame.md' created.")
     
     @staticmethod
@@ -170,17 +179,7 @@ class SteamGameClubMarkdown:
             for playerPlaytime in gameListwithAllPlayTime:
                 print (playerPlaytime)
                 f.write(f"<tr>\n")
-                SteamGameClub = steamGameClub.SteamGameClub.getGameDetails(playerPlaytime)
-                if SteamGameClub:
-                    if SteamGameClub.get('img_icon_url', ''):
-                        f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{playerPlaytime}/{SteamGameClub.get('img_icon_url', '')}.jpg\" alt=\"{SteamGameClub.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a></td>\n")
-                        f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
-                    else:
-                        f.write(f"<td></td>\n")
-                        f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{SteamGameClub.get('name', '')}</a></td>\n")
-                else:
-                    f.write(f"<td><a href=\"https://steamdb.info/app/{playerPlaytime}\">{playerPlaytime}</a></td>\n")
-                    f.write(f"<td></td>\n")
+                f.write(SteamGameClubMarkdown.getAppDetailsHtmlTd(playerPlaytime))
                 f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_forever', '')}</td>\n")
                 f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_windows_forever', '')}</td>\n")
                 f.write(f"<td>{gameListwithAllPlayTime[playerPlaytime].get('playtime_mac_forever', '')}</td>\n")
@@ -318,7 +317,6 @@ class SteamGameClubMarkdown:
                 <th>Windows</th>
                 <th>Mac</th>
                 <th>Linux</th>
-                <th>Last Played</th>
             </tr>
         </thead>
         <tbody>
@@ -335,7 +333,6 @@ class SteamGameClubMarkdown:
                         <td>{game.get('playtime_windows_forever', '')}</td>
                         <td>{game.get('playtime_mac_forever', '')}</td>
                         <td>{game.get('playtime_linux_forever', '')}</td>
-                        <td>{game.get('rtime_last_played', '')}</td>
                     </tr>
                     """)
             f.write("""
