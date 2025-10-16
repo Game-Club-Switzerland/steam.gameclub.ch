@@ -100,15 +100,24 @@ def main():
     
     gameListwithAllPlayTime = steamWebApi.SteamWebApi().getAllGameDetails(allPlayerSummaries, allPlayerGetOwnedGames)
 
+    # In-Game Players
     inGamePlayers = steamGameClub.SteamGameClub.steamGroupInGamePlayer(steamGroup64ID, allPlayerSummaries)
-    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileInGamePlayer(steamGroup64ID, inGamePlayers)
     
-    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupIndex(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
-    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
-    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime2Week(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetRecentlyPlayedGames)
+    
+    # Indexes
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFilePlayerIndex(allPlayerSummaries, allPlayerGetOwnedGames)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGamesIndex(gameListwithAllPlayTime, allPlayerSummaries)
+    
+    # Game Groups
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupIndex(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupGames(steamGroup64ID, steamGroup, gameListwithAllPlayTime, allPlayerSummaries)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileInGamePlayer(steamGroup64ID, inGamePlayers)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime2Week(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetRecentlyPlayedGames)
+    
+    # Game Apps
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileApps(gameListwithAllPlayTime, allPlayerSummaries)
+
     steam_group_widget_html(steamGroup)
     steam_group_Javascript_widget(steamGroup)
 

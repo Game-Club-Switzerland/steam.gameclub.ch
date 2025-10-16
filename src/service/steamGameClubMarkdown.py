@@ -92,7 +92,7 @@ class SteamGameClubMarkdown:
                 f.write(f"<td>{player_html}</td>\n")
                 f.write(f"</tr>\n")
             f.write(f"</tbody>\n</table>\n")
-        print("Markdown file 'steam_games.md' created.")
+        print("Markdown file 'games.md' created.")
         
     @staticmethod
     def createSteamProfileWidget(steamProfile):
@@ -389,3 +389,86 @@ class SteamGameClubMarkdown:
         </tbody>
     </table>""")
         print("Markdown file 'playtime2weeks.md' created.")
+
+    def createMarkdownFileAppDetails(appid, gameListwithAllPlayTime, allPlayerSummaries):
+        gameDetails = steamGameClub.SteamGameClub.getGameDetails(appid)
+        
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/game/', str(appid))
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'index.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            if gameDetails:
+                if gameDetails.get('img_icon_url', ''):
+                    f.write(f"#  <a href=\"https://steamdb.info/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{gameDetails.get('img_icon_url', '')}.jpg\" alt=\"{gameDetails.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a>\n\n")
+                else:
+                    f.write(f"# <a href=\"https://steamdb.info/app/{appid}\">{gameDetails.get('name', '')}</a>\n\n")
+            else:
+                f.write(f"# <a href=\"https://steamdb.info/app/{appid}\">{appid}</a>\n\n")
+            f.write(f"**App ID:** {appid}\n\n")
+            f.write(f"## Playtime\n\n")
+            f.write(f"**playtime_forever:** {gameListwithAllPlayTime[appid].get('playtime_forever', '')}\n")
+            f.write(f"**playtime_windows_forever:** {gameListwithAllPlayTime[appid].get('playtime_windows_forever', '')}\n")
+            f.write(f"**playtime_mac_forever:** {gameListwithAllPlayTime[appid].get('playtime_mac_forever', '')}\n")
+            f.write(f"**playtime_linux_forever:** {gameListwithAllPlayTime[appid].get('playtime_linux_forever', '')}\n")
+            f.write(f"**playtime_deck_forever:** {gameListwithAllPlayTime[appid].get('playtime_deck_forever', '')}\n")
+            f.write(f"**Anzahl Players:** {len(gameListwithAllPlayTime[appid].get('player', []))}\n")
+            f.write(f"## Player\n\n")
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>SteamID</th>
+                <th>Profile</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            for player in gameListwithAllPlayTime[appid].get('player', []):
+                f.write(f"<tr>\n")
+                f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\"><img src=\"{allPlayerSummaries[player].get('avatarfull')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></a></td>")
+                f.write(f"<td><a href=\"/player/{player}\">{allPlayerSummaries[player].get('personaname')}</a></td>")
+                f.write(f"<td>{allPlayerSummaries[player].get('steamid')}</td>")
+                f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\">Steam Profil</a></td>")
+                f.write(f"</tr>\n")
+        f.write(f"</tbody>\n</table>\n")
+            
+        print(f"Markdown file for App ID {appid} created.")
+        
+    def createMarkdownFileApps(gameListwithAllPlayTime, allPlayerSummaries):
+        if not gameListwithAllPlayTime:
+            print("No game data provided.")
+            return
+
+        for gameData in gameListwithAllPlayTime:
+            SteamGameClubMarkdown.createMarkdownFileAppDetails(gameListwithAllPlayTime[gameData], allPlayerSummaries)
+
+    def createMarkdownFilePlayerDetail(player):
+        if not player:
+            print("No player data provided.")
+            return
+        
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/player/', player['steamid'])
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'index.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# {player.get('personaname', 'Unknown Player')}\n\n")
+            f.write(f"**SteamID:** {player.get('steamid', 'N/A')}\n\n")
+            f.write(f"**Profile:** [Link]({player.get('profileurl', '#')})\n\n")
+            if 'avatarfull' in player:
+                f.write(f"![Avatar]({player['avatarfull']})\n\n")
+            f.write(f"**Real Name:** {player.get('realname', 'N/A')}\n\n")
+            if 'loccityid' in player or 'locstatecode' in player or 'loccountrycode' in player:
+                f.write("### Location\n\n")
+                f.write(f"**Location:** {player.get('loccountrycode', 'N/A')}\n\n")
+                f.write(f"**State:** {player.get('locstatecode', 'N/A')}\n\n")
+                f.write(f"**City ID:** {player.get('loccityid', 'N/A')}\n\n")
+        print(f"Markdown file for player {player.get('personaname', 'Unknown Player')} created.")
