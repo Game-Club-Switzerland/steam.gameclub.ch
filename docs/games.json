@@ -84,6 +84,16 @@
         "name": "Garry's Mod",
         "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b"
     },
+    "4560": {
+        "appid": "4560",
+        "name": "Company of Heroes - Legacy Edition",
+        "img_icon_url": "64946619217da497c9b29bc817bb40dd7d28c912"
+    },
+    "4760": {
+        "appid": "4760",
+        "name": "Rome: Total War",
+        "img_icon_url": "5dc68565149dc971af6428157bcb600d80690080"
+    },
     "8500": {
         "appid": "8500",
         "name": "EVE Online",
@@ -139,10 +149,35 @@
         "name": "Space Engineers",
         "img_icon_url": "f9856a90000d88e9a89441a7381fe9877e91eaca"
     },
+    "34330": {
+        "appid": "34330",
+        "name": "Total War: SHOGUN 2",
+        "img_icon_url": "2fa97296a62daf0329b3867ad6837a2289229fbb"
+    },
     "392160": {
         "appid": "392160",
         "name": "X4: Foundations",
         "img_icon_url": "89022109a84c57ed7e329933e42c1153e06c1096"
+    },
+    "220200": {
+        "appid": "220200",
+        "name": "Kerbal Space Program",
+        "img_icon_url": "6dc8c1377c6b0ffedaeaec59c253f8c33fb3e62b"
+    },
+    "214950": {
+        "appid": "214950",
+        "name": "Path of Exile 2",
+        "img_icon_url": "fa8ff2005f65d0cbc7403a5b18ca77c0bbc9d05a"
+    },
+    "290080": {
+        "appid": "290080",
+        "name": "Life is Feudal: Your Own",
+        "img_icon_url": "e78ba7a1d2c9397853fdfeacf4aa1a781e58824e"
+    },
+    "2694490": {
+        "appid": "2694490",
+        "name": "The Last of Us Part I",
+        "img_icon_url": "f4e2e3a5f1e1e4c3b6f0c8e2f4d6a7b8c9d0e1f2"
     },
     "1623730": {
         "appid": "1623730",
@@ -171,8 +206,13 @@
     },
     "107410": {
         "appid": "107410",
-        "name": "SCUM",
-        "img_icon_url": "c25483e3e989239b932901118e44cf71606b5973"
+        "name": "Arma 3",
+        "img_icon_url": "3212af52faf994c558bd622cb0f360c1ef295a6b"
+    },
+    "24960": {
+        "appid": "24960",
+        "name": "Battlefield: Bad Company™ 2",
+        "img_icon_url": "3a8b5c53efd00554eb3315681754974c3edf1c41"
     },
     "1472930": {
         "appid": "1472930",
@@ -181,8 +221,13 @@
     },
     "513710": {
         "appid": "513710",
-        "name": "Tom Clancy's Rainbow Six® Siege",
-        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+        "name": "SCUM",
+        "img_icon_url": "c25483e3e989239b932901118e44cf71606b5973"
+    },
+    "427520": {
+        "appid": "427520",
+        "name": "Factorio",
+        "img_icon_url": "267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d"
     },
     "359550": {
         "appid": "359550",
@@ -213,6 +258,16 @@
         "appid": "2567870",
         "name": "Chained Together",
         "img_icon_url": "231b8f624ff26721431fe5749fa5ab5bccd75ff4"
+    },
+    "292030": {
+        "appid": "292030",
+        "name": "The Witcher 3: Wild Hunt",
+        "img_icon_url": "78d0ff98b67851f24539cdf2402cf147679134f4"
+    },
+    "544550": {
+        "appid": "544550",
+        "name": "Stationeers",
+        "img_icon_url": "2111b7ad54c3d3ed9b4b1afed7d99336270c13e3"
     },
     "1561960": {
         "appid": "1561960",
@@ -303,6 +358,11 @@
         "appid": "221380",
         "name": "Age of Empires II (2013)",
         "img_icon_url": "109c74df17f9b67ea47d8f01e3d1ec25278b9f73"
+    },
+    "895400": {
+        "appid": "895400",
+        "name": "Deadside",
+        "img_icon_url": "084d1cc38c922bd38cfe1daff75583f58eb2ead2"
     },
     "945360": {
         "appid": "945360",
