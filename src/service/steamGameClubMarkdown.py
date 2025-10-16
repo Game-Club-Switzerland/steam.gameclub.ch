@@ -410,42 +410,40 @@ class SteamGameClubMarkdown:
                 f.write(f"# <a href=\"https://steamdb.info/app/{appid}\">{appid}</a>\n\n")
             f.write(f"**App ID:** {appid}\n\n")
             f.write(f"## Playtime\n\n")
-            f.write(f"**playtime_forever:** {gameListwithAllPlayTime[appid].get('playtime_forever', '')}\n")
-            f.write(f"**playtime_windows_forever:** {gameListwithAllPlayTime[appid].get('playtime_windows_forever', '')}\n")
-            f.write(f"**playtime_mac_forever:** {gameListwithAllPlayTime[appid].get('playtime_mac_forever', '')}\n")
-            f.write(f"**playtime_linux_forever:** {gameListwithAllPlayTime[appid].get('playtime_linux_forever', '')}\n")
-            f.write(f"**playtime_deck_forever:** {gameListwithAllPlayTime[appid].get('playtime_deck_forever', '')}\n")
-            f.write(f"**Anzahl Players:** {len(gameListwithAllPlayTime[appid].get('player', []))}\n")
+            f.write(f"**playtime_forever:** {gameListwithAllPlayTime.get('playtime_forever', '')}\n")
+            f.write(f"**playtime_windows_forever:** {gameListwithAllPlayTime.get('playtime_windows_forever', '')}\n")
+            f.write(f"**playtime_mac_forever:** {gameListwithAllPlayTime.get('playtime_mac_forever', '')}\n")
+            f.write(f"**playtime_linux_forever:** {gameListwithAllPlayTime.get('playtime_linux_forever', '')}\n")
+            f.write(f"**playtime_deck_forever:** {gameListwithAllPlayTime.get('playtime_deck_forever', '')}\n")
+            f.write(f"**Anzahl Players:** {len(gameListwithAllPlayTime.get('player', []))}\n")
             f.write(f"## Player\n\n")
-            f.write("""<table id="charts-table" class="display" style="width:100%">
-        <thead>
-            <tr>
-                <th></th>
-                <th>Name</th>
-                <th>SteamID</th>
-                <th>Profile</th>
-            </tr>
-        </thead>
-        <tbody>
-    """)
-            for player in gameListwithAllPlayTime[appid].get('player', []):
-                f.write(f"<tr>\n")
-                f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\"><img src=\"{allPlayerSummaries[player].get('avatarfull')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></a></td>")
-                f.write(f"<td><a href=\"/player/{player}\">{allPlayerSummaries[player].get('personaname')}</a></td>")
-                f.write(f"<td>{allPlayerSummaries[player].get('steamid')}</td>")
-                f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\">Steam Profil</a></td>")
-                f.write(f"</tr>\n")
-        f.write(f"</tbody>\n</table>\n")
-            
+            if gameListwithAllPlayTime.get('player', []):
+                f.write("""<table id="charts-table" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Name</th>
+                    <th>SteamID</th>
+                    <th>Profile</th>
+                </tr>
+            </thead>
+            <tbody>
+        """)
+                for player in gameListwithAllPlayTime.get('player', []):
+                    f.write(f"<tr>\n")
+                    f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\"><img src=\"{allPlayerSummaries[player].get('avatarfull')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></a></td>")
+                    f.write(f"<td><a href=\"/player/{player}\">{allPlayerSummaries[player].get('personaname')}</a></td>")
+                    f.write(f"<td>{allPlayerSummaries[player].get('steamid')}</td>")
+                    f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\">Steam Profil</a></td>")
+                    f.write(f"</tr>\n")
+                f.write(f"</tbody>\n</table>\n")
+            else:
+                f.write(f"<p>Keine Spieler gefunden.</p>\n")
         print(f"Markdown file for App ID {appid} created.")
         
     def createMarkdownFileApps(gameListwithAllPlayTime, allPlayerSummaries):
-        if not gameListwithAllPlayTime:
-            print("No game data provided.")
-            return
-
         for gameData in gameListwithAllPlayTime:
-            SteamGameClubMarkdown.createMarkdownFileAppDetails(gameListwithAllPlayTime[gameData], allPlayerSummaries)
+            SteamGameClubMarkdown.createMarkdownFileAppDetails(gameData, gameListwithAllPlayTime[gameData], allPlayerSummaries)
 
     def createMarkdownFilePlayerDetail(player):
         if not player:
