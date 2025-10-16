@@ -106,13 +106,6 @@ hide:
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank"><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
-                    <td><a href="/player/76561198153937434">m93</a></td>
-                    <td>76561198153937434</td>
-                    <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">Steam Profil</a></td>
-                    <td>55</td>
-                </tr>
-                <tr>
                     <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
                     <td><a href="/player/76561198130026522">piipmatz</a></td>
                     <td>76561198130026522</td>
@@ -244,6 +237,13 @@ hide:
                     <td>76561197969764480</td>
                     <td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td>
                     <td>1892</td>
+                </tr>
+                <tr>
+                    <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank"><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
+                    <td><a href="/player/76561198153937434">m93</a></td>
+                    <td>76561198153937434</td>
+                    <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">Steam Profil</a></td>
+                    <td>55</td>
                 </tr>
                 <tr>
                     <td><a href="https://steamcommunity.com/profiles/76561197983320063/" target="_blank"><img src="https://avatars.steamstatic.com/ed991f6d5179dc549b75fe114371e6a51b5bd9bc_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>

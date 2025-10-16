@@ -440,8 +440,8 @@ class SteamGameClubMarkdown:
                     if allPlayerGetOwnedGames[player]:
                         if allPlayerGetOwnedGames[player]['games']:
                             if appid in allPlayerGetOwnedGames[player]['games']:
-                                f.write(f"<td>{allPlayerGetOwnedGames[player]['games'][appid].get('playtime_forever', 0)}</td>")
-                                f.write(f"<td>{allPlayerGetRecentlyPlayedGames[player]['games'][appid].get('playtime_2weeks', 0)}</td>")
+                                f.write(f"<td>{allPlayerGetOwnedGames[player]['games'].get('playtime_forever', 0)}</td>")
+                                f.write(f"<td>{allPlayerGetOwnedGames[player]['games'].get('playtime_2weeks', 0)}</td>")
                             else:
                                 f.write(f"<td></td>")
                                 f.write(f"<td></td>")
