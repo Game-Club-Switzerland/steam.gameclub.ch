@@ -20,7 +20,7 @@ hide:
 **Deck:** 0
 
 **Anzahl Players:** 4
-## Player
+## 4 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -30,17 +30,22 @@ hide:
                     <th>SteamID</th>
                     <th>Profile</th>
                     <th>Playtime Forever</th>
+                    <th>Windows</th>
+                    <th>Mac</th>
+                    <th>Linux</th>
+                    <th>Deck</th>
+                    <th>Last Played</th>
                     <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td>307</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197986218171">[DMH] Rexon</a></td><td>76561197986218171</td><td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197986218171">[DMH] Rexon</a></td><td>76561197986218171</td><td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Steam Profil</a></td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank"><img src="https://avatars.steamstatic.com/b1a566f4c88a09457b86b1249801cf508bca625b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033175487">3W | Myrmidon</a></td><td>76561198033175487</td><td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank"><img src="https://avatars.steamstatic.com/b1a566f4c88a09457b86b1249801cf508bca625b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033175487">3W | Myrmidon</a></td><td>76561198033175487</td><td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

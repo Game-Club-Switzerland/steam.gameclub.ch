@@ -20,7 +20,7 @@ hide:
 **Deck:** 0
 
 **Anzahl Players:** 3
-## Player
+## 3 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -30,15 +30,20 @@ hide:
                     <th>SteamID</th>
                     <th>Profile</th>
                     <th>Playtime Forever</th>
+                    <th>Windows</th>
+                    <th>Mac</th>
+                    <th>Linux</th>
+                    <th>Deck</th>
+                    <th>Last Played</th>
                     <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td>252</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td>29</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td>69</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

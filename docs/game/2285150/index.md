@@ -20,7 +20,7 @@ hide:
 **Deck:** 0
 
 **Anzahl Players:** 2
-## Player
+## 2 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -30,13 +30,18 @@ hide:
                     <th>SteamID</th>
                     <th>Profile</th>
                     <th>Playtime Forever</th>
+                    <th>Windows</th>
+                    <th>Mac</th>
+                    <th>Linux</th>
+                    <th>Deck</th>
+                    <th>Last Played</th>
                     <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td>110</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank"><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960504659">cortez</a></td><td>76561197960504659</td><td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank"><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960504659">cortez</a></td><td>76561197960504659</td><td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Steam Profil</a></td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

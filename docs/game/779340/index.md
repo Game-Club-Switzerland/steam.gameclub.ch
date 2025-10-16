@@ -20,7 +20,7 @@ hide:
 **Deck:** 0
 
 **Anzahl Players:** 3
-## Player
+## 3 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -30,15 +30,20 @@ hide:
                     <th>SteamID</th>
                     <th>Profile</th>
                     <th>Playtime Forever</th>
+                    <th>Windows</th>
+                    <th>Mac</th>
+                    <th>Linux</th>
+                    <th>Deck</th>
+                    <th>Last Played</th>
                     <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/sharegc/" target="_blank"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/sharegc/" target="_blank"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td>76</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td>441</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>3177</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 14096
+**Forever:** 9345
 
 **Windows:** 0
 
@@ -19,8 +19,8 @@ hide:
 
 **Deck:** 0
 
-**Anzahl Players:** 4
-## Player
+**Anzahl Players:** 3
+## 3 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -30,17 +30,20 @@ hide:
                     <th>SteamID</th>
                     <th>Profile</th>
                     <th>Playtime Forever</th>
+                    <th>Windows</th>
+                    <th>Mac</th>
+                    <th>Linux</th>
+                    <th>Deck</th>
+                    <th>Last Played</th>
                     <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td>211</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198046884406">dortLii</a></td><td>76561198046884406</td><td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">Steam Profil</a></td><td>4786</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>88</td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198046884406">dortLii</a></td><td>76561198046884406</td><td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
-<tr>
-<td><a href="https://steamcommunity.com/id/hoangry/" target="_blank"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/hoangry/" target="_blank"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>4348</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 </tbody>
 </table>

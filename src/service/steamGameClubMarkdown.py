@@ -372,7 +372,6 @@ class SteamGameClubMarkdown:
                 if allPlayerGetRecentlyPlayedGames[playerPlaytime]:
                         if 'games' in allPlayerGetRecentlyPlayedGames[playerPlaytime]:
                             for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
-                        #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
                                 f.write(f"""<tr>
                         <td><a href="{allPlayerSummaries[playerPlaytime].get('profileurl', '')}" target="_blank">{allPlayerSummaries[playerPlaytime].get('personaname', '')}</a></td>
                         <td><a href="https://steamdb.info/app/{game.get('appid', '')}">{game.get('appid', '')}</a></td>
@@ -416,7 +415,7 @@ class SteamGameClubMarkdown:
             f.write(f"**Linux:** {gameListwithAllPlayTime.get('playtime_linux_forever', '')}\n\n")
             f.write(f"**Deck:** {gameListwithAllPlayTime.get('playtime_deck_forever', '')}\n\n")
             f.write(f"**Anzahl Players:** {len(gameListwithAllPlayTime.get('player', []))}\n")
-            f.write(f"## Player\n\n")
+            f.write(f"## {len(gameListwithAllPlayTime.get('player', []))} Player\n\n")
             if gameListwithAllPlayTime.get('player', []):
                 f.write("""<table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -426,6 +425,11 @@ class SteamGameClubMarkdown:
                     <th>SteamID</th>
                     <th>Profile</th>
                     <th>Playtime Forever</th>
+                    <th>Windows</th>
+                    <th>Mac</th>
+                    <th>Linux</th>
+                    <th>Deck</th>
+                    <th>Last Played</th>
                     <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
@@ -439,12 +443,25 @@ class SteamGameClubMarkdown:
                     f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\">Steam Profil</a></td>")
                     if allPlayerGetOwnedGames[player]:
                         if allPlayerGetOwnedGames[player]['games']:
-                            if appid in allPlayerGetOwnedGames[player]['games']:
-                                f.write(f"<td>{allPlayerGetOwnedGames[player]['games'].get('playtime_forever', 0)}</td>")
-                                f.write(f"<td>{allPlayerGetOwnedGames[player]['games'].get('playtime_2weeks', 0)}</td>")
+                            # find in Array item with appid
+                            game = next((g for g in allPlayerGetOwnedGames[player]['games'] if g.get('appid') == appid), None)
+                            if game:
+                                f.write(f"<td>{game.get('playtime_forever', 0)}</td>")
+                                f.write(f"<td>{game.get('playtime_windows_forever', 0)}</td>")
+                                f.write(f"<td>{game.get('playtime_mac_forever', 0)}</td>")
+                                f.write(f"<td>{game.get('playtime_linux_forever', 0)}</td>")
+                                f.write(f"<td>{game.get('playtime_deck_forever', 0)}</td>")
+                                f.write(f"<td>{game.get('rtime_last_played', 0)}</td>")
                             else:
                                 f.write(f"<td></td>")
-                                f.write(f"<td></td>")
+                    if allPlayerGetRecentlyPlayedGames[player]:
+                        if 'games' in allPlayerGetRecentlyPlayedGames[player]:
+                            if allPlayerGetRecentlyPlayedGames[player]['games']:
+                                game = next((g for g in allPlayerGetRecentlyPlayedGames[player]['games'] if g.get('appid') == appid), None)
+                                if game:
+                                    f.write(f"<td>{game.get('playtime_2weeks', 0)}</td>")
+                                else:
+                                    f.write(f"<td></td>")
                     f.write(f"</tr>\n")
                 f.write(f"</tbody>\n</table>\n")
             else:

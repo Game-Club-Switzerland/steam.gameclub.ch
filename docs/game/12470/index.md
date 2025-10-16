@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 13024
+**Forever:** 0
 
 **Windows:** 0
 
@@ -19,8 +19,8 @@ hide:
 
 **Deck:** 0
 
-**Anzahl Players:** 2
-## Player
+**Anzahl Players:** 1
+## 1 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -30,13 +30,16 @@ hide:
                     <th>SteamID</th>
                     <th>Profile</th>
                     <th>Playtime Forever</th>
+                    <th>Windows</th>
+                    <th>Mac</th>
+                    <th>Linux</th>
+                    <th>Deck</th>
+                    <th>Last Played</th>
                     <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank"><img src="https://avatars.steamstatic.com/715689713a0bd4a947c884e2bfa8b8f2b124ea9d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985981461">Linda[SUI]</a></td><td>76561197985981461</td><td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
-<tr>
-<td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank"><img src="https://avatars.steamstatic.com/8154b7b0191af1a6fa3ee479f1742739e6b9a894_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989675888">dANTE</a></td><td>76561197989675888</td><td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank"><img src="https://avatars.steamstatic.com/715689713a0bd4a947c884e2bfa8b8f2b124ea9d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985981461">Linda[SUI]</a></td><td>76561197985981461</td><td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 </tbody>
 </table>
