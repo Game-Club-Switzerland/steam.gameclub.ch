@@ -3,17 +3,22 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/848480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/848480/f1a79108f91fa64069f4bdd3f1cf66e944c28360.jpg" alt="Creeper World 4" style="width:32px;height:32px;border-radius:4px;" /></a>
+#  <a href="https://steamdb.info/app/848480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/848480/f1a79108f91fa64069f4bdd3f1cf66e944c28360.jpg" alt="Creeper World 4" style="width:32px;height:32px;border-radius:4px;" /> Creeper World 4</a>
 
 **App ID:** 848480
 
 ## Playtime
 
-**playtime_forever:** 375
-**playtime_windows_forever:** 375
-**playtime_mac_forever:** 0
-**playtime_linux_forever:** 0
-**playtime_deck_forever:** 0
+**Forever:** 375
+
+**Windows:** 375
+
+**Mac:** 0
+
+**Linux:** 0
+
+**Deck:** 0
+
 **Anzahl Players:** 2
 ## Player
 
@@ -24,12 +29,14 @@ hide:
                     <th>Name</th>
                     <th>SteamID</th>
                     <th>Profile</th>
+                    <th>Playtime Forever</th>
+                    <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td></tr>
+<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/sharegc/" target="_blank"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td></tr>
+<td><a href="https://steamcommunity.com/id/sharegc/" target="_blank"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
 </tbody>
 </table>

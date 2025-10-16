@@ -32,14 +32,14 @@ class SteamGameClubMarkdown:
         SteamGameClub = steamGameClub.SteamGameClub.getGameDetails(appid)
         if SteamGameClub:
             if SteamGameClub.get('img_icon_url', ''):
-                createTd = f"<td><a href=\"https://steamdb.info/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{SteamGameClub.get('img_icon_url', '')}.jpg\" alt=\"{SteamGameClub.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a></td>\n"
-                createTd += f"<td><a href=\"https://steamdb.info/app/{appid}\">{SteamGameClub.get('name', '')}</a></td>\n"
+                createTd = f"<td><a href=\"/game/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{SteamGameClub.get('img_icon_url', '')}.jpg\" alt=\"{SteamGameClub.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a></td>\n"
+                createTd += f"<td><a href=\"/game/{appid}\">{SteamGameClub.get('name', '')}</a></td>\n"
             else:
                 createTd = f"<td></td>\n"
-                createTd += f"<td><a href=\"https://steamdb.info/app/{appid}\">{SteamGameClub.get('name', '')}</a></td>\n"
+                createTd += f"<td><a href=\"/game/{appid}\">{SteamGameClub.get('name', '')}</a></td>\n"
         else:
             createTd = f"<td></td>\n"
-            createTd += f"<td><a href=\"https://steamdb.info/app/{appid}\">{appid}</a></td>\n"
+            createTd += f"<td><a href=\"/game/{appid}\">{appid}</a></td>\n"
         return createTd
 
     @staticmethod
@@ -390,7 +390,7 @@ class SteamGameClubMarkdown:
     </table>""")
         print("Markdown file 'playtime2weeks.md' created.")
 
-    def createMarkdownFileAppDetails(appid, gameListwithAllPlayTime, allPlayerSummaries):
+    def createMarkdownFileAppDetails(appid, gameListwithAllPlayTime, allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames):
         gameDetails = steamGameClub.SteamGameClub.getGameDetails(appid)
         
         output_dir = os.path.join(os.path.dirname(__file__), '../../docs/game/', str(appid))
@@ -403,18 +403,18 @@ class SteamGameClubMarkdown:
             f.write("---\n")
             if gameDetails:
                 if gameDetails.get('img_icon_url', ''):
-                    f.write(f"#  <a href=\"https://steamdb.info/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{gameDetails.get('img_icon_url', '')}.jpg\" alt=\"{gameDetails.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /></a>\n\n")
+                    f.write(f"#  <a href=\"https://steamdb.info/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{gameDetails.get('img_icon_url', '')}.jpg\" alt=\"{gameDetails.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /> {gameDetails.get('name', '')}</a>\n\n")
                 else:
                     f.write(f"# <a href=\"https://steamdb.info/app/{appid}\">{gameDetails.get('name', '')}</a>\n\n")
             else:
                 f.write(f"# <a href=\"https://steamdb.info/app/{appid}\">{appid}</a>\n\n")
             f.write(f"**App ID:** {appid}\n\n")
             f.write(f"## Playtime\n\n")
-            f.write(f"**playtime_forever:** {gameListwithAllPlayTime.get('playtime_forever', '')}\n")
-            f.write(f"**playtime_windows_forever:** {gameListwithAllPlayTime.get('playtime_windows_forever', '')}\n")
-            f.write(f"**playtime_mac_forever:** {gameListwithAllPlayTime.get('playtime_mac_forever', '')}\n")
-            f.write(f"**playtime_linux_forever:** {gameListwithAllPlayTime.get('playtime_linux_forever', '')}\n")
-            f.write(f"**playtime_deck_forever:** {gameListwithAllPlayTime.get('playtime_deck_forever', '')}\n")
+            f.write(f"**Forever:** {gameListwithAllPlayTime.get('playtime_forever', '')}\n\n")
+            f.write(f"**Windows:** {gameListwithAllPlayTime.get('playtime_windows_forever', '')}\n\n")
+            f.write(f"**Mac:** {gameListwithAllPlayTime.get('playtime_mac_forever', '')}\n\n")
+            f.write(f"**Linux:** {gameListwithAllPlayTime.get('playtime_linux_forever', '')}\n\n")
+            f.write(f"**Deck:** {gameListwithAllPlayTime.get('playtime_deck_forever', '')}\n\n")
             f.write(f"**Anzahl Players:** {len(gameListwithAllPlayTime.get('player', []))}\n")
             f.write(f"## Player\n\n")
             if gameListwithAllPlayTime.get('player', []):
@@ -425,6 +425,8 @@ class SteamGameClubMarkdown:
                     <th>Name</th>
                     <th>SteamID</th>
                     <th>Profile</th>
+                    <th>Playtime Forever</th>
+                    <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
@@ -435,15 +437,23 @@ class SteamGameClubMarkdown:
                     f.write(f"<td><a href=\"/player/{player}\">{allPlayerSummaries[player].get('personaname')}</a></td>")
                     f.write(f"<td>{allPlayerSummaries[player].get('steamid')}</td>")
                     f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\">Steam Profil</a></td>")
+                    if allPlayerGetOwnedGames[player]:
+                        if allPlayerGetOwnedGames[player]['games']:
+                            if appid in allPlayerGetOwnedGames[player]['games']:
+                                f.write(f"<td>{allPlayerGetOwnedGames[player]['games'][appid].get('playtime_forever', 0)}</td>")
+                                f.write(f"<td>{allPlayerGetRecentlyPlayedGames[player]['games'][appid].get('playtime_2weeks', 0)}</td>")
+                            else:
+                                f.write(f"<td></td>")
+                                f.write(f"<td></td>")
                     f.write(f"</tr>\n")
                 f.write(f"</tbody>\n</table>\n")
             else:
                 f.write(f"<p>Keine Spieler gefunden.</p>\n")
         print(f"Markdown file for App ID {appid} created.")
         
-    def createMarkdownFileApps(gameListwithAllPlayTime, allPlayerSummaries):
+    def createMarkdownFileApps(gameListwithAllPlayTime, allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames):
         for gameData in gameListwithAllPlayTime:
-            SteamGameClubMarkdown.createMarkdownFileAppDetails(gameData, gameListwithAllPlayTime[gameData], allPlayerSummaries)
+            SteamGameClubMarkdown.createMarkdownFileAppDetails(gameData, gameListwithAllPlayTime[gameData], allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames)
 
     def createMarkdownFilePlayerDetail(player):
         if not player:

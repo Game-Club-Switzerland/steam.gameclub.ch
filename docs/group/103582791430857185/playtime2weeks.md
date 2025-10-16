@@ -131,39 +131,6 @@ hide:
                         <td>0</td>
                     </tr>
                     <tr>
-                        <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">RuMpI</a></td>
-                        <td><a href="https://steamdb.info/app/1046930">1046930</a></td>
-                        <td>Dota Underlords</td>
-                        <td>2067</td>
-                        <td>74257</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">RuMpI</a></td>
-                        <td><a href="https://steamdb.info/app/3017860">3017860</a></td>
-                        <td>DOOM: The Dark Ages</td>
-                        <td>1335</td>
-                        <td>1335</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">RuMpI</a></td>
-                        <td><a href="https://steamdb.info/app/2312660">2312660</a></td>
-                        <td>Skate Story Demo</td>
-                        <td>51</td>
-                        <td>51</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
                         <td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Jim doesn't feel like dancing.</a></td>
                         <td><a href="https://steamdb.info/app/730">730</a></td>
                         <td>Counter-Strike 2</td>
@@ -285,6 +252,39 @@ hide:
                         <td></td>
                     </tr>
                     <tr>
+                        <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">RuMpI</a></td>
+                        <td><a href="https://steamdb.info/app/1046930">1046930</a></td>
+                        <td>Dota Underlords</td>
+                        <td>2052</td>
+                        <td>74277</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">RuMpI</a></td>
+                        <td><a href="https://steamdb.info/app/3017860">3017860</a></td>
+                        <td>DOOM: The Dark Ages</td>
+                        <td>1335</td>
+                        <td>1335</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">RuMpI</a></td>
+                        <td><a href="https://steamdb.info/app/2312660">2312660</a></td>
+                        <td>Skate Story Demo</td>
+                        <td>51</td>
+                        <td>51</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
                         <td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank">predch</a></td>
                         <td><a href="https://steamdb.info/app/730">730</a></td>
                         <td>Counter-Strike 2</td>
@@ -299,8 +299,8 @@ hide:
                         <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">HypN-EyEs</a></td>
                         <td><a href="https://steamdb.info/app/2507950">2507950</a></td>
                         <td>Delta Force</td>
-                        <td>7955</td>
-                        <td>15661</td>
+                        <td>8016</td>
+                        <td>15721</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -312,6 +312,39 @@ hide:
                         <td>Battlefield™ 6</td>
                         <td>608</td>
                         <td>608</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Cobra</a></td>
+                        <td><a href="https://steamdb.info/app/1113120">1113120</a></td>
+                        <td>IXION</td>
+                        <td>1726</td>
+                        <td>6084</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">m93</a></td>
+                        <td><a href="https://steamdb.info/app/1763250">1763250</a></td>
+                        <td>SWORN</td>
+                        <td>554</td>
+                        <td>3140</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">m93</a></td>
+                        <td><a href="https://steamdb.info/app/730">730</a></td>
+                        <td>Counter-Strike 2</td>
+                        <td>455</td>
+                        <td>33107</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -332,8 +365,8 @@ hide:
                         <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
                         <td><a href="https://steamdb.info/app/2807960">2807960</a></td>
                         <td>Battlefield™ 6</td>
-                        <td>401</td>
-                        <td>401</td>
+                        <td>428</td>
+                        <td>428</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -378,39 +411,6 @@ hide:
                         <td>DAVE THE DIVER</td>
                         <td>1</td>
                         <td>4609</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Cobra</a></td>
-                        <td><a href="https://steamdb.info/app/1113120">1113120</a></td>
-                        <td>IXION</td>
-                        <td>1724</td>
-                        <td>6054</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">m93</a></td>
-                        <td><a href="https://steamdb.info/app/1763250">1763250</a></td>
-                        <td>SWORN</td>
-                        <td>554</td>
-                        <td>3140</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">m93</a></td>
-                        <td><a href="https://steamdb.info/app/730">730</a></td>
-                        <td>Counter-Strike 2</td>
-                        <td>455</td>
-                        <td>33107</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -1311,7 +1311,7 @@ hide:
                         <td><a href="https://steamcommunity.com/profiles/76561198026440838/" target="_blank">Spargelauflauf</a></td>
                         <td><a href="https://steamdb.info/app/578080">578080</a></td>
                         <td>PUBG: BATTLEGROUNDS</td>
-                        <td>1797</td>
+                        <td>1761</td>
                         <td>94200</td>
                         <td></td>
                         <td></td>
@@ -1388,7 +1388,7 @@ hide:
                         <td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">dortLii</a></td>
                         <td><a href="https://steamdb.info/app/3405340">3405340</a></td>
                         <td>Megabonk</td>
-                        <td>1033</td>
+                        <td>1009</td>
                         <td>1279</td>
                         <td></td>
                         <td></td>

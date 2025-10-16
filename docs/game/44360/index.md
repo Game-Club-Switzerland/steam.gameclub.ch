@@ -9,11 +9,16 @@ hide:
 
 ## Playtime
 
-**playtime_forever:** 60
-**playtime_windows_forever:** 0
-**playtime_mac_forever:** 0
-**playtime_linux_forever:** 0
-**playtime_deck_forever:** 0
+**Forever:** 60
+
+**Windows:** 0
+
+**Mac:** 0
+
+**Linux:** 0
+
+**Deck:** 0
+
 **Anzahl Players:** 1
 ## Player
 
@@ -24,10 +29,12 @@ hide:
                     <th>Name</th>
                     <th>SteamID</th>
                     <th>Profile</th>
+                    <th>Playtime Forever</th>
+                    <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198033404167/" target="_blank"><img src="https://avatars.steamstatic.com/b4674a1518d5bb211168457218e5fa0a19def9e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033404167">twitch.tv/haui1994</a></td><td>76561198033404167</td><td><a href="https://steamcommunity.com/profiles/76561198033404167/" target="_blank">Steam Profil</a></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198033404167/" target="_blank"><img src="https://avatars.steamstatic.com/b4674a1518d5bb211168457218e5fa0a19def9e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033404167">twitch.tv/haui1994</a></td><td>76561198033404167</td><td><a href="https://steamcommunity.com/profiles/76561198033404167/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
 </tbody>
 </table>

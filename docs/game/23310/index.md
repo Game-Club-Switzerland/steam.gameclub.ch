@@ -9,11 +9,16 @@ hide:
 
 ## Playtime
 
-**playtime_forever:** 27478
-**playtime_windows_forever:** 0
-**playtime_mac_forever:** 0
-**playtime_linux_forever:** 0
-**playtime_deck_forever:** 0
+**Forever:** 27478
+
+**Windows:** 0
+
+**Mac:** 0
+
+**Linux:** 0
+
+**Deck:** 0
+
 **Anzahl Players:** 3
 ## Player
 
@@ -24,14 +29,16 @@ hide:
                     <th>Name</th>
                     <th>SteamID</th>
                     <th>Profile</th>
+                    <th>Playtime Forever</th>
+                    <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197961153140">mYKe</a></td><td>76561197961153140</td><td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank">Steam Profil</a></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197961153140">mYKe</a></td><td>76561197961153140</td><td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198036229973/" target="_blank"><img src="https://avatars.steamstatic.com/f2b95daa4388da07acd68dc30e73b616caa8dd05_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198036229973">Tyler Durden</a></td><td>76561198036229973</td><td><a href="https://steamcommunity.com/profiles/76561198036229973/" target="_blank">Steam Profil</a></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198036229973/" target="_blank"><img src="https://avatars.steamstatic.com/f2b95daa4388da07acd68dc30e73b616caa8dd05_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198036229973">Tyler Durden</a></td><td>76561198036229973</td><td><a href="https://steamcommunity.com/profiles/76561198036229973/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
 </tbody>
 </table>

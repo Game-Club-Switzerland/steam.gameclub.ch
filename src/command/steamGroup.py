@@ -115,7 +115,7 @@ def main():
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime2Week(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetRecentlyPlayedGames)
     
     # Game Apps
-    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileApps(gameListwithAllPlayTime, allPlayerSummaries)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileApps(gameListwithAllPlayTime, allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames)
 
     steam_group_widget_html(steamGroup)
     steam_group_Javascript_widget(steamGroup)

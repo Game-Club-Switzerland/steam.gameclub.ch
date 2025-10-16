@@ -3,17 +3,22 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/1561960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1561960/51e9e2af5b360dd9a56f58f76a6204d237a61f26.jpg" alt="Yield! Fall of Rome" style="width:32px;height:32px;border-radius:4px;" /></a>
+#  <a href="https://steamdb.info/app/1561960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1561960/51e9e2af5b360dd9a56f58f76a6204d237a61f26.jpg" alt="Yield! Fall of Rome" style="width:32px;height:32px;border-radius:4px;" /> Yield! Fall of Rome</a>
 
 **App ID:** 1561960
 
 ## Playtime
 
-**playtime_forever:** 45
-**playtime_windows_forever:** 40
-**playtime_mac_forever:** 0
-**playtime_linux_forever:** 4
-**playtime_deck_forever:** 0
+**Forever:** 45
+
+**Windows:** 40
+
+**Mac:** 0
+
+**Linux:** 4
+
+**Deck:** 0
+
 **Anzahl Players:** 1
 ## Player
 
@@ -24,10 +29,12 @@ hide:
                     <th>Name</th>
                     <th>SteamID</th>
                     <th>Profile</th>
+                    <th>Playtime Forever</th>
+                    <th>Playtime 2 Weeks</th>
                 </tr>
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td></tr>
+<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td></td><td></td></tr>
 </tbody>
 </table>
