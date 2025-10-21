@@ -40,7 +40,7 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td>65</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td></tr>
+<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td>65</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank"><img src="https://avatars.steamstatic.com/c1386d46ab8023a869a0dad9c7c10f126814af98_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198031568987">Phalanx</a></td><td>76561198031568987</td><td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank">Steam Profil</a></td><td>40</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>

@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 10707
+**Forever:** 10926
 
 **Windows:** 0
 
@@ -19,8 +19,8 @@ hide:
 
 **Deck:** 0
 
-**Anzahl Players:** 4
-## 4 Player
+**Anzahl Players:** 5
+## 5 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -47,5 +47,7 @@ hide:
 <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td>4609</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank"><img src="https://avatars.steamstatic.com/b1a566f4c88a09457b86b1249801cf508bca625b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033175487">3W | Myrmidon</a></td><td>76561198033175487</td><td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
+<td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td>219</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>219</td></tr>
 </tbody>
 </table>

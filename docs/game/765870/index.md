@@ -42,6 +42,6 @@ hide:
         <tr>
 <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198001272059">HypN-EyEs</a></td><td>76561198001272059</td><td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Steam Profil</a></td><td>556</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733">SEL@Jintan-LAN</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

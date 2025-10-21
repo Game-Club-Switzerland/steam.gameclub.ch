@@ -46,8 +46,8 @@ hide:
 <tr>
 <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198001272059">HypN-EyEs</a></td><td>76561198001272059</td><td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Steam Profil</a></td><td>6055</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975592846">3W | Lizard</a></td><td>76561197975592846</td><td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
-<tr>
 <td><a href="https://steamcommunity.com/id/wasoen/" target="_blank"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975664729">wasoen</a></td><td>76561197975664729</td><td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Steam Profil</a></td><td>92</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
+<td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975592846">3W | Lizard</a></td><td>76561197975592846</td><td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

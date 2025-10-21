@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 3601
+**Forever:** 3651
 
 **Windows:** 0
 
@@ -40,7 +40,7 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank"><img src="https://avatars.steamstatic.com/7815f1938354e9b2a63e079fd40874c826340230_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197970585783">Jim doesn't feel like dancing.</a></td><td>76561197970585783</td><td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Steam Profil</a></td><td>436</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>71</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank"><img src="https://avatars.steamstatic.com/7815f1938354e9b2a63e079fd40874c826340230_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197970585783">Jim doesn't feel like dancing.</a></td><td>76561197970585783</td><td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Steam Profil</a></td><td>486</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>121</td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank"><img src="https://avatars.steamstatic.com/d11c33497819af95e1c7f16ea77362f87b76117d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197979480386">Roesti</a></td><td>76561197979480386</td><td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank">Steam Profil</a></td><td>3162</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>

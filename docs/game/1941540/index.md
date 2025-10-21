@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 1621
+**Forever:** 1931
 
 **Windows:** 0
 
@@ -40,7 +40,7 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>764</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>539</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>1074</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>515</td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td>857</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>

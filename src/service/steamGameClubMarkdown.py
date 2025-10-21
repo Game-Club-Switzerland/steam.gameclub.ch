@@ -44,7 +44,7 @@ class SteamGameClubMarkdown:
 
     @staticmethod
     def createMarkdownFileGamesIndex(gameListwithAllPlayTime, allPlayerSummaries):
-        print("Creating Markdown file for group games...")
+        print("Creating Markdown file for games...")
 
         output_dir = os.path.join(os.path.dirname(__file__), '../../docs')
         os.makedirs(output_dir, exist_ok=True)
@@ -55,6 +55,7 @@ class SteamGameClubMarkdown:
             f.write("  - toc\n")
             f.write("---\n")
             f.write(f"# Games\n\n")
+            f.write(SteamGameClubMarkdown.getNavigationGames())
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
@@ -93,6 +94,61 @@ class SteamGameClubMarkdown:
                 f.write(f"</tr>\n")
             f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'games.md' created.")
+        
+    @staticmethod
+    def createMarkdownFileGames2WeekIndex(gameListwithRecentlyPlayTime, allPlayerSummaries):
+        print("Creating Markdown file for games...")
+
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs')
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'games2weeks.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# Games\n\n")
+            f.write(SteamGameClubMarkdown.getNavigationGames())
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>2 Weeks</th>
+                <th>Name</th>
+                <th>Forever</th>
+                <th>Windows</th>
+                <th>Mac</th>
+                <th>Linux</th>
+                <th>Deck</th>
+                <th>Anzahl Players</th>
+                <th>Players</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            for playerPlaytime in gameListwithRecentlyPlayTime:
+                print (playerPlaytime)
+                f.write(f"<tr>\n")
+                f.write(SteamGameClubMarkdown.getAppDetailsHtmlTd(playerPlaytime))
+                f.write(f"<td>{gameListwithRecentlyPlayTime[playerPlaytime].get('playtime_2weeks', '')}</td>\n")
+                f.write(f"<td>{gameListwithRecentlyPlayTime[playerPlaytime].get('playtime_forever', '')}</td>\n")
+                f.write(f"<td>{gameListwithRecentlyPlayTime[playerPlaytime].get('playtime_windows_forever', '')}</td>\n")
+                f.write(f"<td>{gameListwithRecentlyPlayTime[playerPlaytime].get('playtime_mac_forever', '')}</td>\n")
+                f.write(f"<td>{gameListwithRecentlyPlayTime[playerPlaytime].get('playtime_linux_forever', '')}</td>\n")
+                f.write(f"<td>{gameListwithRecentlyPlayTime[playerPlaytime].get('playtime_deck_forever', '')}</td>\n")
+                f.write(f"<td>{len(gameListwithRecentlyPlayTime[playerPlaytime].get('player', []))}</td>\n")
+                #f.write(f"<td>{', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>\n")
+                players = gameListwithRecentlyPlayTime[playerPlaytime].get('player', [])
+                player_html = ''.join([
+                    f"<a href=\"{allPlayerSummaries[p].get('profileurl', '')}\" target=\"_blank\" style=\"text-decoration:none;color:#66c0f4;\">"
+                    f"<img src=\"{allPlayerSummaries[p].get('avatarfull', '')}\" alt=\"{allPlayerSummaries[p].get('personaname', '')}\" style=\"width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;\" />"
+                    f"</a>"
+                    for p in players if p in allPlayerSummaries
+                ])
+                f.write(f"<td>{player_html}</td>\n")
+                f.write(f"</tr>\n")
+            f.write(f"</tbody>\n</table>\n")
+        print("Markdown file 'games2weeks.md' created.")
         
     @staticmethod
     def createSteamProfileWidget(steamProfile):
@@ -501,3 +557,11 @@ class SteamGameClubMarkdown:
                 f.write(f"**State:** {player.get('locstatecode', 'N/A')}\n\n")
                 f.write(f"**City ID:** {player.get('loccityid', 'N/A')}\n\n")
         print(f"Markdown file for player {player.get('personaname', 'Unknown Player')} created.")
+        
+    @staticmethod
+    def getNavigationGames():
+        navigationGames = "<div class=\"grid cards\" markdown>\n\n"
+        navigationGames += "- :material-gamepad-variant: [Games](games.md)\n\n"
+        navigationGames += "- :material-timer-play: [Playtime 2 Weeks](games2weeks.md)\n\n"
+        navigationGames += "</div>\n"
+        return navigationGames
