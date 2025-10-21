@@ -113,8 +113,8 @@ class SteamGameClubMarkdown:
         <thead>
             <tr>
                 <th></th>
-                <th>2 Weeks</th>
                 <th>Name</th>
+                <th>2 Weeks</th>
                 <th>Forever</th>
                 <th>Windows</th>
                 <th>Mac</th>
