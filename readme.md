@@ -33,7 +33,6 @@ mindmap
 http://steamcommunity.com/gid/103582791430857185/memberslistxml/?xml=1
 
 
-
 ## Goal
 
 * Widget integration für Profil und Groupe
@@ -43,3 +42,9 @@ http://steamcommunity.com/gid/103582791430857185/memberslistxml/?xml=1
 
 https://developer.valvesoftware.com/wiki/Steam_Web_API
 https://steamapi.xpaw.me/#ICommunityService/GetApps
+
+### Store Game Details
+
+https://store.steampowered.com/api/appdetails/?appids=3167020&language=de
+
+capsule_image
