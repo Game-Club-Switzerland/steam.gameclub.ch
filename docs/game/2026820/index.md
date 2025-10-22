@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/2026820">2026820</a>
+#  <a href="https://steamdb.info/app/2026820"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2026820/3709178513c4324129fc1fe3598cdc54cfb90b3c.jpg" alt="Die in the Dungeon" style="width:32px;height:32px;border-radius:4px;" /> Die in the Dungeon</a>
 
 **App ID:** 2026820
 

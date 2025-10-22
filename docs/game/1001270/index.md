@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/1001270">1001270</a>
+#  <a href="https://steamdb.info/app/1001270"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1001270/101ebac992c88da333970c8d0fb6bd3a6d7527fc.jpg" alt="Kebab Chefs! - Restaurant Simulator" style="width:32px;height:32px;border-radius:4px;" /> Kebab Chefs! - Restaurant Simulator</a>
 
 **App ID:** 1001270
 

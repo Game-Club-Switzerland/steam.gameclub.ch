@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 11428
+**Forever:** 11493
 
 **Windows:** 0
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198046884406">dortLii</a></td><td>76561198046884406</td><td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">Steam Profil</a></td><td>358</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>11135</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>622</td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>11070</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>556</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198046884406">dortLii</a></td><td>76561198046884406</td><td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">Steam Profil</a></td><td>358</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

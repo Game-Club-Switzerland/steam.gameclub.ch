@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/1202690">1202690</a>
+#  <a href="https://steamdb.info/app/1202690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1202690/a0ca223137ac44880a05f8cc98be57665e1e77d5.jpg" alt="Sex with the Devil" style="width:32px;height:32px;border-radius:4px;" /> Sex with the Devil</a>
 
 **App ID:** 1202690
 

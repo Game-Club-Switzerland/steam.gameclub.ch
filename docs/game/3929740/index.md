@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/3929740">3929740</a>
+#  <a href="https://steamdb.info/app/3929740"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3929740/850bbf8fe4ed3557cea5e2e0099a086ec677bdcb.jpg" alt="Tom Clancy's Splinter Cell: Pandora Tomorrow" style="width:32px;height:32px;border-radius:4px;" /> Tom Clancy's Splinter Cell: Pandora Tomorrow</a>
 
 **App ID:** 3929740
 

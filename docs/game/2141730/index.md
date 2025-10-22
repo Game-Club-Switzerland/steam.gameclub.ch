@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/2141730">2141730</a>
+#  <a href="https://steamdb.info/app/2141730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2141730/d4b430f9594dcad772f320fe8792b2c94cf99e06.jpg" alt="Backrooms: Escape Together" style="width:32px;height:32px;border-radius:4px;" /> Backrooms: Escape Together</a>
 
 **App ID:** 2141730
 

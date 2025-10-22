@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/747660">747660</a>
+#  <a href="https://steamdb.info/app/747660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/747660/40abe4b1ce9c60e85aa569af8313bcbecd18e47c.jpg" alt="Five Nights at Freddy's: Security Breach" style="width:32px;height:32px;border-radius:4px;" /> Five Nights at Freddy's: Security Breach</a>
 
 **App ID:** 747660
 

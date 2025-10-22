@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/397350">397350</a>
+#  <a href="https://steamdb.info/app/397350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/397350/c2485344955bc697aae3816405a1707e0d3e0cb8.jpg" alt="Lords of the Realm II" style="width:32px;height:32px;border-radius:4px;" /> Lords of the Realm II</a>
 
 **App ID:** 397350
 

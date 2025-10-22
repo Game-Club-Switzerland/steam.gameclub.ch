@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/1096530">1096530</a>
+#  <a href="https://steamdb.info/app/1096530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1096530/ee1daddb7b47a1861d1274e46904bd1aee98ecff.jpg" alt="Solasta: Crown of the Magister" style="width:32px;height:32px;border-radius:4px;" /> Solasta: Crown of the Magister</a>
 
 **App ID:** 1096530
 

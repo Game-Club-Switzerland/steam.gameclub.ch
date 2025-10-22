@@ -565,3 +565,44 @@ class SteamGameClubMarkdown:
         navigationGames += "- :material-timer-play: [Playtime 2 Weeks](games2weeks.md)\n\n"
         navigationGames += "</div>\n"
         return navigationGames
+    
+    @staticmethod
+    def createMarkdownFileIndexTrends(gameListwithRecentlyPlayTime):
+        print("Creating Markdown file for Trends...")
+
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/index')
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'trends.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# Trends\n\n")
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Playtime 2 Weeks</th>
+                <th>Anzahl Players</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            # Sort games by playtime_2weeks and take only top 15
+            sorted_games = sorted(
+                gameListwithRecentlyPlayTime.items(),
+                key=lambda x: x[1].get('playtime_2weeks', 0),
+                reverse=True
+            )[:15]
+            
+            for playerPlaytime, game_data in sorted_games:
+                print (playerPlaytime)
+                f.write(f"<tr>\n")
+                f.write(SteamGameClubMarkdown.getAppDetailsHtmlTd(playerPlaytime))
+                f.write(f"<td>{gameListwithRecentlyPlayTime[playerPlaytime].get('playtime_2weeks', '')}</td>\n")
+                f.write(f"<td>{len(gameListwithRecentlyPlayTime[playerPlaytime].get('player', []))}</td>\n")
+                f.write(f"</tr>\n")
+            f.write(f"</tbody>\n</table>\n")
+        print("Markdown file 'index/trends.md' created.")

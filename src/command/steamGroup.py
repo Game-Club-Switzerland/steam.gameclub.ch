@@ -104,7 +104,10 @@ def main():
     # In-Game Players
     inGamePlayers = steamGameClub.SteamGameClub.steamGroupInGamePlayer(steamGroup64ID, allPlayerSummaries)
     
-    # Indexes
+    # Index Sites
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileIndexTrends(gameListwithRecentlyPlayTime)
+    
+    # Indexes Player und Games
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFilePlayerIndex(allPlayerSummaries, allPlayerGetOwnedGames)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGamesIndex(gameListwithAllPlayTime, allPlayerSummaries)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGames2WeekIndex(gameListwithRecentlyPlayTime, allPlayerSummaries)
