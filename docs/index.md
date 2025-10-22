@@ -7,18 +7,18 @@ hide:
 # Welcome
 
 <div class="grid cards" markdown>
-    - :material-gamepad-variant: [Most Played](games.md)
+
+-   :material-gamepad-variant: [Most Played](games.md)
 
     ---
-    
+
     --8<-- "index/games.md"
 
-    - :material-timer-play: [Trends](games2weeks.md)
+-   :material-timer-play: [Trends](games2weeks.md)
 
     ---
 
     --8<-- "index/trends.md"
-
 
 </div>
 
