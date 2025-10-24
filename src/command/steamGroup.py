@@ -115,7 +115,7 @@ def main():
     # Game Groups
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupIndex(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupGames(steamGroup64ID, steamGroup, gameListwithAllPlayTime, allPlayerSummaries)
-    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileInGamePlayer(steamGroup64ID, inGamePlayers)
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupInGamePlayer(steamGroup64ID, inGamePlayers)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames)
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileGroupPlaytime2Week(steamGroup64ID, steamGroup, allPlayerSummaries, allPlayerGetRecentlyPlayedGames)
     

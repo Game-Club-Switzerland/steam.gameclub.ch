@@ -158,7 +158,7 @@ class SteamGameClubMarkdown:
         </a>"""
 
     @staticmethod
-    def createMarkdownFileInGamePlayer(groupID64, inGamePlayers):
+    def createMarkdownFileGroupInGamePlayer(groupID64, inGamePlayers):
         output_dir = os.path.join(os.path.dirname(__file__), '../../docs/group/', groupID64)
         os.makedirs(output_dir, exist_ok=True)
         with open(os.path.join(output_dir, f'ingame.md'), "w", encoding="utf-8") as f:
@@ -197,7 +197,7 @@ class SteamGameClubMarkdown:
                         f.write(f"<td><a href=\"/player/{player}\">{inGamePlayers[player].get('personaname')}</a></td>\n")
                         f.write(f"<td><a href=\"{inGamePlayers[player].get('profileurl', '')}\" target=\"_blank\">Profil</a></td>\n")
                         f.write(f"<td>{inGamePlayers[player].get('gameextrainfo', 'N/A')}</td>\n")
-                        f.write(f"<td>{inGamePlayers[player].get('gameid', 'N/A')}</td>\n")
+                        f.write(f"<td><a href=\"/game/{inGamePlayers[player].get('gameid', 'N/A')}\" target=\"_blank\">{inGamePlayers[player].get('gameid', 'N/A')}</a></td>\n")
                         f.write(f"</tr>\n")
                         #f.write(f"<div>{steamGameClub.SteamGameClub.createSteamProfileWidget(inGamePlayers[player])}</div>\n")
                         #f.write(f"<br/>\n")
