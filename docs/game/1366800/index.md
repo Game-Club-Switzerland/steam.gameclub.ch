@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 146686
+**Forever:** 148217
 
 **Windows:** 0
 
@@ -40,7 +40,7 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>146682</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4767</td></tr>
+<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>148213</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5396</td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank"><img src="https://avatars.steamstatic.com/1f669976d9bc2680ccad3a8869dd3108d7897818_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198012900634">Mudi2</a></td><td>76561198012900634</td><td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank">Steam Profil</a></td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>

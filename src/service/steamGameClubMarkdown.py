@@ -336,7 +336,7 @@ class SteamGameClubMarkdown:
         <tbody>""")
             for player in allPlayerSummaries:
                 f.write(f"""<tr>
-                    <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank"><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
+                    <td><a href="/player/{player}" target="_blank"><img src="{allPlayerSummaries[player].get('avatarfull')}" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td>
                     <td><a href="/player/{player}">{allPlayerSummaries[player].get('personaname')}</a></td>
                     <td>{allPlayerSummaries[player].get('steamid')}</td>
                     <td><a href="{allPlayerSummaries[player].get('profileurl')}" target="_blank">Steam Profil</a></td>
@@ -346,7 +346,7 @@ class SteamGameClubMarkdown:
             f.write("""
         </tbody>
     </table>""")
-        print("Markdown file Player 'player.md' created.")
+        print("Markdown file Player 'players.md' created.")
 
     def createMarkdownFileGroupPlaytime(groupID64, steamGroup, allPlayerSummaries, allPlayerGetOwnedGames):
         if not steamGroup:
@@ -532,7 +532,7 @@ class SteamGameClubMarkdown:
         for gameData in gameListwithAllPlayTime:
             SteamGameClubMarkdown.createMarkdownFileAppDetails(gameData, gameListwithAllPlayTime[gameData], allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames)
 
-    def createMarkdownFilePlayerDetail(player):
+    def createMarkdownFilePlayerDetailOld(player):
         if not player:
             print("No player data provided.")
             return
@@ -608,11 +608,6 @@ class SteamGameClubMarkdown:
         print("Markdown file 'index/trends.md' created.")
     
     @staticmethod
-    def createMarkdownFileAllPlayerDetails(allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames):
-        for player in allPlayerSummaries:
-            SteamGameClubMarkdown.createMarkdownFilePlayerDetail(allPlayerSummaries[player], allPlayerGetOwnedGames[player], allPlayerGetRecentlyPlayedGames[player])
-    
-    @staticmethod
     def createMarkdownFilePlayerDetails(playerSummaries, playerGetOwnedGames, playerGetRecentlyPlayedGames):
         #gameDetails = steamGameClub.SteamGameClub.getGameDetails(appid)
         
@@ -624,7 +619,7 @@ class SteamGameClubMarkdown:
             f.write("  - navigation\n")
             f.write("  - toc\n")
             f.write("---\n")
-            f.write(f"# <a href=\"{playerSummaries.get('profileurl', 'Unknown Player')}\" target=\"_blank\">{playerSummaries.get('personaname', 'Unknown Player')}</a>\n\n")
+            f.write(f"# <a href=\"{playerSummaries.get('profileurl')}\" target=\"_blank\"><img src=\"{playerSummaries.get('avatarfull')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></a> {playerSummaries.get('personaname', 'Unknown Player')}\n\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
@@ -642,7 +637,7 @@ class SteamGameClubMarkdown:
     """)
             for playerPlaytime in playerGetOwnedGames['games']:
                 f.write(f"<tr>\n")
-                f.write(SteamGameClubMarkdown.getAppDetailsHtmlTd(playerPlaytime))
+                f.write(SteamGameClubMarkdown.getAppDetailsHtmlTd(playerPlaytime.get('appid')))
                 f.write(f"<td>{playerPlaytime.get('playtime_forever', '')}</td>\n")
                 f.write(f"<td>{playerPlaytime.get('playtime_windows_forever', '')}</td>\n")
                 f.write(f"<td>{playerPlaytime.get('playtime_mac_forever', '')}</td>\n")
@@ -652,3 +647,8 @@ class SteamGameClubMarkdown:
                 f.write(f"</tr>\n")
             f.write(f"</tbody>\n</table>\n")
         print(f"Markdown file for Player ID {playerSummaries.get('steamid')} created.")
+        
+    @staticmethod
+    def createMarkdownFileAllPlayerDetails(allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames):
+        for player in allPlayerSummaries:
+            SteamGameClubMarkdown.createMarkdownFilePlayerDetails(allPlayerSummaries[player], allPlayerGetOwnedGames[player], allPlayerGetRecentlyPlayedGames[player])

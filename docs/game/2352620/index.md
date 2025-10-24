@@ -1,0 +1,45 @@
+---
+hide:
+  - navigation
+  - toc
+---
+#  <a href="https://steamdb.info/app/2352620"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2352620/364217c140be107d1c8e23dabc573bba9fa8fcd0.jpg" alt="Fellowship" style="width:32px;height:32px;border-radius:4px;" /> Fellowship</a>
+
+**App ID:** 2352620
+
+## Playtime
+
+**Forever:** 177
+
+**Windows:** 0
+
+**Mac:** 0
+
+**Linux:** 0
+
+**Deck:** 0
+
+**Anzahl Players:** 1
+## 1 Player
+
+<table id="charts-table" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Name</th>
+                    <th>SteamID</th>
+                    <th>Profile</th>
+                    <th>Playtime Forever</th>
+                    <th>Windows</th>
+                    <th>Mac</th>
+                    <th>Linux</th>
+                    <th>Deck</th>
+                    <th>Last Played</th>
+                    <th>Playtime 2 Weeks</th>
+                </tr>
+            </thead>
+            <tbody>
+        <tr>
+<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>177</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>177</td></tr>
+</tbody>
+</table>
