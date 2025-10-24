@@ -631,6 +631,7 @@ class SteamGameClubMarkdown:
                 <th>Linux</th>
                 <th>Deck</th>
                 <th>last Played</th>
+                <th>Playtime 2 Weeks</th>
             </tr>
         </thead>
         <tbody>
@@ -644,7 +645,18 @@ class SteamGameClubMarkdown:
                 f.write(f"<td>{playerPlaytime.get('playtime_linux_forever', '')}</td>\n")
                 f.write(f"<td>{playerPlaytime.get('playtime_deck_forever', '')}</td>\n")
                 f.write(f"<td>{playerPlaytime.get('rtime_last_played', '')}</td>\n")
-                f.write(f"</tr>\n")
+                f.write(f"<td>{playerPlaytime.get('playtime_2weeks', '')}</td>\n")
+                if 'games' in playerGetRecentlyPlayedGames:
+                    if playerGetRecentlyPlayedGames['games']:
+                        game = next((g for g in playerGetRecentlyPlayedGames['games'] if g.get('appid') == playerPlaytime.get('appid')), None)
+                        if game:
+                            f.write(f"<td>{game.get('playtime_2weeks', 0)}</td>")
+                        else:
+                            f.write(f"<td></td>")
+                    else:
+                        f.write(f"<td></td>")
+                else:   
+                    f.write(f"<td></td>")
             f.write(f"</tbody>\n</table>\n")
         print(f"Markdown file for Player ID {playerSummaries.get('steamid')} created.")
         
