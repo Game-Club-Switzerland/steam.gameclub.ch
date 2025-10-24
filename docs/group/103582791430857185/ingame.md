@@ -38,11 +38,18 @@ hide:
 <td><a href="/game/304390" target="_blank">304390</a></td>
 </tr>
 <tr>
-<td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-<td><a href="/player/76561198130026522">piipmatz</a></td>
-<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Profil</a></td>
-<td>DAVE THE DIVER</td>
-<td><a href="/game/1868140" target="_blank">1868140</a></td>
+<td><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+<td><a href="/player/76561198046884406">dortLii</a></td>
+<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">Profil</a></td>
+<td>Megabonk</td>
+<td><a href="/game/3405340" target="_blank">3405340</a></td>
+</tr>
+<tr>
+<td><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+<td><a href="/player/76561197975664729">wasoen</a></td>
+<td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Profil</a></td>
+<td>Deep Rock Galactic: Survivor</td>
+<td><a href="/game/2321470" target="_blank">2321470</a></td>
 </tr>
 </tbody>
 </table>

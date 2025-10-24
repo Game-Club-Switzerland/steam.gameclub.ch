@@ -16,6 +16,7 @@ hide:
                 <th>Linux</th>
                 <th>Deck</th>
                 <th>last Played</th>
+                <th>Playtime 2 Weeks</th>
             </tr>
         </thead>
         <tbody>
@@ -28,8 +29,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/33930">33930</a></td>
 <td>76</td>
@@ -38,8 +39,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td><a href="/game/34330"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/34330/2fa97296a62daf0329b3867ad6837a2289229fbb.jpg" alt="Total War: SHOGUN 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/34330">Total War: SHOGUN 2</a></td>
 <td>6890</td>
@@ -48,6 +49,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</tbody>
+<td></td>
+<td></td></tbody>
 </table>

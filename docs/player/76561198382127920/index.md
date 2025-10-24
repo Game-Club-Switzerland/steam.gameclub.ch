@@ -16,6 +16,7 @@ hide:
                 <th>Linux</th>
                 <th>Deck</th>
                 <th>last Played</th>
+                <th>Playtime 2 Weeks</th>
             </tr>
         </thead>
         <tbody>
@@ -28,8 +29,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/392110">392110</a></td>
 <td>5</td>
@@ -38,8 +39,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/466560">466560</a></td>
 <td>910</td>
@@ -48,8 +49,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/572410">572410</a></td>
 <td>123</td>
@@ -58,6 +59,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</tbody>
+<td></td>
+<td></td></tbody>
 </table>

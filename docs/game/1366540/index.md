@@ -40,9 +40,9 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td>4996</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>22</td></tr>
-<tr>
 <td><a href="https://steamcommunity.com/id/4wobi/" target="_blank"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985122419">(CH)Wobi</a></td><td>76561197985122419</td><td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
+<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td>4996</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>22</td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td>634</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>

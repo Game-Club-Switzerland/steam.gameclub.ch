@@ -16,6 +16,7 @@ hide:
                 <th>Linux</th>
                 <th>Deck</th>
                 <th>last Played</th>
+                <th>Playtime 2 Weeks</th>
             </tr>
         </thead>
         <tbody>
@@ -28,8 +29,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td><a href="/game/231430"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/231430/5e7e1866fb4f33a17393b0441cd1c750dbd91c5f.jpg" alt="Company of Heroes 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/231430">Company of Heroes 2</a></td>
 <td>0</td>
@@ -38,8 +39,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td><a href="/game/252950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/252950/9ad6dd3d173523354385955b5fb2af87639c4163.jpg" alt="Rocket League" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/252950">Rocket League</a></td>
 <td>468</td>
@@ -48,8 +49,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td><a href="/game/674940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/674940/28bc7ba8952d488e01e7136126cbbc3b42ee443a.jpg" alt="Stick Fight: The Game" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/674940">Stick Fight: The Game</a></td>
 <td>18</td>
@@ -58,6 +59,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</tbody>
+<td></td>
+<td></td></tbody>
 </table>

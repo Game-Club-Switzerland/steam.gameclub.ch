@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/355980">355980</a>
+#  <a href="https://steamdb.info/app/355980"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/355980/d0d786801137b8155b50847df9728fc4682783d1.jpg" alt="Dungeon Warfare" style="width:32px;height:32px;border-radius:4px;" /> Dungeon Warfare</a>
 
 **App ID:** 355980
 

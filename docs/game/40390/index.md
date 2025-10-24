@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/40390">40390</a>
+#  <a href="https://steamdb.info/app/40390"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40390/874236eebecff1fe070032d137722ef3cdb47383.jpg" alt="Risen 2 - Dark Waters" style="width:32px;height:32px;border-radius:4px;" /> Risen 2 - Dark Waters</a>
 
 **App ID:** 40390
 

@@ -40,11 +40,11 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td>139</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
-<tr>
 <td><a href="https://steamcommunity.com/id/4wobi/" target="_blank"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985122419">(CH)Wobi</a></td><td>76561197985122419</td><td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561197987386127/" target="_blank"><img src="https://avatars.steamstatic.com/3141d19096a1e3bfb9163590d1aee7a277a408ee_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197987386127">Chnobli</a></td><td>76561197987386127</td><td><a href="https://steamcommunity.com/profiles/76561197987386127/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
+<td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198130026522">piipmatz</a></td><td>76561198130026522</td><td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Steam Profil</a></td><td>139</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank"><img src="https://avatars.steamstatic.com/d11c33497819af95e1c7f16ea77362f87b76117d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197979480386">Roesti</a></td><td>76561197979480386</td><td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank">Steam Profil</a></td><td>331</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>

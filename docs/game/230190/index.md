@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/230190">230190</a>
+#  <a href="https://steamdb.info/app/230190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/230190/9fd8f2fec6b8967dc79d87b2a704f866c02cfcef.jpg" alt="War for the Overworld" style="width:32px;height:32px;border-radius:4px;" /> War for the Overworld</a>
 
 **App ID:** 230190
 

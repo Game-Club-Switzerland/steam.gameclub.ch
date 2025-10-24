@@ -16,6 +16,7 @@ hide:
                 <th>Linux</th>
                 <th>Deck</th>
                 <th>last Played</th>
+                <th>Playtime 2 Weeks</th>
             </tr>
         </thead>
         <tbody>
@@ -28,8 +29,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/23310">23310</a></td>
 <td>110</td>
@@ -38,8 +39,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/43110">43110</a></td>
 <td>158</td>
@@ -48,8 +49,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/43160">43160</a></td>
 <td>6</td>
@@ -58,8 +59,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/230230">230230</a></td>
 <td>1368</td>
@@ -68,8 +69,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/233700">233700</a></td>
 <td>6459</td>
@@ -78,8 +79,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/237990">237990</a></td>
 <td>44</td>
@@ -88,8 +89,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/240760">240760</a></td>
 <td>29</td>
@@ -98,8 +99,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td><a href="/game/268500"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/268500/f275aeb0b1b947262810569356a199848c643754.jpg" alt="XCOM 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/268500">XCOM 2</a></td>
 <td>2516</td>
@@ -108,8 +109,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/373420">373420</a></td>
 <td>0</td>
@@ -118,8 +119,8 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td><tr>
 <td></td>
 <td><a href="/game/404730">404730</a></td>
 <td>0</td>
@@ -128,6 +129,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</tbody>
+<td></td>
+<td></td></tbody>
 </table>

@@ -44,10 +44,10 @@ hide:
             <span style="color: #66c0f4; font-weight: 500;">126 Mitglieder insgesamt</span>
         </div>
         <div style="margin-bottom: 4px;">
-            <span style="color: #c7d5e0;">18 online</span>
+            <span style="color: #c7d5e0;">19 online</span>
         </div>
         <div style="margin-bottom: 4px;">
-            <span style="color: #59bf40;">3 im Spiel</span>
+            <span style="color: #59bf40;">2 im Spiel</span>
         </div>
         <div>
             <span style="color: #c7d5e0;">45 im Chat - 
@@ -112,11 +112,6 @@ hide:
                         <td>76561198124796053</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Profil</a></td>
                         <td>627</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198130026522">piipmatz</a></td>
-                        <td>76561198130026522</td>
-                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Profil</a></td>
-                        <td>163</td><tr>
                         <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198068302332">ツ</a></td>
                         <td>76561198068302332</td>
@@ -131,6 +126,11 @@ hide:
                         <td><a href="/player/76561198090894909">alexander.hopfe</a></td>
                         <td>76561198090894909</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198090894909/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/90f3710b815075535837e2726bd8cb086b3df7c2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198068605472">Bailig</a></td>
+                        <td>76561198068605472</td>
+                        <td><a href="https://steamcommunity.com/id/bailig/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/3141d19096a1e3bfb9163590d1aee7a277a408ee_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197987386127">Chnobli</a></td>
@@ -157,6 +157,11 @@ hide:
                         <td>76561197960353130</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Profil</a></td>
                         <td>107</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198130026522">piipmatz</a></td>
+                        <td>76561198130026522</td>
+                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Profil</a></td>
+                        <td>163</td><tr>
                         <td><img src="https://avatars.steamstatic.com/d11c33497819af95e1c7f16ea77362f87b76117d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197979480386">Roesti</a></td>
                         <td>76561197979480386</td>
@@ -206,11 +211,6 @@ hide:
                         <td><a href="/player/76561197975995210">Antraxx</a></td>
                         <td>76561197975995210</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197975995210/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/90f3710b815075535837e2726bd8cb086b3df7c2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198068605472">Bailig</a></td>
-                        <td>76561198068605472</td>
-                        <td><a href="https://steamcommunity.com/id/bailig/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198014147147">BigApple</a></td>

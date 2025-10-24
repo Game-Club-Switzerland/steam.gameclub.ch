@@ -123,7 +123,7 @@ hide:
                         <td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Jim doesn't feel like dancing.</a></td>
                         <td><a href="https://steamdb.info/app/730">730</a></td>
                         <td>Counter-Strike 2</td>
-                        <td>768</td>
+                        <td>745</td>
                         <td>9750</td>
                         <td></td>
                         <td></td>
@@ -244,7 +244,7 @@ hide:
                         <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">RuMpI</a></td>
                         <td><a href="https://steamdb.info/app/1046930">1046930</a></td>
                         <td>Dota Underlords</td>
-                        <td>1763</td>
+                        <td>1740</td>
                         <td>75233</td>
                         <td></td>
                         <td></td>
@@ -277,8 +277,8 @@ hide:
                         <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">RuMpI</a></td>
                         <td><a href="https://steamdb.info/app/1029690">1029690</a></td>
                         <td>Sniper Elite 5</td>
-                        <td>90</td>
-                        <td>90</td>
+                        <td>121</td>
+                        <td>121</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -299,8 +299,8 @@ hide:
                         <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">HypN-EyEs</a></td>
                         <td><a href="https://steamdb.info/app/2507950">2507950</a></td>
                         <td>Delta Force</td>
-                        <td>7767</td>
-                        <td>20268</td>
+                        <td>7775</td>
+                        <td>20298</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -321,8 +321,8 @@ hide:
                         <td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Pallas</a></td>
                         <td><a href="https://steamdb.info/app/304390">304390</a></td>
                         <td>For Honor</td>
-                        <td>422</td>
-                        <td>37761</td>
+                        <td>452</td>
+                        <td>37791</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -334,61 +334,6 @@ hide:
                         <td>Sex with the Devil</td>
                         <td>11</td>
                         <td>106</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
-                        <td><a href="https://steamdb.info/app/2807960">2807960</a></td>
-                        <td>Battlefield™ 6</td>
-                        <td>1331</td>
-                        <td>1331</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
-                        <td><a href="https://steamdb.info/app/1868140">1868140</a></td>
-                        <td>DAVE THE DIVER</td>
-                        <td>352</td>
-                        <td>4961</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
-                        <td><a href="https://steamdb.info/app/2479810">2479810</a></td>
-                        <td>Gray Zone Warfare</td>
-                        <td>67</td>
-                        <td>3536</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
-                        <td><a href="https://steamdb.info/app/1366540">1366540</a></td>
-                        <td>Dyson Sphere Program</td>
-                        <td>22</td>
-                        <td>4996</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
-                        <td><a href="https://steamdb.info/app/3164500">3164500</a></td>
-                        <td>Schedule I</td>
-                        <td>1</td>
-                        <td>2359</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -444,6 +389,61 @@ hide:
                         <td>Age of Empires II: Definitive Edition</td>
                         <td>1</td>
                         <td>27805</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
+                        <td><a href="https://steamdb.info/app/2807960">2807960</a></td>
+                        <td>Battlefield™ 6</td>
+                        <td>1331</td>
+                        <td>1331</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
+                        <td><a href="https://steamdb.info/app/1868140">1868140</a></td>
+                        <td>DAVE THE DIVER</td>
+                        <td>389</td>
+                        <td>4999</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
+                        <td><a href="https://steamdb.info/app/2479810">2479810</a></td>
+                        <td>Gray Zone Warfare</td>
+                        <td>67</td>
+                        <td>3536</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
+                        <td><a href="https://steamdb.info/app/1366540">1366540</a></td>
+                        <td>Dyson Sphere Program</td>
+                        <td>22</td>
+                        <td>4996</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">piipmatz</a></td>
+                        <td><a href="https://steamdb.info/app/3164500">3164500</a></td>
+                        <td>Schedule I</td>
+                        <td>1</td>
+                        <td>2359</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -871,7 +871,7 @@ hide:
                         <td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">cortez</a></td>
                         <td><a href="https://steamdb.info/app/730">730</a></td>
                         <td>Counter-Strike 2</td>
-                        <td>1624</td>
+                        <td>1607</td>
                         <td>277203</td>
                         <td></td>
                         <td></td>
@@ -915,7 +915,7 @@ hide:
                         <td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank">dANTE</a></td>
                         <td><a href="https://steamdb.info/app/228200">228200</a></td>
                         <td>Company of Heroes </td>
-                        <td>1013</td>
+                        <td>994</td>
                         <td>244493</td>
                         <td></td>
                         <td></td>
@@ -1375,17 +1375,6 @@ hide:
                     </tr>
                     <tr>
                         <td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">[DMH] Rexon</a></td>
-                        <td><a href="https://steamdb.info/app/1677280">1677280</a></td>
-                        <td>Company of Heroes 3</td>
-                        <td>21</td>
-                        <td>14417</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">[DMH] Rexon</a></td>
                         <td><a href="https://steamdb.info/app/1172620">1172620</a></td>
                         <td>Sea of Thieves</td>
                         <td>2</td>
@@ -1432,7 +1421,7 @@ hide:
                         <td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">SEL</a></td>
                         <td><a href="https://steamdb.info/app/1285190">1285190</a></td>
                         <td>Borderlands® 4</td>
-                        <td>821</td>
+                        <td>798</td>
                         <td>3297</td>
                         <td></td>
                         <td></td>

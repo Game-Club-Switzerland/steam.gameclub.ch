@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 8746
+**Forever:** 8777
 
 **Windows:** 920
 
@@ -44,7 +44,7 @@ hide:
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank"><img src="https://avatars.steamstatic.com/715689713a0bd4a947c884e2bfa8b8f2b124ea9d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985981461">Linda[SUI]</a></td><td>76561197985981461</td><td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank"><img src="https://avatars.steamstatic.com/3f006227f5d26fb37941b0a23adb7fafc72530ad_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197965729401">RuMpI</a></td><td>76561197965729401</td><td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">Steam Profil</a></td><td>90</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>90</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank"><img src="https://avatars.steamstatic.com/3f006227f5d26fb37941b0a23adb7fafc72530ad_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197965729401">RuMpI</a></td><td>76561197965729401</td><td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">Steam Profil</a></td><td>121</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>121</td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank"><img src="https://avatars.steamstatic.com/d11c33497819af95e1c7f16ea77362f87b76117d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197979480386">Roesti</a></td><td>76561197979480386</td><td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank">Steam Profil</a></td><td>152</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>

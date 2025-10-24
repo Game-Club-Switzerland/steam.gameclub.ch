@@ -24,13 +24,13 @@ hide:
 <tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>15730</td>
+<td>15690</td>
 <td>8</td>
 </tr>
 <tr>
 <td><a href="/game/2507950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2507950/52bc6c4bf0c232cf30d66eb3d1638bf099bc6061.jpg" alt="Delta Force" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2507950">Delta Force</a></td>
-<td>7767</td>
+<td>7775</td>
 <td>1</td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ hide:
 <tr>
 <td><a href="/game/1046930"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1046930/1f6f64144e8cc371c5382660e48998dfbe0a708e.jpg" alt="Dota Underlords" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1046930">Dota Underlords</a></td>
-<td>2672</td>
+<td>2649</td>
 <td>2</td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ hide:
 <tr>
 <td><a href="/game/1285190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1285190/9a7ba760c036bb0a73310dc9731d7a84a329b921.jpg" alt="Borderlands® 4" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1285190">Borderlands® 4</a></td>
-<td>1706</td>
+<td>1683</td>
 <td>2</td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ hide:
 <tr>
 <td><a href="/game/228200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/228200/df92dc239acb3cf5d3e3eba645f3df2aaf7f91ad.jpg" alt="Company of Heroes " style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/228200">Company of Heroes </a></td>
-<td>1013</td>
+<td>994</td>
 <td>1</td>
 </tr>
 </tbody>

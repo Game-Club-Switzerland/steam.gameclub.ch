@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/496300">496300</a>
+#  <a href="https://steamdb.info/app/496300"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/496300/d51edb8c8d40e68818adffcd3f9b40149173b2d5.jpg" alt="Kingdom: New Lands" style="width:32px;height:32px;border-radius:4px;" /> Kingdom: New Lands</a>
 
 **App ID:** 496300
 

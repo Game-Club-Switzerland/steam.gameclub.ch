@@ -43,7 +43,7 @@ hide:
 <tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>15730</td>
+<td>15690</td>
 <td>676682</td>
 <td>2280</td>
 <td>0</td>
@@ -235,7 +235,7 @@ hide:
 <tr>
 <td><a href="/game/1046930"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1046930/1f6f64144e8cc371c5382660e48998dfbe0a708e.jpg" alt="Dota Underlords" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1046930">Dota Underlords</a></td>
-<td>2672</td>
+<td>2649</td>
 <td>157193</td>
 <td>0</td>
 <td>0</td>
@@ -271,8 +271,8 @@ hide:
 <tr>
 <td><a href="/game/1029690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1029690/00bce3b25aed4dfd96e864e03dd315448dcb834b.jpg" alt="Sniper Elite 5" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1029690">Sniper Elite 5</a></td>
-<td>90</td>
-<td>90</td>
+<td>121</td>
+<td>121</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -295,8 +295,8 @@ hide:
 <tr>
 <td><a href="/game/2507950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2507950/52bc6c4bf0c232cf30d66eb3d1638bf099bc6061.jpg" alt="Delta Force" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2507950">Delta Force</a></td>
-<td>7767</td>
-<td>20268</td>
+<td>7775</td>
+<td>20298</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -314,13 +314,13 @@ hide:
 <td>0</td>
 <td>0</td>
 <td>9</td>
-<td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="HypN-EyEs" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="piipmatz" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="TTV-P0LYTv" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/wasoen/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="wasoen" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="LФгd_Кдçкё" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="ROOB1984" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Tumba" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="[DMH] Rexon" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
+<td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="HypN-EyEs" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="piipmatz" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="TTV-P0LYTv" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/wasoen/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="wasoen" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="LФгd_Кдçкё" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="ROOB1984" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Tumba" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="[DMH] Rexon" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
 </tr>
 <tr>
 <td><a href="/game/304390"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/304390/24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6.jpg" alt="For Honor" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/304390">For Honor</a></td>
-<td>422</td>
-<td>37761</td>
+<td>452</td>
+<td>37791</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -341,10 +341,46 @@ hide:
 <td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Pallas" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
 </tr>
 <tr>
+<td><a href="/game/3405340"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3405340/8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8.jpg" alt="Megabonk" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3405340">Megabonk</a></td>
+<td>644</td>
+<td>1750</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="dortLii" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Calmo.CH" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
+</tr>
+<tr>
+<td><a href="/game/1716740"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1716740/b4d5828937b2d29b875405dce97bbae0a5d01bbe.jpg" alt="Starfield" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1716740">Starfield</a></td>
+<td>30</td>
+<td>12963</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
+</tr>
+<tr>
+<td><a href="/game/431960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg" alt="Wallpaper Engine" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431960">Wallpaper Engine</a></td>
+<td>9</td>
+<td>899</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
+</tr>
+<tr>
 <td><a href="/game/1868140"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1868140/2f19d6889f66eae88e8b5a36727d560ec88a00cb.jpg" alt="DAVE THE DIVER" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1868140">DAVE THE DIVER</a></td>
-<td>571</td>
-<td>5180</td>
+<td>608</td>
+<td>5218</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -387,42 +423,6 @@ hide:
 <td>0</td>
 <td>1</td>
 <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="piipmatz" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
-</tr>
-<tr>
-<td><a href="/game/3405340"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3405340/8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8.jpg" alt="Megabonk" style="width:32px;height:32px;border-radius:4px;" /></a></td>
-<td><a href="/game/3405340">Megabonk</a></td>
-<td>644</td>
-<td>1750</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="dortLii" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Calmo.CH" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
-</tr>
-<tr>
-<td><a href="/game/1716740"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1716740/b4d5828937b2d29b875405dce97bbae0a5d01bbe.jpg" alt="Starfield" style="width:32px;height:32px;border-radius:4px;" /></a></td>
-<td><a href="/game/1716740">Starfield</a></td>
-<td>30</td>
-<td>12963</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
-</tr>
-<tr>
-<td><a href="/game/431960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg" alt="Wallpaper Engine" style="width:32px;height:32px;border-radius:4px;" /></a></td>
-<td><a href="/game/431960">Wallpaper Engine</a></td>
-<td>9</td>
-<td>899</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
 </tr>
 <tr>
 <td><a href="/game/403190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/403190/27b6fa6d15815d342618080fb2d9905ecb0fdb00.jpg" alt="Planetbase" style="width:32px;height:32px;border-radius:4px;" /></a></td>
@@ -523,7 +523,7 @@ hide:
 <tr>
 <td><a href="/game/1285190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1285190/9a7ba760c036bb0a73310dc9731d7a84a329b921.jpg" alt="Borderlands® 4" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1285190">Borderlands® 4</a></td>
-<td>1706</td>
+<td>1683</td>
 <td>5346</td>
 <td>0</td>
 <td>0</td>
@@ -787,7 +787,7 @@ hide:
 <tr>
 <td><a href="/game/228200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/228200/df92dc239acb3cf5d3e3eba645f3df2aaf7f91ad.jpg" alt="Company of Heroes " style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/228200">Company of Heroes </a></td>
-<td>1013</td>
+<td>994</td>
 <td>244493</td>
 <td>0</td>
 <td>0</td>
@@ -1137,18 +1137,6 @@ hide:
 <td><a href="/game/388210">Day of the Tentacle Remastered</a></td>
 <td>370</td>
 <td>645</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank" style="text-decoration:none;color:#66c0f4;"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="[DMH] Rexon" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
-</tr>
-<tr>
-<td><a href="/game/1677280"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1677280/714cc3ca1253f30ea8275f0d3f592c93723d7638.jpg" alt="Company of Heroes 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
-<td><a href="/game/1677280">Company of Heroes 3</a></td>
-<td>21</td>
-<td>14417</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>

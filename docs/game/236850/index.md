@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/236850">236850</a>
+#  <a href="https://steamdb.info/app/236850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/236850/2553e828486183a4f5d5eb33036a95f07c698ded.jpg" alt="Europa Universalis IV" style="width:32px;height:32px;border-radius:4px;" /> Europa Universalis IV</a>
 
 **App ID:** 236850
 
