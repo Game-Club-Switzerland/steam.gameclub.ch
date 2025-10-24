@@ -645,7 +645,6 @@ class SteamGameClubMarkdown:
                 f.write(f"<td>{playerPlaytime.get('playtime_linux_forever', '')}</td>\n")
                 f.write(f"<td>{playerPlaytime.get('playtime_deck_forever', '')}</td>\n")
                 f.write(f"<td>{playerPlaytime.get('rtime_last_played', '')}</td>\n")
-                f.write(f"<td>{playerPlaytime.get('playtime_2weeks', '')}</td>\n")
                 if 'games' in playerGetRecentlyPlayedGames:
                     if playerGetRecentlyPlayedGames['games']:
                         game = next((g for g in playerGetRecentlyPlayedGames['games'] if g.get('appid') == playerPlaytime.get('appid')), None)

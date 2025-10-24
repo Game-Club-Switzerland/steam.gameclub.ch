@@ -77,5 +77,5 @@ markdown_extensions:
 nav:
   - index.md
   - Games: games.md
-  - Player: player.md
+  - Players: players.md
   - Groups: groups.md
