@@ -606,3 +606,49 @@ class SteamGameClubMarkdown:
                 f.write(f"</tr>\n")
             f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'index/trends.md' created.")
+    
+    @staticmethod
+    def createMarkdownFileAllPlayerDetails(allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames):
+        for player in allPlayerSummaries:
+            SteamGameClubMarkdown.createMarkdownFilePlayerDetail(allPlayerSummaries[player], allPlayerGetOwnedGames[player], allPlayerGetRecentlyPlayedGames[player])
+    
+    @staticmethod
+    def createMarkdownFilePlayerDetails(playerSummaries, playerGetOwnedGames, playerGetRecentlyPlayedGames):
+        #gameDetails = steamGameClub.SteamGameClub.getGameDetails(appid)
+        
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/player/', str(playerSummaries['steamid']))
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'index.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# <a href=\"{playerSummaries.get('profileurl', 'Unknown Player')}\" target=\"_blank\">{playerSummaries.get('personaname', 'Unknown Player')}</a>\n\n")
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Playtime Forever</th>
+                <th>Windows</th>
+                <th>Mac</th>
+                <th>Linux</th>
+                <th>Deck</th>
+                <th>last Played</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            for playerPlaytime in playerGetOwnedGames['games']:
+                f.write(f"<tr>\n")
+                f.write(SteamGameClubMarkdown.getAppDetailsHtmlTd(playerPlaytime))
+                f.write(f"<td>{playerPlaytime.get('playtime_forever', '')}</td>\n")
+                f.write(f"<td>{playerPlaytime.get('playtime_windows_forever', '')}</td>\n")
+                f.write(f"<td>{playerPlaytime.get('playtime_mac_forever', '')}</td>\n")
+                f.write(f"<td>{playerPlaytime.get('playtime_linux_forever', '')}</td>\n")
+                f.write(f"<td>{playerPlaytime.get('playtime_deck_forever', '')}</td>\n")
+                f.write(f"<td>{playerPlaytime.get('rtime_last_played', '')}</td>\n")
+                f.write(f"</tr>\n")
+            f.write(f"</tbody>\n</table>\n")
+        print(f"Markdown file for Player ID {playerSummaries.get('steamid')} created.")

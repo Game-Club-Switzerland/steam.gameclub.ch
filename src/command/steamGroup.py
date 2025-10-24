@@ -121,6 +121,9 @@ def main():
     
     # Game Apps
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileApps(gameListwithAllPlayTime, allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames)
+    
+    # Player Details
+    steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileAllPlayerDetails(allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames)
 
     steam_group_widget_html(steamGroup)
     steam_group_Javascript_widget(steamGroup)
