@@ -29,12 +29,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/42700"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/42700/ea744d59efded3feaeebcafed224be9eadde90ac.jpg" alt="Call of Duty: Black Ops" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/42700">Call of Duty: Black Ops</a></td>
 <td>988</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49,12 +47,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/202970">202970</a></td>
 <td>959</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -69,12 +65,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/209160">209160</a></td>
 <td>306</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,12 +83,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/212910">212910</a></td>
 <td>102</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,12 +101,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/225540">225540</a></td>
 <td>3817</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -129,12 +119,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/243470">243470</a></td>
 <td>4040</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -149,12 +137,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/371660">371660</a></td>
 <td>981</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -169,12 +155,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/447040">447040</a></td>
 <td>1230</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

@@ -40,11 +40,11 @@ hide:
             </thead>
             <tbody>
         <tr>
+<td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank"><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977864713">CML</a></td><td>76561197977864713</td><td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
 <td><a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank"><img src="https://avatars.steamstatic.com/3bdc59e43871ad009c2d17b8eb58c61d73df17d0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198112257105">ΠΞΧUS_4202</a></td><td>76561198112257105</td><td><a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank">Steam Profil</a></td><td>15262</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td>4112</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
-<tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank"><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977864713">CML</a></td><td>76561197977864713</td><td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>

@@ -29,7 +29,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/33930">33930</a></td>
@@ -39,12 +38,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/34330"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/34330/2fa97296a62daf0329b3867ad6837a2289229fbb.jpg" alt="Total War: SHOGUN 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/34330">Total War: SHOGUN 2</a></td>
 <td>6890</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

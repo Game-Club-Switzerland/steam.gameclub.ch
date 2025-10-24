@@ -48,8 +48,8 @@ hide:
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank"><img src="https://avatars.steamstatic.com/1080d0b6680c13d8ad37086de683791b549bbff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960353130">modano</a></td><td>76561197960353130</td><td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank"><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960504659">cortez</a></td><td>76561197960504659</td><td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Steam Profil</a></td><td>96</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
-<tr>
 <td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197961153140">mYKe</a></td><td>76561197961153140</td><td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank">Steam Profil</a></td><td>64</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
+<td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank"><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960504659">cortez</a></td><td>76561197960504659</td><td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Steam Profil</a></td><td>96</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

@@ -29,12 +29,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/440"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/440/f568912870a4684f9ec76277a1a404dda6bab213.jpg" alt="Team Fortress 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/440">Team Fortress 2</a></td>
 <td>3213</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49,12 +47,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/10180"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/10180/ad502494f1658220f9166c7e17ac90422bf6a479.jpg" alt="Call of Duty: Modern Warfare 2 (2009)" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/10180">Call of Duty: Modern Warfare 2 (2009)</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -69,12 +65,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12100">12100</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,12 +83,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12120">12120</a></td>
 <td>2742</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,12 +101,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12180">12180</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -129,12 +119,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12230">12230</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -149,12 +137,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12250">12250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -169,12 +155,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/42690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/42690/c3330a875925437d8216949b6571f6e941ba0679.jpg" alt="Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/42690">Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer</a></td>
 <td>10092</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,12 +173,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/110800">110800</a></td>
 <td>48</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -209,12 +191,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/578080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/578080/609f27278aa70697c13bf99f32c5a0248c381f9d.jpg" alt="PUBG: BATTLEGROUNDS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/578080">PUBG: BATTLEGROUNDS</a></td>
 <td>2910</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -229,12 +209,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/945360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/945360/b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801.jpg" alt="Among Us" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/945360">Among Us</a></td>
 <td>185</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

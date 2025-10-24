@@ -29,12 +29,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/20">20</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49,12 +47,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/40">40</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -69,12 +65,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/60">60</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,12 +83,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/80"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/80/077b050ef3e89cd84e2c5a575d78d53b54058236.jpg" alt="Counter-Strike: Condition Zero" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/80">Counter-Strike: Condition Zero</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,12 +101,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/130">130</a></td>
 <td>32</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -129,12 +119,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/240/9052fa60c496a1c03383b27687ec50f4bf0f0e10.jpg" alt="Counter-Strike: Source" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/240">Counter-Strike: Source</a></td>
 <td>2289</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -149,12 +137,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/320"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/320/795e85364189511f4990861b578084deef086cb1.jpg" alt="Half-Life 2: Deathmatch" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/320">Half-Life 2: Deathmatch</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -169,12 +155,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/400"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/400/cfa928ab4119dd137e50d728e8fe703e4e970aff.jpg" alt="Portal" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/400">Portal</a></td>
 <td>210</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,12 +173,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/550/7d5a243f9500d2f8467312822f8af2a2928777ed.jpg" alt="Left 4 Dead 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/550">Left 4 Dead 2</a></td>
 <td>78</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -209,12 +191,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/620"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/620/25a5a16b2423bf7487ac5340b5b0948cef48c5f8.jpg" alt="Portal 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/620">Portal 2</a></td>
 <td>1463</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -229,12 +209,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1250">1250</a></td>
 <td>101</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -249,12 +227,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1700">1700</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -269,12 +245,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2100">2100</a></td>
 <td>80</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -289,12 +263,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2200">2200</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -309,12 +281,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2320">2320</a></td>
 <td>177</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -329,12 +299,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2590">2590</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -349,12 +317,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2630">2630</a></td>
 <td>72</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -369,12 +335,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/2700"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2700/95e6320bcf5262271367a83d21fed0dcf12ba73d.jpg" alt="RollerCoaster Tycoon 3: Platinum!" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2700">RollerCoaster Tycoon 3: Platinum!</a></td>
 <td>3</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -389,12 +353,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2990">2990</a></td>
 <td>184</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -409,12 +371,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/3390">3390</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -429,12 +389,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/3540">3540</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -449,12 +407,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/3600">3600</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -469,12 +425,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/3720">3720</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -489,12 +443,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/3820">3820</a></td>
 <td>235</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -509,12 +461,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/3900">3900</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -529,12 +479,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/3920">3920</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -549,12 +497,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/4000"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg" alt="Garry's Mod" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/4000">Garry's Mod</a></td>
 <td>1569</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -569,12 +515,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/4540">4540</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -589,12 +533,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/4560"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/4560/64946619217da497c9b29bc817bb40dd7d28c912.jpg" alt="Company of Heroes - Legacy Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/4560">Company of Heroes - Legacy Edition</a></td>
 <td>175</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -609,12 +551,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/4580">4580</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -629,12 +569,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/4920">4920</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -649,12 +587,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/6020">6020</a></td>
 <td>30</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -669,12 +605,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/6060">6060</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -689,12 +623,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/6800">6800</a></td>
 <td>3</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -709,12 +641,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/6830">6830</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -729,12 +659,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/6850">6850</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -749,12 +677,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/6870">6870</a></td>
 <td>22</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -769,12 +695,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/6900">6900</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -789,12 +713,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/6920">6920</a></td>
 <td>7</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -809,12 +731,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/7000">7000</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -829,12 +749,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/7600">7600</a></td>
 <td>6</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -849,12 +767,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/7650">7650</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -869,12 +785,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/7670">7670</a></td>
 <td>15</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -889,12 +803,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/7760">7760</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -909,12 +821,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/7940">7940</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -929,12 +839,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8080">8080</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -949,12 +857,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8190">8190</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -969,12 +875,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8210">8210</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -989,12 +893,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8230">8230</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1009,12 +911,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8250">8250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1029,12 +929,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8270">8270</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1049,12 +947,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8290">8290</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1069,12 +965,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8310">8310</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1089,12 +983,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8330">8330</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1109,12 +1001,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8600">8600</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1129,12 +1019,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8800">8800</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1149,12 +1037,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8870">8870</a></td>
 <td>105</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1169,12 +1055,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/8890">8890</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1189,12 +1073,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/9010">9010</a></td>
 <td>54</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1209,12 +1091,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/9070">9070</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1229,12 +1109,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/9310">9310</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1249,12 +1127,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/9350">9350</a></td>
 <td>189</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1269,12 +1145,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/9450">9450</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1289,12 +1163,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/9710">9710</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1309,12 +1181,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/9930">9930</a></td>
 <td>1473</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1329,12 +1199,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/10110">10110</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1349,12 +1217,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/10180"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/10180/ad502494f1658220f9166c7e17ac90422bf6a479.jpg" alt="Call of Duty: Modern Warfare 2 (2009)" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/10180">Call of Duty: Modern Warfare 2 (2009)</a></td>
 <td>263</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1369,12 +1235,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/10270">10270</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1389,12 +1253,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/11240">11240</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1409,12 +1271,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/11450">11450</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1429,12 +1289,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12100">12100</a></td>
 <td>16</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1449,12 +1307,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12120">12120</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1469,12 +1325,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12140">12140</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1489,12 +1343,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12170">12170</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1509,12 +1361,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12200">12200</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1529,12 +1379,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12230">12230</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1549,12 +1397,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12250">12250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1569,12 +1415,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12750">12750</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1589,12 +1433,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12810">12810</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1609,12 +1451,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/12900">12900</a></td>
 <td>105</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1629,12 +1469,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/13520">13520</a></td>
 <td>9</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1649,12 +1487,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/13560">13560</a></td>
 <td>151</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1669,12 +1505,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/13580">13580</a></td>
 <td>12</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1689,12 +1523,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/15120">15120</a></td>
 <td>19</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1709,12 +1541,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/15390">15390</a></td>
 <td>11</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1729,12 +1559,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/15520">15520</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1749,12 +1577,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/15560">15560</a></td>
 <td>5</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1769,12 +1595,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/15700">15700</a></td>
 <td>242</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1789,12 +1613,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/16810">16810</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1809,12 +1631,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/17330">17330</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1829,12 +1649,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/17390">17390</a></td>
 <td>193</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1849,12 +1667,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/17430">17430</a></td>
 <td>12</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1869,12 +1685,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/17460">17460</a></td>
 <td>38</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1889,12 +1703,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/17710">17710</a></td>
 <td>105</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1909,12 +1721,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/18020">18020</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1929,12 +1739,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/18400">18400</a></td>
 <td>105</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1949,12 +1757,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/18500">18500</a></td>
 <td>144</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1969,12 +1775,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/19680">19680</a></td>
 <td>22</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1989,12 +1793,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/19830">19830</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2009,12 +1811,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/19900">19900</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2029,12 +1829,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/20510">20510</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2049,12 +1847,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/20540">20540</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2069,12 +1865,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/20570">20570</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2089,12 +1883,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/20920">20920</a></td>
 <td>225</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2109,12 +1901,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/21090">21090</a></td>
 <td>32</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2129,12 +1919,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/21110">21110</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2149,12 +1937,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/21130">21130</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2169,12 +1955,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/21690">21690</a></td>
 <td>636</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2189,12 +1973,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/22200">22200</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2209,12 +1991,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/22320">22320</a></td>
 <td>25</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2229,12 +2009,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/22370">22370</a></td>
 <td>1011</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2249,12 +2027,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/22610">22610</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2269,12 +2045,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/22670">22670</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2289,12 +2063,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/23310">23310</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2309,12 +2081,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/23400">23400</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2329,12 +2099,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/24010">24010</a></td>
 <td>547</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2349,12 +2117,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/24670">24670</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2369,12 +2135,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/24780">24780</a></td>
 <td>565</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2389,12 +2153,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/24980">24980</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2409,12 +2171,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/25890">25890</a></td>
 <td>135</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2429,12 +2189,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/28000">28000</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2449,12 +2207,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/29800">29800</a></td>
 <td>55</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2469,12 +2225,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/31230">31230</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2489,12 +2243,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/31250">31250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2509,12 +2261,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/31270">31270</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2529,12 +2279,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/31700">31700</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2549,12 +2297,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/32360">32360</a></td>
 <td>189</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2569,12 +2315,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/32380">32380</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2589,12 +2333,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/32430">32430</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2609,12 +2351,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/32500">32500</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2629,12 +2369,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/32900">32900</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2649,12 +2387,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/33230">33230</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2669,12 +2405,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/33670">33670</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2689,12 +2423,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/33930">33930</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2709,12 +2441,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/34030">34030</a></td>
 <td>319</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2729,12 +2459,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/34440">34440</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2749,12 +2477,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/34460">34460</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2769,12 +2495,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/34870">34870</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2789,12 +2513,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/35000">35000</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2809,12 +2531,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/35140">35140</a></td>
 <td>58</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2829,12 +2549,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/35450">35450</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2849,12 +2567,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/36700">36700</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2869,12 +2585,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/37400">37400</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2889,12 +2603,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/38400">38400</a></td>
 <td>10</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2909,12 +2621,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/38420">38420</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2929,12 +2639,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/38720">38720</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2949,12 +2657,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/39640">39640</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2969,12 +2675,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/39660">39660</a></td>
 <td>3</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2989,12 +2693,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/39680">39680</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3009,12 +2711,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/40100">40100</a></td>
 <td>57</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3029,12 +2729,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/40330">40330</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3049,12 +2747,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/40390"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40390/874236eebecff1fe070032d137722ef3cdb47383.jpg" alt="Risen 2 - Dark Waters" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/40390">Risen 2 - Dark Waters</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3069,12 +2765,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/40800">40800</a></td>
 <td>237</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3089,12 +2783,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/40990">40990</a></td>
 <td>16</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3109,12 +2801,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/41010">41010</a></td>
 <td>280</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3129,12 +2819,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/41060">41060</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3149,12 +2837,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/41100">41100</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3169,12 +2855,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/41740">41740</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3189,12 +2873,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/42120">42120</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3209,12 +2891,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/42680">42680</a></td>
 <td>300</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3229,12 +2909,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/42700"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/42700/ea744d59efded3feaeebcafed224be9eadde90ac.jpg" alt="Call of Duty: Black Ops" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/42700">Call of Duty: Black Ops</a></td>
 <td>286</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3249,12 +2927,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/42910">42910</a></td>
 <td>136</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3269,12 +2945,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/42990">42990</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3289,12 +2963,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/43110">43110</a></td>
 <td>211</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3309,12 +2981,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/44320">44320</a></td>
 <td>172</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3329,12 +2999,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/44350">44350</a></td>
 <td>206</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3349,12 +3017,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/45760">45760</a></td>
 <td>278</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3369,12 +3035,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/46490">46490</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3389,12 +3053,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/46510">46510</a></td>
 <td>355</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3409,12 +3071,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/47810">47810</a></td>
 <td>165</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3429,12 +3089,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/47920">47920</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3449,12 +3107,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/48700">48700</a></td>
 <td>287</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3469,12 +3125,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/49520"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/49520/a3f4945226e69b6196074df4c776e342d3e5a3be.jpg" alt="Borderlands 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/49520">Borderlands 2</a></td>
 <td>3867</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3489,12 +3143,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/50130">50130</a></td>
 <td>1586</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3509,12 +3161,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/50620">50620</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3529,12 +3179,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/55100">55100</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3549,12 +3197,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/55140">55140</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3569,12 +3215,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/55230">55230</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3589,12 +3233,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/57300">57300</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3609,12 +3251,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/57690">57690</a></td>
 <td>295</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3629,12 +3269,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/58300">58300</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3649,12 +3287,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/58610">58610</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3669,12 +3305,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/61510">61510</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3689,12 +3323,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/62000">62000</a></td>
 <td>379</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3709,12 +3341,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/63110">63110</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3729,12 +3359,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/65730">65730</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3749,12 +3377,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/65780">65780</a></td>
 <td>27</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3769,12 +3395,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/65800">65800</a></td>
 <td>548</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3789,12 +3413,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/65980">65980</a></td>
 <td>273</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3809,12 +3431,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/70000">70000</a></td>
 <td>109</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3829,12 +3449,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/70110">70110</a></td>
 <td>125</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3849,12 +3467,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/70300">70300</a></td>
 <td>214</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3869,12 +3485,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/70620">70620</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3889,12 +3503,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/70660">70660</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3909,12 +3521,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/71230">71230</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3929,12 +3539,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/71250">71250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3949,12 +3557,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/71340">71340</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3969,12 +3575,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/72850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/72850/b9aca8a189abd8d6aaf09047dbb0f57582683e1c.jpg" alt="The Elder Scrolls V: Skyrim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/72850">The Elder Scrolls V: Skyrim</a></td>
 <td>5951</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3989,12 +3593,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/73210">73210</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4009,12 +3611,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/80330">80330</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4029,12 +3629,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/80350">80350</a></td>
 <td>51</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4049,12 +3647,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/91600">91600</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4069,12 +3665,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/92100">92100</a></td>
 <td>58</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4089,12 +3683,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/93200">93200</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4109,12 +3701,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/94400">94400</a></td>
 <td>241</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4129,12 +3719,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/94600">94600</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4149,12 +3737,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/94620">94620</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4169,12 +3755,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/96000">96000</a></td>
 <td>282</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4189,12 +3773,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/98100">98100</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4209,12 +3791,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/98400">98400</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4229,12 +3809,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/99400">99400</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4249,12 +3827,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/102600">102600</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4269,12 +3845,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/104200">104200</a></td>
 <td>35</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4289,12 +3863,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/105450">105450</a></td>
 <td>188</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4309,12 +3881,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/107310">107310</a></td>
 <td>112</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4329,12 +3899,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/108200">108200</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4349,12 +3917,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/108800">108800</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4369,12 +3935,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/110800">110800</a></td>
 <td>840</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4389,12 +3953,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/111900">111900</a></td>
 <td>82</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4409,12 +3971,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/113200">113200</a></td>
 <td>282</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4429,12 +3989,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/115320">115320</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4449,12 +4007,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/116100">116100</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4469,12 +4025,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/200170"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/200170/15c154176bfa6bffabc7ebd31fd67de2485c6e1c.jpg" alt="Worms Revolution" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/200170">Worms Revolution</a></td>
 <td>230</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4489,12 +4043,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/200390">200390</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4509,12 +4061,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/200670">200670</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4529,12 +4079,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/200910">200910</a></td>
 <td>76</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4549,12 +4097,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/201420">201420</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4569,12 +4115,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/201490">201490</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4589,12 +4133,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/201700">201700</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4609,12 +4151,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/201810">201810</a></td>
 <td>1311</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4629,12 +4169,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/201870">201870</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4649,12 +4187,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/202090">202090</a></td>
 <td>350</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4669,12 +4205,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/202170">202170</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4689,12 +4223,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/202310">202310</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4709,12 +4241,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/203160">203160</a></td>
 <td>268</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4729,12 +4259,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/203630">203630</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4749,12 +4277,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/203750">203750</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4769,12 +4295,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/203810">203810</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4789,12 +4313,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/204180">204180</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4809,12 +4331,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/204300">204300</a></td>
 <td>386</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4829,12 +4349,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/204360">204360</a></td>
 <td>175</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4849,12 +4367,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/204630">204630</a></td>
 <td>412</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4869,12 +4385,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/205100">205100</a></td>
 <td>202</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4889,12 +4403,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/205350">205350</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4909,12 +4421,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/205610">205610</a></td>
 <td>279</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4929,12 +4439,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/205810">205810</a></td>
 <td>58</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4949,12 +4457,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/205910">205910</a></td>
 <td>218</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4969,12 +4475,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/205950">205950</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4989,12 +4493,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/206370">206370</a></td>
 <td>254</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5009,12 +4511,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/206440">206440</a></td>
 <td>243</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5029,12 +4529,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/206980">206980</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5049,12 +4547,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/207140">207140</a></td>
 <td>240</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5069,12 +4565,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/207250">207250</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5089,12 +4583,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/207570">207570</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5109,12 +4601,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/207650">207650</a></td>
 <td>95</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5129,12 +4619,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/207750">207750</a></td>
 <td>224</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5149,12 +4637,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/208140">208140</a></td>
 <td>202</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5169,12 +4655,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/208520">208520</a></td>
 <td>95</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5189,12 +4673,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/208600">208600</a></td>
 <td>104</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5209,12 +4691,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/208730">208730</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5229,12 +4709,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/209060">209060</a></td>
 <td>84</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5249,12 +4727,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/209190">209190</a></td>
 <td>440</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5269,12 +4745,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/209690">209690</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5289,12 +4763,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/210770">210770</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5309,12 +4781,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/211050">211050</a></td>
 <td>308</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5329,12 +4799,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/211180">211180</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5349,12 +4817,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/211600">211600</a></td>
 <td>125</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5369,12 +4835,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/211820">211820</a></td>
 <td>256</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5389,12 +4853,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/212480">212480</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5409,12 +4871,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/212700">212700</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5429,12 +4889,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/213330">213330</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5449,12 +4907,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/214340">214340</a></td>
 <td>202</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5469,12 +4925,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/214490">214490</a></td>
 <td>79</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5489,12 +4943,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/214830">214830</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5509,12 +4961,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/214950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/214950/fa8ff2005f65d0cbc7403a5b18ca77c0bbc9d05a.jpg" alt="Path of Exile 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/214950">Path of Exile 2</a></td>
 <td>270</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5529,12 +4979,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/215160">215160</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5549,12 +4997,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/215630">215630</a></td>
 <td>138</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5569,12 +5015,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/215710">215710</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5589,12 +5033,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/216090">216090</a></td>
 <td>126</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5609,12 +5051,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/216250">216250</a></td>
 <td>423</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5629,12 +5069,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/217200">217200</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5649,12 +5087,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/218060">218060</a></td>
 <td>105</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5669,12 +5105,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/218680">218680</a></td>
 <td>344</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5689,12 +5123,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/219070">219070</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5709,12 +5141,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/219640">219640</a></td>
 <td>205</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5729,12 +5159,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/219740">219740</a></td>
 <td>62</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5749,12 +5177,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/219780">219780</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5769,12 +5195,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/219950">219950</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5789,12 +5213,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/220200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/220200/6dc8c1377c6b0ffedaeaec59c253f8c33fb3e62b.jpg" alt="Kerbal Space Program" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/220200">Kerbal Space Program</a></td>
 <td>416</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5809,12 +5231,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/220440">220440</a></td>
 <td>267</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5829,12 +5249,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/220780">220780</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5849,12 +5267,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/220900">220900</a></td>
 <td>35</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5869,12 +5285,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/221260">221260</a></td>
 <td>157</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5889,12 +5303,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/221540">221540</a></td>
 <td>368</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5909,12 +5321,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/221910">221910</a></td>
 <td>177</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5929,12 +5339,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/222480">222480</a></td>
 <td>503</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5949,12 +5357,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/222730">222730</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5969,12 +5375,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/223100">223100</a></td>
 <td>639</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5989,12 +5393,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/223670">223670</a></td>
 <td>238</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6009,12 +5411,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/224220">224220</a></td>
 <td>228</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6029,12 +5429,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/224460">224460</a></td>
 <td>281</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6049,12 +5447,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/224580">224580</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6069,12 +5465,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/224960">224960</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6089,12 +5483,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/225140">225140</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6109,12 +5501,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/225260">225260</a></td>
 <td>382</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6129,12 +5519,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/225300">225300</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6149,12 +5537,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/225420">225420</a></td>
 <td>69</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6169,12 +5555,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/226120">226120</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6189,12 +5573,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/226740">226740</a></td>
 <td>78</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6209,12 +5591,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/227080">227080</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6229,12 +5609,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/227300">227300</a></td>
 <td>3144</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6249,12 +5627,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/227560">227560</a></td>
 <td>399</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6269,12 +5645,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/227680">227680</a></td>
 <td>103</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6289,12 +5663,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/227780">227780</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6309,12 +5681,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/228260">228260</a></td>
 <td>342</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6329,12 +5699,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/228400">228400</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6349,12 +5717,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/228960">228960</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6369,12 +5735,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/229970">229970</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6389,12 +5753,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/231020">231020</a></td>
 <td>171</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6409,12 +5771,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/231140">231140</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6429,12 +5789,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/231310">231310</a></td>
 <td>195</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6449,12 +5807,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/231430"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/231430/5e7e1866fb4f33a17393b0441cd1c750dbd91c5f.jpg" alt="Company of Heroes 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/231430">Company of Heroes 2</a></td>
 <td>6875</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6469,12 +5825,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/232010">232010</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6489,12 +5843,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/232430">232430</a></td>
 <td>271</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6509,12 +5861,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/232770">232770</a></td>
 <td>158</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6529,12 +5879,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/232810">232810</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6549,12 +5897,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/232950">232950</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6569,12 +5915,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/233130">233130</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6589,12 +5933,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/233230">233230</a></td>
 <td>49</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6609,12 +5951,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/233290">233290</a></td>
 <td>258</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6629,12 +5969,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/233450">233450</a></td>
 <td>1094</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6649,12 +5987,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/233700">233700</a></td>
 <td>227</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6669,12 +6005,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/233840">233840</a></td>
 <td>238</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6689,12 +6023,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/234390">234390</a></td>
 <td>244</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6709,12 +6041,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/234650">234650</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6729,12 +6059,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/235210">235210</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6749,12 +6077,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/235620">235620</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6769,12 +6095,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/236150">236150</a></td>
 <td>266</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6789,12 +6113,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/236730">236730</a></td>
 <td>55</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6809,12 +6131,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/236850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/236850/2553e828486183a4f5d5eb33036a95f07c698ded.jpg" alt="Europa Universalis IV" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/236850">Europa Universalis IV</a></td>
 <td>187</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6829,12 +6149,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/237350">237350</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6849,12 +6167,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/237570">237570</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6869,12 +6185,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/237850">237850</a></td>
 <td>410</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6889,12 +6203,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/237950">237950</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6909,12 +6221,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/238090">238090</a></td>
 <td>246</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6929,12 +6239,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/238240">238240</a></td>
 <td>279</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6949,12 +6257,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/238370">238370</a></td>
 <td>298</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6969,12 +6275,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/238460">238460</a></td>
 <td>206</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6989,12 +6293,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/238930">238930</a></td>
 <td>81</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7009,12 +6311,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/239160">239160</a></td>
 <td>2537</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7029,12 +6329,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/239410">239410</a></td>
 <td>33</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7049,12 +6347,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/239450">239450</a></td>
 <td>61</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7069,12 +6365,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/239840">239840</a></td>
 <td>435</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7089,12 +6383,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/240180">240180</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7109,12 +6401,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/240760">240760</a></td>
 <td>888</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7129,12 +6419,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/241540">241540</a></td>
 <td>18</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7149,12 +6437,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/242110">242110</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7169,12 +6455,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/242530">242530</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7189,12 +6473,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/242780">242780</a></td>
 <td>112</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7209,12 +6491,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/242920">242920</a></td>
 <td>1863</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7229,12 +6509,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/242980">242980</a></td>
 <td>10</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7249,12 +6527,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/243160">243160</a></td>
 <td>368</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7269,12 +6545,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/243450">243450</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7289,12 +6563,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/243930">243930</a></td>
 <td>505</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7309,12 +6581,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/244090">244090</a></td>
 <td>296</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7329,12 +6599,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/244210">244210</a></td>
 <td>47</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7349,12 +6617,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/244770">244770</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7369,12 +6635,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/244930">244930</a></td>
 <td>16</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7389,12 +6653,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/245150">245150</a></td>
 <td>245</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7409,12 +6671,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/245280">245280</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7429,12 +6689,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/245410">245410</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7449,12 +6707,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/245470">245470</a></td>
 <td>137</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7469,12 +6725,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/246070">246070</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7489,12 +6743,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/246620">246620</a></td>
 <td>245</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7509,12 +6761,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/246740">246740</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7529,12 +6779,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/247020">247020</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7549,12 +6797,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/247370">247370</a></td>
 <td>248</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7569,12 +6815,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/248470">248470</a></td>
 <td>35</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7589,12 +6833,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/248610">248610</a></td>
 <td>268</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7609,12 +6851,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/248820">248820</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7629,12 +6869,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/249230">249230</a></td>
 <td>187</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7649,12 +6887,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/249590">249590</a></td>
 <td>318</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7669,12 +6905,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/249990">249990</a></td>
 <td>243</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7689,12 +6923,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/250180">250180</a></td>
 <td>135</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7709,12 +6941,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/250280">250280</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7729,12 +6959,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/250340">250340</a></td>
 <td>42</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7749,12 +6977,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/250580">250580</a></td>
 <td>86</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7769,12 +6995,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/251130">251130</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7789,12 +7013,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/251470">251470</a></td>
 <td>281</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7809,12 +7031,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/251690">251690</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7829,12 +7049,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/251730">251730</a></td>
 <td>337</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7849,12 +7067,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/252110">252110</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7869,12 +7085,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/252310">252310</a></td>
 <td>339</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7889,12 +7103,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/252410">252410</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7909,12 +7121,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/252630">252630</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7929,12 +7139,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/253030">253030</a></td>
 <td>186</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7949,12 +7157,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/253290">253290</a></td>
 <td>379</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7969,12 +7175,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/253470">253470</a></td>
 <td>201</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7989,12 +7193,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/253630">253630</a></td>
 <td>342</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8009,12 +7211,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/253880">253880</a></td>
 <td>259</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8029,12 +7229,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/253960">253960</a></td>
 <td>35</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8049,12 +7247,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/254060">254060</a></td>
 <td>249</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8069,12 +7265,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/254700">254700</a></td>
 <td>245</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8089,12 +7283,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/254980">254980</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8109,12 +7301,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/255370">255370</a></td>
 <td>113</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8129,12 +7319,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/255520">255520</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8149,12 +7337,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/256350">256350</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8169,12 +7355,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/257050">257050</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8189,12 +7373,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/257170">257170</a></td>
 <td>188</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8209,12 +7391,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/257630">257630</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8229,12 +7409,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/257970">257970</a></td>
 <td>55</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8249,12 +7427,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/258010">258010</a></td>
 <td>268</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8269,12 +7445,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/258090">258090</a></td>
 <td>278</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8289,12 +7463,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/258200">258200</a></td>
 <td>251</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8309,12 +7481,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/258520">258520</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8329,12 +7499,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/258890">258890</a></td>
 <td>278</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8349,12 +7517,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/258970">258970</a></td>
 <td>83</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8369,12 +7535,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/259170">259170</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8389,12 +7553,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/259300">259300</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8409,12 +7571,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/259530">259530</a></td>
 <td>373</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8429,12 +7589,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/259830">259830</a></td>
 <td>218</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8449,12 +7607,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/259890">259890</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8469,12 +7625,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/261030">261030</a></td>
 <td>527</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8489,12 +7643,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/261180">261180</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8509,12 +7661,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/261530">261530</a></td>
 <td>15</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8529,12 +7679,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/261760">261760</a></td>
 <td>364</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8549,12 +7697,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/261960">261960</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8569,12 +7715,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/262210">262210</a></td>
 <td>267</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8589,12 +7733,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/262300">262300</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8609,12 +7751,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/262830">262830</a></td>
 <td>512</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8629,12 +7769,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/263060">263060</a></td>
 <td>228</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8649,12 +7787,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/263200">263200</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8669,12 +7805,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/263320">263320</a></td>
 <td>248</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8689,12 +7823,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/263700">263700</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8709,12 +7841,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/263880">263880</a></td>
 <td>175</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8729,12 +7859,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/264140">264140</a></td>
 <td>155</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8749,12 +7877,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/264320">264320</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8769,12 +7895,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/264730">264730</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8789,12 +7913,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/265590">265590</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8809,12 +7931,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/265890">265890</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8829,12 +7949,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/266010">266010</a></td>
 <td>86</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8849,12 +7967,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/266130">266130</a></td>
 <td>81</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8869,12 +7985,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/266210">266210</a></td>
 <td>198</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8889,12 +8003,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/267340">267340</a></td>
 <td>251</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8909,12 +8021,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/267750">267750</a></td>
 <td>292</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8929,12 +8039,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/267980">267980</a></td>
 <td>219</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8949,12 +8057,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/269050">269050</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8969,12 +8075,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/269210">269210</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8989,12 +8093,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/269350">269350</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9009,12 +8111,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/269670">269670</a></td>
 <td>516</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9029,12 +8129,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/270050">270050</a></td>
 <td>228</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9049,12 +8147,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/270110">270110</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9069,12 +8165,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/270550">270550</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9089,12 +8183,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/270880">270880</a></td>
 <td>265</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9109,12 +8201,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/271670">271670</a></td>
 <td>55</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9129,12 +8219,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/271860">271860</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9149,12 +8237,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/272040">272040</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9169,12 +8255,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/272990">272990</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9189,12 +8273,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/273350">273350</a></td>
 <td>174</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9209,12 +8291,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/273600">273600</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9229,12 +8309,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/274250">274250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9249,12 +8327,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/274560">274560</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9269,12 +8345,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/274900">274900</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9289,12 +8363,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/275100">275100</a></td>
 <td>153</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9309,12 +8381,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/275390">275390</a></td>
 <td>220</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9329,12 +8399,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/275570">275570</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9349,12 +8417,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/275850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/275850/fccb20f309ac5ae05b3cb4576a8a3357edf86f2e.jpg" alt="No Man's Sky" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/275850">No Man's Sky</a></td>
 <td>1923</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9369,12 +8435,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/277110">277110</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9389,12 +8453,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/277430">277430</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9409,12 +8471,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/277520">277520</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9429,12 +8489,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/277890">277890</a></td>
 <td>494</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9449,12 +8507,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/278420">278420</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9469,12 +8525,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/278460">278460</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9489,12 +8543,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/278640">278640</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9509,12 +8561,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/279260">279260</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9529,12 +8579,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/279500">279500</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9549,12 +8597,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/280160">280160</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9569,12 +8615,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/281220">281220</a></td>
 <td>275</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9589,12 +8633,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/281990"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/281990/cb4a03deab1e34ed2a5cbbdf419c66bb6459625f.jpg" alt="Stellaris" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/281990">Stellaris</a></td>
 <td>251</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9609,12 +8651,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/282100">282100</a></td>
 <td>278</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9629,12 +8669,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/282400">282400</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9649,12 +8687,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/283230">283230</a></td>
 <td>484</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9669,12 +8705,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/283290">283290</a></td>
 <td>55</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9689,12 +8723,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/283330">283330</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9709,12 +8741,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/283490">283490</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9729,12 +8759,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/284160">284160</a></td>
 <td>635</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9749,12 +8777,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/285310">285310</a></td>
 <td>369</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9769,12 +8795,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/285840">285840</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9789,12 +8813,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/286160">286160</a></td>
 <td>208</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9809,12 +8831,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/286380">286380</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9829,12 +8849,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/286480">286480</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9849,12 +8867,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/286930">286930</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9869,12 +8885,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/287120">287120</a></td>
 <td>178</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9889,12 +8903,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/287260">287260</a></td>
 <td>248</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9909,12 +8921,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/287340">287340</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9929,12 +8939,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/287720">287720</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9949,12 +8957,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/287980">287980</a></td>
 <td>347</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9969,12 +8975,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/288470">288470</a></td>
 <td>126</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9989,12 +8993,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/289070">289070</a></td>
 <td>391</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10009,12 +9011,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/289690">289690</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10029,12 +9029,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/289800">289800</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10049,12 +9047,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/290080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/290080/e78ba7a1d2c9397853fdfeacf4aa1a781e58824e.jpg" alt="Life is Feudal: Your Own" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/290080">Life is Feudal: Your Own</a></td>
 <td>543</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10069,12 +9065,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/290510">290510</a></td>
 <td>276</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10089,12 +9083,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/290790">290790</a></td>
 <td>432</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10109,12 +9101,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/291010">291010</a></td>
 <td>239</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10129,12 +9119,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/292030"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/292030/78d0ff98b67851f24539cdf2402cf147679134f4.jpg" alt="The Witcher 3: Wild Hunt" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/292030">The Witcher 3: Wild Hunt</a></td>
 <td>1313</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10149,12 +9137,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/292390">292390</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10169,12 +9155,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/292570">292570</a></td>
 <td>85</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10189,12 +9173,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/292620">292620</a></td>
 <td>158</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10209,12 +9191,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/292760">292760</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10229,12 +9209,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/293180">293180</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10249,12 +9227,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/293680">293680</a></td>
 <td>80</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10269,12 +9245,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/293880">293880</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10289,12 +9263,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/294140">294140</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10309,12 +9281,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/294370">294370</a></td>
 <td>218</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10329,12 +9299,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/294770">294770</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10349,12 +9317,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/295490">295490</a></td>
 <td>288</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10369,12 +9335,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/295790">295790</a></td>
 <td>304</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10389,12 +9353,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/296280">296280</a></td>
 <td>255</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10409,12 +9371,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/296630">296630</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10429,12 +9389,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/296710">296710</a></td>
 <td>254</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10449,12 +9407,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/296870">296870</a></td>
 <td>228</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10469,12 +9425,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/296930">296930</a></td>
 <td>212</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10489,12 +9443,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/297070">297070</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10509,12 +9461,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/297210">297210</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10529,12 +9479,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/297760">297760</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10549,12 +9497,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/298600">298600</a></td>
 <td>265</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10569,12 +9515,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/298930">298930</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10589,12 +9533,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/299460">299460</a></td>
 <td>212</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10609,12 +9551,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/299500">299500</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10629,12 +9569,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/299780">299780</a></td>
 <td>178</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10649,12 +9587,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/300060">300060</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10669,12 +9605,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/300300">300300</a></td>
 <td>168</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10689,12 +9623,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/300380">300380</a></td>
 <td>175</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10709,12 +9641,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/300570">300570</a></td>
 <td>329</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10729,12 +9659,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/301690">301690</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10749,12 +9677,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/301750">301750</a></td>
 <td>211</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10769,12 +9695,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/302010">302010</a></td>
 <td>159</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10789,12 +9713,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/302250">302250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10809,12 +9731,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/302460">302460</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10829,12 +9749,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/302590">302590</a></td>
 <td>1107</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10849,12 +9767,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/302710">302710</a></td>
 <td>290</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10869,12 +9785,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/303340">303340</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10889,12 +9803,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/303510">303510</a></td>
 <td>195</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10909,12 +9821,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/304390"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/304390/24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6.jpg" alt="For Honor" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/304390">For Honor</a></td>
 <td>795</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10929,12 +9839,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/304530">304530</a></td>
 <td>397</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10949,12 +9857,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/304730">304730</a></td>
 <td>59</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10969,12 +9875,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/305050">305050</a></td>
 <td>198</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10989,12 +9893,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/305620">305620</a></td>
 <td>193</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11009,12 +9911,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/305920">305920</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11029,12 +9929,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/306620">306620</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11049,12 +9947,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/306680">306680</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11069,12 +9965,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/307230">307230</a></td>
 <td>148</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11089,12 +9983,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/307620">307620</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11109,12 +10001,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/307780">307780</a></td>
 <td>167</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11129,12 +10019,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/308060">308060</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11149,12 +10037,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/310080">310080</a></td>
 <td>200</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11169,12 +10055,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/310560">310560</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11189,12 +10073,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/310810">310810</a></td>
 <td>279</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11209,12 +10091,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/311080">311080</a></td>
 <td>208</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11229,12 +10109,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/311860">311860</a></td>
 <td>287</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11249,12 +10127,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/312660">312660</a></td>
 <td>148</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11269,12 +10145,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/312720">312720</a></td>
 <td>364</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11289,12 +10163,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/313020">313020</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11309,12 +10181,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/313340">313340</a></td>
 <td>510</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11329,12 +10199,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/313690">313690</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11349,12 +10217,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/314030">314030</a></td>
 <td>183</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11369,12 +10235,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/314450">314450</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11389,12 +10253,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/314710">314710</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11409,12 +10271,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/315430">315430</a></td>
 <td>42</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11429,12 +10289,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/316790">316790</a></td>
 <td>416</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11449,12 +10307,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/318430">318430</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11469,12 +10325,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/319140">319140</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11489,12 +10343,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/319550">319550</a></td>
 <td>174</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11509,12 +10361,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/319910">319910</a></td>
 <td>293</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11529,12 +10379,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/320320">320320</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11549,12 +10397,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/320400">320400</a></td>
 <td>55</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11569,12 +10415,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/321260">321260</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11589,12 +10433,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/321560">321560</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11609,12 +10451,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/322290">322290</a></td>
 <td>434</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11629,12 +10469,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/322500">322500</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11649,12 +10487,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/322970">322970</a></td>
 <td>248</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11669,12 +10505,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/323320">323320</a></td>
 <td>280</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11689,12 +10523,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/324610">324610</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11709,12 +10541,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/324770">324770</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11729,12 +10559,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/326120">326120</a></td>
 <td>218</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11749,12 +10577,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/326180">326180</a></td>
 <td>225</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11769,12 +10595,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/326520">326520</a></td>
 <td>458</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11789,12 +10613,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/327140">327140</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11809,12 +10631,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/327390">327390</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11829,12 +10649,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/327650">327650</a></td>
 <td>48</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11849,12 +10667,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/327930">327930</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11869,12 +10685,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/328760">328760</a></td>
 <td>381</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11889,12 +10703,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/329000">329000</a></td>
 <td>288</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11909,12 +10721,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/329380">329380</a></td>
 <td>279</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11929,12 +10739,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/329630">329630</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11949,12 +10757,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/329830">329830</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11969,12 +10775,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/330180">330180</a></td>
 <td>237</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11989,12 +10793,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/330830">330830</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12009,12 +10811,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/331190">331190</a></td>
 <td>196</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12029,12 +10829,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/332310">332310</a></td>
 <td>9</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12049,12 +10847,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/332500">332500</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12069,12 +10865,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/333430">333430</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12089,12 +10883,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/333740">333740</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12109,12 +10901,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/334230">334230</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12129,12 +10919,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/335320">335320</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12149,12 +10937,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/336380">336380</a></td>
 <td>165</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12169,12 +10955,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/337180">337180</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12189,12 +10973,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/338760">338760</a></td>
 <td>166</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12209,12 +10991,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/339400">339400</a></td>
 <td>186</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12229,12 +11009,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/340000">340000</a></td>
 <td>233</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12249,12 +11027,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/340650">340650</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12269,12 +11045,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/341080">341080</a></td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12289,12 +11063,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/341500">341500</a></td>
 <td>35</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12309,12 +11081,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/341800">341800</a></td>
 <td>56</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12329,12 +11099,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/342020">342020</a></td>
 <td>242</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12349,12 +11117,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/343100">343100</a></td>
 <td>587</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12369,12 +11135,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/343710">343710</a></td>
 <td>278</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12389,12 +11153,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/344410">344410</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12409,12 +11171,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/344910">344910</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12429,12 +11189,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/345090">345090</a></td>
 <td>258</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12449,12 +11207,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/345820">345820</a></td>
 <td>397</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12469,12 +11225,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/346940">346940</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12489,12 +11243,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/347430">347430</a></td>
 <td>379</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12509,12 +11261,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/348290">348290</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12529,12 +11279,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/348550">348550</a></td>
 <td>369</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12549,12 +11297,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/349500">349500</a></td>
 <td>252</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12569,12 +11315,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/349730">349730</a></td>
 <td>201</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12589,12 +11333,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/351090">351090</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12609,12 +11351,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/351400">351400</a></td>
 <td>268</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12629,12 +11369,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/351490">351490</a></td>
 <td>232</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12649,12 +11387,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/352190">352190</a></td>
 <td>556</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12669,12 +11405,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/353640">353640</a></td>
 <td>293</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12689,12 +11423,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/354830">354830</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12709,12 +11441,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/355150">355150</a></td>
 <td>164</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12729,12 +11459,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/355650">355650</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12749,12 +11477,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/356880">356880</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12769,12 +11495,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/357290">357290</a></td>
 <td>153</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12789,12 +11513,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/357780">357780</a></td>
 <td>282</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12809,12 +11531,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358170">358170</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12829,12 +11549,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358190">358190</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12849,12 +11567,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358210">358210</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12869,12 +11585,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358230">358230</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12889,12 +11603,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358250">358250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12909,12 +11621,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358270">358270</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12929,12 +11639,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358290">358290</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12949,12 +11657,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358310">358310</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12969,12 +11675,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358330">358330</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -12989,12 +11693,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358350">358350</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13009,12 +11711,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358370">358370</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13029,12 +11729,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358390">358390</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13049,12 +11747,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358410">358410</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13069,12 +11765,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/358430">358430</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13089,12 +11783,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/359050">359050</a></td>
 <td>218</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13109,12 +11801,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/359310">359310</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13129,12 +11819,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/359850">359850</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13149,12 +11837,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/360170">360170</a></td>
 <td>397</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13169,12 +11855,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/360430">360430</a></td>
 <td>1673</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13189,12 +11873,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/360650">360650</a></td>
 <td>175</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13209,12 +11891,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/362620">362620</a></td>
 <td>90</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13229,12 +11909,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/363490">363490</a></td>
 <td>33</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13249,12 +11927,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/363790">363790</a></td>
 <td>193</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13269,12 +11945,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/364640">364640</a></td>
 <td>468</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13289,12 +11963,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/365450">365450</a></td>
 <td>297</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13309,12 +11981,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/365810">365810</a></td>
 <td>280</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13329,12 +11999,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/367520">367520</a></td>
 <td>276</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13349,12 +12017,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/368180">368180</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13369,12 +12035,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/368340">368340</a></td>
 <td>344</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13389,12 +12053,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/368420">368420</a></td>
 <td>226</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13409,12 +12071,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/368730">368730</a></td>
 <td>251</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13429,12 +12089,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/369000">369000</a></td>
 <td>176</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13449,12 +12107,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/369580">369580</a></td>
 <td>189</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13469,12 +12125,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/370240">370240</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13489,12 +12143,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/370510">370510</a></td>
 <td>156</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13509,12 +12161,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/371330">371330</a></td>
 <td>219</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13529,12 +12179,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/373360">373360</a></td>
 <td>248</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13549,12 +12197,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/374320">374320</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13569,12 +12215,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/375460">375460</a></td>
 <td>262</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13589,12 +12233,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/375820">375820</a></td>
 <td>162</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13609,12 +12251,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/376920">376920</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13629,12 +12269,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/377290">377290</a></td>
 <td>300</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13649,12 +12287,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/378590">378590</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13669,12 +12305,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/379430">379430</a></td>
 <td>987</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13689,12 +12323,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/380020">380020</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13709,12 +12341,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/381780">381780</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13729,12 +12359,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/383270">383270</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13749,12 +12377,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/383560">383560</a></td>
 <td>214</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13769,12 +12395,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/384150">384150</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13789,12 +12413,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/384550">384550</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13809,12 +12431,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/384740">384740</a></td>
 <td>259</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13829,12 +12449,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/385080">385080</a></td>
 <td>195</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13849,12 +12467,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/385560">385560</a></td>
 <td>286</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13869,12 +12485,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/385830">385830</a></td>
 <td>293</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13889,12 +12503,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/386990">386990</a></td>
 <td>230</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13909,12 +12521,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/388160">388160</a></td>
 <td>152</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13929,12 +12539,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/388340">388340</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13949,12 +12557,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/389270">389270</a></td>
 <td>284</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13969,12 +12575,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/391070">391070</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -13989,12 +12593,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/391420">391420</a></td>
 <td>232</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14009,12 +12611,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/391590">391590</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14029,12 +12629,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/391720">391720</a></td>
 <td>191</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14049,12 +12647,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/392110">392110</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14069,12 +12665,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/394230">394230</a></td>
 <td>474</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14089,12 +12683,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/394540">394540</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14109,12 +12701,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/394970">394970</a></td>
 <td>272</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14129,12 +12719,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/396750">396750</a></td>
 <td>234</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14149,12 +12737,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/397060">397060</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14169,12 +12755,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/397460">397460</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14189,12 +12773,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/398710">398710</a></td>
 <td>325</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14209,12 +12791,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/398940">398940</a></td>
 <td>205</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14229,12 +12809,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/399780">399780</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14249,12 +12827,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/400110">400110</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14269,12 +12845,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/403190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/403190/27b6fa6d15815d342618080fb2d9905ecb0fdb00.jpg" alt="Planetbase" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/403190">Planetbase</a></td>
 <td>287</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14289,12 +12863,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/403640">403640</a></td>
 <td>254</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14309,12 +12881,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/404540">404540</a></td>
 <td>185</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14329,12 +12899,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/405500">405500</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14349,12 +12917,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/405640">405640</a></td>
 <td>227</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14369,12 +12935,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/406110">406110</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14389,12 +12953,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/407230">407230</a></td>
 <td>164</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14409,12 +12971,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/409710">409710</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14429,12 +12989,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/410210">410210</a></td>
 <td>218</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14449,12 +13007,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/410710">410710</a></td>
 <td>276</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14469,12 +13025,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/411310">411310</a></td>
 <td>19</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14489,12 +13043,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/412020">412020</a></td>
 <td>142</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14509,12 +13061,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/412290">412290</a></td>
 <td>198</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14529,12 +13079,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/413150">413150</a></td>
 <td>239</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14549,12 +13097,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/418060">418060</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14569,12 +13115,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/418180">418180</a></td>
 <td>186</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14589,12 +13133,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/418360">418360</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14609,12 +13151,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/420740">420740</a></td>
 <td>228</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14629,12 +13169,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/422130">422130</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14649,12 +13187,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/422420">422420</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14669,12 +13205,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/423710">423710</a></td>
 <td>219</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14689,12 +13223,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/423950">423950</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14709,12 +13241,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/425410">425410</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14729,12 +13259,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/427730">427730</a></td>
 <td>254</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14749,12 +13277,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/429470">429470</a></td>
 <td>213</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14769,12 +13295,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/429700">429700</a></td>
 <td>167</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14789,12 +13313,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/431710">431710</a></td>
 <td>280</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14809,12 +13331,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/432620">432620</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14829,12 +13349,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/433950">433950</a></td>
 <td>187</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14849,12 +13367,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/434650">434650</a></td>
 <td>307</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14869,12 +13385,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/437220">437220</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14889,12 +13403,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/438020">438020</a></td>
 <td>238</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14909,12 +13421,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/438180">438180</a></td>
 <td>212</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14929,12 +13439,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/439250">439250</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14949,12 +13457,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/440760">440760</a></td>
 <td>240</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14969,12 +13475,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/442070">442070</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -14989,12 +13493,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/443810">443810</a></td>
 <td>398</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15009,12 +13511,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/444260">444260</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15029,12 +13529,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/444940">444940</a></td>
 <td>182</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15049,12 +13547,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/445980">445980</a></td>
 <td>177</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15069,12 +13565,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/446780">446780</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15089,12 +13583,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/446840">446840</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15109,12 +13601,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/447530">447530</a></td>
 <td>186</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15129,12 +13619,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/448440">448440</a></td>
 <td>228</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15149,12 +13637,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/448640">448640</a></td>
 <td>188</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15169,12 +13655,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/449200">449200</a></td>
 <td>224</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15189,12 +13673,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/451880">451880</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15209,12 +13691,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/453820">453820</a></td>
 <td>224</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15229,12 +13709,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/454890">454890</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15249,12 +13727,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/457820">457820</a></td>
 <td>192</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15269,12 +13745,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/460190">460190</a></td>
 <td>398</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15289,12 +13763,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/461640">461640</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15309,12 +13781,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/462220">462220</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15329,12 +13799,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/463210">463210</a></td>
 <td>212</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15349,12 +13817,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/465200">465200</a></td>
 <td>434</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15369,12 +13835,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/466300">466300</a></td>
 <td>269</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15389,12 +13853,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/467000">467000</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15409,12 +13871,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/467950">467950</a></td>
 <td>187</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15429,12 +13889,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/468490">468490</a></td>
 <td>212</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15449,12 +13907,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/468670">468670</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15469,12 +13925,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/469820">469820</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15489,12 +13943,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/473470">473470</a></td>
 <td>213</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15509,12 +13961,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/474960">474960</a></td>
 <td>115</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15529,12 +13979,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/475190">475190</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15549,12 +13997,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/476600">476600</a></td>
 <td>1345</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15569,12 +14015,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/478010">478010</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15589,12 +14033,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/485120">485120</a></td>
 <td>207</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15609,12 +14051,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/485890">485890</a></td>
 <td>127</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15629,12 +14069,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/486150">486150</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15649,12 +14087,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/487220">487220</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15669,12 +14105,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/487580">487580</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15689,12 +14123,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/487600">487600</a></td>
 <td>186</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15709,12 +14141,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/489830">489830</a></td>
 <td>3065</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15729,12 +14159,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/489900">489900</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15749,12 +14177,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/491160">491160</a></td>
 <td>247</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15769,12 +14195,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/491650">491650</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15789,12 +14213,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/492220">492220</a></td>
 <td>186</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15809,12 +14231,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/493650">493650</a></td>
 <td>224</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15829,12 +14249,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/493710">493710</a></td>
 <td>224</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15849,12 +14267,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/495700">495700</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15869,12 +14285,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/496300"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/496300/d51edb8c8d40e68818adffcd3f9b40149173b2d5.jpg" alt="Kingdom: New Lands" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/496300">Kingdom: New Lands</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15889,12 +14303,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/496760">496760</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15909,12 +14321,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/497260">497260</a></td>
 <td>220</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15929,12 +14339,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/498030">498030</a></td>
 <td>206</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15949,12 +14357,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/498050">498050</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15969,12 +14375,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/499420">499420</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -15989,12 +14393,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/500570">500570</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16009,12 +14411,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/500590">500590</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16029,12 +14429,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/500810">500810</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16049,12 +14447,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/501990">501990</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16069,12 +14465,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/502750">502750</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16089,12 +14483,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/504210">504210</a></td>
 <td>27</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16109,12 +14501,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/505210">505210</a></td>
 <td>283</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16129,12 +14519,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/507380">507380</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16149,12 +14537,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/507490">507490</a></td>
 <td>233</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16169,12 +14555,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/508290">508290</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16189,12 +14573,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/509110">509110</a></td>
 <td>173</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16209,12 +14591,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/512250">512250</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16229,12 +14609,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/513590">513590</a></td>
 <td>198</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16249,12 +14627,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/513740">513740</a></td>
 <td>170</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16269,12 +14645,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/514470">514470</a></td>
 <td>215</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16289,12 +14663,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/514490">514490</a></td>
 <td>173</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16309,12 +14681,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/514970">514970</a></td>
 <td>219</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16329,12 +14699,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/515470">515470</a></td>
 <td>224</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16349,12 +14717,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/516110">516110</a></td>
 <td>192</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16369,12 +14735,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/517810">517810</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16389,12 +14753,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/521230">521230</a></td>
 <td>224</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16409,12 +14771,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/523650">523650</a></td>
 <td>96</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16429,7 +14789,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/526870"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/526870/ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6.jpg" alt="Satisfactory" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/526870">Satisfactory</a></td>
@@ -16439,12 +14798,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>41</td>
 <td>41</td><tr>
 <td></td>
 <td><a href="/game/526880">526880</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16459,12 +14816,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/528510">528510</a></td>
 <td>253</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16479,12 +14834,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/528720">528720</a></td>
 <td>309</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16499,12 +14852,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/530320">530320</a></td>
 <td>206</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16519,12 +14870,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/531180">531180</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16539,12 +14888,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/532210">532210</a></td>
 <td>126</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16559,12 +14906,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/532600">532600</a></td>
 <td>233</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16579,12 +14924,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/533860">533860</a></td>
 <td>159</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16599,12 +14942,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/536220">536220</a></td>
 <td>158</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16619,12 +14960,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/539450">539450</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16639,12 +14978,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/542690">542690</a></td>
 <td>182</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16659,12 +14996,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/542720">542720</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16679,12 +15014,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/542740">542740</a></td>
 <td>221</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16699,12 +15032,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/544330">544330</a></td>
 <td>277</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16719,12 +15050,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/546430">546430</a></td>
 <td>285</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16739,12 +15068,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/546980">546980</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16759,12 +15086,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/554620">554620</a></td>
 <td>224</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16779,12 +15104,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/555160">555160</a></td>
 <td>75</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16799,12 +15122,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/556280">556280</a></td>
 <td>215</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16819,12 +15140,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/557680">557680</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16839,12 +15158,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/564310">564310</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16859,12 +15176,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/566670">566670</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16879,12 +15194,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/567290">567290</a></td>
 <td>217</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16899,12 +15212,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/567680">567680</a></td>
 <td>187</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16919,12 +15230,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/575330">575330</a></td>
 <td>191</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16939,12 +15248,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/575840">575840</a></td>
 <td>192</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16959,12 +15266,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/578330">578330</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16979,12 +15284,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/579720">579720</a></td>
 <td>275</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -16999,12 +15302,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/582210">582210</a></td>
 <td>165</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17019,12 +15320,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/583270">583270</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17039,12 +15338,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/583930">583930</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17059,12 +15356,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/586240">586240</a></td>
 <td>213</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17079,12 +15374,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/586960">586960</a></td>
 <td>187</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17099,12 +15392,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/590380">590380</a></td>
 <td>246</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17119,12 +15410,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/590590">590590</a></td>
 <td>179</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17139,12 +15428,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/602890">602890</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17159,12 +15446,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/606800">606800</a></td>
 <td>455</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17179,12 +15464,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/608800">608800</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17199,12 +15482,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/611500">611500</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17219,12 +15500,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/612880">612880</a></td>
 <td>264</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17239,12 +15518,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/617830">617830</a></td>
 <td>186</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17259,12 +15536,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/621060">621060</a></td>
 <td>415</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17279,12 +15554,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/622170">622170</a></td>
 <td>280</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17299,12 +15572,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/623940">623940</a></td>
 <td>313</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17319,12 +15590,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/631770">631770</a></td>
 <td>157</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17339,12 +15608,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/635320">635320</a></td>
 <td>338</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17359,12 +15626,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/638230">638230</a></td>
 <td>212</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17379,12 +15644,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/645630">645630</a></td>
 <td>377</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17399,12 +15662,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/647570">647570</a></td>
 <td>156</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17419,12 +15680,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>155</td>
 <td>155</td><tr>
 <td></td>
 <td><a href="/game/650220">650220</a></td>
 <td>282</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17439,12 +15698,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/654310">654310</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17459,12 +15716,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/656680">656680</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17479,12 +15734,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/667720">667720</a></td>
 <td>343</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17499,12 +15752,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/674940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/674940/28bc7ba8952d488e01e7136126cbbc3b42ee443a.jpg" alt="Stick Fight: The Game" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/674940">Stick Fight: The Game</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17519,12 +15770,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/676630">676630</a></td>
 <td>129</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17539,12 +15788,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/696480">696480</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17559,12 +15806,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/701160"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/701160/7bf44c4e301a0f6fae78f697b39b5a1268223945.jpg" alt="Kingdom Two Crowns" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/701160">Kingdom Two Crowns</a></td>
 <td>156</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17579,12 +15824,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/718650">718650</a></td>
 <td>96</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17599,12 +15842,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/726340">726340</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17619,12 +15860,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/737520">737520</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17639,12 +15878,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/748300">748300</a></td>
 <td>251</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17659,12 +15896,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/760060">760060</a></td>
 <td>840</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17679,12 +15914,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/774561">774561</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17699,12 +15932,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/782330">782330</a></td>
 <td>107</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17719,12 +15950,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/792100">792100</a></td>
 <td>282</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17739,12 +15968,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/797410">797410</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17759,12 +15986,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/813780"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/813780/e2b5a7beb58136b892e517cb93ae08b36065363c.jpg" alt="Age of Empires II: Definitive Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/813780">Age of Empires II: Definitive Edition</a></td>
 <td>685</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17779,12 +16004,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/834450">834450</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17799,12 +16022,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/844260">844260</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17819,12 +16040,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/847370">847370</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17839,12 +16058,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/863550">863550</a></td>
 <td>282</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17859,12 +16076,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/865610">865610</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17879,12 +16094,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/867400">867400</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17899,12 +16112,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/873940">873940</a></td>
 <td>216</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17919,12 +16130,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/910630">910630</a></td>
 <td>287</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17939,12 +16148,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/924250">924250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17959,12 +16166,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/938560">938560</a></td>
 <td>96</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17979,12 +16184,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/949230">949230</a></td>
 <td>85</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -17999,12 +16202,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/960910">960910</a></td>
 <td>219</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18019,12 +16220,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/976730">976730</a></td>
 <td>322</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18039,12 +16238,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/991260">991260</a></td>
 <td>55</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18059,12 +16256,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/998740">998740</a></td>
 <td>255</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18079,12 +16274,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1016790">1016790</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18099,12 +16292,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1020470">1020470</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18119,12 +16310,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/1029690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1029690/00bce3b25aed4dfd96e864e03dd315448dcb834b.jpg" alt="Sniper Elite 5" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1029690">Sniper Elite 5</a></td>
 <td>1637</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18139,12 +16328,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1030840">1030840</a></td>
 <td>320</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18159,12 +16346,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1056960">1056960</a></td>
 <td>985</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18179,12 +16364,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1069030">1069030</a></td>
 <td>409</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18199,12 +16382,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1079830">1079830</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18219,12 +16400,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1085660">1085660</a></td>
 <td>38</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18239,12 +16418,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/1096530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1096530/ee1daddb7b47a1861d1274e46904bd1aee98ecff.jpg" alt="Solasta: Crown of the Magister" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1096530">Solasta: Crown of the Magister</a></td>
 <td>223</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18259,12 +16436,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1112890">1112890</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18279,12 +16454,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1133320">1133320</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18299,12 +16472,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1142080">1142080</a></td>
 <td>315</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18319,12 +16490,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1151340">1151340</a></td>
 <td>344</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18339,12 +16508,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1154810">1154810</a></td>
 <td>126</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18359,12 +16526,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1165400">1165400</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18379,12 +16544,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1176710">1176710</a></td>
 <td>170</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18399,12 +16562,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1190460">1190460</a></td>
 <td>128</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18419,12 +16580,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1222140">1222140</a></td>
 <td>700</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18439,12 +16598,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1259420">1259420</a></td>
 <td>759</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18459,12 +16616,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1285670">1285670</a></td>
 <td>167</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18479,12 +16634,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1328670">1328670</a></td>
 <td>3743</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18499,12 +16652,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1360390">1360390</a></td>
 <td>194</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18519,12 +16670,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1373550">1373550</a></td>
 <td>156</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18539,12 +16688,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1433860">1433860</a></td>
 <td>255</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18559,12 +16706,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1451120">1451120</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18579,12 +16724,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1466860">1466860</a></td>
 <td>244</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18599,12 +16742,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1527950">1527950</a></td>
 <td>807</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18619,12 +16760,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1546970">1546970</a></td>
 <td>11</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18639,12 +16778,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1547000">1547000</a></td>
 <td>14</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18659,12 +16796,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1608550">1608550</a></td>
 <td>170</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18679,12 +16814,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1641890">1641890</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18699,12 +16832,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1663250">1663250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18719,12 +16850,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/1677280"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1677280/714cc3ca1253f30ea8275f0d3f592c93723d7638.jpg" alt="Company of Heroes 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1677280">Company of Heroes 3</a></td>
 <td>1612</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18739,12 +16868,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1771300">1771300</a></td>
 <td>233</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18759,12 +16886,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1845910">1845910</a></td>
 <td>251</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18779,12 +16904,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1859490">1859490</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18799,12 +16922,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2023050">2023050</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18819,12 +16940,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2096080">2096080</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18839,12 +16958,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2162800">2162800</a></td>
 <td>1541</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18859,12 +16976,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2279330">2279330</a></td>
 <td>192</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18879,12 +16994,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2427410">2427410</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18899,12 +17012,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2427430">2427430</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18919,12 +17030,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2623190">2623190</a></td>
 <td>279</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -18939,6 +17048,5 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>12</td>
 <td>12</td></tbody>
 </table>

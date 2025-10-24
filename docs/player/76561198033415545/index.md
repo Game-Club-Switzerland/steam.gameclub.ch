@@ -29,12 +29,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/240/9052fa60c496a1c03383b27687ec50f4bf0f0e10.jpg" alt="Counter-Strike: Source" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/240">Counter-Strike: Source</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49,12 +47,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/360/40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3.jpg" alt="Half-Life Deathmatch: Source" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/360">Half-Life Deathmatch: Source</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -69,12 +65,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/440"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/440/f568912870a4684f9ec76277a1a404dda6bab213.jpg" alt="Team Fortress 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/440">Team Fortress 2</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,12 +83,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2870">2870</a></td>
 <td>261</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,12 +101,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/4560"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/4560/64946619217da497c9b29bc817bb40dd7d28c912.jpg" alt="Company of Heroes - Legacy Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/4560">Company of Heroes - Legacy Edition</a></td>
 <td>3</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -129,12 +119,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/16700">16700</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -149,12 +137,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/33250">33250</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -169,12 +155,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/33910">33910</a></td>
 <td>155</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,12 +173,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/44350">44350</a></td>
 <td>59</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -209,12 +191,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/108600">108600</a></td>
 <td>1981</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -229,12 +209,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/220200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/220200/6dc8c1377c6b0ffedaeaec59c253f8c33fb3e62b.jpg" alt="Kerbal Space Program" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/220200">Kerbal Space Program</a></td>
 <td>5990</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -249,12 +227,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/226840">226840</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -269,12 +245,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/228200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/228200/df92dc239acb3cf5d3e3eba645f3df2aaf7f91ad.jpg" alt="Company of Heroes " style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/228200">Company of Heroes </a></td>
 <td>317</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -289,12 +263,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/232010">232010</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -309,12 +281,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/233450">233450</a></td>
 <td>855</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -329,12 +299,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/236850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/236850/2553e828486183a4f5d5eb33036a95f07c698ded.jpg" alt="Europa Universalis IV" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/236850">Europa Universalis IV</a></td>
 <td>3013</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -349,12 +317,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/241560">241560</a></td>
 <td>3080</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -369,12 +335,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/242920">242920</a></td>
 <td>1312</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -389,12 +353,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/244850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/244850/f9856a90000d88e9a89441a7381fe9877e91eaca.jpg" alt="Space Engineers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/244850">Space Engineers</a></td>
 <td>36124</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -409,12 +371,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/255710">255710</a></td>
 <td>8916</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -429,12 +389,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/268910">268910</a></td>
 <td>124</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -449,12 +407,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/271590"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/271590/1e72f87eb927fa1485e68aefaff23c7fd7178251.jpg" alt="Grand Theft Auto V Legacy" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/271590">Grand Theft Auto V Legacy</a></td>
 <td>1479</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -469,12 +425,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/280720">280720</a></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -489,12 +443,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/289070">289070</a></td>
 <td>300</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -509,7 +461,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/294100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/294100/addbe3b704b267060b4d5d7649cfb292de61bd70.jpg" alt="RimWorld" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/294100">RimWorld</a></td>
@@ -519,12 +470,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>823</td>
 <td>823</td><tr>
 <td></td>
 <td><a href="/game/298110">298110</a></td>
 <td>245</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -539,12 +488,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/302080">302080</a></td>
 <td>5</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -559,12 +506,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/314160">314160</a></td>
 <td>241</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -579,12 +524,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/346110"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/346110/fef1799533131c10f538d2dd697bbbd89e663265.jpg" alt="ARK: Survival Evolved" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/346110">ARK: Survival Evolved</a></td>
 <td>53475</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -599,12 +542,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/362380">362380</a></td>
 <td>55</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -619,12 +560,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/382110">382110</a></td>
 <td>144</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -639,12 +578,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/383120">383120</a></td>
 <td>4193</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -659,12 +596,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/393380"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/393380/eb66a8cb52165274c84cae6526205065d13119d5.jpg" alt="Squad" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/393380">Squad</a></td>
 <td>954</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -679,12 +614,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/427520"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/427520/267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d.jpg" alt="Factorio" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/427520">Factorio</a></td>
 <td>10616</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -699,12 +632,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/437220">437220</a></td>
 <td>789</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -719,12 +650,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/476600">476600</a></td>
 <td>138</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -739,12 +668,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/493340">493340</a></td>
 <td>26</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -759,12 +686,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/529180">529180</a></td>
 <td>3941</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -779,12 +704,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/544550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/544550/2111b7ad54c3d3ed9b4b1afed7d99336270c13e3.jpg" alt="Stationeers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/544550">Stationeers</a></td>
 <td>28197</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -799,12 +722,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/548430"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/548430/e033e23c29a192a17c16a7645a2b423ac64ff447.jpg" alt="Deep Rock Galactic" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/548430">Deep Rock Galactic</a></td>
 <td>2245</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -819,12 +740,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/555160">555160</a></td>
 <td>11</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -839,12 +758,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/578080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/578080/609f27278aa70697c13bf99f32c5a0248c381f9d.jpg" alt="PUBG: BATTLEGROUNDS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/578080">PUBG: BATTLEGROUNDS</a></td>
 <td>1662</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -859,12 +776,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/611660">611660</a></td>
 <td>7</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -879,12 +794,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/617830">617830</a></td>
 <td>60</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -899,12 +812,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/623340">623340</a></td>
 <td>10</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -919,12 +830,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/646200">646200</a></td>
 <td>12</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -939,12 +848,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/671860">671860</a></td>
 <td>343</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -959,12 +866,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/684530">684530</a></td>
 <td>150</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -979,12 +884,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/722230">722230</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -999,12 +902,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/748370">748370</a></td>
 <td>9</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1019,12 +920,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/780290">780290</a></td>
 <td>139</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1039,12 +938,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/799600">799600</a></td>
 <td>172</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1059,12 +956,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/892970">892970</a></td>
 <td>1974</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1079,12 +974,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/945360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/945360/b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801.jpg" alt="Among Us" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/945360">Among Us</a></td>
 <td>692</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1099,12 +992,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/979110">979110</a></td>
 <td>57</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1119,12 +1010,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/990080">990080</a></td>
 <td>414</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1139,12 +1028,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1062090">1062090</a></td>
 <td>2657</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1159,12 +1046,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1068820">1068820</a></td>
 <td>3154</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1179,12 +1064,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1129580">1129580</a></td>
 <td>2055</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1199,12 +1082,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1248130">1248130</a></td>
 <td>4021</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1219,12 +1100,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1284190">1284190</a></td>
 <td>2634</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1239,7 +1118,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/1363080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1363080/f0b869c004ddb564f961668130894f335fe04175.jpg" alt="Manor Lords" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1363080">Manor Lords</a></td>
@@ -1249,12 +1127,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>80</td>
 <td>80</td><tr>
 <td><a href="/game/1366540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1366540/55fa75b8e6586427da47f58f320e975e990a460b.jpg" alt="Dyson Sphere Program" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1366540">Dyson Sphere Program</a></td>
 <td>911</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1269,12 +1145,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/1426210"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1426210/6b15f6d81c4fc52056f4928b363b7fac591a945b.jpg" alt="It Takes Two" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1426210">It Takes Two</a></td>
 <td>911</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1289,12 +1163,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1466860">1466860</a></td>
 <td>1192</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1309,12 +1181,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1517290">1517290</a></td>
 <td>222</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1329,12 +1199,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/1623730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1623730/f5523077a8f4c923c2e8d8c17794b3319035fa73.jpg" alt="Palworld" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1623730">Palworld</a></td>
 <td>1032</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1349,12 +1217,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/2162800">2162800</a></td>
 <td>24</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1369,12 +1235,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/3240220">3240220</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

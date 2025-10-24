@@ -29,12 +29,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/320"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/320/795e85364189511f4990861b578084deef086cb1.jpg" alt="Half-Life 2: Deathmatch" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/320">Half-Life 2: Deathmatch</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49,7 +47,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
@@ -59,12 +56,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>6181</td>
-<td>6181</td><tr>
+<td>6106</td><tr>
 <td></td>
 <td><a href="/game/3590">3590</a></td>
 <td>5</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -79,12 +74,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/24790">24790</a></td>
 <td>349</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -99,12 +92,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/221380"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221380/109c74df17f9b67ea47d8f01e3d1ec25278b9f73.jpg" alt="Age of Empires II (2013)" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/221380">Age of Empires II (2013)</a></td>
 <td>15146</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,12 +110,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/232090">232090</a></td>
 <td>1215</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -139,12 +128,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/242760">242760</a></td>
 <td>218</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159,12 +146,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/312660">312660</a></td>
 <td>66</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -179,12 +164,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/389730">389730</a></td>
 <td>364</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -199,12 +182,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/418460">418460</a></td>
 <td>73</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -219,12 +200,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/513710"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/513710/c25483e3e989239b932901118e44cf71606b5973.jpg" alt="SCUM" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/513710">SCUM</a></td>
 <td>4436</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -239,12 +218,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/552500">552500</a></td>
 <td>0</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -259,7 +236,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/578080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/578080/609f27278aa70697c13bf99f32c5a0248c381f9d.jpg" alt="PUBG: BATTLEGROUNDS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/578080">PUBG: BATTLEGROUNDS</a></td>
@@ -269,7 +245,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>3</td>
 <td>3</td><tr>
 <td><a href="/game/647960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/647960/d354109ad7689cc6d0bdeb492ea0af558b1ef71c.jpg" alt="Rusted Warfare - RTS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/647960">Rusted Warfare - RTS</a></td>
@@ -279,12 +254,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
 <td>2</td><tr>
 <td><a href="/game/674940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/674940/28bc7ba8952d488e01e7136126cbbc3b42ee443a.jpg" alt="Stick Fight: The Game" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/674940">Stick Fight: The Game</a></td>
 <td>287</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -299,12 +272,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/787860">787860</a></td>
 <td>171</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -319,12 +290,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/895400"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/895400/084d1cc38c922bd38cfe1daff75583f58eb2ead2.jpg" alt="Deadside" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/895400">Deadside</a></td>
 <td>30778</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -339,12 +308,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/1018830"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1018830/fd9708e0d7a90c5f6f91ef6917af78a5e256a3e6.jpg" alt="Element TD 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1018830">Element TD 2</a></td>
 <td>2600</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -359,12 +326,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td></td>
 <td><a href="/game/1213210">1213210</a></td>
 <td>34</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -379,7 +344,6 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td></td><tr>
 <td><a href="/game/2567870"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2567870/231b8f624ff26721431fe5749fa5ab5bccd75ff4.jpg" alt="Chained Together" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2567870">Chained Together</a></td>
@@ -389,12 +353,10 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>5</td>
 <td>5</td><tr>
 <td><a href="/game/3164500"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3164500/3d9f9ed56cb6e1ba995883207290c39674e9c411.jpg" alt="Schedule I" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3164500">Schedule I</a></td>
 <td>4826</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
