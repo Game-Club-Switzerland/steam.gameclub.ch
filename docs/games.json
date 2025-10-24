@@ -1083,5 +1083,49 @@
         "appid": "1326470",
         "name": "Sons Of The Forest",
         "img_icon_url": "bd28fe592b339cff5a3eef743f31e3166c984c68"
-    }
+    },
+    "333500": {
+        "appid": "333500",
+        "name": "Anno 1404: Venice",
+        "img_icon_url": "eea0f486f11af4379355635a8a833f9dfe6ebd37"
+    },
+    "236850": {
+        "appid": "236850",
+        "name": "Europa Universalis IV",
+        "img_icon_url": "2553e828486183a4f5d5eb33036a95f07c698ded"
+    },
+    "230190": {
+        "appid": "230190",
+        "name": "War for the Overworld",
+        "img_icon_url": "9fd8f2fec6b8967dc79d87b2a704f866c02cfcef"
+    },
+    "2017900": {
+        "appid": "2017900",
+        "name": "Orcs Must Die! 2",
+        "img_icon_url": "fabd8658e8e76f7c99c56f26b69d29882756f9b4"
+    },
+    "355980": {
+        "appid": "355980",
+        "name": "Dungeon Warfare",
+        "img_icon_url": "d0d786801137b8155b50847df9728fc4682783d1"
+    },
+    "496300": {
+        "appid": "496300",
+        "name": "Kingdom: New Lands",
+        "img_icon_url": "d51edb8c8d40e68818adffcd3f9b40149173b2d5"
+    },
+    "2045300": {
+        "appid": "2045300",
+        "name": "Infested Planet",
+        "img_icon_url": "1b0a0c55cf13f519b3b51a944692ce679297c8ab"
+    },
+    "332300": {
+        "appid": "332300",
+        "name": "Assassin's Creed II",
+        "img_icon_url": "0492d8ee860ac99168e46efeb003029c3224cb38"
+    },
+    "40390": {
+        "appid": "292030",
+        "name": "Risen 2 - Dark Waters",
+        "img_icon_url": "874236eebecff1fe070032d137722ef3cdb47383"
 }
