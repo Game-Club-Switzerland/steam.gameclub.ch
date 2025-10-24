@@ -1063,25 +1063,5 @@
         "appid": "2352620",
         "name": "Fellowship",
         "img_icon_url": "364217c140be107d1c8e23dabc573bba9fa8fcd0"
-    },
-    "1716740": {
-        "appid": "1716740",
-        "name": "Starfield",
-        "img_icon_url": "b4d5828937b2d29b875405dce97bbae0a5d01bbe"
-    },
-    "1222670": {
-        "appid": "1222670",
-        "name": "The Sims™ 4",
-        "img_icon_url": "ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98"
-    },
-    "2465200": {
-        "appid": "2465200",
-        "name": "Sons Of The Forest Dedicated Server",
-        "img_icon_url": "3e382029f4751a9c377bcd0996a2ee7306c45e73"
-    },
-    "1326470": {
-        "appid": "1326470",
-        "name": "Sons Of The Forest",
-        "img_icon_url": "bd28fe592b339cff5a3eef743f31e3166c984c68"
     }
 }
