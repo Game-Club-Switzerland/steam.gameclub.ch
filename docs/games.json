@@ -1109,8 +1109,8 @@
         "name": "Dungeon Warfare",
         "img_icon_url": "d0d786801137b8155b50847df9728fc4682783d1"
     },
-    "49630": {
-        "appid": "49630",
+    "496300": {
+        "appid": "496300",
         "name": "Kingdom: New Lands",
         "img_icon_url": "d51edb8c8d40e68818adffcd3f9b40149173b2d5"
     },
@@ -1134,8 +1134,8 @@
         "name": "Kingdom: Classic",
         "img_icon_url": "0d741624c643448ff74741f50a4b80a24529b869"
     },
-    "219700": {
-        "appid": "219700",
+    "21970": {
+        "appid": "21970",
         "name": "R.U.S.E",
         "img_icon_url": "644ccfb018f0435dbfadf5c0bc291cef6202d84c"
     },
@@ -1173,5 +1173,35 @@
         "appid": "19980",
         "name": "Prince of Persia",
         "img_icon_url": "2b404bd60fb97a9c1eabb9d4a573909c014a23fd"
+    },
+    "20920": {
+        "appid": "20920",
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "img_icon_url": "62dd5c627664df1bcabc47727c7dcd7ccab353e9"
+    },
+    "9200": {
+        "appid": "9200",
+        "name": "RAGE",
+        "img_icon_url": "258791dd730f3009acc4c6c1846ed75b2c3911fa"
+    },
+    "427250": {
+        "appid": "427250",
+        "name": "8-Bit Armies",
+        "img_icon_url": "c170b5d50ba49b0cbcff13bf9701a0c551e4b576"
+    },
+    "431600": {
+        "appid": "431600",
+        "name": "Metro: Last Light Complete Edition",
+        "img_icon_url": "7b84b80d2cebe41ba87c59b28e2473d3b33e797d"
+    },
+    "115320": {
+        "appid": "115320",
+        "name": "PROTOTYPE 2",
+        "img_icon_url": "157062f0a8a18c0ae1550feb327b21e2407f528a"
+    },
+    "40950": {
+        "appid": "40950",
+        "name": "Stronghold HD™",
+        "img_icon_url": "d926a3fecaa591d1b64e823ba74d990ca3d94543"
     }
 }
