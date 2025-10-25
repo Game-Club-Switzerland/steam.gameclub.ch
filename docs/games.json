@@ -1084,8 +1084,8 @@
         "name": "Sons Of The Forest",
         "img_icon_url": "bd28fe592b339cff5a3eef743f31e3166c984c68"
     },
-    "333500": {
-        "appid": "333500",
+    "33350": {
+        "appid": "33350",
         "name": "Anno 1404: Venice",
         "img_icon_url": "eea0f486f11af4379355635a8a833f9dfe6ebd37"
     },
@@ -1099,8 +1099,8 @@
         "name": "War for the Overworld",
         "img_icon_url": "9fd8f2fec6b8967dc79d87b2a704f866c02cfcef"
     },
-    "2017900": {
-        "appid": "2017900",
+    "201790": {
+        "appid": "201790",
         "name": "Orcs Must Die! 2",
         "img_icon_url": "fabd8658e8e76f7c99c56f26b69d29882756f9b4"
     },
@@ -1109,24 +1109,69 @@
         "name": "Dungeon Warfare",
         "img_icon_url": "d0d786801137b8155b50847df9728fc4682783d1"
     },
-    "496300": {
-        "appid": "496300",
+    "49630": {
+        "appid": "49630",
         "name": "Kingdom: New Lands",
         "img_icon_url": "d51edb8c8d40e68818adffcd3f9b40149173b2d5"
     },
-    "2045300": {
-        "appid": "2045300",
+    "204530": {
+        "appid": "204530",
         "name": "Infested Planet",
         "img_icon_url": "1b0a0c55cf13f519b3b51a944692ce679297c8ab"
     },
-    "332300": {
-        "appid": "332300",
+    "33230": {
+        "appid": "33230",
         "name": "Assassin's Creed II",
         "img_icon_url": "0492d8ee860ac99168e46efeb003029c3224cb38"
     },
     "40390": {
-        "appid": "292030",
+        "appid": "40390",
         "name": "Risen 2 - Dark Waters",
         "img_icon_url": "874236eebecff1fe070032d137722ef3cdb47383"
+    },
+    "368230": {
+        "appid": "368230",
+        "name": "Kingdom: Classic",
+        "img_icon_url": "0d741624c643448ff74741f50a4b80a24529b869"
+    },
+    "219700": {
+        "appid": "219700",
+        "name": "R.U.S.E",
+        "img_icon_url": "644ccfb018f0435dbfadf5c0bc291cef6202d84c"
+    },
+    "208480": {
+        "appid": "208480",
+        "name": "Assassin's Creed® III",
+        "img_icon_url": "5d13ffd781fa7658903fbd762b51a76f8c734d2b"
+    },
+    "236430": {
+        "appid": "236430",
+        "name": "DARK SOULS™ II",
+        "img_icon_url": "8d5b3da903efb047d4efb670c08714a4d1071e83"
+    },
+    "502520": {
+        "appid": "502520",
+        "name": "Ultimate General: Civil War",
+        "img_icon_url": "ccb1a390ce1da1a960e78f52f443df75ee50db39"
+    },
+    "48190": {
+        "appid": "48190",
+        "name": "Assassin's Creed Brotherhood",
+        "img_icon_url": "6a87d0b61e45e8075decd1f8ace549300b036a52"
+    },
+    "249230": {
+        "appid": "249230",
+        "name": "Risen 3 - Titan Lords",
+        "img_icon_url": "5d980c5528886a10e276942a680b6ff75975a36f"
+    },
+    "207610": {
+        "appid": "207610",
+        "name": "The Walking Dead",
+        "img_icon_url": "87a13ae0a2a76488792924aa8bb0dd8a7760f931"
+    },
+    "19980": {
+        "appid": "19980",
+        "name": "Prince of Persia",
+        "img_icon_url": "2b404bd60fb97a9c1eabb9d4a573909c014a23fd"
     }
 }
