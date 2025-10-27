@@ -1203,5 +1203,10 @@
         "appid": "40950",
         "name": "Stronghold HD™",
         "img_icon_url": "d926a3fecaa591d1b64e823ba74d990ca3d94543"
+    },
+    "2948190": {
+        "appid": "2948190",
+        "name": "World of Sea Battle",
+        "img_icon_url": "5db648c3d1dfd65f9cacb6af50a765d74c51c8b2"
     }
 }
