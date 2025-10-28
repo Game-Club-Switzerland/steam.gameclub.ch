@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/368230">368230</a>
+#  <a href="https://steamdb.info/app/368230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/368230/0d741624c643448ff74741f50a4b80a24529b869.jpg" alt="Kingdom: Classic" style="width:32px;height:32px;border-radius:4px;" /> Kingdom: Classic</a>
 
 **App ID:** 368230
 

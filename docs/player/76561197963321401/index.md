@@ -399,8 +399,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33350">33350</a></td>
+<td><a href="/game/33350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33350/eea0f486f11af4379355635a8a833f9dfe6ebd37.jpg" alt="Anno 1404: Venice" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33350">Anno 1404: Venice</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -471,8 +471,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/40950">40950</a></td>
+<td><a href="/game/40950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40950/d926a3fecaa591d1b64e823ba74d990ca3d94543.jpg" alt="Stronghold HD™" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/40950">Stronghold HD™</a></td>
 <td>0</td>
 <td></td>
 <td></td>

@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/48190">48190</a>
+#  <a href="https://steamdb.info/app/48190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/48190/6a87d0b61e45e8075decd1f8ace549300b036a52.jpg" alt="Assassin's Creed Brotherhood" style="width:32px;height:32px;border-radius:4px;" /> Assassin's Creed Brotherhood</a>
 
 **App ID:** 48190
 

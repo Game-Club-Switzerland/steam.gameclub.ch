@@ -435,8 +435,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/208480">208480</a></td>
+<td><a href="/game/208480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/208480/5d13ffd781fa7658903fbd762b51a76f8c734d2b.jpg" alt="Assassin's Creed® III" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/208480">Assassin's Creed® III</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -858,8 +858,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/427250">427250</a></td>
+<td><a href="/game/427250"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/427250/c170b5d50ba49b0cbcff13bf9701a0c551e4b576.jpg" alt="8-Bit Armies" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/427250">8-Bit Armies</a></td>
 <td>0</td>
 <td></td>
 <td></td>

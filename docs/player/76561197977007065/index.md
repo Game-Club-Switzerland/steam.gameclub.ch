@@ -1065,8 +1065,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/236430">236430</a></td>
+<td><a href="/game/236430"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/236430/8d5b3da903efb047d4efb670c08714a4d1071e83.jpg" alt="DARK SOULS™ II" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/236430">DARK SOULS™ II</a></td>
 <td>5056</td>
 <td></td>
 <td></td>
@@ -1226,7 +1226,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>162</td><tr>
+<td>123</td><tr>
 <td></td>
 <td><a href="/game/259680">259680</a></td>
 <td>2077</td>
@@ -1750,6 +1750,15 @@ hide:
 <td></td>
 <td></td><tr>
 <td></td>
+<td><a href="/game/503560">503560</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
 <td><a href="/game/504370">504370</a></td>
 <td>552</td>
 <td></td>
@@ -2243,7 +2252,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>83</td><tr>
+<td>10</td><tr>
 <td></td>
 <td><a href="/game/1145360">1145360</a></td>
 <td>1599</td>
@@ -2261,7 +2270,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>46</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1174180">1174180</a></td>
 <td>353</td>
@@ -2585,7 +2594,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>5</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/2334730">2334730</a></td>
 <td>249</td>
@@ -2597,13 +2606,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2352620"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2352620/364217c140be107d1c8e23dabc573bba9fa8fcd0.jpg" alt="Fellowship" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2352620">Fellowship</a></td>
-<td>177</td>
+<td>291</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>177</td><tr>
+<td>291</td><tr>
 <td><a href="/game/2375530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2375530/6c541723471af35e6016d9a455913c2dad4b6799.jpg" alt="Descenders Next" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2375530">Descenders Next</a></td>
 <td>797</td>
@@ -2642,13 +2651,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/3026450"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3026450/2e5e5fe9bd3fc1860909e6452a3dbac4cb58feac.jpg" alt="Deadly Days: Roadtrip" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3026450">Deadly Days: Roadtrip</a></td>
-<td>201</td>
+<td>527</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>117</td><tr>
+<td>443</td><tr>
 <td></td>
 <td><a href="/game/3240220">3240220</a></td>
 <td>321</td>
@@ -2666,7 +2675,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>11</td><tr>
+<td></td><tr>
 <td><a href="/game/3527290"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3527290/b3a992fd5991bd2f4c956d58e062b0ce2988d6cd.jpg" alt="PEAK" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3527290">PEAK</a></td>
 <td>0</td>

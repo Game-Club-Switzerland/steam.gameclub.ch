@@ -140,13 +140,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>153897</td>
+<td>154163</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1325</td><tr>
+<td>1364</td><tr>
 <td></td>
 <td><a href="/game/16600">16600</a></td>
 <td>37</td>
@@ -419,13 +419,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/221100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221100/16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d.jpg" alt="DayZ" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/221100">DayZ</a></td>
-<td>58198</td>
+<td>58201</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>2</td><tr>
 <td></td>
 <td><a href="/game/223850">223850</a></td>
 <td>99</td>
@@ -1067,13 +1067,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1285190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1285190/9a7ba760c036bb0a73310dc9731d7a84a329b921.jpg" alt="Borderlands® 4" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1285190">Borderlands® 4</a></td>
-<td>3297</td>
+<td>3471</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>618</td><tr>
+<td>174</td><tr>
 <td></td>
 <td><a href="/game/1288320">1288320</a></td>
 <td>578</td>
@@ -1220,13 +1220,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2427700"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2427700/852629f282e0dfc3e12da56ed5692043665cf9d3.jpg" alt="Backpack Battles" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2427700">Backpack Battles</a></td>
-<td>11135</td>
+<td>11495</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>490</td><tr>
+<td>806</td><tr>
 <td><a href="/game/2694490"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2694490/f4e2e3a5f1e1e4c3b6f0c8e2f4d6a7b8c9d0e1f2.jpg" alt="The Last of Us Part I" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2694490">The Last of Us Part I</a></td>
 <td>1025</td>

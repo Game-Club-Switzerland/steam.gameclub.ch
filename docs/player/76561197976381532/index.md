@@ -345,8 +345,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33350">33350</a></td>
+<td><a href="/game/33350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33350/eea0f486f11af4379355635a8a833f9dfe6ebd37.jpg" alt="Anno 1404: Venice" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33350">Anno 1404: Venice</a></td>
 <td>958</td>
 <td></td>
 <td></td>
@@ -363,8 +363,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/40950">40950</a></td>
+<td><a href="/game/40950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40950/d926a3fecaa591d1b64e823ba74d990ca3d94543.jpg" alt="Stronghold HD™" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/40950">Stronghold HD™</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -509,13 +509,13 @@ hide:
 <td></td><tr>
 <td></td>
 <td><a href="/game/204360">204360</a></td>
-<td>1242</td>
+<td>1284</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>42</td><tr>
 <td><a href="/game/204880"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204880/31832cdd443b665a8ae599f76761411f3d939b98.jpg" alt="Sins of a Solar Empire: Rebellion" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/204880">Sins of a Solar Empire: Rebellion</a></td>
 <td>0</td>
@@ -1137,8 +1137,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/427250">427250</a></td>
+<td><a href="/game/427250"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/427250/c170b5d50ba49b0cbcff13bf9701a0c551e4b576.jpg" alt="8-Bit Armies" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/427250">8-Bit Armies</a></td>
 <td>160</td>
 <td></td>
 <td></td>
@@ -1490,13 +1490,13 @@ hide:
 <td></td><tr>
 <td></td>
 <td><a href="/game/880940">880940</a></td>
-<td>455</td>
+<td>640</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>184</td><tr>
 <td></td>
 <td><a href="/game/892970">892970</a></td>
 <td>1115</td>
@@ -1832,13 +1832,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>2566</td>
+<td>3124</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2566</td><tr>
+<td>2469</td><tr>
 <td><a href="/game/3017860"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3017860/f0d79db78568f80f3532151fed5d9633191d0ebe.jpg" alt="DOOM: The Dark Ages" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3017860">DOOM: The Dark Ages</a></td>
 <td>1677</td>
@@ -1850,13 +1850,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/3097560"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3097560/5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c.jpg" alt="Liar's Bar" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3097560">Liar's Bar</a></td>
-<td>37</td>
+<td>55</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1</td><tr>
+<td>18</td><tr>
 <td></td>
 <td><a href="/game/3156770">3156770</a></td>
 <td>1022</td>
@@ -1892,5 +1892,14 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td></tbody>
+<td></td><tr>
+<td></td>
+<td><a href="/game/3949040">3949040</a></td>
+<td>307</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>307</td></tbody>
 </table>

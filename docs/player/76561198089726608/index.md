@@ -129,8 +129,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/20920">20920</a></td>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
 <td>1742</td>
 <td></td>
 <td></td>
@@ -147,8 +147,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33230">33230</a></td>
+<td><a href="/game/33230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33230/0492d8ee860ac99168e46efeb003029c3224cb38.jpg" alt="Assassin's Creed II" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33230">Assassin's Creed II</a></td>
 <td>1837</td>
 <td></td>
 <td></td>
@@ -156,8 +156,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/48190">48190</a></td>
+<td><a href="/game/48190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/48190/6a87d0b61e45e8075decd1f8ace549300b036a52.jpg" alt="Assassin's Creed Brotherhood" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/48190">Assassin's Creed Brotherhood</a></td>
 <td>1108</td>
 <td></td>
 <td></td>
@@ -228,8 +228,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/208480">208480</a></td>
+<td><a href="/game/208480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/208480/5d13ffd781fa7658903fbd762b51a76f8c734d2b.jpg" alt="Assassin's Creed® III" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/208480">Assassin's Creed® III</a></td>
 <td>1644</td>
 <td></td>
 <td></td>
@@ -299,7 +299,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>139</td><tr>
+<td>57</td><tr>
 <td></td>
 <td><a href="/game/268910">268910</a></td>
 <td>7</td>
@@ -410,13 +410,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/397540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/397540/0ac7b8d98fad581f65b0533bbce63bf953d743ac.jpg" alt="Borderlands 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/397540">Borderlands 3</a></td>
-<td>461</td>
+<td>672</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>461</td><tr>
+<td>672</td><tr>
 <td></td>
 <td><a href="/game/403640">403640</a></td>
 <td>2084</td>

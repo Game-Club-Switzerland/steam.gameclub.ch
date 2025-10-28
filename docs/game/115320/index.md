@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/115320">115320</a>
+#  <a href="https://steamdb.info/app/115320"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/115320/157062f0a8a18c0ae1550feb327b21e2407f528a.jpg" alt="PROTOTYPE 2" style="width:32px;height:32px;border-radius:4px;" /> PROTOTYPE 2</a>
 
 **App ID:** 115320
 

@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/502520">502520</a>
+#  <a href="https://steamdb.info/app/502520"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/502520/ccb1a390ce1da1a960e78f52f443df75ee50db39.jpg" alt="Ultimate General: Civil War" style="width:32px;height:32px;border-radius:4px;" /> Ultimate General: Civil War</a>
 
 **App ID:** 502520
 

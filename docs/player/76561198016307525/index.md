@@ -39,8 +39,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/21970">21970</a></td>
+<td><a href="/game/21970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/21970/644ccfb018f0435dbfadf5c0bc291cef6202d84c.jpg" alt="R.U.S.E" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/21970">R.U.S.E</a></td>
 <td>4056</td>
 <td></td>
 <td></td>

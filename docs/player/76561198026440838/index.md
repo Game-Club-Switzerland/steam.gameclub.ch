@@ -437,13 +437,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/578080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/578080/609f27278aa70697c13bf99f32c5a0248c381f9d.jpg" alt="PUBG: BATTLEGROUNDS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/578080">PUBG: BATTLEGROUNDS</a></td>
-<td>95658</td>
+<td>96248</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1829</td><tr>
+<td>2145</td><tr>
 <td></td>
 <td><a href="/game/727020">727020</a></td>
 <td>0</td>

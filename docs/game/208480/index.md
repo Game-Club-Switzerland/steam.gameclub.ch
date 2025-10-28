@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/208480">208480</a>
+#  <a href="https://steamdb.info/app/208480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/208480/5d13ffd781fa7658903fbd762b51a76f8c734d2b.jpg" alt="Assassin's Creed® III" style="width:32px;height:32px;border-radius:4px;" /> Assassin's Creed® III</a>
 
 **App ID:** 208480
 
@@ -44,13 +44,13 @@ hide:
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank"><img src="https://avatars.steamstatic.com/b1a566f4c88a09457b86b1249801cf508bca625b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033175487">3W | Myrmidon</a></td><td>76561198033175487</td><td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank"><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198089726608">IamAdi</a></td><td>76561198089726608</td><td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Steam Profil</a></td><td>1644</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
-<tr>
-<td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank"><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975971094">Marco-san</a></td><td>76561197975971094</td><td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
-<tr>
 <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td>1894</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td>1695</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
+<td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank"><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198089726608">IamAdi</a></td><td>76561198089726608</td><td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Steam Profil</a></td><td>1644</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<tr>
+<td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank"><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975971094">Marco-san</a></td><td>76561197975971094</td><td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>

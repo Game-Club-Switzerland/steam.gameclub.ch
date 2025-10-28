@@ -50,13 +50,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>89591</td>
+<td>90572</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>6106</td><tr>
+<td>5135</td><tr>
 <td></td>
 <td><a href="/game/3590">3590</a></td>
 <td>5</td>
@@ -239,13 +239,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/578080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/578080/609f27278aa70697c13bf99f32c5a0248c381f9d.jpg" alt="PUBG: BATTLEGROUNDS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/578080">PUBG: BATTLEGROUNDS</a></td>
-<td>279684</td>
+<td>279738</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>3</td><tr>
+<td>58</td><tr>
 <td><a href="/game/647960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/647960/d354109ad7689cc6d0bdeb492ea0af558b1ef71c.jpg" alt="Rusted Warfare - RTS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/647960">Rusted Warfare - RTS</a></td>
 <td>123627</td>

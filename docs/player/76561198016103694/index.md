@@ -228,8 +228,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/40950">40950</a></td>
+<td><a href="/game/40950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40950/d926a3fecaa591d1b64e823ba74d990ca3d94543.jpg" alt="Stronghold HD™" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/40950">Stronghold HD™</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -554,13 +554,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/251570"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/251570/f6515dd177b2992aebcb563151fbe836a600f364.jpg" alt="7 Days to Die" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/251570">7 Days to Die</a></td>
-<td>16136</td>
+<td>16169</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1121</td><tr>
+<td>906</td><tr>
 <td><a href="/game/252490"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/252490/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg" alt="Rust" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/252490">Rust</a></td>
 <td>66</td>
@@ -1004,13 +1004,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1144200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1144200/9312af21d070f126acbd2237c461b0d06d9b3e20.jpg" alt="Ready or Not" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1144200">Ready or Not</a></td>
-<td>10310</td>
+<td>10517</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>427</td><tr>
+<td>569</td><tr>
 <td><a href="/game/1172620"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1172620/f95f362708fc326511c5d86566c447ee625bf776.jpg" alt="Sea of Thieves" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1172620">Sea of Thieves</a></td>
 <td>4067</td>
@@ -1064,16 +1064,16 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>38</td><tr>
+<td></td><tr>
 <td><a href="/game/1594320"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1594320/ac3ebd0dd8f4244545ca18091b23f60de42d7ade.jpg" alt="Captain of Industry" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1594320">Captain of Industry</a></td>
-<td>16106</td>
+<td>16180</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>3513</td><tr>
+<td>2333</td><tr>
 <td></td>
 <td><a href="/game/1615290">1615290</a></td>
 <td>1374</td>

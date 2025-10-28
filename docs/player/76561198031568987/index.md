@@ -372,8 +372,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/9200">9200</a></td>
+<td><a href="/game/9200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg" alt="RAGE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/9200">RAGE</a></td>
 <td>28</td>
 <td></td>
 <td></td>
@@ -552,8 +552,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/20920">20920</a></td>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
 <td>39</td>
 <td></td>
 <td></td>
@@ -768,8 +768,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/40950">40950</a></td>
+<td><a href="/game/40950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40950/d926a3fecaa591d1b64e823ba74d990ca3d94543.jpg" alt="Stronghold HD™" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/40950">Stronghold HD™</a></td>
 <td>532</td>
 <td></td>
 <td></td>
@@ -939,8 +939,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/48190">48190</a></td>
+<td><a href="/game/48190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/48190/6a87d0b61e45e8075decd1f8ace549300b036a52.jpg" alt="Assassin's Creed Brotherhood" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/48190">Assassin's Creed Brotherhood</a></td>
 <td>1107</td>
 <td></td>
 <td></td>
@@ -1074,8 +1074,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/207610">207610</a></td>
+<td><a href="/game/207610"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/207610/87a13ae0a2a76488792924aa8bb0dd8a7760f931.jpg" alt="The Walking Dead" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/207610">The Walking Dead</a></td>
 <td>15</td>
 <td></td>
 <td></td>

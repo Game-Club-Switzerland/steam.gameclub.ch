@@ -228,8 +228,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/115320">115320</a></td>
+<td><a href="/game/115320"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/115320/157062f0a8a18c0ae1550feb327b21e2407f528a.jpg" alt="PROTOTYPE 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/115320">PROTOTYPE 2</a></td>
 <td>364</td>
 <td></td>
 <td></td>
@@ -255,8 +255,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/207610">207610</a></td>
+<td><a href="/game/207610"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/207610/87a13ae0a2a76488792924aa8bb0dd8a7760f931.jpg" alt="The Walking Dead" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/207610">The Walking Dead</a></td>
 <td>0</td>
 <td></td>
 <td></td>

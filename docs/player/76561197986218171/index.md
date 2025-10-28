@@ -2066,13 +2066,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1172620"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1172620/f95f362708fc326511c5d86566c447ee625bf776.jpg" alt="Sea of Thieves" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1172620">Sea of Thieves</a></td>
-<td>45863</td>
+<td>46169</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2</td><tr>
+<td>309</td><tr>
 <td></td>
 <td><a href="/game/1184050">1184050</a></td>
 <td>512</td>
@@ -2363,13 +2363,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>5269</td>
+<td>5891</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>5153</td><tr>
+<td>3168</td><tr>
 <td></td>
 <td><a href="/game/2825530">2825530</a></td>
 <td>213</td>

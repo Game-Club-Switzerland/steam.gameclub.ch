@@ -264,8 +264,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/20920">20920</a></td>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
 <td>75</td>
 <td></td>
 <td></td>
@@ -282,8 +282,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/21970">21970</a></td>
+<td><a href="/game/21970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/21970/644ccfb018f0435dbfadf5c0bc291cef6202d84c.jpg" alt="R.U.S.E" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/21970">R.U.S.E</a></td>
 <td>223</td>
 <td></td>
 <td></td>
@@ -543,8 +543,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/40950">40950</a></td>
+<td><a href="/game/40950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40950/d926a3fecaa591d1b64e823ba74d990ca3d94543.jpg" alt="Stronghold HD™" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/40950">Stronghold HD™</a></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -921,8 +921,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/207610">207610</a></td>
+<td><a href="/game/207610"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/207610/87a13ae0a2a76488792924aa8bb0dd8a7760f931.jpg" alt="The Walking Dead" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/207610">The Walking Dead</a></td>
 <td>50</td>
 <td></td>
 <td></td>
@@ -2435,11 +2435,11 @@ hide:
 <td></td><tr>
 <td><a href="/game/3405340"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3405340/8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8.jpg" alt="Megabonk" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3405340">Megabonk</a></td>
-<td>1676</td>
+<td>1872</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>708</td></tbody>
+<td>593</td></tbody>
 </table>

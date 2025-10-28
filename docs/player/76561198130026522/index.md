@@ -165,8 +165,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33350">33350</a></td>
+<td><a href="/game/33350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33350/eea0f486f11af4379355635a8a833f9dfe6ebd37.jpg" alt="Anno 1404: Venice" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33350">Anno 1404: Venice</a></td>
 <td>650</td>
 <td></td>
 <td></td>
@@ -221,13 +221,13 @@ hide:
 <td></td><tr>
 <td></td>
 <td><a href="/game/204360">204360</a></td>
-<td>202</td>
+<td>249</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>46</td><tr>
 <td></td>
 <td><a href="/game/207140">207140</a></td>
 <td>0</td>
@@ -815,13 +815,13 @@ hide:
 <td></td><tr>
 <td></td>
 <td><a href="/game/880940">880940</a></td>
-<td>861</td>
+<td>976</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>114</td><tr>
 <td></td>
 <td><a href="/game/892970">892970</a></td>
 <td>195</td>
@@ -1256,13 +1256,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1868140"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1868140/2f19d6889f66eae88e8b5a36727d560ec88a00cb.jpg" alt="DAVE THE DIVER" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1868140">DAVE THE DIVER</a></td>
-<td>5009</td>
+<td>5054</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>400</td><tr>
+<td>445</td><tr>
 <td></td>
 <td><a href="/game/1934680">1934680</a></td>
 <td>493</td>
@@ -1409,13 +1409,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1331</td>
+<td>1370</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1331</td><tr>
+<td>1276</td><tr>
 <td></td>
 <td><a href="/game/2835570">2835570</a></td>
 <td>1</td>
@@ -1442,7 +1442,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>1</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/3240220">3240220</a></td>
 <td>0</td>

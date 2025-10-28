@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/19980">19980</a>
+#  <a href="https://steamdb.info/app/19980"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/19980/2b404bd60fb97a9c1eabb9d4a573909c014a23fd.jpg" alt="Prince of Persia" style="width:32px;height:32px;border-radius:4px;" /> Prince of Persia</a>
 
 **App ID:** 19980
 

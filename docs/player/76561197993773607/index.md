@@ -426,8 +426,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/9200">9200</a></td>
+<td><a href="/game/9200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg" alt="RAGE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/9200">RAGE</a></td>
 <td>1657</td>
 <td></td>
 <td></td>
@@ -1164,8 +1164,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/115320">115320</a></td>
+<td><a href="/game/115320"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/115320/157062f0a8a18c0ae1550feb327b21e2407f528a.jpg" alt="PROTOTYPE 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/115320">PROTOTYPE 2</a></td>
 <td>1202</td>
 <td></td>
 <td></td>
@@ -3551,13 +3551,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1941540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1941540/4afa63381aebb28b832279ac0679d258b86e9cec.jpg" alt="Mafia: The Old Country" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1941540">Mafia: The Old Country</a></td>
-<td>1207</td>
+<td>1413</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>587</td><tr>
+<td>648</td><tr>
 <td></td>
 <td><a href="/game/2058180">2058180</a></td>
 <td>4815</td>
@@ -3656,7 +3656,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>863</td><tr>
+<td>220</td><tr>
 <td><a href="/game/3017860"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3017860/f0d79db78568f80f3532151fed5d9633191d0ebe.jpg" alt="DOOM: The Dark Ages" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3017860">DOOM: The Dark Ages</a></td>
 <td>48</td>

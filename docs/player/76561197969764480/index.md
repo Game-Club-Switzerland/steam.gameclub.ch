@@ -1101,8 +1101,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/9200">9200</a></td>
+<td><a href="/game/9200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg" alt="RAGE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/9200">RAGE</a></td>
 <td>74</td>
 <td></td>
 <td></td>
@@ -1884,8 +1884,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/20920">20920</a></td>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
 <td>225</td>
 <td></td>
 <td></td>
@@ -2388,8 +2388,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33230">33230</a></td>
+<td><a href="/game/33230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33230/0492d8ee860ac99168e46efeb003029c3224cb38.jpg" alt="Assassin's Creed II" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33230">Assassin's Creed II</a></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2775,8 +2775,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/40950">40950</a></td>
+<td><a href="/game/40950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40950/d926a3fecaa591d1b64e823ba74d990ca3d94543.jpg" alt="Stronghold HD™" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/40950">Stronghold HD™</a></td>
 <td>468</td>
 <td></td>
 <td></td>
@@ -3990,8 +3990,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/115320">115320</a></td>
+<td><a href="/game/115320"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/115320/157062f0a8a18c0ae1550feb327b21e2407f528a.jpg" alt="PROTOTYPE 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/115320">PROTOTYPE 2</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -4143,8 +4143,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/201790">201790</a></td>
+<td><a href="/game/201790"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/201790/fabd8658e8e76f7c99c56f26b69d29882756f9b4.jpg" alt="Orcs Must Die! 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/201790">Orcs Must Die! 2</a></td>
 <td>196</td>
 <td></td>
 <td></td>
@@ -4593,8 +4593,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/207610">207610</a></td>
+<td><a href="/game/207610"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/207610/87a13ae0a2a76488792924aa8bb0dd8a7760f931.jpg" alt="The Walking Dead" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/207610">The Walking Dead</a></td>
 <td>809</td>
 <td></td>
 <td></td>
@@ -6870,8 +6870,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/249230">249230</a></td>
+<td><a href="/game/249230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/249230/5d980c5528886a10e276942a680b6ff75975a36f.jpg" alt="Risen 3 - Titan Lords" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/249230">Risen 3 - Titan Lords</a></td>
 <td>187</td>
 <td></td>
 <td></td>
@@ -12027,8 +12027,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/368230">368230</a></td>
+<td><a href="/game/368230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/368230/0d741624c643448ff74741f50a4b80a24529b869.jpg" alt="Kingdom: Classic" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/368230">Kingdom: Classic</a></td>
 <td>192</td>
 <td></td>
 <td></td>
@@ -14798,7 +14798,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>41</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/526880">526880</a></td>
 <td>216</td>

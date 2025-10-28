@@ -156,8 +156,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/9200">9200</a></td>
+<td><a href="/game/9200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg" alt="RAGE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/9200">RAGE</a></td>
 <td>732</td>
 <td></td>
 <td></td>
@@ -920,7 +920,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>30</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/261640">261640</a></td>
 <td>628</td>
@@ -1445,13 +1445,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1149460"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1149460/3600ab7fb8dbc0898116ea1c0365de4f6d285d5a.jpg" alt="Icarus" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1149460">Icarus</a></td>
-<td>7769</td>
+<td>8589</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1344</td><tr>
+<td>2164</td><tr>
 <td><a href="/game/1222670"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1222670/ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98.jpg" alt="The Sims™ 4" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1222670">The Sims™ 4</a></td>
 <td>181</td>
@@ -1561,6 +1561,15 @@ hide:
 <td></td>
 <td></td><tr>
 <td></td>
+<td><a href="/game/2062430">2062430</a></td>
+<td>412</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>412</td><tr>
+<td></td>
 <td><a href="/game/2488370">2488370</a></td>
 <td>850</td>
 <td></td>
@@ -1580,13 +1589,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1685</td>
+<td>1866</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1685</td><tr>
+<td>826</td><tr>
 <td></td>
 <td><a href="/game/3240220">3240220</a></td>
 <td>0</td>

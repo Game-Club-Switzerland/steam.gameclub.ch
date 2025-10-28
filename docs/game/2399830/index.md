@@ -9,7 +9,7 @@ hide:
 
 ## Playtime
 
-**Forever:** 22820
+**Forever:** 22824
 
 **Windows:** 0
 
@@ -42,7 +42,7 @@ hide:
         <tr>
 <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198001272059">HypN-EyEs</a></td><td>76561198001272059</td><td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Steam Profil</a></td><td>1587</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/wasoen/" target="_blank"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975664729">wasoen</a></td><td>76561197975664729</td><td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Steam Profil</a></td><td>19058</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/wasoen/" target="_blank"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975664729">wasoen</a></td><td>76561197975664729</td><td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Steam Profil</a></td><td>19062</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td></tr>
 <tr>
 <td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank"><img src="https://avatars.steamstatic.com/1f669976d9bc2680ccad3a8869dd3108d7897818_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198012900634">Mudi2</a></td><td>76561198012900634</td><td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank">Steam Profil</a></td><td>859</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>

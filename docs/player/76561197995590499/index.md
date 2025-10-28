@@ -183,8 +183,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/9200">9200</a></td>
+<td><a href="/game/9200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg" alt="RAGE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/9200">RAGE</a></td>
 <td>0</td>
 <td></td>
 <td></td>

@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/236430">236430</a>
+#  <a href="https://steamdb.info/app/236430"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/236430/8d5b3da903efb047d4efb670c08714a4d1071e83.jpg" alt="DARK SOULS™ II" style="width:32px;height:32px;border-radius:4px;" /> DARK SOULS™ II</a>
 
 **App ID:** 236430
 

@@ -426,8 +426,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/208480">208480</a></td>
+<td><a href="/game/208480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/208480/5d13ffd781fa7658903fbd762b51a76f8c734d2b.jpg" alt="Assassin's Creed® III" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/208480">Assassin's Creed® III</a></td>
 <td>1894</td>
 <td></td>
 <td></td>

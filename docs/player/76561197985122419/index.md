@@ -372,8 +372,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/20920">20920</a></td>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -651,8 +651,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/201790">201790</a></td>
+<td><a href="/game/201790"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/201790/fabd8658e8e76f7c99c56f26b69d29882756f9b4.jpg" alt="Orcs Must Die! 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/201790">Orcs Must Die! 2</a></td>
 <td>0</td>
 <td></td>
 <td></td>

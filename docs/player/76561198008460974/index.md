@@ -507,8 +507,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33350">33350</a></td>
+<td><a href="/game/33350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33350/eea0f486f11af4379355635a8a833f9dfe6ebd37.jpg" alt="Anno 1404: Venice" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33350">Anno 1404: Venice</a></td>
 <td>55</td>
 <td></td>
 <td></td>

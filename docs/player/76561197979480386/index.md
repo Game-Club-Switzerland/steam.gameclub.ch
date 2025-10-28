@@ -138,8 +138,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/21970">21970</a></td>
+<td><a href="/game/21970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/21970/644ccfb018f0435dbfadf5c0bc291cef6202d84c.jpg" alt="R.U.S.E" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/21970">R.U.S.E</a></td>
 <td>2471</td>
 <td></td>
 <td></td>
@@ -302,13 +302,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/221100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221100/16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d.jpg" alt="DayZ" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/221100">DayZ</a></td>
-<td>383</td>
+<td>968</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>383</td><tr>
+<td>968</td><tr>
 <td><a href="/game/221380"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221380/109c74df17f9b67ea47d8f01e3d1ec25278b9f73.jpg" alt="Age of Empires II (2013)" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/221380">Age of Empires II (2013)</a></td>
 <td>2852</td>
@@ -590,13 +590,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/403190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/403190/27b6fa6d15815d342618080fb2d9905ecb0fdb00.jpg" alt="Planetbase" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/403190">Planetbase</a></td>
-<td>7262</td>
+<td>7317</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1749</td><tr>
+<td>1470</td><tr>
 <td></td>
 <td><a href="/game/414720">414720</a></td>
 <td>209</td>
@@ -614,7 +614,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>80</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/419480">419480</a></td>
 <td>1544</td>
@@ -887,13 +887,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/669330"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/669330/9b4eb6bc3c9bbce8d27e5a49c895bc3e06d68763.jpg" alt="Mechabellum" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/669330">Mechabellum</a></td>
-<td>3121</td>
+<td>3133</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>67</td><tr>
+<td>12</td><tr>
 <td></td>
 <td><a href="/game/671440">671440</a></td>
 <td>928</td>
@@ -1127,7 +1127,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>43</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1649080">1649080</a></td>
 <td>369</td>

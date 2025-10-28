@@ -38,7 +38,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>424</td><tr>
+<td>133</td><tr>
 <td></td>
 <td><a href="/game/1500">1500</a></td>
 <td>0</td>
@@ -461,7 +461,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>306</td><tr>
+<td>243</td><tr>
 <td></td>
 <td><a href="/game/1831830">1831830</a></td>
 <td>159</td>

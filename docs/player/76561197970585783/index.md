@@ -164,7 +164,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>743</td><tr>
+<td>363</td><tr>
 <td><a href="/game/2700"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2700/95e6320bcf5262271367a83d21fed0dcf12ba73d.jpg" alt="RollerCoaster Tycoon 3: Platinum!" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2700">RollerCoaster Tycoon 3: Platinum!</a></td>
 <td>486</td>
@@ -173,7 +173,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>121</td><tr>
+<td>59</td><tr>
 <td><a href="/game/4000"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg" alt="Garry's Mod" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/4000">Garry's Mod</a></td>
 <td>8</td>
@@ -687,8 +687,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/207610">207610</a></td>
+<td><a href="/game/207610"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/207610/87a13ae0a2a76488792924aa8bb0dd8a7760f931.jpg" alt="The Walking Dead" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/207610">The Walking Dead</a></td>
 <td>824</td>
 <td></td>
 <td></td>
@@ -974,7 +974,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>1</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/285900">285900</a></td>
 <td>0</td>
@@ -1280,7 +1280,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>103</td><tr>
+<td>47</td><tr>
 <td></td>
 <td><a href="/game/880940">880940</a></td>
 <td>280</td>

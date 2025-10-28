@@ -203,13 +203,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/400750"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/400750/31294c5a56bb88cc09000e8bc88c5473fd251107.jpg" alt="Call to Arms - Gates of Hell: Ostfront" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/400750">Call to Arms - Gates of Hell: Ostfront</a></td>
-<td>10640</td>
+<td>10919</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2353</td><tr>
+<td>2631</td><tr>
 <td></td>
 <td><a href="/game/424840">424840</a></td>
 <td>1</td>

@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/33230">33230</a>
+#  <a href="https://steamdb.info/app/33230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33230/0492d8ee860ac99168e46efeb003029c3224cb38.jpg" alt="Assassin's Creed II" style="width:32px;height:32px;border-radius:4px;" /> Assassin's Creed II</a>
 
 **App ID:** 33230
 

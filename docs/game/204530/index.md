@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/204530">204530</a>
+#  <a href="https://steamdb.info/app/204530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204530/1b0a0c55cf13f519b3b51a944692ce679297c8ab.jpg" alt="Infested Planet" style="width:32px;height:32px;border-radius:4px;" /> Infested Planet</a>
 
 **App ID:** 204530
 

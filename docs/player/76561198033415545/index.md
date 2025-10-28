@@ -147,8 +147,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33350">33350</a></td>
+<td><a href="/game/33350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33350/eea0f486f11af4379355635a8a833f9dfe6ebd37.jpg" alt="Anno 1404: Venice" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33350">Anno 1404: Venice</a></td>
 <td>206</td>
 <td></td>
 <td></td>
@@ -464,13 +464,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/294100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/294100/addbe3b704b267060b4d5d7649cfb292de61bd70.jpg" alt="RimWorld" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/294100">RimWorld</a></td>
-<td>3824</td>
+<td>3945</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>823</td><tr>
+<td>945</td><tr>
 <td></td>
 <td><a href="/game/298110">298110</a></td>
 <td>245</td>
@@ -1127,7 +1127,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>80</td><tr>
+<td></td><tr>
 <td><a href="/game/1366540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1366540/55fa75b8e6586427da47f58f320e975e990a460b.jpg" alt="Dyson Sphere Program" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1366540">Dyson Sphere Program</a></td>
 <td>911</td>

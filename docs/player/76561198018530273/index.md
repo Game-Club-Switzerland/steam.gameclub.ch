@@ -102,8 +102,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33230">33230</a></td>
+<td><a href="/game/33230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33230/0492d8ee860ac99168e46efeb003029c3224cb38.jpg" alt="Assassin's Creed II" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33230">Assassin's Creed II</a></td>
 <td>2829</td>
 <td></td>
 <td></td>
@@ -534,8 +534,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/368230">368230</a></td>
+<td><a href="/game/368230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/368230/0d741624c643448ff74741f50a4b80a24529b869.jpg" alt="Kingdom: Classic" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/368230">Kingdom: Classic</a></td>
 <td>0</td>
 <td></td>
 <td></td>

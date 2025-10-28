@@ -1247,13 +1247,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1461</td>
+<td>1650</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1324</td><tr>
+<td>1041</td><tr>
 <td></td>
 <td><a href="/game/2933130">2933130</a></td>
 <td>1009</td>

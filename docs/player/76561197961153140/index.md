@@ -176,13 +176,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>49330</td>
+<td>49865</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2498</td><tr>
+<td>2221</td><tr>
 <td></td>
 <td><a href="/game/7000">7000</a></td>
 <td>0</td>

@@ -543,8 +543,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/201790">201790</a></td>
+<td><a href="/game/201790"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/201790/fabd8658e8e76f7c99c56f26b69d29882756f9b4.jpg" alt="Orcs Must Die! 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/201790">Orcs Must Die! 2</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -651,8 +651,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/208480">208480</a></td>
+<td><a href="/game/208480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/208480/5d13ffd781fa7658903fbd762b51a76f8c734d2b.jpg" alt="Assassin's Creed® III" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/208480">Assassin's Creed® III</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -984,8 +984,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/249230">249230</a></td>
+<td><a href="/game/249230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/249230/5d980c5528886a10e276942a680b6ff75975a36f.jpg" alt="Risen 3 - Titan Lords" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/249230">Risen 3 - Titan Lords</a></td>
 <td>0</td>
 <td></td>
 <td></td>

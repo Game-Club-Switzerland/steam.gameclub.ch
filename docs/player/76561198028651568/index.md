@@ -246,8 +246,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/21970">21970</a></td>
+<td><a href="/game/21970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/21970/644ccfb018f0435dbfadf5c0bc291cef6202d84c.jpg" alt="R.U.S.E" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/21970">R.U.S.E</a></td>
 <td>2030</td>
 <td></td>
 <td></td>
@@ -498,8 +498,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/208480">208480</a></td>
+<td><a href="/game/208480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/208480/5d13ffd781fa7658903fbd762b51a76f8c734d2b.jpg" alt="Assassin's Creed® III" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/208480">Assassin's Creed® III</a></td>
 <td>1695</td>
 <td></td>
 <td></td>
@@ -1301,13 +1301,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/544550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/544550/2111b7ad54c3d3ed9b4b1afed7d99336270c13e3.jpg" alt="Stationeers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/544550">Stationeers</a></td>
-<td>14274</td>
+<td>14604</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>329</td><tr>
 <td><a href="/game/546560"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/546560/225032ac2ad1aca8f5fd98baa2b9daf1eebea5ca.jpg" alt="Half-Life: Alyx" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/546560">Half-Life: Alyx</a></td>
 <td>468</td>
@@ -1550,7 +1550,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>1143</td><tr>
+<td>821</td><tr>
 <td></td>
 <td><a href="/game/1168610">1168610</a></td>
 <td>49</td>
@@ -1643,13 +1643,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1708010"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1708010/9a8f7c0cc12b2a7c05c884e368cbd5f609467f2f.jpg" alt="The Expanse: A Telltale Series" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1708010">The Expanse: A Telltale Series</a></td>
-<td>188</td>
+<td>312</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>188</td><tr>
+<td>312</td><tr>
 <td></td>
 <td><a href="/game/2217730">2217730</a></td>
 <td>1</td>

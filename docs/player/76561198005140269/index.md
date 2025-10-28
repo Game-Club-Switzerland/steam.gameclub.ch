@@ -309,8 +309,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/20920">20920</a></td>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -372,8 +372,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/40950">40950</a></td>
+<td><a href="/game/40950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/40950/d926a3fecaa591d1b64e823ba74d990ca3d94543.jpg" alt="Stronghold HD™" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/40950">Stronghold HD™</a></td>
 <td>1908</td>
 <td></td>
 <td></td>
@@ -813,8 +813,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/249230">249230</a></td>
+<td><a href="/game/249230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/249230/5d980c5528886a10e276942a680b6ff75975a36f.jpg" alt="Risen 3 - Titan Lords" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/249230">Risen 3 - Titan Lords</a></td>
 <td>80</td>
 <td></td>
 <td></td>

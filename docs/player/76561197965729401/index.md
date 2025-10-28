@@ -489,8 +489,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/201790">201790</a></td>
+<td><a href="/game/201790"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/201790/fabd8658e8e76f7c99c56f26b69d29882756f9b4.jpg" alt="Orcs Must Die! 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/201790">Orcs Must Die! 2</a></td>
 <td>1805</td>
 <td></td>
 <td></td>
@@ -1355,13 +1355,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1029690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1029690/00bce3b25aed4dfd96e864e03dd315448dcb834b.jpg" alt="Sniper Elite 5" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1029690">Sniper Elite 5</a></td>
-<td>302</td>
+<td>1439</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>302</td><tr>
+<td>1439</td><tr>
 <td></td>
 <td><a href="/game/1057090">1057090</a></td>
 <td>0</td>
@@ -1452,6 +1452,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td></td>
+<td><a href="/game/1237970">1237970</a></td>
+<td>387</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>387</td><tr>
 <td></td>
 <td><a href="/game/1240440">1240440</a></td>
 <td>1253</td>
@@ -1784,7 +1793,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>254</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/3070070">3070070</a></td>
 <td>3021</td>
@@ -1805,11 +1814,11 @@ hide:
 <td></td><tr>
 <td><a href="/game/3314790"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3314790/93fcc4d2c3798356f019f030e7599dc13bd6a95a.jpg" alt="CloverPit" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3314790">CloverPit</a></td>
-<td>522</td>
+<td>581</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>522</td></tbody>
+<td>581</td></tbody>
 </table>

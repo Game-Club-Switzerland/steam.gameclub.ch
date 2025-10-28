@@ -686,7 +686,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>121</td><tr>
+<td>97</td><tr>
 <td></td>
 <td><a href="/game/779340">779340</a></td>
 <td>441</td>
@@ -779,13 +779,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1086940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1086940/d866cae7ea1e471fdbc206287111f1b642373bd9.jpg" alt="Baldur's Gate 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1086940">Baldur's Gate 3</a></td>
-<td>4821</td>
+<td>5101</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>279</td><tr>
 <td><a href="/game/1096530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1096530/ee1daddb7b47a1861d1274e46904bd1aee98ecff.jpg" alt="Solasta: Crown of the Magister" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1096530">Solasta: Crown of the Magister</a></td>
 <td>197</td>
@@ -1040,13 +1040,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1868140"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1868140/2f19d6889f66eae88e8b5a36727d560ec88a00cb.jpg" alt="DAVE THE DIVER" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1868140">DAVE THE DIVER</a></td>
-<td>219</td>
+<td>338</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>219</td><tr>
+<td>338</td><tr>
 <td></td>
 <td><a href="/game/1888930">1888930</a></td>
 <td>717</td>
@@ -1074,6 +1074,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td></td>
+<td><a href="/game/1904480">1904480</a></td>
+<td>265</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>265</td><tr>
 <td><a href="/game/1941540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1941540/4afa63381aebb28b832279ac0679d258b86e9cec.jpg" alt="Mafia: The Old Country" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1941540">Mafia: The Old Country</a></td>
 <td>857</td>
@@ -1128,6 +1137,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td></td>
+<td><a href="/game/2097570">2097570</a></td>
+<td>44</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>44</td><tr>
 <td></td>
 <td><a href="/game/2132850">2132850</a></td>
 <td>1640</td>

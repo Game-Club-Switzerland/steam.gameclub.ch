@@ -84,8 +84,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/20920">20920</a></td>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -129,8 +129,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33350">33350</a></td>
+<td><a href="/game/33350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33350/eea0f486f11af4379355635a8a833f9dfe6ebd37.jpg" alt="Anno 1404: Venice" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33350">Anno 1404: Venice</a></td>
 <td>180</td>
 <td></td>
 <td></td>
@@ -299,7 +299,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>361</td><tr>
+<td>231</td><tr>
 <td><a href="/game/290080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/290080/e78ba7a1d2c9397853fdfeacf4aa1a781e58824e.jpg" alt="Life is Feudal: Your Own" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/290080">Life is Feudal: Your Own</a></td>
 <td>42720</td>
@@ -560,7 +560,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>1</td><tr>
 <td></td>
 <td><a href="/game/690830">690830</a></td>
 <td>0</td>
@@ -833,13 +833,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>987</td>
+<td>1316</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>987</td><tr>
+<td>1316</td><tr>
 <td></td>
 <td><a href="/game/2820130">2820130</a></td>
 <td>166</td>

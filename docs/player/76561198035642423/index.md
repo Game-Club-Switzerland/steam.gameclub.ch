@@ -165,8 +165,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/9200">9200</a></td>
+<td><a href="/game/9200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg" alt="RAGE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/9200">RAGE</a></td>
 <td>172</td>
 <td></td>
 <td></td>
@@ -255,8 +255,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/20920">20920</a></td>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -309,8 +309,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/33230">33230</a></td>
+<td><a href="/game/33230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/33230/0492d8ee860ac99168e46efeb003029c3224cb38.jpg" alt="Assassin's Creed II" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/33230">Assassin's Creed II</a></td>
 <td>53</td>
 <td></td>
 <td></td>
@@ -408,8 +408,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/48190">48190</a></td>
+<td><a href="/game/48190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/48190/6a87d0b61e45e8075decd1f8ace549300b036a52.jpg" alt="Assassin's Creed Brotherhood" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/48190">Assassin's Creed Brotherhood</a></td>
 <td>1228</td>
 <td></td>
 <td></td>
@@ -824,13 +824,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/377160"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/377160/779c4356ebe32af2af7c9f0bbba595dfe872cd7f.jpg" alt="Fallout 4" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/377160">Fallout 4</a></td>
-<td>19546</td>
+<td>19585</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>38</td><tr>
 <td></td>
 <td><a href="/game/391220">391220</a></td>
 <td>0</td>
@@ -896,13 +896,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/431960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg" alt="Wallpaper Engine" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/431960">Wallpaper Engine</a></td>
-<td>899</td>
+<td>902</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>9</td><tr>
+<td>4</td><tr>
 <td></td>
 <td><a href="/game/464920">464920</a></td>
 <td>8041</td>
@@ -1013,13 +1013,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/813780"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/813780/e2b5a7beb58136b892e517cb93ae08b36065363c.jpg" alt="Age of Empires II: Definitive Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/813780">Age of Empires II: Definitive Edition</a></td>
-<td>27805</td>
+<td>27971</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1</td><tr>
+<td>165</td><tr>
 <td></td>
 <td><a href="/game/817540">817540</a></td>
 <td>3845</td>
@@ -1382,13 +1382,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1716740"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1716740/b4d5828937b2d29b875405dce97bbae0a5d01bbe.jpg" alt="Starfield" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1716740">Starfield</a></td>
-<td>12963</td>
+<td>13991</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>30</td><tr>
+<td>1058</td><tr>
 <td><a href="/game/2001120"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2001120/a01dc6ea47db8c74964d581fe9f1f8039e0e4f33.jpg" alt="Split Fiction" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2001120">Split Fiction</a></td>
 <td>134</td>
@@ -1436,11 +1436,11 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1397</td>
+<td>1620</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1397</td></tbody>
+<td>1183</td></tbody>
 </table>

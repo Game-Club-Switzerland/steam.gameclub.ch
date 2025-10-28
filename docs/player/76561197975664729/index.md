@@ -1353,15 +1353,24 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td></td>
+<td><a href="/game/2289750">2289750</a></td>
+<td>629</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>629</td><tr>
 <td><a href="/game/2321470"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2321470/21c0012fc6c4419bad40b03ce6db571d2390642b.jpg" alt="Deep Rock Galactic: Survivor" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2321470">Deep Rock Galactic: Survivor</a></td>
-<td>17657</td>
+<td>18222</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1666</td><tr>
+<td>1867</td><tr>
 <td></td>
 <td><a href="/game/2379780">2379780</a></td>
 <td>7065</td>
@@ -1373,13 +1382,13 @@ hide:
 <td></td><tr>
 <td></td>
 <td><a href="/game/2399830">2399830</a></td>
-<td>19058</td>
+<td>19062</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>3</td><tr>
 <td></td>
 <td><a href="/game/2525310">2525310</a></td>
 <td>1314</td>
@@ -1445,13 +1454,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1193</td>
+<td>1270</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1170</td><tr>
+<td>722</td><tr>
 <td></td>
 <td><a href="/game/2850100">2850100</a></td>
 <td>1236</td>
@@ -1509,6 +1518,15 @@ hide:
 <td><a href="/game/3314790"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3314790/93fcc4d2c3798356f019f030e7599dc13bd6a95a.jpg" alt="CloverPit" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3314790">CloverPit</a></td>
 <td>618</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/3949040">3949040</a></td>
+<td>0</td>
 <td></td>
 <td></td>
 <td></td>

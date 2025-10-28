@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>3556</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>863</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>3556</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>220</td></tr>
 </tbody>
 </table>
