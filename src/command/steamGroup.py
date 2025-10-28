@@ -74,7 +74,7 @@ def main():
     steamGameClubMarkdown.SteamGameClubMarkdown.createMarkdownFileAllPlayerDetails(allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames)
 
     # Widget
-    steamGameClubWidget.steamGameClubWidget.steamGroupWidget(steamGroup)
+    steamGameClubWidget.SteamGameClubWidget.steamGroupWidget(steamGroup)
     steam_group_Javascript_widget(steamGroup)
 
 if __name__ == "__main__":
