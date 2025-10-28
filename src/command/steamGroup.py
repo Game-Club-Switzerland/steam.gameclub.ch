@@ -51,7 +51,6 @@ def main():
     # Widget
     steamGameClubWidget.SteamGameClubWidget.steamGroupWidget(steamGroup)
     steamGameClubWidget.SteamGameClubWidget.createJavaScriptFileforImport(steamGroup)
-    #steam_group_Javascript_widget(steamGroup)
 
 if __name__ == "__main__":
     main()
