@@ -158,9 +158,9 @@ class SteamGameClubWidget:
     })();"""
 
         # Ensure the directory exists and write the JS file
-        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/js/')
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/widget/group/{groupID}/')
         os.makedirs(output_dir, exist_ok=True)
-        output_path = os.path.join(output_dir, 'steamGroupWidgetImport.js')
+        output_path = os.path.join(output_dir, 'steamGroupWidget.js')
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(js)
         return js
