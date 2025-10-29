@@ -1278,5 +1278,10 @@
         "appid": "2062430",
         "name": "BALL x PIT",
         "img_icon_url": "7651f4667f6084ef598a2da930d11e26d0aa5f82"
+    },
+    "3167020": {
+        "appid": "3167020",
+        "name": "Escape from Duckov",
+        "img_icon_url": "5bb8d31708442a8f3ddbc100d7be7c3fde530d18"
     }
 }
