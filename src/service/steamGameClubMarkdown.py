@@ -458,12 +458,12 @@ class SteamGameClubMarkdown:
             f.write("---\n")
             if gameDetails:
                 if gameDetails.get('img_icon_url', ''):
-                    f.write(f"#  <a href=\"https://steamdb.info/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{gameDetails.get('img_icon_url', '')}.jpg\" alt=\"{gameDetails.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /> {gameDetails.get('name', '')}</a>\n\n")
+                    f.write(f"#  <a href=\"https://store.steampowered.com/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{gameDetails.get('img_icon_url', '')}.jpg\" alt=\"{gameDetails.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /> {gameDetails.get('name', '')}</a>\n\n")
                 else:
-                    f.write(f"# <a href=\"https://steamdb.info/app/{appid}\">{gameDetails.get('name', '')}</a>\n\n")
+                    f.write(f"# <a href=\"https://store.steampowered.com/app/{appid}\">{gameDetails.get('name', '')}</a>\n\n")
             else:
-                f.write(f"# <a href=\"https://steamdb.info/app/{appid}\">{appid}</a>\n\n")
-            f.write(f"**App ID:** {appid}\n\n")
+                f.write(f"# <a href=\"https://store.steampowered.com/app/{appid}\">{appid}</a>\n\n")
+            f.write(f"**App ID:** <a href=\"https://steamdb.info/app/{appid}\">{appid}</a>\n\n")
             f.write(f"## Playtime\n\n")
             f.write(f"**Forever:** {gameListwithAllPlayTime.get('playtime_forever', '')}\n\n")
             f.write(f"**Windows:** {gameListwithAllPlayTime.get('playtime_windows_forever', '')}\n\n")
