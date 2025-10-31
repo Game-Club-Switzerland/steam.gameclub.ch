@@ -1283,50 +1283,5 @@
         "appid": "3167020",
         "name": "Escape from Duckov",
         "img_icon_url": "5bb8d31708442a8f3ddbc100d7be7c3fde530d18"
-    },
-    "1984270": {
-        "appid": "1984270",
-        "name": "Digimon Story Time Stranger",
-        "img_icon_url": "92ef41a1c3b74f2417a479d25a02ea127e6ec4ae"
-    },
-    "1617400": {
-        "appid": "1617400",
-        "name": "The Bazaar",
-        "img_icon_url": "9fa251921f007cfa0f074b3a548f083cb3150d1c"
-    },
-    "2870340": {
-        "appid": "2870340",
-        "name": "Decktamer",
-        "img_icon_url": "3018a3917f239af2ef89902714ad4a63ecc8fc6c"
-    },
-    "552990": {
-        "appid": "552990",
-        "name": "World of Warships",
-        "img_icon_url": "023b6bb5bcf82f9222d70cd38fdb18a899bd67e8"
-    },
-    "2879840": {
-        "appid": "2879840",
-        "name": "Escape Simulator 2",
-        "img_icon_url": "5a074cdd5ce4819bf6b201aeabd704edb13e4bb6"
-    },
-    "1874880": {
-        "appid": "1874880",
-        "name": "Arma Reforger",
-        "img_icon_url": "0de311f3ef216db08badc6a9ef7c5fd8712ac334"
-    },
-    "1874910": {
-        "appid": "1874910",
-        "name": "Arma Reforger Tools",
-        "img_icon_url": "8941f3c434748da2b9a481fa8286c992076e066c"
-    },
-    "1583230": {
-        "appid": "1583230",
-        "name": "High On Life",
-        "img_icon_url": "edf77785498d06effc5d8c4db72c0d364978b66f"
-    },
-    "2881650": {
-        "appid": "2881650",
-        "name": "Content Warning",
-        "img_icon_url": "513cf7f2e22c94f4372369e29bffccc4c239e9c0"
     }
 }
