@@ -1328,50 +1328,5 @@
         "appid": "2881650",
         "name": "Content Warning",
         "img_icon_url": "513cf7f2e22c94f4372369e29bffccc4c239e9c0"
-    },
-    "1312800": {
-        "appid": "1312800",
-        "name": "EVERSPACE™ 2 - Demo",
-        "img_icon_url": "8c85afd78e1ecfd907b495b2651dc227a3a0a47f"
-    },
-    "668580": {
-        "appid": "668580",
-        "name": "Atomic Heart",
-        "img_icon_url": "2a9828aaf232ea5c4b2575212786c62166306390"
-    },
-    "1066780": {
-        "appid": "1066780",
-        "name": "Transport Fever 2",
-        "img_icon_url": "734280d4e8071353b46b7d033a2a6010b2a26e11"
-    },
-    "835960": {
-        "appid": "835960",
-        "name": "The Talos Principle 2",
-        "img_icon_url": "3f79ab72358e4a867351997738c994cdab35da19"
-    },
-    "863550": {
-        "appid": "863550",
-        "name": "HITMAN™ 2",
-        "img_icon_url": "3f7c071da7a338e03f6243b73c02c072f1bacee9"
-    },
-    "892970": {
-        "appid": "892970",
-        "name": "Valheim",
-        "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143"
-    },
-    "2456740": {
-        "appid": "2456740",
-        "name": "inZOI",
-        "img_icon_url": "91593017a96a23af849781d6a68e9599cf250b4d"
-    },
-    "979690": {
-        "appid": "979690",
-        "name": "The Ascent",
-        "img_icon_url": "ced822d46392fcb97daaeb303523b7ff5defecd7"
-    },
-    "41070": {
-        "appid": "41070",
-        "name": "Serious Sam 3: BFE",
-        "img_icon_url": "2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b"
     }
 }
