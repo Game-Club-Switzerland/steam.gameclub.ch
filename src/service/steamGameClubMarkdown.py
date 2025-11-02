@@ -430,8 +430,8 @@ class SteamGameClubMarkdown:
                             for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
                                 f.write(f"""<tr>
                         <td><a href="{allPlayerSummaries[playerPlaytime].get('profileurl', '')}" target="_blank">{allPlayerSummaries[playerPlaytime].get('personaname', '')}</a></td>
-                        <td><a href="https://steamdb.info/app/{game.get('appid', '')}">{game.get('appid', '')}</a></td>
-                        <td>{game.get('name', '')}</td>
+                        <td><a href="/game/{game.get('appid', '')}">{game.get('appid', '')}</a></td>
+                        <td><a href="/game/{game.get('appid', '')}">{game.get('name', '')}</a></td>
                         <td>{game.get('playtime_2weeks', '')}</td>
                         <td>{game.get('playtime_forever', '')}</td>
                         <td>{game.get('playtime_windows_forever', '')}</td>
