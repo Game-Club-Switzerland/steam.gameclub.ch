@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/704510">704510</a>
 
-**App ID:** <a href="https://steamdb.info/app/704510">704510</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/704510">704510</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank" title="Roesti"><img src="https://avatars.steamstatic.com/d11c33497819af95e1c7f16ea77362f87b76117d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197979480386" title="Roesti">Roesti</a></td><td>76561197979480386</td><td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank">Steam Profil</a></td><td>4997</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197979480386" target="_blank" title="Roesti"><img src="https://avatars.steamstatic.com/d11c33497819af95e1c7f16ea77362f87b76117d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197979480386" target="_blank" title="Roesti">Roesti</a></td><td>76561197979480386</td><td><a href="https://steamcommunity.com/profiles/76561197979480386/" target="_blank">Steam Profil</a></td><td>4997</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

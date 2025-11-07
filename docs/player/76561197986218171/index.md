@@ -5,6 +5,8 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> [DMH] Rexon
 
+**Real Name:** Michi
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

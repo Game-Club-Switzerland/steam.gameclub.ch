@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/570460">570460</a>
 
-**App ID:** <a href="https://steamdb.info/app/570460">570460</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/570460">570460</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198026440838/" target="_blank" title="Spargelauflauf"><img src="https://avatars.steamstatic.com/b1dd847c756150620260da51ef5dded31d2cdb5c_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198026440838" title="Spargelauflauf">Spargelauflauf</a></td><td>76561198026440838</td><td><a href="https://steamcommunity.com/profiles/76561198026440838/" target="_blank">Steam Profil</a></td><td>171</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198026440838" target="_blank" title="Spargelauflauf"><img src="https://avatars.steamstatic.com/b1dd847c756150620260da51ef5dded31d2cdb5c_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198026440838" target="_blank" title="Spargelauflauf">Spargelauflauf</a></td><td>76561198026440838</td><td><a href="https://steamcommunity.com/profiles/76561198026440838/" target="_blank">Steam Profil</a></td><td>171</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

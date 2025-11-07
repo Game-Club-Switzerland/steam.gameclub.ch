@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/2088570">2088570</a>
 
-**App ID:** <a href="https://steamdb.info/app/2088570">2088570</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/2088570">2088570</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>274</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197977007065" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" target="_blank" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>274</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

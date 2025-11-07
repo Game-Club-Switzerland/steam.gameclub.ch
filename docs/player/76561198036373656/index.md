@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198036373656/" target="_blank"><img src="https://avatars.steamstatic.com/380ec4b3e2badecfba62e7dfb642a19f47c78676_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Fazzaplayer
 
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

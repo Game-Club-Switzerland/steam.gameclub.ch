@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/205350">205350</a>
 
-**App ID:** <a href="https://steamdb.info/app/205350">205350</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/205350">205350</a>
 
 ## Playtime
 
@@ -40,10 +40,10 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197969764480" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" target="_blank" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197977007065" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" target="_blank" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank" title="Phalanx"><img src="https://avatars.steamstatic.com/c1386d46ab8023a869a0dad9c7c10f126814af98_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198031568987" title="Phalanx">Phalanx</a></td><td>76561198031568987</td><td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank">Steam Profil</a></td><td>12</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198031568987" target="_blank" title="Phalanx"><img src="https://avatars.steamstatic.com/c1386d46ab8023a869a0dad9c7c10f126814af98_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198031568987" target="_blank" title="Phalanx">Phalanx</a></td><td>76561198031568987</td><td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank">Steam Profil</a></td><td>12</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198015592930/" target="_blank"><img src="https://avatars.steamstatic.com/618bfa7e8477cee17e56637af632fef4e31724b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> L'Cie
 
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

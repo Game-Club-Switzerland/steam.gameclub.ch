@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/236690">236690</a>
 
-**App ID:** <a href="https://steamdb.info/app/236690">236690</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/236690">236690</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank" title="Bai"><img src="https://avatars.steamstatic.com/ff66d7ecdb46a2149b8a34f896885c36a533e130_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198037235876" title="Bai">Bai</a></td><td>76561198037235876</td><td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank">Steam Profil</a></td><td>5210</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198037235876" target="_blank" title="Bai"><img src="https://avatars.steamstatic.com/ff66d7ecdb46a2149b8a34f896885c36a533e130_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198037235876" target="_blank" title="Bai">Bai</a></td><td>76561198037235876</td><td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank">Steam Profil</a></td><td>5210</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198041193763/" target="_blank" title="187 | hodechrampf"><img src="https://avatars.steamstatic.com/7eb86a98d34da786dc134603a248c7169791a9fa_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198041193763" title="187 | hodechrampf">187 | hodechrampf</a></td><td>76561198041193763</td><td><a href="https://steamcommunity.com/profiles/76561198041193763/" target="_blank">Steam Profil</a></td><td>1403</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198041193763" target="_blank" title="187 | hodechrampf"><img src="https://avatars.steamstatic.com/7eb86a98d34da786dc134603a248c7169791a9fa_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198041193763" target="_blank" title="187 | hodechrampf">187 | hodechrampf</a></td><td>76561198041193763</td><td><a href="https://steamcommunity.com/profiles/76561198041193763/" target="_blank">Steam Profil</a></td><td>1403</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

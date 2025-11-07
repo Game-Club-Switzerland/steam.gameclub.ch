@@ -5,6 +5,8 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198041193763/" target="_blank"><img src="https://avatars.steamstatic.com/7eb86a98d34da786dc134603a248c7169791a9fa_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> 187 | hodechrampf
 
+**Real Name:** Tobias Geldmacher
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

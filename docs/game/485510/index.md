@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/485510">485510</a>
 
-**App ID:** <a href="https://steamdb.info/app/485510">485510</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/485510">485510</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/4wobi/" target="_blank" title="(CH)Wobi"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985122419" title="(CH)Wobi">(CH)Wobi</a></td><td>76561197985122419</td><td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197985122419" target="_blank" title="(CH)Wobi"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985122419" target="_blank" title="(CH)Wobi">(CH)Wobi</a></td><td>76561197985122419</td><td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

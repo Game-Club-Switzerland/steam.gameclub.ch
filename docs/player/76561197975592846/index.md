@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> 3W | Lizard
 
+**Real Name:** Lizard
+
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

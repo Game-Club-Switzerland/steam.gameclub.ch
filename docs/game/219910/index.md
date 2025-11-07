@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/219910">219910</a>
 
-**App ID:** <a href="https://steamdb.info/app/219910">219910</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/219910">219910</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank" title="[DMH] Rexon"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197986218171" title="[DMH] Rexon">[DMH] Rexon</a></td><td>76561197986218171</td><td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Steam Profil</a></td><td>541</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197986218171" target="_blank" title="[DMH] Rexon"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197986218171" target="_blank" title="[DMH] Rexon">[DMH] Rexon</a></td><td>76561197986218171</td><td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Steam Profil</a></td><td>541</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/hoangry/" target="_blank" title="Hoangry"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962" title="Hoangry">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>83</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198066790962" target="_blank" title="Hoangry"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962" target="_blank" title="Hoangry">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>83</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

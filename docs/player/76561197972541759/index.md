@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/iceman187/" target="_blank"><img src="https://avatars.steamstatic.com/f6a0a4b66f705bdafa7a7842538f885b91103101_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Icema_n187
 
+### Location
+
+**Location:** DE
+
+**State:** 06
+
+**City ID:** 13122
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

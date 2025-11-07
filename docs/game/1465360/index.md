@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/1465360">1465360</a>
 
-**App ID:** <a href="https://steamdb.info/app/1465360">1465360</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/1465360">1465360</a>
 
 ## Playtime
 
@@ -40,12 +40,12 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/dakine85/" target="_blank" title="Lama Rage Kine"><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963321401" title="Lama Rage Kine">Lama Rage Kine</a></td><td>76561197963321401</td><td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197963321401" target="_blank" title="Lama Rage Kine"><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963321401" target="_blank" title="Lama Rage Kine">Lama Rage Kine</a></td><td>76561197963321401</td><td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank" title="ROOB1984"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989327467" title="ROOB1984">ROOB1984</a></td><td>76561197989327467</td><td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank">Steam Profil</a></td><td>8242</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197989327467" target="_blank" title="ROOB1984"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989327467" target="_blank" title="ROOB1984">ROOB1984</a></td><td>76561197989327467</td><td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank">Steam Profil</a></td><td>8242</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197984860875" title="Tumba">Tumba</a></td><td>76561197984860875</td><td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Steam Profil</a></td><td>213</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197984860875" target="_blank" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197984860875" target="_blank" title="Tumba">Tumba</a></td><td>76561197984860875</td><td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Steam Profil</a></td><td>213</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>294</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197977007065" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" target="_blank" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>294</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

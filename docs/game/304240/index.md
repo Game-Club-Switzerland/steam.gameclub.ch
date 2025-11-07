@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/304240">304240</a>
 
-**App ID:** <a href="https://steamdb.info/app/304240">304240</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/304240">304240</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053" title="Pallas">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198124796053" target="_blank" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053" target="_blank" title="Pallas">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank" title="SEL"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733" title="SEL">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>422</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197963370733" target="_blank" title="SEL"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733" target="_blank" title="SEL">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>422</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

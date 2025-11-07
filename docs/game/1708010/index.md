@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://store.steampowered.com/app/1708010"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1708010/9a8f7c0cc12b2a7c05c884e368cbd5f609467f2f.jpg" alt="The Expanse: A Telltale Series" style="width:32px;height:32px;border-radius:4px;" /> The Expanse: A Telltale Series</a>
+# <a href="https://store.steampowered.com/app/1708010"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1708010/9a8f7c0cc12b2a7c05c884e368cbd5f609467f2f.jpg" alt="The Expanse: A Telltale Series" style="width:32px;height:32px;border-radius:4px;" /> The Expanse: A Telltale Series</a>
 
-**App ID:** <a href="https://steamdb.info/app/1708010">1708010</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/1708010">1708010</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank" title="Cobra"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568" title="Cobra">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td>312</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>123</td></tr>
+<td><a href="/player/76561198028651568" target="_blank" title="Cobra"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568" target="_blank" title="Cobra">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td>312</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>123</td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank" title="Dismieter (CH)"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607" title="Dismieter (CH)">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>700</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197993773607" target="_blank" title="Dismieter (CH)"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607" target="_blank" title="Dismieter (CH)">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>700</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

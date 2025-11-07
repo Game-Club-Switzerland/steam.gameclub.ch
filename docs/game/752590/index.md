@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/752590">752590</a>
 
-**App ID:** <a href="https://steamdb.info/app/752590">752590</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/752590">752590</a>
 
 ## Playtime
 
@@ -40,10 +40,10 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" title="Häsi"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198035642423" title="Häsi">Häsi</a></td><td>76561198035642423</td><td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank">Steam Profil</a></td><td>590</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198035642423" target="_blank" title="Häsi"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198035642423" target="_blank" title="Häsi">Häsi</a></td><td>76561198035642423</td><td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank">Steam Profil</a></td><td>590</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank" title="Marco-san"><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975971094" title="Marco-san">Marco-san</a></td><td>76561197975971094</td><td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197975971094" target="_blank" title="Marco-san"><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975971094" target="_blank" title="Marco-san">Marco-san</a></td><td>76561197975971094</td><td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/sharegc/" target="_blank" title="sharegc"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317" title="sharegc">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td>45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198369436317" target="_blank" title="sharegc"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317" target="_blank" title="sharegc">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td>45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

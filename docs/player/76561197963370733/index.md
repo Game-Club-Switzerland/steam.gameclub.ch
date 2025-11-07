@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/BGCSEL/" target="_blank"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> SEL
 
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** 9352
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

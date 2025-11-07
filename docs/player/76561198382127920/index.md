@@ -5,6 +5,8 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198382127920/" target="_blank"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Share Game-Club.ch
 
+**Real Name:** game-club.ch
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

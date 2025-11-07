@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197987386127/" target="_blank"><img src="https://avatars.steamstatic.com/3141d19096a1e3bfb9163590d1aee7a277a408ee_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Chnobli
 
+### Location
+
+**Location:** CH
+
+**State:** 25
+
+**City ID:** 9632
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

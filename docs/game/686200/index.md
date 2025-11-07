@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/686200">686200</a>
 
-**App ID:** <a href="https://steamdb.info/app/686200">686200</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/686200">686200</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank" title="Dismieter (CH)"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607" title="Dismieter (CH)">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>590</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197993773607" target="_blank" title="Dismieter (CH)"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607" target="_blank" title="Dismieter (CH)">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>590</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

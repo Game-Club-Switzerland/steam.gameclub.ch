@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank"><img src="https://avatars.steamstatic.com/8154b7b0191af1a6fa3ee479f1742739e6b9a894_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> dANTE
 
+### Location
+
+**Location:** HM
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/344740">344740</a>
 
-**App ID:** <a href="https://steamdb.info/app/344740">344740</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/344740">344740</a>
 
 ## Playtime
 
@@ -40,10 +40,10 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank" title="3W | Lizard"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975592846" title="3W | Lizard">3W | Lizard</a></td><td>76561197975592846</td><td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197975592846" target="_blank" title="3W | Lizard"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975592846" target="_blank" title="3W | Lizard">3W | Lizard</a></td><td>76561197975592846</td><td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank" title="mYKe"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197961153140" title="mYKe">mYKe</a></td><td>76561197961153140</td><td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197961153140" target="_blank" title="mYKe"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197961153140" target="_blank" title="mYKe">mYKe</a></td><td>76561197961153140</td><td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198018530273/" target="_blank" title="3W | swiss"><img src="https://avatars.steamstatic.com/321f3e02c465b19dbdf228bc79524eb48a7b8eec_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198018530273" title="3W | swiss">3W | swiss</a></td><td>76561198018530273</td><td><a href="https://steamcommunity.com/profiles/76561198018530273/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198018530273" target="_blank" title="3W | swiss"><img src="https://avatars.steamstatic.com/321f3e02c465b19dbdf228bc79524eb48a7b8eec_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198018530273" target="_blank" title="3W | swiss">3W | swiss</a></td><td>76561198018530273</td><td><a href="https://steamcommunity.com/profiles/76561198018530273/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

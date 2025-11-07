@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/799600">799600</a>
 
-**App ID:** <a href="https://steamdb.info/app/799600">799600</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/799600">799600</a>
 
 ## Playtime
 
@@ -40,10 +40,10 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/4wobi/" target="_blank" title="(CH)Wobi"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985122419" title="(CH)Wobi">(CH)Wobi</a></td><td>76561197985122419</td><td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197985122419" target="_blank" title="(CH)Wobi"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985122419" target="_blank" title="(CH)Wobi">(CH)Wobi</a></td><td>76561197985122419</td><td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197984860875" title="Tumba">Tumba</a></td><td>76561197984860875</td><td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Steam Profil</a></td><td>1173</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197984860875" target="_blank" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197984860875" target="_blank" title="Tumba">Tumba</a></td><td>76561197984860875</td><td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Steam Profil</a></td><td>1173</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank" title="Kolleg"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545" title="Kolleg">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>172</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198033415545" target="_blank" title="Kolleg"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545" target="_blank" title="Kolleg">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>172</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

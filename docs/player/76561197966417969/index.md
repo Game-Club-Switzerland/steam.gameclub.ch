@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/3wd3lta/" target="_blank"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> 3W | D3lt@.ch
 
+**Real Name:** Thomas
+
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

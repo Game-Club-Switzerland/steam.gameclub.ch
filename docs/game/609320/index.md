@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/609320">609320</a>
 
-**App ID:** <a href="https://steamdb.info/app/609320">609320</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/609320">609320</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank" title="Omikron"><img src="https://avatars.steamstatic.com/4a68a099395221c9c2ca3c887d9dea93530b0284_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197978228453" title="Omikron">Omikron</a></td><td>76561197978228453</td><td><a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank">Steam Profil</a></td><td>299</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197978228453" target="_blank" title="Omikron"><img src="https://avatars.steamstatic.com/4a68a099395221c9c2ca3c887d9dea93530b0284_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197978228453" target="_blank" title="Omikron">Omikron</a></td><td>76561197978228453</td><td><a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank">Steam Profil</a></td><td>299</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/sharegc/" target="_blank" title="sharegc"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317" title="sharegc">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198369436317" target="_blank" title="sharegc"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317" target="_blank" title="sharegc">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

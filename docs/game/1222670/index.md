@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://store.steampowered.com/app/1222670"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1222670/ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98.jpg" alt="The Sims™ 4" style="width:32px;height:32px;border-radius:4px;" /> The Sims™ 4</a>
+# <a href="https://store.steampowered.com/app/1222670"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1222670/ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98.jpg" alt="The Sims™ 4" style="width:32px;height:32px;border-radius:4px;" /> The Sims™ 4</a>
 
-**App ID:** <a href="https://steamdb.info/app/1222670">1222670</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/1222670">1222670</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/Pecunifex/" target="_blank" title="Pecunifex"><img src="https://avatars.steamstatic.com/e0d1bc9b6c9f8586c23338164259a9fa1567b842_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023797045" title="Pecunifex">Pecunifex</a></td><td>76561198023797045</td><td><a href="https://steamcommunity.com/id/Pecunifex/" target="_blank">Steam Profil</a></td><td>1005</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198023797045" target="_blank" title="Pecunifex"><img src="https://avatars.steamstatic.com/e0d1bc9b6c9f8586c23338164259a9fa1567b842_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023797045" target="_blank" title="Pecunifex">Pecunifex</a></td><td>76561198023797045</td><td><a href="https://steamcommunity.com/id/Pecunifex/" target="_blank">Steam Profil</a></td><td>1005</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197984860875" title="Tumba">Tumba</a></td><td>76561197984860875</td><td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Steam Profil</a></td><td>181</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197984860875" target="_blank" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197984860875" target="_blank" title="Tumba">Tumba</a></td><td>76561197984860875</td><td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Steam Profil</a></td><td>181</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

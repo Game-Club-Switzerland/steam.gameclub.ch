@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/wasoen/" target="_blank"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> wasoen
 
+**Real Name:** Dafug
+
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

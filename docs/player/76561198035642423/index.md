@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/SgtHasi/" target="_blank"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Häsi
 
+**Real Name:** Pius Hasler
+
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** 9344
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

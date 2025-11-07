@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198055610507/" target="_blank"><img src="https://avatars.steamstatic.com/ad944ff749acc9b6af00ecea60590fc8fa6e5872_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> ΗΣRΘDΣS™
 
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

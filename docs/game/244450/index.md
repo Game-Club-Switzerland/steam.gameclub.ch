@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/244450">244450</a>
 
-**App ID:** <a href="https://steamdb.info/app/244450">244450</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/244450">244450</a>
 
 ## Playtime
 
@@ -40,12 +40,12 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank" title="3W | D3lt@.ch"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969" title="3W | D3lt@.ch">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1400360556</td><td></td></tr>
+<td><a href="/player/76561197966417969" target="_blank" title="3W | D3lt@.ch"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969" target="_blank" title="3W | D3lt@.ch">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1400360556</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028" title="TTV-P0LYTv">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>9021</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198042465028" target="_blank" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028" target="_blank" title="TTV-P0LYTv">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>9021</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank" title="CML"><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977864713" title="CML">CML</a></td><td>76561197977864713</td><td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197977864713" target="_blank" title="CML"><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977864713" target="_blank" title="CML">CML</a></td><td>76561197977864713</td><td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank" title="☠SENTINEL☠"><img src="https://avatars.steamstatic.com/8de675938148c0df03b2db741e544543c0bf0c41_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198040885982" title="☠SENTINEL☠">☠SENTINEL☠</a></td><td>76561198040885982</td><td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank">Steam Profil</a></td><td>43</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198040885982" target="_blank" title="☠SENTINEL☠"><img src="https://avatars.steamstatic.com/8de675938148c0df03b2db741e544543c0bf0c41_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198040885982" target="_blank" title="☠SENTINEL☠">☠SENTINEL☠</a></td><td>76561198040885982</td><td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank">Steam Profil</a></td><td>43</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

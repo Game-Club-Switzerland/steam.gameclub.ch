@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/219150">219150</a>
 
-**App ID:** <a href="https://steamdb.info/app/219150">219150</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/219150">219150</a>
 
 ## Playtime
 
@@ -40,10 +40,10 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/4wobi/" target="_blank" title="(CH)Wobi"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985122419" title="(CH)Wobi">(CH)Wobi</a></td><td>76561197985122419</td><td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197985122419" target="_blank" title="(CH)Wobi"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985122419" target="_blank" title="(CH)Wobi">(CH)Wobi</a></td><td>76561197985122419</td><td><a href="https://steamcommunity.com/id/4wobi/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>89</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197969764480" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" target="_blank" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>89</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/hoangry/" target="_blank" title="Hoangry"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962" title="Hoangry">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>146</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198066790962" target="_blank" title="Hoangry"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962" target="_blank" title="Hoangry">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>146</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

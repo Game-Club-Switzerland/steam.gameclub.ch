@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> dortLii
 
+**Real Name:** Fäbs
+
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

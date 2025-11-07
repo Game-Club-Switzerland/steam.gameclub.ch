@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/dakine85/" target="_blank"><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Lama Rage Kine
 
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

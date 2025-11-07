@@ -5,6 +5,8 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198018530273/" target="_blank"><img src="https://avatars.steamstatic.com/321f3e02c465b19dbdf228bc79524eb48a7b8eec_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> 3W | swiss
 
+**Real Name:** John
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/520270">520270</a>
 
-**App ID:** <a href="https://steamdb.info/app/520270">520270</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/520270">520270</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank" title="[CH] wOOOOx"><img src="https://avatars.steamstatic.com/63bfb68b2f8447915569c148441f4430019be790_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198008460974" title="[CH] wOOOOx">[CH] wOOOOx</a></td><td>76561198008460974</td><td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank">Steam Profil</a></td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198008460974" target="_blank" title="[CH] wOOOOx"><img src="https://avatars.steamstatic.com/63bfb68b2f8447915569c148441f4430019be790_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198008460974" target="_blank" title="[CH] wOOOOx">[CH] wOOOOx</a></td><td>76561198008460974</td><td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank">Steam Profil</a></td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

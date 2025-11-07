@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> HypN-EyEs
 
+**Real Name:** Dom
+
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

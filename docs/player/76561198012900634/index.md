@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank"><img src="https://avatars.steamstatic.com/1f669976d9bc2680ccad3a8869dd3108d7897818_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Mudi2
 
+### Location
+
+**Location:** CH
+
+**State:** 24
+
+**City ID:** 9447
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/Stereoclip/" target="_blank"><img src="https://avatars.steamstatic.com/c1386d46ab8023a869a0dad9c7c10f126814af98_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Phalanx
 
+**Real Name:** Dominic WasGehtSieDasAn
+
+### Location
+
+**Location:** CH
+
+**State:** 10
+
+**City ID:** 9346
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

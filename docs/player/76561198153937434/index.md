@@ -461,7 +461,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>112</td><tr>
+<td>64</td><tr>
 <td></td>
 <td><a href="/game/1831830">1831830</a></td>
 <td>159</td>

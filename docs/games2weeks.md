@@ -43,7 +43,7 @@ hide:
 <tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>8504</td>
+<td>8446</td>
 <td>648210</td>
 <td>0</td>
 <td>0</td>
@@ -125,16 +125,16 @@ hide:
 <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="RuMpI"><img src="https://avatars.steamstatic.com/3f006227f5d26fb37941b0a23adb7fafc72530ad_full.jpg" alt="RuMpI" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
 </tr>
 <tr>
-<td><a href="/game/1366800"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1366800/16138bef561b61372e02f3006da2c76a21cdbbd7.jpg" alt="Crosshair X" style="width:32px;height:32px;border-radius:4px;" /></a></td>
-<td><a href="/game/1366800">Crosshair X</a></td>
-<td>6080</td>
-<td>153931</td>
+<td><a href="/game/2507950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2507950/52bc6c4bf0c232cf30d66eb3d1638bf099bc6061.jpg" alt="Delta Force" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2507950">Delta Force</a></td>
+<td>6189</td>
+<td>26337</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>1</td>
-<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="TTV-P0LYTv" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
+<td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="HypN-EyEs"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="HypN-EyEs" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
 </tr>
 <tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
@@ -146,13 +146,25 @@ hide:
 <td>0</td>
 <td>0</td>
 <td>12</td>
-<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="TTV-P0LYTv" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Häsi"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="HypN-EyEs"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="HypN-EyEs" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="LФгd_Кдçкё"><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="LФгd_Кдçкё" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="mYKe"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="mYKe" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Pallas" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="piipmatz"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="piipmatz" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="ROOB1984"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="ROOB1984" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561198026440838/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Spargelauflauf"><img src="https://avatars.steamstatic.com/b1dd847c756150620260da51ef5dded31d2cdb5c_full.jpg" alt="Spargelauflauf" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Tumba" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/wasoen/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="wasoen"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="wasoen" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="[DMH] Rexon"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="[DMH] Rexon" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
+<td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="HypN-EyEs"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="HypN-EyEs" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="TTV-P0LYTv" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Häsi"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="LФгd_Кдçкё"><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="LФгd_Кдçкё" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="mYKe"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="mYKe" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Pallas" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="piipmatz"><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="piipmatz" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="ROOB1984"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="ROOB1984" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561198026440838/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Spargelauflauf"><img src="https://avatars.steamstatic.com/b1dd847c756150620260da51ef5dded31d2cdb5c_full.jpg" alt="Spargelauflauf" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Tumba" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/wasoen/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="wasoen"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="wasoen" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="[DMH] Rexon"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="[DMH] Rexon" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
+</tr>
+<tr>
+<td><a href="/game/1366800"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1366800/16138bef561b61372e02f3006da2c76a21cdbbd7.jpg" alt="Crosshair X" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1366800">Crosshair X</a></td>
+<td>6082</td>
+<td>153992</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="TTV-P0LYTv" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
 </tr>
 <tr>
 <td><a href="/game/2592160"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2592160/1fa72a0254bb96aab1642604720d74c376f97756.jpg" alt="Dispatch" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2592160">Dispatch</a></td>
-<td>532</td>
-<td>532</td>
+<td>592</td>
+<td>592</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -379,7 +391,7 @@ hide:
 <tr>
 <td><a href="/game/1763250"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1763250/7826d78ceea3256381284e688368539b83b91e24.jpg" alt="SWORN" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1763250">SWORN</a></td>
-<td>112</td>
+<td>64</td>
 <td>3350</td>
 <td>0</td>
 <td>0</td>
@@ -579,18 +591,6 @@ hide:
 <td>0</td>
 <td>1</td>
 <td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="Häsi"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Häsi" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
-</tr>
-<tr>
-<td><a href="/game/2507950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2507950/52bc6c4bf0c232cf30d66eb3d1638bf099bc6061.jpg" alt="Delta Force" style="width:32px;height:32px;border-radius:4px;" /></a></td>
-<td><a href="/game/2507950">Delta Force</a></td>
-<td>6189</td>
-<td>26337</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank" style="text-decoration:none;color:#66c0f4;" title="HypN-EyEs"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="HypN-EyEs" style="width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;" /></a></td>
 </tr>
 <tr>
 <td><a href="/game/397540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/397540/0ac7b8d98fad581f65b0533bbce63bf953d743ac.jpg" alt="Borderlands 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>

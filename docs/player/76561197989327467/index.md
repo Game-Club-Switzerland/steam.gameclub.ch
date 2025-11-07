@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> ROOB1984
 
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/2667120">2667120</a>
 
-**App ID:** <a href="https://steamdb.info/app/2667120">2667120</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/2667120">2667120</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/wasoen/" target="_blank" title="wasoen"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975664729" title="wasoen">wasoen</a></td><td>76561197975664729</td><td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Steam Profil</a></td><td>1438</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197975664729" target="_blank" title="wasoen"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975664729" target="_blank" title="wasoen">wasoen</a></td><td>76561197975664729</td><td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Steam Profil</a></td><td>1438</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

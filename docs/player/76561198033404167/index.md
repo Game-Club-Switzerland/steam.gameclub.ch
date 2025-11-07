@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198033404167/" target="_blank"><img src="https://avatars.steamstatic.com/b4674a1518d5bb211168457218e5fa0a19def9e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> twitch.tv/haui1994
 
+**Real Name:** Fabian
+
+### Location
+
+**Location:** CH
+
+**State:** 19
+
+**City ID:** 9613
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

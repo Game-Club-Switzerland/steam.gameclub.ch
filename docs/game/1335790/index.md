@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/1335790">1335790</a>
 
-**App ID:** <a href="https://steamdb.info/app/1335790">1335790</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/1335790">1335790</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank" title="IamAdi"><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198089726608" title="IamAdi">IamAdi</a></td><td>76561198089726608</td><td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Steam Profil</a></td><td>230</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198089726608" target="_blank" title="IamAdi"><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198089726608" target="_blank" title="IamAdi">IamAdi</a></td><td>76561198089726608</td><td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Steam Profil</a></td><td>230</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank" title="[N1M] Zireas"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324" title="[N1M] Zireas">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td>220</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198023839324" target="_blank" title="[N1M] Zireas"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324" target="_blank" title="[N1M] Zireas">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td>220</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

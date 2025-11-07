@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198101713625/" target="_blank"><img src="https://avatars.steamstatic.com/0f6b9a1e8b9fb698ec008053ecf64a440cf75370_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Keyan
 
+**Real Name:** Keyan
+
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

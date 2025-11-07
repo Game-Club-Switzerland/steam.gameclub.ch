@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/Naomichloe/" target="_blank"><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> ツ
 
+### Location
+
+**Location:** CH
+
+**State:** 25
+
+**City ID:** 9632
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

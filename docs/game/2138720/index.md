@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/2138720">2138720</a>
 
-**App ID:** <a href="https://steamdb.info/app/2138720">2138720</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/2138720">2138720</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028" title="TTV-P0LYTv">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>115</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198042465028" target="_blank" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028" target="_blank" title="TTV-P0LYTv">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>115</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

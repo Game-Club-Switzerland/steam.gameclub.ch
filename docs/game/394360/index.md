@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/394360">394360</a>
 
-**App ID:** <a href="https://steamdb.info/app/394360">394360</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/394360">394360</a>
 
 ## Playtime
 
@@ -40,14 +40,14 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank" title="Linda[SUI]"><img src="https://avatars.steamstatic.com/715689713a0bd4a947c884e2bfa8b8f2b124ea9d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985981461" title="Linda[SUI]">Linda[SUI]</a></td><td>76561197985981461</td><td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197985981461" target="_blank" title="Linda[SUI]"><img src="https://avatars.steamstatic.com/715689713a0bd4a947c884e2bfa8b8f2b124ea9d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985981461" target="_blank" title="Linda[SUI]">Linda[SUI]</a></td><td>76561197985981461</td><td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank" title="Bai"><img src="https://avatars.steamstatic.com/ff66d7ecdb46a2149b8a34f896885c36a533e130_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198037235876" title="Bai">Bai</a></td><td>76561198037235876</td><td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank">Steam Profil</a></td><td>1317</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198037235876" target="_blank" title="Bai"><img src="https://avatars.steamstatic.com/ff66d7ecdb46a2149b8a34f896885c36a533e130_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198037235876" target="_blank" title="Bai">Bai</a></td><td>76561198037235876</td><td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank">Steam Profil</a></td><td>1317</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank" title="3W | Lizard"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975592846" title="3W | Lizard">3W | Lizard</a></td><td>76561197975592846</td><td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197975592846" target="_blank" title="3W | Lizard"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975592846" target="_blank" title="3W | Lizard">3W | Lizard</a></td><td>76561197975592846</td><td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank" title="CML"><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977864713" title="CML">CML</a></td><td>76561197977864713</td><td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197977864713" target="_blank" title="CML"><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977864713" target="_blank" title="CML">CML</a></td><td>76561197977864713</td><td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053" title="Pallas">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>3098</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198124796053" target="_blank" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053" target="_blank" title="Pallas">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>3098</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

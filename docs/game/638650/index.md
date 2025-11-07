@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/638650">638650</a>
 
-**App ID:** <a href="https://steamdb.info/app/638650">638650</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/638650">638650</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank" title="HypN-EyEs"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198001272059" title="HypN-EyEs">HypN-EyEs</a></td><td>76561198001272059</td><td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Steam Profil</a></td><td>77</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198001272059" target="_blank" title="HypN-EyEs"><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198001272059" target="_blank" title="HypN-EyEs">HypN-EyEs</a></td><td>76561198001272059</td><td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Steam Profil</a></td><td>77</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank" title="Mudi2"><img src="https://avatars.steamstatic.com/1f669976d9bc2680ccad3a8869dd3108d7897818_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198012900634" title="Mudi2">Mudi2</a></td><td>76561198012900634</td><td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank">Steam Profil</a></td><td>10</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198012900634" target="_blank" title="Mudi2"><img src="https://avatars.steamstatic.com/1f669976d9bc2680ccad3a8869dd3108d7897818_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198012900634" target="_blank" title="Mudi2">Mudi2</a></td><td>76561198012900634</td><td><a href="https://steamcommunity.com/profiles/76561198012900634/" target="_blank">Steam Profil</a></td><td>10</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

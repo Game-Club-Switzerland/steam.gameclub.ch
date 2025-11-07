@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198302176131/" target="_blank"><img src="https://avatars.steamstatic.com/d07a08bf54ffe397bb68a770e337279b4601785f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> FaZe Johnyyy
 
+**Real Name:** ...
+
+### Location
+
+**Location:** DE
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

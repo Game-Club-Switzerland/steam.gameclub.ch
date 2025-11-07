@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/RedTea/" target="_blank"><img src="https://avatars.steamstatic.com/306bdaf4e2d7e67013e9216f6ddfe3791fc49f9e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> RedTea69p
 
+**Real Name:** Martin
+
+### Location
+
+**Location:** CH
+
+**State:** 25
+
+**City ID:** 9409
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

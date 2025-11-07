@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank"><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> CML
 
+### Location
+
+**Location:** CH
+
+**State:** 01
+
+**City ID:** 9354
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

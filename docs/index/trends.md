@@ -18,7 +18,7 @@ hide:
     <tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>8504</td>
+<td>8446</td>
 <td>6</td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ hide:
 <tr>
 <td><a href="/game/1366800"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1366800/16138bef561b61372e02f3006da2c76a21cdbbd7.jpg" alt="Crosshair X" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1366800">Crosshair X</a></td>
-<td>6080</td>
+<td>6082</td>
 <td>1</td>
 </tr>
 <tr>

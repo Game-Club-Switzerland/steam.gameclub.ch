@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/251910">251910</a>
 
-**App ID:** <a href="https://steamdb.info/app/251910">251910</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/251910">251910</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank" title="3W | D3lt@.ch"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969" title="3W | D3lt@.ch">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1419232619</td><td></td></tr>
+<td><a href="/player/76561197966417969" target="_blank" title="3W | D3lt@.ch"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969" target="_blank" title="3W | D3lt@.ch">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1419232619</td><td></td></tr>
 </tbody>
 </table>

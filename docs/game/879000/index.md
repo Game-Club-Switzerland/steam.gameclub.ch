@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/879000">879000</a>
 
-**App ID:** <a href="https://steamdb.info/app/879000">879000</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/879000">879000</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/iceman187/" target="_blank" title="Icema_n187"><img src="https://avatars.steamstatic.com/f6a0a4b66f705bdafa7a7842538f885b91103101_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197972541759" title="Icema_n187">Icema_n187</a></td><td>76561197972541759</td><td><a href="https://steamcommunity.com/id/iceman187/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197972541759" target="_blank" title="Icema_n187"><img src="https://avatars.steamstatic.com/f6a0a4b66f705bdafa7a7842538f885b91103101_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197972541759" target="_blank" title="Icema_n187">Icema_n187</a></td><td>76561197972541759</td><td><a href="https://steamcommunity.com/id/iceman187/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Dismieter (CH)
 
+### Location
+
+**Location:** CH
+
+**State:** 18
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

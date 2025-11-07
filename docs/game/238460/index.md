@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/238460">238460</a>
 
-**App ID:** <a href="https://steamdb.info/app/238460">238460</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/238460">238460</a>
 
 ## Playtime
 
@@ -40,12 +40,12 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/dakine85/" target="_blank" title="Lama Rage Kine"><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963321401" title="Lama Rage Kine">Lama Rage Kine</a></td><td>76561197963321401</td><td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197963321401" target="_blank" title="Lama Rage Kine"><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963321401" target="_blank" title="Lama Rage Kine">Lama Rage Kine</a></td><td>76561197963321401</td><td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>206</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197969764480" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" target="_blank" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>206</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197967612667/" target="_blank" title="Tard"><img src="https://avatars.steamstatic.com/2638a64954803952a51ac873b090da8f2359cf1f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197967612667" title="Tard">Tard</a></td><td>76561197967612667</td><td><a href="https://steamcommunity.com/profiles/76561197967612667/" target="_blank">Steam Profil</a></td><td>75</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197967612667" target="_blank" title="Tard"><img src="https://avatars.steamstatic.com/2638a64954803952a51ac873b090da8f2359cf1f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197967612667" target="_blank" title="Tard">Tard</a></td><td>76561197967612667</td><td><a href="https://steamcommunity.com/profiles/76561197967612667/" target="_blank">Steam Profil</a></td><td>75</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/hoangry/" target="_blank" title="Hoangry"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962" title="Hoangry">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>186</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198066790962" target="_blank" title="Hoangry"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962" target="_blank" title="Hoangry">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>186</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

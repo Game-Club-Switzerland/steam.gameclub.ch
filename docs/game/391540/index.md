@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/391540">391540</a>
 
-**App ID:** <a href="https://steamdb.info/app/391540">391540</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/391540">391540</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank" title="IamAdi"><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198089726608" title="IamAdi">IamAdi</a></td><td>76561198089726608</td><td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Steam Profil</a></td><td>61</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198089726608" target="_blank" title="IamAdi"><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198089726608" target="_blank" title="IamAdi">IamAdi</a></td><td>76561198089726608</td><td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Steam Profil</a></td><td>61</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>246</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197969764480" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" target="_blank" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>246</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

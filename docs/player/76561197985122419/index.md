@@ -5,6 +5,8 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/4wobi/" target="_blank"><img src="https://avatars.steamstatic.com/d54bb79ee87c2fb8393656d125a3ddd8eceb38ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> (CH)Wobi
 
+**Real Name:** Wobi
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

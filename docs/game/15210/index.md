@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/15210">15210</a>
 
-**App ID:** <a href="https://steamdb.info/app/15210">15210</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/15210">15210</a>
 
 ## Playtime
 
@@ -40,10 +40,10 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank" title="Bai"><img src="https://avatars.steamstatic.com/ff66d7ecdb46a2149b8a34f896885c36a533e130_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198037235876" title="Bai">Bai</a></td><td>76561198037235876</td><td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198037235876" target="_blank" title="Bai"><img src="https://avatars.steamstatic.com/ff66d7ecdb46a2149b8a34f896885c36a533e130_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198037235876" target="_blank" title="Bai">Bai</a></td><td>76561198037235876</td><td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198016103694/" target="_blank" title="[+]Dragnforce ©"><img src="https://avatars.steamstatic.com/ec719d4ea83640827307ebd9848325256da2fe86_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198016103694" title="[+]Dragnforce ©">[+]Dragnforce ©</a></td><td>76561198016103694</td><td><a href="https://steamcommunity.com/profiles/76561198016103694/" target="_blank">Steam Profil</a></td><td>1699</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198016103694" target="_blank" title="[+]Dragnforce ©"><img src="https://avatars.steamstatic.com/ec719d4ea83640827307ebd9848325256da2fe86_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198016103694" target="_blank" title="[+]Dragnforce ©">[+]Dragnforce ©</a></td><td>76561198016103694</td><td><a href="https://steamcommunity.com/profiles/76561198016103694/" target="_blank">Steam Profil</a></td><td>1699</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank" title="[DMH] Rexon"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197986218171" title="[DMH] Rexon">[DMH] Rexon</a></td><td>76561197986218171</td><td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Steam Profil</a></td><td>12</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197986218171" target="_blank" title="[DMH] Rexon"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197986218171" target="_blank" title="[DMH] Rexon">[DMH] Rexon</a></td><td>76561197986218171</td><td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Steam Profil</a></td><td>12</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

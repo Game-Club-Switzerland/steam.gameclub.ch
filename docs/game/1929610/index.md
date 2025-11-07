@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/1929610">1929610</a>
 
-**App ID:** <a href="https://steamdb.info/app/1929610">1929610</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/1929610">1929610</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028" title="TTV-P0LYTv">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>723</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198042465028" target="_blank" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028" target="_blank" title="TTV-P0LYTv">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>723</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank" title="ΠΞΧUS_4202"><img src="https://avatars.steamstatic.com/3bdc59e43871ad009c2d17b8eb58c61d73df17d0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198112257105" title="ΠΞΧUS_4202">ΠΞΧUS_4202</a></td><td>76561198112257105</td><td><a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank">Steam Profil</a></td><td>359</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198112257105" target="_blank" title="ΠΞΧUS_4202"><img src="https://avatars.steamstatic.com/3bdc59e43871ad009c2d17b8eb58c61d73df17d0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198112257105" target="_blank" title="ΠΞΧUS_4202">ΠΞΧUS_4202</a></td><td>76561198112257105</td><td><a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank">Steam Profil</a></td><td>359</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/2000270">2000270</a>
 
-**App ID:** <a href="https://steamdb.info/app/2000270">2000270</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/2000270">2000270</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank" title="☠SENTINEL☠"><img src="https://avatars.steamstatic.com/8de675938148c0df03b2db741e544543c0bf0c41_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198040885982" title="☠SENTINEL☠">☠SENTINEL☠</a></td><td>76561198040885982</td><td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank">Steam Profil</a></td><td>1963</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198040885982" target="_blank" title="☠SENTINEL☠"><img src="https://avatars.steamstatic.com/8de675938148c0df03b2db741e544543c0bf0c41_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198040885982" target="_blank" title="☠SENTINEL☠">☠SENTINEL☠</a></td><td>76561198040885982</td><td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank">Steam Profil</a></td><td>1963</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

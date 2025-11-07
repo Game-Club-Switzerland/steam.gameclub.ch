@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://store.steampowered.com/app/308080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/308080/abac09ae1c6f58d52312b03b726bdde402a6afdb.jpg" alt="Wing Breakers" style="width:32px;height:32px;border-radius:4px;" /> Wing Breakers</a>
+# <a href="https://store.steampowered.com/app/308080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/308080/abac09ae1c6f58d52312b03b726bdde402a6afdb.jpg" alt="Wing Breakers" style="width:32px;height:32px;border-radius:4px;" /> Wing Breakers</a>
 
-**App ID:** <a href="https://steamdb.info/app/308080">308080</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/308080">308080</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank" title="Jim doesn't feel like dancing."><img src="https://avatars.steamstatic.com/7815f1938354e9b2a63e079fd40874c826340230_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197970585783" title="Jim doesn't feel like dancing.">Jim doesn't feel like dancing.</a></td><td>76561197970585783</td><td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Steam Profil</a></td><td>45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197970585783" target="_blank" title="Jim doesn't feel like dancing."><img src="https://avatars.steamstatic.com/7815f1938354e9b2a63e079fd40874c826340230_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197970585783" target="_blank" title="Jim doesn't feel like dancing.">Jim doesn't feel like dancing.</a></td><td>76561197970585783</td><td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Steam Profil</a></td><td>45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

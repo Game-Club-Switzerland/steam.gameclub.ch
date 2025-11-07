@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank"><img src="https://avatars.steamstatic.com/faa3fc7efb1b5a6fd17e8dbd1d883d5762ab0ada_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> tamsin
 
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
@@ -56,7 +64,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>3834</td><tr>
+<td>3776</td><tr>
 <td></td>
 <td><a href="/game/3590">3590</a></td>
 <td>5</td>

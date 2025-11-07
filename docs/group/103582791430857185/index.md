@@ -44,10 +44,10 @@ hide:
             <span style="color: #66c0f4; font-weight: 500;">128 Mitglieder insgesamt</span>
         </div>
         <div style="margin-bottom: 4px;">
-            <span style="color: #c7d5e0;">10 online</span>
+            <span style="color: #c7d5e0;">11 online</span>
         </div>
         <div style="margin-bottom: 4px;">
-            <span style="color: #59bf40;">1 im Spiel</span>
+            <span style="color: #59bf40;">2 im Spiel</span>
         </div>
         <div>
             <span style="color: #c7d5e0;">46 im Chat - 
@@ -102,6 +102,11 @@ hide:
                         <td>76561198005140269</td>
                         <td><a href="https://steamcommunity.com/id/Slashshot93/" target="_blank">Profil</a></td>
                         <td>141</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198001272059">HypN-EyEs</a></td>
+                        <td>76561198001272059</td>
+                        <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Profil</a></td>
+                        <td>142</td><tr>
                         <td><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198042465028">TTV-P0LYTv</a></td>
                         <td>76561198042465028</td>
@@ -242,11 +247,6 @@ hide:
                         <td>76561198035642423</td>
                         <td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank">Profil</a></td>
                         <td>158</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198001272059">HypN-EyEs</a></td>
-                        <td>76561198001272059</td>
-                        <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Profil</a></td>
-                        <td>142</td><tr>
                         <td><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198089726608">IamAdi</a></td>
                         <td>76561198089726608</td>

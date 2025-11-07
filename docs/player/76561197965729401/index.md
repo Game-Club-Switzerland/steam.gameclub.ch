@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank"><img src="https://avatars.steamstatic.com/3f006227f5d26fb37941b0a23adb7fafc72530ad_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> RuMpI
 
+### Location
+
+**Location:** CH
+
+**State:** 19
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank"><img src="https://avatars.steamstatic.com/7815f1938354e9b2a63e079fd40874c826340230_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Jim doesn't feel like dancing.
 
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** 9352
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

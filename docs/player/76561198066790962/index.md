@@ -5,6 +5,8 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/hoangry/" target="_blank"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Hoangry
 
+**Real Name:** Hoang
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198807853723/" target="_blank"><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> DE-JAN
 
+### Location
+
+**Location:** DE
+
+**State:** 05
+
+**City ID:** 12876
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

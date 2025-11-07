@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/ShadeYYY/" target="_blank"><img src="https://avatars.steamstatic.com/fb03c70f49b00e263e6b857075aa2cf08c6e9efe_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Shade
 
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

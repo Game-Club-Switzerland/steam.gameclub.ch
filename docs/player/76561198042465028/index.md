@@ -806,13 +806,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1366800"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1366800/16138bef561b61372e02f3006da2c76a21cdbbd7.jpg" alt="Crosshair X" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1366800">Crosshair X</a></td>
-<td>153931</td>
+<td>153992</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>6080</td><tr>
+<td>6082</td><tr>
 <td></td>
 <td><a href="/game/1509960">1509960</a></td>
 <td>151</td>
@@ -995,13 +995,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2592160"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2592160/1fa72a0254bb96aab1642604720d74c376f97756.jpg" alt="Dispatch" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2592160">Dispatch</a></td>
-<td>532</td>
+<td>592</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>532</td><tr>
+<td>592</td><tr>
 <td></td>
 <td><a href="/game/2725200">2725200</a></td>
 <td>0</td>

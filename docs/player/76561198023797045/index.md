@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/Pecunifex/" target="_blank"><img src="https://avatars.steamstatic.com/e0d1bc9b6c9f8586c23338164259a9fa1567b842_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Pecunifex
 
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

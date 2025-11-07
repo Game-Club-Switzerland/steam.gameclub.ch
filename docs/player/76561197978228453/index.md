@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank"><img src="https://avatars.steamstatic.com/4a68a099395221c9c2ca3c887d9dea93530b0284_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Omikron
 
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

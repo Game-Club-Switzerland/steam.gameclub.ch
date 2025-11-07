@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/MasterCobra/" target="_blank"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Cobra
 
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

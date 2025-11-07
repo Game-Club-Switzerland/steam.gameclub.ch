@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/sharegc/" target="_blank"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> sharegc
 
+**Real Name:** Share Game Club
+
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

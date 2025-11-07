@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank"><img src="https://avatars.steamstatic.com/3bdc59e43871ad009c2d17b8eb58c61d73df17d0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> ΠΞΧUS_4202
 
+**Real Name:** Podol/Topu
+
+### Location
+
+**Location:** MY
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Tumba
 
+**Real Name:** Patrick
+
+### Location
+
+**Location:** CH
+
+**State:** 01
+
+**City ID:** 9375
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/ALT_F4_Gamer/" target="_blank"><img src="https://avatars.steamstatic.com/6ffd461a8b28bac7bb43f4eb20f209809f654ea8_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Alt F4 Gamer
 
+**Real Name:** Michi
+
+### Location
+
+**Location:** CH
+
+**State:** 19
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

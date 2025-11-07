@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198002275886/" target="_blank"><img src="https://avatars.steamstatic.com/e7791e678b590f7b3fe8e1589bccb2cf6839c918_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> [DMH] Dini Mama
 
+**Real Name:** Fabian
+
+### Location
+
+**Location:** CH
+
+**State:** 19
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

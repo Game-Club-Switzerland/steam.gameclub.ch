@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/298630">298630</a>
 
-**App ID:** <a href="https://steamdb.info/app/298630">298630</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/298630">298630</a>
 
 ## Playtime
 
@@ -40,12 +40,12 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>404</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197969764480" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" target="_blank" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>404</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank" title="Marco-san"><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975971094" title="Marco-san">Marco-san</a></td><td>76561197975971094</td><td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197975971094" target="_blank" title="Marco-san"><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975971094" target="_blank" title="Marco-san">Marco-san</a></td><td>76561197975971094</td><td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053" title="Pallas">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198124796053" target="_blank" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053" target="_blank" title="Pallas">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank" title="[N1M] Zireas"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324" title="[N1M] Zireas">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td>1292</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198023839324" target="_blank" title="[N1M] Zireas"><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198023839324" target="_blank" title="[N1M] Zireas">[N1M] Zireas</a></td><td>76561198023839324</td><td><a href="https://steamcommunity.com/profiles/76561198023839324/" target="_blank">Steam Profil</a></td><td>1292</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

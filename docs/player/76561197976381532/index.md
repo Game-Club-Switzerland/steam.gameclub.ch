@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank"><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> LФгd_Кдçкё
 
+**Real Name:** Daniel
+
+### Location
+
+**Location:** CH
+
+**State:** 25
+
+**City ID:** 9457
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

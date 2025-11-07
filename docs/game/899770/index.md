@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/899770">899770</a>
 
-**App ID:** <a href="https://steamdb.info/app/899770">899770</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/899770">899770</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>17680</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197977007065" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" target="_blank" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>17680</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/hoangry/" target="_blank" title="Hoangry"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962" title="Hoangry">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>1646</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561198066790962" target="_blank" title="Hoangry"><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198066790962" target="_blank" title="Hoangry">Hoangry</a></td><td>76561198066790962</td><td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Steam Profil</a></td><td>1646</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

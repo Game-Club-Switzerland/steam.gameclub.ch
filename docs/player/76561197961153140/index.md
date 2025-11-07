@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> mYKe
 
+**Real Name:** Michael Holderegger
+
+### Location
+
+**Location:** AT
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

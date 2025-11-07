@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198040833114/" target="_blank"><img src="https://avatars.steamstatic.com/816a31e2579b8c6f54b487787580512f93526c0f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> }|Wille|{
 
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

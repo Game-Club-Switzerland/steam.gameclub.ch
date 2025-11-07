@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198040767159/" target="_blank"><img src="https://avatars.steamstatic.com/f8426e0040dbe858d7ee77c34dfa6d4274bf5dda_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> ^1SwissRush
 
+### Location
+
+**Location:** CH
+
+**State:** 15
+
+**City ID:** 9344
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

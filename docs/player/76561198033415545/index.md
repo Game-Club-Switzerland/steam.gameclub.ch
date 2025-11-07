@@ -5,6 +5,14 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Kolleg
 
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

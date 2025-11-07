@@ -5,6 +5,16 @@ hide:
 ---
 # <a href="https://steamcommunity.com/profiles/76561198006239475/" target="_blank"><img src="https://avatars.steamstatic.com/d9b55414e3c8721e3b639cdeef33d13f5214193f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> 3W | Decibel.exe
 
+**Real Name:** Nico
+
+### Location
+
+**Location:** CH
+
+**State:** N/A
+
+**City ID:** N/A
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

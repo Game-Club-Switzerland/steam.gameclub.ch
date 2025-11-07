@@ -5,7 +5,7 @@ hide:
 ---
 # <a href="https://store.steampowered.com/app/238370">238370</a>
 
-**App ID:** <a href="https://steamdb.info/app/238370">238370</a>
+**SteamDB :simple-steamdb:** <a href="https://steamdb.info/app/238370">238370</a>
 
 ## Playtime
 
@@ -40,14 +40,14 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank" title="3W | D3lt@.ch"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969" title="3W | D3lt@.ch">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>47</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1480194188</td><td></td></tr>
+<td><a href="/player/76561197966417969" target="_blank" title="3W | D3lt@.ch"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969" target="_blank" title="3W | D3lt@.ch">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>47</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1480194188</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank" title="Linda[SUI]"><img src="https://avatars.steamstatic.com/715689713a0bd4a947c884e2bfa8b8f2b124ea9d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985981461" title="Linda[SUI]">Linda[SUI]</a></td><td>76561197985981461</td><td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197985981461" target="_blank" title="Linda[SUI]"><img src="https://avatars.steamstatic.com/715689713a0bd4a947c884e2bfa8b8f2b124ea9d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197985981461" target="_blank" title="Linda[SUI]">Linda[SUI]</a></td><td>76561197985981461</td><td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/dakine85/" target="_blank" title="Lama Rage Kine"><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963321401" title="Lama Rage Kine">Lama Rage Kine</a></td><td>76561197963321401</td><td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197963321401" target="_blank" title="Lama Rage Kine"><img src="https://avatars.steamstatic.com/baf3f1e4fe88fff5f7b21b537acda40c52ec0d56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963321401" target="_blank" title="Lama Rage Kine">Lama Rage Kine</a></td><td>76561197963321401</td><td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>298</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197969764480" target="_blank" title="m4niac"><img src="https://avatars.steamstatic.com/7d4a07b7909b83ce6e61db85a98ab4e315c3e6b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969764480" target="_blank" title="m4niac">m4niac</a></td><td>76561197969764480</td><td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Steam Profil</a></td><td>298</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank" title="[DMH] Rexon"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197986218171" title="[DMH] Rexon">[DMH] Rexon</a></td><td>76561197986218171</td><td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="/player/76561197986218171" target="_blank" title="[DMH] Rexon"><img src="https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197986218171" target="_blank" title="[DMH] Rexon">[DMH] Rexon</a></td><td>76561197986218171</td><td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>
