@@ -25,6 +25,7 @@ theme:
     - content.code.copy
     - content.action.view
     - content.action.edit
+    - content.tooltips
     - search.suggest
     - search.highlight
     - search.share
@@ -49,6 +50,7 @@ plugin:
   - tags
 
 markdown_extensions:
+  - abbr
   - attr_list
   - md_in_html
   - pymdownx.emoji:
