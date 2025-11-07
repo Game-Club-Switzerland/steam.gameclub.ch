@@ -1189,8 +1189,8 @@
         "name": "8-Bit Armies",
         "img_icon_url": "c170b5d50ba49b0cbcff13bf9701a0c551e4b576"
     },
-    "431600": {
-        "appid": "431600",
+    "43160": {
+        "appid": "43160",
         "name": "Metro: Last Light Complete Edition",
         "img_icon_url": "7b84b80d2cebe41ba87c59b28e2473d3b33e797d"
     },
@@ -1283,6 +1283,11 @@
         "appid": "3167020",
         "name": "Escape from Duckov",
         "img_icon_url": "5bb8d31708442a8f3ddbc100d7be7c3fde530d18"
+    },
+    "241540": {
+        "appid": "241540",
+        "name": "State of Decay",
+        "img_icon_url": "32fa1abe69d8d0fe2f4ebce58dc8a72129c114a0"
     },
     "1984270": {
         "appid": "1984270",
