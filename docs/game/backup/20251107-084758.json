@@ -1373,45 +1373,5 @@
         "appid": "41070",
         "name": "Serious Sam 3: BFE",
         "img_icon_url": "2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b"
-    },
-    "1669480": {
-        "appid": "1669480",
-        "name": "Firefighting Simulator: Ignite",
-        "img_icon_url": "1b3482217912250caa90f73e284875c042c9f9fa"
-    },
-    "3760020": {
-        "appid": "3760020",
-        "name": "On-Together Demo",
-        "img_icon_url": "582919ff678d40e9b211e7110e728220fdfc1a9f"
-    },
-    "3305060": {
-        "appid": "3305060",
-        "name": "Escape Floor 13",
-        "img_icon_url": "af4f00c07f492898add74ad64e06818978f85c4a"
-    },
-    "3585100": {
-        "appid": "3585100",
-        "name": "DSS 2: War Industry Demo",
-        "img_icon_url": "8619114f62da14e0193687f2d3f47399cc003ff4"
-    },
-    "588650": {
-        "appid": "588650",
-        "name": "Dead Cells",
-        "img_icon_url": "a431361e5dae5fd6ac2433064b62b2a37abc38f1"
-    },
-    "3241660": {
-        "appid": "3241660",
-        "name": "R.E.P.O.",
-        "img_icon_url": "b8bf4770408fc369e15cebd42e0026a27b67aaa8"
-    },
-    "205100": {
-        "appid": "205100",
-        "name": "Dishonored",
-        "img_icon_url": "74f8ee1ba536e0759e64a9bf801fc013e16c8dd1"
-    },
-    "2426960": {
-        "appid": "2426960",
-        "name": "Summoners War",
-        "img_icon_url": "c7342fb02a0c7a525b14f4d46970e4c40febda28"
     }
 }
