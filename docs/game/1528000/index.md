@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/1528000">1528000</a>
+# <a href="https://store.steampowered.com/app/1528000">1528000</a>
 
-**App ID:** 1528000
+**App ID:** <a href="https://steamdb.info/app/1528000">1528000</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank"><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960504659">cortez</a></td><td>76561197960504659</td><td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Steam Profil</a></td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank" title="cortez"><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960504659" title="cortez">cortez</a></td><td>76561197960504659</td><td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Steam Profil</a></td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank"><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975971094">Marco-san</a></td><td>76561197975971094</td><td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank" title="Marco-san"><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975971094" title="Marco-san">Marco-san</a></td><td>76561197975971094</td><td><a href="https://steamcommunity.com/profiles/76561197975971094/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

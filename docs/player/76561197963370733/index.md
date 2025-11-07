@@ -140,13 +140,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>154163</td>
+<td>154938</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1364</td><tr>
+<td>1041</td><tr>
 <td></td>
 <td><a href="/game/16600">16600</a></td>
 <td>37</td>
@@ -255,15 +255,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/41070">41070</a></td>
-<td>6735</td>
-<td></td>
-<td></td>
+<td><a href="/game/41070"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg" alt="Serious Sam 3: BFE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/41070">Serious Sam 3: BFE</a></td>
+<td>6895</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>159</td><tr>
 <td></td>
 <td><a href="/game/44350">44350</a></td>
 <td>7993</td>
@@ -767,7 +767,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>6</td><tr>
+<td></td><tr>
 <td><a href="/game/397540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/397540/0ac7b8d98fad581f65b0533bbce63bf953d743ac.jpg" alt="Borderlands 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/397540">Borderlands 3</a></td>
 <td>64</td>
@@ -875,7 +875,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>568</td><tr>
+<td></td><tr>
 <td><a href="/game/594650"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/594650/06c70772db40f714537f4d80c11859a68560a6b3.jpg" alt="Hunt: Showdown 1896" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/594650">Hunt: Showdown 1896</a></td>
 <td>222</td>
@@ -1067,13 +1067,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1285190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1285190/9a7ba760c036bb0a73310dc9731d7a84a329b921.jpg" alt="Borderlands® 4" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1285190">Borderlands® 4</a></td>
-<td>3471</td>
+<td>3971</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>174</td><tr>
+<td>673</td><tr>
 <td></td>
 <td><a href="/game/1288320">1288320</a></td>
 <td>578</td>
@@ -1220,13 +1220,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2427700"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2427700/852629f282e0dfc3e12da56ed5692043665cf9d3.jpg" alt="Backpack Battles" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2427700">Backpack Battles</a></td>
-<td>11495</td>
+<td>11555</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>806</td><tr>
+<td>419</td><tr>
 <td><a href="/game/2694490"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2694490/f4e2e3a5f1e1e4c3b6f0c8e2f4d6a7b8c9d0e1f2.jpg" alt="The Last of Us Part I" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2694490">The Last of Us Part I</a></td>
 <td>1025</td>

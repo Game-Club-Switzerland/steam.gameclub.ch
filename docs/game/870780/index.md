@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/870780">870780</a>
+# <a href="https://store.steampowered.com/app/870780">870780</a>
 
-**App ID:** 870780
+**App ID:** <a href="https://steamdb.info/app/870780">870780</a>
 
 ## Playtime
 
@@ -40,10 +40,10 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td>200</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank" title="Cobra"><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198028651568" title="Cobra">Cobra</a></td><td>76561198028651568</td><td><a href="https://steamcommunity.com/id/MasterCobra/" target="_blank">Steam Profil</a></td><td>200</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>2091</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank" title="Dismieter (CH)"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607" title="Dismieter (CH)">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>2091</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/sharegc/" target="_blank"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/sharegc/" target="_blank" title="sharegc"><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198369436317" title="sharegc">sharegc</a></td><td>76561198369436317</td><td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

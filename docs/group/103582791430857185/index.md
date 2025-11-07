@@ -35,23 +35,23 @@ hide:
         }
         </style>
         <h3 style="margin: 0 0 10px 0; font-size: 20px; font-weight: 700;">
-            <a href="https://steamcommunity.com/groups/gcch" style="color: #66c0f4; text-decoration: none;">
+            <a href="https://steamcommunity.com/groups/gcch" target="_blank" style="color: #66c0f4; text-decoration: none;">
                 <img src="https://avatars.fastly.steamstatic.com/01357566d6bc75a7840f3fe11895506f089c3e98.jpg" alt="Game-Club Switzerland Avatar" style="vertical-align: middle; border-radius: 2px; margin-right: 8px; width: 32px; height: 32px;" />
                 Game-Club Switzerland
             </a>
         </h3>
         <div style="margin-bottom: 4px;">
-            <span style="color: #66c0f4; font-weight: 500;">126 Mitglieder insgesamt</span>
+            <span style="color: #66c0f4; font-weight: 500;">128 Mitglieder insgesamt</span>
         </div>
         <div style="margin-bottom: 4px;">
-            <span style="color: #c7d5e0;">9 online</span>
+            <span style="color: #c7d5e0;">10 online</span>
         </div>
         <div style="margin-bottom: 4px;">
-            <span style="color: #59bf40;">0 im Spiel</span>
+            <span style="color: #59bf40;">1 im Spiel</span>
         </div>
         <div>
-            <span style="color: #c7d5e0;">45 im Chat - 
-                <a href="https://steamcommunity.com/chat/invite/IQhgcbIe" style="color: #66c0f4; text-decoration: underline;">Chat beitreten</a>
+            <span style="color: #c7d5e0;">46 im Chat - 
+                <a href="https://steamcommunity.com/chat/invite/IQhgcbIe" target="_blank" style="color: #66c0f4; text-decoration: underline;">Chat beitreten</a>
             </span>
         </div>
         <div style="height:16px;"></div>
@@ -72,11 +72,6 @@ hide:
                         <td>76561197966417969</td>
                         <td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Profil</a></td>
                         <td>425</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/20dfd9331cbbdd8b9b7812cacc6cd4528d375f23_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561197970871407">bl4ckbird</a></td>
-                        <td>76561197970871407</td>
-                        <td><a href="https://steamcommunity.com/id/bl4ckbird/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/7815f1938354e9b2a63e079fd40874c826340230_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197970585783">Jim doesn't feel like dancing.</a></td>
                         <td>76561197970585783</td>
@@ -86,7 +81,7 @@ hide:
                         <td><a href="/player/76561197985981461">Linda[SUI]</a></td>
                         <td>76561197985981461</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197985981461/" target="_blank">Profil</a></td>
-                        <td>219</td><tr>
+                        <td>220</td><tr>
                         <td><img src="https://avatars.steamstatic.com/8dfe278c7493b6984540e57ecd57b791df13841e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197969110834">predch</a></td>
                         <td>76561197969110834</td>
@@ -96,62 +91,72 @@ hide:
                         <td><a href="/player/76561197965729401">RuMpI</a></td>
                         <td>76561197965729401</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197965729401/" target="_blank">Profil</a></td>
-                        <td>200</td><tr>
+                        <td>201</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/20dfd9331cbbdd8b9b7812cacc6cd4528d375f23_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561197970871407">bl4ckbird</a></td>
+                        <td>76561197970871407</td>
+                        <td><a href="https://steamcommunity.com/id/bl4ckbird/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/dcd2136652dc32498f221d8262950cef8c08e38a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198005140269">Slashshot</a></td>
                         <td>76561198005140269</td>
                         <td><a href="https://steamcommunity.com/id/Slashshot93/" target="_blank">Profil</a></td>
                         <td>141</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198068302332">ツ</a></td>
-                        <td>76561198068302332</td>
-                        <td><a href="https://steamcommunity.com/id/Naomichloe/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198090894909">alexander.hopfe</a></td>
-                        <td>76561198090894909</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198090894909/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/90f3710b815075535837e2726bd8cb086b3df7c2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198068605472">Bailig</a></td>
-                        <td>76561198068605472</td>
-                        <td><a href="https://steamcommunity.com/id/bailig/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/3141d19096a1e3bfb9163590d1aee7a277a408ee_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561197987386127">Chnobli</a></td>
-                        <td>76561197987386127</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561197987386127/" target="_blank">Profil</a></td>
-                        <td>81</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561197977864713">CML</a></td>
-                        <td>76561197977864713</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Profil</a></td>
-                        <td>225</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198001272059">HypN-EyEs</a></td>
-                        <td>76561198001272059</td>
-                        <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Profil</a></td>
-                        <td>142</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/494c7d6c3e0895e62d166b82de01b38de0ade0ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198077393839">Kortay</a></td>
-                        <td>76561198077393839</td>
-                        <td><a href="https://steamcommunity.com/id/Kortay/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198130026522">piipmatz</a></td>
-                        <td>76561198130026522</td>
-                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Profil</a></td>
-                        <td>163</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/ff27da6904cdcc60a85efa5a5eca593ba37b3396_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198054154675">XMan666</a></td>
-                        <td>76561198054154675</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198054154675/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198042465028">TTV-P0LYTv</a></td>
+                        <td>76561198042465028</td>
+                        <td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Profil</a></td>
+                        <td>121</td><tr>
                         <td><img src="https://avatars.steamstatic.com/3bdc59e43871ad009c2d17b8eb58c61d73df17d0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198112257105">ΠΞΧUS_4202</a></td>
                         <td>76561198112257105</td>
                         <td><a href="https://steamcommunity.com/id/NEXUS4202/" target="_blank">Profil</a></td>
                         <td>43</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198090894909">alexander.hopfe</a></td>
+                        <td>76561198090894909</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198090894909/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/ff66d7ecdb46a2149b8a34f896885c36a533e130_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198037235876">Bai</a></td>
+                        <td>76561198037235876</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank">Profil</a></td>
+                        <td>371</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/90f3710b815075535837e2726bd8cb086b3df7c2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198068605472">Bailig</a></td>
+                        <td>76561198068605472</td>
+                        <td><a href="https://steamcommunity.com/id/bailig/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198014147147">BigApple</a></td>
+                        <td>76561198014147147</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Profil</a></td>
+                        <td>119</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/3141d19096a1e3bfb9163590d1aee7a277a408ee_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561197987386127">Chnobli</a></td>
+                        <td>76561197987386127</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561197987386127/" target="_blank">Profil</a></td>
+                        <td>81</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/b66d8fe924313266f72d936238cc399292f3aff9_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198027621852">KamiPanda</a></td>
+                        <td>76561198027621852</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198027621852/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198153937434">m93</a></td>
+                        <td>76561198153937434</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">Profil</a></td>
+                        <td>56</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/ff27da6904cdcc60a85efa5a5eca593ba37b3396_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198054154675">XMan666</a></td>
+                        <td>76561198054154675</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198054154675/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/66e0ed99ac129c276fe7236511788d30a355c368_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198068302332">ツ</a></td>
+                        <td>76561198068302332</td>
+                        <td><a href="https://steamcommunity.com/id/Naomichloe/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/d22bddc8695f515c5eac24ca3fc0dc330f4fd328_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197990818282">(-poker-)</a></td>
                         <td>76561197990818282</td>
@@ -171,32 +176,22 @@ hide:
                         <td><a href="/player/76561198033175487">3W | Myrmidon</a></td>
                         <td>76561198033175487</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank">Profil</a></td>
-                        <td>214</td><tr>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/5c3d7bbf299f87f3eb6048942bff17b235f23f2b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197975995210">Antraxx</a></td>
                         <td>76561197975995210</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197975995210/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198014147147">BigApple</a></td>
-                        <td>76561198014147147</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Profil</a></td>
-                        <td>119</td><tr>
                         <td><img src="https://avatars.steamstatic.com/2d67419dcbddc68d0d0f649777d0c77c84528b89_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197998933782">BlackDragon</a></td>
                         <td>76561197998933782</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197998933782/" target="_blank">Profil</a></td>
                         <td>174</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/f86cb15260c9a19ff5dea7a644a8aa753b158a12_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198008816919">bladeol</a></td>
-                        <td>76561198008816919</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198008816919/" target="_blank">Profil</a></td>
-                        <td>72</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561197977007065">Calmo.CH</a></td>
-                        <td>76561197977007065</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Profil</a></td>
-                        <td>296</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/a52dfe7d3ee19120d8b9b8722f269d6aeb35bd93_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561197977864713">CML</a></td>
+                        <td>76561197977864713</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561197977864713/" target="_blank">Profil</a></td>
+                        <td>225</td><tr>
                         <td><img src="https://avatars.steamstatic.com/3c5fb53c689fc5ff3c994f355a8a96a9ab9fca33_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198028651568">Cobra</a></td>
                         <td>76561198028651568</td>
@@ -212,21 +207,11 @@ hide:
                         <td>76561197960504659</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Profil</a></td>
                         <td>103</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/8154b7b0191af1a6fa3ee479f1742739e6b9a894_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561197989675888">dANTE</a></td>
-                        <td>76561197989675888</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank">Profil</a></td>
-                        <td>37</td><tr>
                         <td><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198807853723">DE-JAN</a></td>
                         <td>76561198807853723</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198807853723/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/5a5989c57757e7682f1b52e14aeea685b5802f59_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198878955432">devilangel</a></td>
-                        <td>76561198878955432</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198878955432/" target="_blank">Profil</a></td>
-                        <td>12</td><tr>
                         <td><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197993773607">Dismieter (CH)</a></td>
                         <td>76561197993773607</td>
@@ -236,26 +221,11 @@ hide:
                         <td><a href="/player/76561198046884406">dortLii</a></td>
                         <td>76561198046884406</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">Profil</a></td>
-                        <td>269</td><tr>
+                        <td>272</td><tr>
                         <td><img src="https://avatars.steamstatic.com/6bc6a22cd7933a470f02a06e5be89157ab802dc0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198337188118">Eltex</a></td>
                         <td>76561198337188118</td>
                         <td><a href="https://steamcommunity.com/id/Eltex/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/25e38073a4cf8004ea845ca954731cea7e5e781b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198237426558">Ettiennchen</a></td>
-                        <td>76561198237426558</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198237426558/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/fb919dd049db5065d56f1cce32628b0c092faff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198133815812">fette_cortez</a></td>
-                        <td>76561198133815812</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198133815812/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/a5d9bc20906f4b023fe5dbd06fa05f588db5a650_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561197989620656">GENRES</a></td>
-                        <td>76561197989620656</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561197989620656/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/2c662b9ec63ad41af9483a22aea569f707ccc1d9_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198041501805">Guci</a></td>
@@ -272,26 +242,16 @@ hide:
                         <td>76561198035642423</td>
                         <td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank">Profil</a></td>
                         <td>158</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/18cf9e93edbe79213f24fd277a0c8fc05e9ec68f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198001272059">HypN-EyEs</a></td>
+                        <td>76561198001272059</td>
+                        <td><a href="https://steamcommunity.com/id/HypN-EyEs/" target="_blank">Profil</a></td>
+                        <td>142</td><tr>
                         <td><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198089726608">IamAdi</a></td>
                         <td>76561198089726608</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198089726608/" target="_blank">Profil</a></td>
                         <td>87</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/86466f3b37dd219616d01467ba3b69a2dcdfde09_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198165631738">jeremynyf</a></td>
-                        <td>76561198165631738</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198165631738/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/b66d8fe924313266f72d936238cc399292f3aff9_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198027621852">KamiPanda</a></td>
-                        <td>76561198027621852</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198027621852/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198033415545">Kolleg</a></td>
-                        <td>76561198033415545</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Profil</a></td>
-                        <td>136</td><tr>
                         <td><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197976381532">LФгd_Кдçкё</a></td>
                         <td>76561197976381532</td>
@@ -306,7 +266,7 @@ hide:
                         <td><a href="/player/76561197963321401">Lama Rage Kine</a></td>
                         <td>76561197963321401</td>
                         <td><a href="https://steamcommunity.com/id/dakine85/" target="_blank">Profil</a></td>
-                        <td>224</td><tr>
+                        <td>225</td><tr>
                         <td><img src="https://avatars.steamstatic.com/0c7ed17fe82ec615b371100d1df0d998c06a27e2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561199629726962">lex_afk</a></td>
                         <td>76561199629726962</td>
@@ -316,12 +276,7 @@ hide:
                         <td><a href="/player/76561197969764480">m4niac</a></td>
                         <td>76561197969764480</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197969764480/" target="_blank">Profil</a></td>
-                        <td>1892</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198153937434">m93</a></td>
-                        <td>76561198153937434</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">Profil</a></td>
-                        <td>55</td><tr>
+                        <td>1893</td><tr>
                         <td><img src="https://avatars.steamstatic.com/1549337b38219866faf5f61197e2302e5618ec0e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197975971094">Marco-san</a></td>
                         <td>76561197975971094</td>
@@ -337,6 +292,11 @@ hide:
                         <td>76561198016020769</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198016020769/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/465101bfab5d034db38a77ae512b947906930e56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198377237961">mavethegreat</a></td>
+                        <td>76561198377237961</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198377237961/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/ed991f6d5179dc549b75fe114371e6a51b5bd9bc_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197983320063">Meuss</a></td>
                         <td>76561197983320063</td>
@@ -346,12 +306,12 @@ hide:
                         <td><a href="/player/76561197960353130">modano</a></td>
                         <td>76561197960353130</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Profil</a></td>
-                        <td>107</td><tr>
+                        <td>108</td><tr>
                         <td><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197961153140">mYKe</a></td>
                         <td>76561197961153140</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank">Profil</a></td>
-                        <td>145</td><tr>
+                        <td>146</td><tr>
                         <td><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198124796053">Pallas</a></td>
                         <td>76561198124796053</td>
@@ -362,6 +322,11 @@ hide:
                         <td>76561198023797045</td>
                         <td><a href="https://steamcommunity.com/id/Pecunifex/" target="_blank">Profil</a></td>
                         <td>151</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/d80dda23bd7aac56321ff3e591ac4ad9cdee53e6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198130026522">piipmatz</a></td>
+                        <td>76561198130026522</td>
+                        <td><a href="https://steamcommunity.com/id/piipmatz_ch/" target="_blank">Profil</a></td>
+                        <td>165</td><tr>
                         <td><img src="https://avatars.steamstatic.com/d11c33497819af95e1c7f16ea77362f87b76117d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197979480386">Roesti</a></td>
                         <td>76561197979480386</td>
@@ -377,21 +342,16 @@ hide:
                         <td>76561197963370733</td>
                         <td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Profil</a></td>
                         <td>137</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/bb9f2caecb3b2a20ddc43cb78578c81b213e9cf7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198105068730">SP4pix</a></td>
+                        <td>76561198105068730</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198105068730/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/b1dd847c756150620260da51ef5dded31d2cdb5c_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198026440838">Spargelauflauf</a></td>
                         <td>76561198026440838</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198026440838/" target="_blank">Profil</a></td>
                         <td>52</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/a16bddea8f352ed8528d8621f5288b7b5f9873d5_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198022450264">spider</a></td>
-                        <td>76561198022450264</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198022450264/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/9a5808b8adff48bae9e58145622a9b8fa5e3bb58_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198062153277">steinli4410</a></td>
-                        <td>76561198062153277</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198062153277/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/faa3fc7efb1b5a6fd17e8dbd1d883d5762ab0ada_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198990547488">tamsin</a></td>
                         <td>76561198990547488</td>
@@ -402,11 +362,6 @@ hide:
                         <td>76561197967612667</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197967612667/" target="_blank">Profil</a></td>
                         <td>78</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198042465028">TTV-P0LYTv</a></td>
-                        <td>76561198042465028</td>
-                        <td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Profil</a></td>
-                        <td>120</td><tr>
                         <td><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197984860875">Tumba</a></td>
                         <td>76561197984860875</td>
@@ -432,11 +387,6 @@ hide:
                         <td>76561197986218171</td>
                         <td><a href="https://steamcommunity.com/id/19nosferatu82/" target="_blank">Profil</a></td>
                         <td>264</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/a5429a508c4a3cbd504449f957e23db61520c233_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198068839250">[N1M] Japouz</a></td>
-                        <td>76561198068839250</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198068839250/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/b053cb698df6607c8515bebff0f89d9c9bcb1c08_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198023839324">[N1M] Zireas</a></td>
                         <td>76561198023839324</td>
@@ -457,11 +407,26 @@ hide:
                         <td>76561197972541759</td>
                         <td><a href="https://steamcommunity.com/id/iceman187/" target="_blank">Profil</a></td>
                         <td>90</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561197977007065">Calmo.CH</a></td>
+                        <td>76561197977007065</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Profil</a></td>
+                        <td>296</td><tr>
                         <td><img src="https://avatars.steamstatic.com/4a68a099395221c9c2ca3c887d9dea93530b0284_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197978228453">Omikron</a></td>
                         <td>76561197978228453</td>
                         <td><a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank">Profil</a></td>
                         <td>22</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/a5d9bc20906f4b023fe5dbd06fa05f588db5a650_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561197989620656">GENRES</a></td>
+                        <td>76561197989620656</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561197989620656/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/8154b7b0191af1a6fa3ee479f1742739e6b9a894_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561197989675888">dANTE</a></td>
+                        <td>76561197989675888</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank">Profil</a></td>
+                        <td>37</td><tr>
                         <td><img src="https://avatars.steamstatic.com/82976960b69b70deece0e6266adda28b292704b2_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561197992231247">yankey</a></td>
                         <td>76561197992231247</td>
@@ -497,6 +462,11 @@ hide:
                         <td>76561198008460974</td>
                         <td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank">Profil</a></td>
                         <td>155</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/f86cb15260c9a19ff5dea7a644a8aa753b158a12_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198008816919">bladeol</a></td>
+                        <td>76561198008816919</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198008816919/" target="_blank">Profil</a></td>
+                        <td>72</td><tr>
                         <td><img src="https://avatars.steamstatic.com/1f669976d9bc2680ccad3a8869dd3108d7897818_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198012900634">Mudi2</a></td>
                         <td>76561198012900634</td>
@@ -532,6 +502,11 @@ hide:
                         <td>76561198022279619</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198022279619/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/a16bddea8f352ed8528d8621f5288b7b5f9873d5_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198022450264">spider</a></td>
+                        <td>76561198022450264</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198022450264/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/16f0537962343c8e9288f852f180f0b16474f075_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198024148345">[Swiss]McRed[+]</a></td>
                         <td>76561198024148345</td>
@@ -552,6 +527,11 @@ hide:
                         <td>76561198033404167</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198033404167/" target="_blank">Profil</a></td>
                         <td>76</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198033415545">Kolleg</a></td>
+                        <td>76561198033415545</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Profil</a></td>
+                        <td>136</td><tr>
                         <td><img src="https://avatars.steamstatic.com/83970ee08929e0e5a29d45e766046ec4a0c3f73f_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198033656171">雪子</a></td>
                         <td>76561198033656171</td>
@@ -617,11 +597,26 @@ hide:
                         <td>76561198059369700</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198059369700/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/9a5808b8adff48bae9e58145622a9b8fa5e3bb58_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198062153277">steinli4410</a></td>
+                        <td>76561198062153277</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198062153277/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/cc0672ed81e67ae2ccc5e1fe6d39aacdd1c94499_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198066790962">Hoangry</a></td>
                         <td>76561198066790962</td>
                         <td><a href="https://steamcommunity.com/id/hoangry/" target="_blank">Profil</a></td>
                         <td>147</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/a5429a508c4a3cbd504449f957e23db61520c233_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198068839250">[N1M] Japouz</a></td>
+                        <td>76561198068839250</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198068839250/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/494c7d6c3e0895e62d166b82de01b38de0ade0ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198077393839">Kortay</a></td>
+                        <td>76561198077393839</td>
+                        <td><a href="https://steamcommunity.com/id/Kortay/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/0636805565be0b34e11e20ba4e538e7b61f15c28_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198079400661">Bekifterkeks</a></td>
                         <td>76561198079400661</td>
@@ -637,11 +632,6 @@ hide:
                         <td>76561198101713625</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198101713625/" target="_blank">Profil</a></td>
                         <td>49</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/bb9f2caecb3b2a20ddc43cb78578c81b213e9cf7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198105068730">SP4pix</a></td>
-                        <td>76561198105068730</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198105068730/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/5afad1a4b78cd3f8d9fe34d9d8358c2dadd451a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198116810303">youareweak</a></td>
                         <td>76561198116810303</td>
@@ -662,10 +652,25 @@ hide:
                         <td>76561198132086543</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198132086543/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/fb919dd049db5065d56f1cce32628b0c092faff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198133815812">fette_cortez</a></td>
+                        <td>76561198133815812</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198133815812/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/e97ad67e675cd7b596ebb91f229ce868146e3609_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198151276360">Grizzly</a></td>
                         <td>76561198151276360</td>
                         <td><a href="https://steamcommunity.com/id/JaschaS/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/86466f3b37dd219616d01467ba3b69a2dcdfde09_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198165631738">jeremynyf</a></td>
+                        <td>76561198165631738</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198165631738/" target="_blank">Profil</a></td>
+                        <td>0</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/25e38073a4cf8004ea845ca954731cea7e5e781b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198237426558">Ettiennchen</a></td>
+                        <td>76561198237426558</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198237426558/" target="_blank">Profil</a></td>
                         <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/f48e9b8d8417021a0558ee2fba57f700d81b0967_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198301048925">Ranix</a></td>
@@ -682,16 +687,16 @@ hide:
                         <td>76561198369436317</td>
                         <td><a href="https://steamcommunity.com/id/sharegc/" target="_blank">Profil</a></td>
                         <td>139</td><tr>
-                        <td><img src="https://avatars.steamstatic.com/465101bfab5d034db38a77ae512b947906930e56_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
-                        <td><a href="/player/76561198377237961">mavethegreat</a></td>
-                        <td>76561198377237961</td>
-                        <td><a href="https://steamcommunity.com/profiles/76561198377237961/" target="_blank">Profil</a></td>
-                        <td>0</td><tr>
                         <td><img src="https://avatars.steamstatic.com/4b6a981698f8bca38682c48e3b75a2e012c626ab_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198382127920">Share Game-Club.ch</a></td>
                         <td>76561198382127920</td>
                         <td><a href="https://steamcommunity.com/profiles/76561198382127920/" target="_blank">Profil</a></td>
                         <td>4</td><tr>
+                        <td><img src="https://avatars.steamstatic.com/5a5989c57757e7682f1b52e14aeea685b5802f59_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
+                        <td><a href="/player/76561198878955432">devilangel</a></td>
+                        <td>76561198878955432</td>
+                        <td><a href="https://steamcommunity.com/profiles/76561198878955432/" target="_blank">Profil</a></td>
+                        <td>12</td><tr>
                         <td><img src="https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></td>
                         <td><a href="/player/76561198951559117">sharegc2</a></td>
                         <td>76561198951559117</td>

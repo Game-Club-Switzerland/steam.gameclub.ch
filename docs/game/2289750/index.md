@@ -3,13 +3,13 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/2289750">2289750</a>
+#  <a href="https://store.steampowered.com/app/2289750"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2289750/1fef27acdb71f5880ce846c21476200d1ce9629a.jpg" alt="Super Fantasy Kingdom" style="width:32px;height:32px;border-radius:4px;" /> Super Fantasy Kingdom</a>
 
-**App ID:** 2289750
+**App ID:** <a href="https://steamdb.info/app/2289750">2289750</a>
 
 ## Playtime
 
-**Forever:** 629
+**Forever:** 2327
 
 **Windows:** 0
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/wasoen/" target="_blank"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975664729">wasoen</a></td><td>76561197975664729</td><td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Steam Profil</a></td><td>629</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>629</td></tr>
+<td><a href="https://steamcommunity.com/id/wasoen/" target="_blank" title="wasoen"><img src="https://avatars.steamstatic.com/8ee1103f621f0eae96cb5008ec3253703ac256ae_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975664729" title="wasoen">wasoen</a></td><td>76561197975664729</td><td><a href="https://steamcommunity.com/id/wasoen/" target="_blank">Steam Profil</a></td><td>2327</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2327</td></tr>
 </tbody>
 </table>

@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/550040">550040</a>
+# <a href="https://store.steampowered.com/app/550040">550040</a>
 
-**App ID:** 550040
+**App ID:** <a href="https://steamdb.info/app/550040">550040</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank"><img src="https://avatars.steamstatic.com/4a68a099395221c9c2ca3c887d9dea93530b0284_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197978228453">Omikron</a></td><td>76561197978228453</td><td><a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank">Steam Profil</a></td><td>23</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank" title="Omikron"><img src="https://avatars.steamstatic.com/4a68a099395221c9c2ca3c887d9dea93530b0284_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197978228453" title="Omikron">Omikron</a></td><td>76561197978228453</td><td><a href="https://steamcommunity.com/profiles/76561197978228453/" target="_blank">Steam Profil</a></td><td>23</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

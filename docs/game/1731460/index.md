@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/1731460"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1731460/594a053617f0bab59b4ee1e3eee546e307608374.jpg" alt="LEGO® Brawls" style="width:32px;height:32px;border-radius:4px;" /> LEGO® Brawls</a>
+#  <a href="https://store.steampowered.com/app/1731460"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1731460/594a053617f0bab59b4ee1e3eee546e307608374.jpg" alt="LEGO® Brawls" style="width:32px;height:32px;border-radius:4px;" /> LEGO® Brawls</a>
 
-**App ID:** 1731460
+**App ID:** <a href="https://steamdb.info/app/1731460">1731460</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank"><img src="https://avatars.steamstatic.com/7815f1938354e9b2a63e079fd40874c826340230_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197970585783">Jim doesn't feel like dancing.</a></td><td>76561197970585783</td><td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Steam Profil</a></td><td>22</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank" title="Jim doesn't feel like dancing."><img src="https://avatars.steamstatic.com/7815f1938354e9b2a63e079fd40874c826340230_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197970585783" title="Jim doesn't feel like dancing.">Jim doesn't feel like dancing.</a></td><td>76561197970585783</td><td><a href="https://steamcommunity.com/profiles/76561197970585783/" target="_blank">Steam Profil</a></td><td>22</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

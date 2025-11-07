@@ -777,8 +777,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/41070">41070</a></td>
+<td><a href="/game/41070"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg" alt="Serious Sam 3: BFE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/41070">Serious Sam 3: BFE</a></td>
 <td>793</td>
 <td></td>
 <td></td>
@@ -1263,8 +1263,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
 <td>105</td>
 <td></td>
 <td></td>
@@ -1290,8 +1290,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
 <td>969</td>
 <td></td>
 <td></td>
@@ -2361,8 +2361,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>131</td>
 <td></td>
 <td></td>
@@ -2540,7 +2540,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>12</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/537340">537340</a></td>
 <td>447</td>
@@ -2766,8 +2766,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/668580">668580</a></td>
+<td><a href="/game/668580"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/668580/2a9828aaf232ea5c4b2575212786c62166306390.jpg" alt="Atomic Heart" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/668580">Atomic Heart</a></td>
 <td>2896</td>
 <td></td>
 <td></td>
@@ -2901,8 +2901,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>2776</td>
 <td></td>
 <td></td>
@@ -3054,8 +3054,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/979690">979690</a></td>
+<td><a href="/game/979690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/979690/ced822d46392fcb97daaeb303523b7ff5defecd7.jpg" alt="The Ascent" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/979690">The Ascent</a></td>
 <td>354</td>
 <td></td>
 <td></td>
@@ -3407,13 +3407,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1449320"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1449320/eaff963af20508668d04b7943c8a1b0ad4e80e1c.jpg" alt="Alfred Hitchcock - Vertigo" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1449320">Alfred Hitchcock - Vertigo</a></td>
-<td>11</td>
+<td>623</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>611</td><tr>
 <td></td>
 <td><a href="/game/1449560">1449560</a></td>
 <td>0</td>
@@ -3551,13 +3551,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1941540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1941540/4afa63381aebb28b832279ac0679d258b86e9cec.jpg" alt="Mafia: The Old Country" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1941540">Mafia: The Old Country</a></td>
-<td>1413</td>
+<td>1499</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>648</td><tr>
+<td>291</td><tr>
 <td></td>
 <td><a href="/game/2058180">2058180</a></td>
 <td>4815</td>
@@ -3623,22 +3623,22 @@ hide:
 <td></td><tr>
 <td><a href="/game/2677660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2677660/1c7d38c42bcc9ea095c4ef7be469e4f6c5d3b3b5.jpg" alt="Indiana Jones and the Great Circle" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2677660">Indiana Jones and the Great Circle</a></td>
-<td>43</td>
+<td>78</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>34</td><tr>
 <td><a href="/game/2909400"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2909400/3dacad0a047962a94501d9d028c095993c48ce8b.jpg" alt="FINAL FANTASY VII REBIRTH" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2909400">FINAL FANTASY VII REBIRTH</a></td>
-<td>4153</td>
+<td>4159</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>6</td><tr>
 <td></td>
 <td><a href="/game/2933080">2933080</a></td>
 <td>331</td>
@@ -3656,7 +3656,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>220</td><tr>
+<td></td><tr>
 <td><a href="/game/3017860"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3017860/f0d79db78568f80f3532151fed5d9633191d0ebe.jpg" alt="DOOM: The Dark Ages" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3017860">DOOM: The Dark Ages</a></td>
 <td>48</td>

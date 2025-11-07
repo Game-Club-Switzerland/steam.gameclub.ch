@@ -669,8 +669,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2399830">2399830</a></td>
+<td><a href="/game/2399830"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2399830/655cc2012105979c2b8e4821d568351c86b22be7.jpg" alt="ARK: Survival Ascended" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2399830">ARK: Survival Ascended</a></td>
 <td>859</td>
 <td></td>
 <td></td>

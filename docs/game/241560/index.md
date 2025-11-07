@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/241560">241560</a>
+# <a href="https://store.steampowered.com/app/241560">241560</a>
 
-**App ID:** 241560
+**App ID:** <a href="https://steamdb.info/app/241560">241560</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>3080</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank" title="[CH] wOOOOx"><img src="https://avatars.steamstatic.com/63bfb68b2f8447915569c148441f4430019be790_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198008460974" title="[CH] wOOOOx">[CH] wOOOOx</a></td><td>76561198008460974</td><td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank"><img src="https://avatars.steamstatic.com/63bfb68b2f8447915569c148441f4430019be790_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198008460974">[CH] wOOOOx</a></td><td>76561198008460974</td><td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank" title="Kolleg"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545" title="Kolleg">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>3080</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

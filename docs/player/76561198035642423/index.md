@@ -902,7 +902,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>4</td><tr>
+<td>2</td><tr>
 <td></td>
 <td><a href="/game/464920">464920</a></td>
 <td>8041</td>
@@ -1164,8 +1164,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1066780">1066780</a></td>
+<td><a href="/game/1066780"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1066780/734280d4e8071353b46b7d033a2a6010b2a26e11.jpg" alt="Transport Fever 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1066780">Transport Fever 2</a></td>
 <td>10125</td>
 <td></td>
 <td></td>
@@ -1245,8 +1245,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1237970">1237970</a></td>
+<td><a href="/game/1237970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg" alt="Titanfall® 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1237970">Titanfall® 2</a></td>
 <td>1933</td>
 <td></td>
 <td></td>
@@ -1382,13 +1382,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1716740"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1716740/b4d5828937b2d29b875405dce97bbae0a5d01bbe.jpg" alt="Starfield" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1716740">Starfield</a></td>
-<td>13991</td>
+<td>15776</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1058</td><tr>
+<td>2842</td><tr>
 <td><a href="/game/2001120"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2001120/a01dc6ea47db8c74964d581fe9f1f8039e0e4f33.jpg" alt="Split Fiction" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2001120">Split Fiction</a></td>
 <td>134</td>
@@ -1436,11 +1436,11 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1620</td>
+<td>1626</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1183</td></tbody>
+<td>366</td></tbody>
 </table>

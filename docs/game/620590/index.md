@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/620590"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/620590/356eb85a96475126c0f31816bbef73972838642f.jpg" alt="Ancestors Legacy" style="width:32px;height:32px;border-radius:4px;" /> Ancestors Legacy</a>
+#  <a href="https://store.steampowered.com/app/620590"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/620590/356eb85a96475126c0f31816bbef73972838642f.jpg" alt="Ancestors Legacy" style="width:32px;height:32px;border-radius:4px;" /> Ancestors Legacy</a>
 
-**App ID:** 620590
+**App ID:** <a href="https://steamdb.info/app/620590">620590</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>2706</td><td>675</td><td>0</td><td>0</td><td>0</td><td>1653640916</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank" title="3W | D3lt@.ch"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969" title="3W | D3lt@.ch">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>2706</td><td>675</td><td>0</td><td>0</td><td>0</td><td>1653640916</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank"><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197976381532">LФгd_Кдçкё</a></td><td>76561197976381532</td><td><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank" title="LФгd_Кдçкё"><img src="https://avatars.steamstatic.com/c1032dc6a70680728c466c2b1b196558c5982713_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197976381532" title="LФгd_Кдçкё">LФгd_Кдçкё</a></td><td>76561197976381532</td><td><a href="https://steamcommunity.com/id/D4nY_CH/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

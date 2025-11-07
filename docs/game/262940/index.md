@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/262940">262940</a>
+# <a href="https://store.steampowered.com/app/262940">262940</a>
 
-**App ID:** 262940
+**App ID:** <a href="https://steamdb.info/app/262940">262940</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>56</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank" title="SEL"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733" title="SEL">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>56</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

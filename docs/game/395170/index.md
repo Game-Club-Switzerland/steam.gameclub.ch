@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/395170">395170</a>
+# <a href="https://store.steampowered.com/app/395170">395170</a>
 
-**App ID:** 395170
+**App ID:** <a href="https://steamdb.info/app/395170">395170</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198018530273/" target="_blank"><img src="https://avatars.steamstatic.com/321f3e02c465b19dbdf228bc79524eb48a7b8eec_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198018530273">3W | swiss</a></td><td>76561198018530273</td><td><a href="https://steamcommunity.com/profiles/76561198018530273/" target="_blank">Steam Profil</a></td><td>339</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198018530273/" target="_blank" title="3W | swiss"><img src="https://avatars.steamstatic.com/321f3e02c465b19dbdf228bc79524eb48a7b8eec_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198018530273" title="3W | swiss">3W | swiss</a></td><td>76561198018530273</td><td><a href="https://steamcommunity.com/profiles/76561198018530273/" target="_blank">Steam Profil</a></td><td>339</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

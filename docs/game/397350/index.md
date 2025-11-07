@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/397350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/397350/c2485344955bc697aae3816405a1707e0d3e0cb8.jpg" alt="Lords of the Realm II" style="width:32px;height:32px;border-radius:4px;" /> Lords of the Realm II</a>
+#  <a href="https://store.steampowered.com/app/397350"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/397350/c2485344955bc697aae3816405a1707e0d3e0cb8.jpg" alt="Lords of the Realm II" style="width:32px;height:32px;border-radius:4px;" /> Lords of the Realm II</a>
 
-**App ID:** 397350
+**App ID:** <a href="https://steamdb.info/app/397350">397350</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>882</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td></tr>
+<td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank" title="SEL"><img src="https://avatars.steamstatic.com/6194fad493f4a82b2a3bc107c4e6c55299290c01_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197963370733" title="SEL">SEL</a></td><td>76561197963370733</td><td><a href="https://steamcommunity.com/id/BGCSEL/" target="_blank">Steam Profil</a></td><td>882</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

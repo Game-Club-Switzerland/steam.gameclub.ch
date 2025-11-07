@@ -3,13 +3,13 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/3026450"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3026450/2e5e5fe9bd3fc1860909e6452a3dbac4cb58feac.jpg" alt="Deadly Days: Roadtrip" style="width:32px;height:32px;border-radius:4px;" /> Deadly Days: Roadtrip</a>
+#  <a href="https://store.steampowered.com/app/3026450"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3026450/2e5e5fe9bd3fc1860909e6452a3dbac4cb58feac.jpg" alt="Deadly Days: Roadtrip" style="width:32px;height:32px;border-radius:4px;" /> Deadly Days: Roadtrip</a>
 
-**App ID:** 3026450
+**App ID:** <a href="https://steamdb.info/app/3026450">3026450</a>
 
 ## Playtime
 
-**Forever:** 1432
+**Forever:** 1726
 
 **Windows:** 0
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>527</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>443</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank" title="dortLii"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198046884406" title="dortLii">dortLii</a></td><td>76561198046884406</td><td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">Steam Profil</a></td><td>905</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank"><img src="https://avatars.steamstatic.com/590ad64cb45408ba7fbcff9c04381c55886614e0_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198046884406">dortLii</a></td><td>76561198046884406</td><td><a href="https://steamcommunity.com/profiles/76561198046884406/" target="_blank">Steam Profil</a></td><td>905</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>821</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>620</td></tr>
 </tbody>
 </table>

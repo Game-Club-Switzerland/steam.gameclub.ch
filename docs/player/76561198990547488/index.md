@@ -50,13 +50,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>90572</td>
+<td>93203</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>5135</td><tr>
+<td>3834</td><tr>
 <td></td>
 <td><a href="/game/3590">3590</a></td>
 <td>5</td>
@@ -245,7 +245,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>58</td><tr>
+<td>54</td><tr>
 <td><a href="/game/647960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/647960/d354109ad7689cc6d0bdeb492ea0af558b1ef71c.jpg" alt="Rusted Warfare - RTS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/647960">Rusted Warfare - RTS</a></td>
 <td>123627</td>
@@ -254,7 +254,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>2</td><tr>
+<td></td><tr>
 <td><a href="/game/674940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/674940/28bc7ba8952d488e01e7136126cbbc3b42ee443a.jpg" alt="Stick Fight: The Game" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/674940">Stick Fight: The Game</a></td>
 <td>287</td>
@@ -353,7 +353,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>5</td><tr>
+<td></td><tr>
 <td><a href="/game/3164500"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3164500/3d9f9ed56cb6e1ba995883207290c39674e9c411.jpg" alt="Schedule I" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3164500">Schedule I</a></td>
 <td>4826</td>

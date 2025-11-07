@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/908520">908520</a>
+# <a href="https://store.steampowered.com/app/908520">908520</a>
 
-**App ID:** 908520
+**App ID:** <a href="https://steamdb.info/app/908520">908520</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989327467">ROOB1984</a></td><td>76561197989327467</td><td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank">Steam Profil</a></td><td>25</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank" title="ROOB1984"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989327467" title="ROOB1984">ROOB1984</a></td><td>76561197989327467</td><td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank">Steam Profil</a></td><td>25</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

@@ -390,8 +390,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/41070">41070</a></td>
+<td><a href="/game/41070"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg" alt="Serious Sam 3: BFE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/41070">Serious Sam 3: BFE</a></td>
 <td>334</td>
 <td></td>
 <td></td>
@@ -723,8 +723,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
 <td>254</td>
 <td></td>
 <td></td>
@@ -1407,8 +1407,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1066780">1066780</a></td>
+<td><a href="/game/1066780"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1066780/734280d4e8071353b46b7d033a2a6010b2a26e11.jpg" alt="Transport Fever 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1066780">Transport Fever 2</a></td>
 <td>15457</td>
 <td></td>
 <td></td>
@@ -1445,13 +1445,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1149460"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1149460/3600ab7fb8dbc0898116ea1c0365de4f6d285d5a.jpg" alt="Icarus" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1149460">Icarus</a></td>
-<td>8589</td>
+<td>9596</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2164</td><tr>
+<td>1827</td><tr>
 <td><a href="/game/1222670"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1222670/ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98.jpg" alt="The Sims™ 4" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1222670">The Sims™ 4</a></td>
 <td>181</td>
@@ -1560,15 +1560,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2062430">2062430</a></td>
-<td>412</td>
-<td></td>
-<td></td>
+<td><a href="/game/2062430"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2062430/7651f4667f6084ef598a2da930d11e26d0aa5f82.jpg" alt="BALL x PIT" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2062430">BALL x PIT</a></td>
+<td>804</td>
 <td></td>
 <td></td>
 <td></td>
-<td>412</td><tr>
+<td></td>
+<td></td>
+<td>804</td><tr>
 <td></td>
 <td><a href="/game/2488370">2488370</a></td>
 <td>850</td>
@@ -1589,13 +1589,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1866</td>
+<td>1974</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>826</td><tr>
+<td>288</td><tr>
 <td></td>
 <td><a href="/game/3240220">3240220</a></td>
 <td>0</td>

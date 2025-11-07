@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/375900">375900</a>
+# <a href="https://store.steampowered.com/app/375900">375900</a>
 
-**App ID:** 375900
+**App ID:** <a href="https://steamdb.info/app/375900">375900</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank"><img src="https://avatars.steamstatic.com/63bfb68b2f8447915569c148441f4430019be790_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198008460974">[CH] wOOOOx</a></td><td>76561198008460974</td><td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank">Steam Profil</a></td><td>89</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank" title="[CH] wOOOOx"><img src="https://avatars.steamstatic.com/63bfb68b2f8447915569c148441f4430019be790_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198008460974" title="[CH] wOOOOx">[CH] wOOOOx</a></td><td>76561198008460974</td><td><a href="https://steamcommunity.com/id/argentavis-1/" target="_blank">Steam Profil</a></td><td>89</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/1898300"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1898300/153ab3ef3b1db7248ecf79b586037b57cb3db42d.jpg" alt="ASKA" style="width:32px;height:32px;border-radius:4px;" /> ASKA</a>
+#  <a href="https://store.steampowered.com/app/1898300"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1898300/153ab3ef3b1db7248ecf79b586037b57cb3db42d.jpg" alt="ASKA" style="width:32px;height:32px;border-radius:4px;" /> ASKA</a>
 
-**App ID:** 1898300
+**App ID:** <a href="https://steamdb.info/app/1898300">1898300</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>2754</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td></tr>
+<td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank" title="TTV-P0LYTv"><img src="https://avatars.steamstatic.com/95d8f1c00bbdc43e289e494f3dad027a6f930ac4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198042465028" title="TTV-P0LYTv">TTV-P0LYTv</a></td><td>76561198042465028</td><td><a href="https://steamcommunity.com/id/SSEhArDcOrE/" target="_blank">Steam Profil</a></td><td>2754</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

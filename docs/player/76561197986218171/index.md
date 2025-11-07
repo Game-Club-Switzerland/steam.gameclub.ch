@@ -1361,7 +1361,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>370</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/391490">391490</a></td>
 <td>493</td>
@@ -1875,8 +1875,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>98</td>
 <td></td>
 <td></td>
@@ -2072,7 +2072,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>309</td><tr>
+<td>306</td><tr>
 <td></td>
 <td><a href="/game/1184050">1184050</a></td>
 <td>512</td>
@@ -2162,7 +2162,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>1</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1429850">1429850</a></td>
 <td>759</td>
@@ -2363,13 +2363,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>5891</td>
+<td>6689</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>3168</td><tr>
+<td>1451</td><tr>
 <td></td>
 <td><a href="/game/2825530">2825530</a></td>
 <td>213</td>

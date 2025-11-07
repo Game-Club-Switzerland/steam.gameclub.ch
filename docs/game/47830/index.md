@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/47830">47830</a>
+# <a href="https://store.steampowered.com/app/47830">47830</a>
 
-**App ID:** 47830
+**App ID:** <a href="https://steamdb.info/app/47830">47830</a>
 
 ## Playtime
 
@@ -40,14 +40,14 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/Slashshot93/" target="_blank"><img src="https://avatars.steamstatic.com/dcd2136652dc32498f221d8262950cef8c08e38a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198005140269">Slashshot</a></td><td>76561198005140269</td><td><a href="https://steamcommunity.com/id/Slashshot93/" target="_blank">Steam Profil</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/Slashshot93/" target="_blank" title="Slashshot"><img src="https://avatars.steamstatic.com/dcd2136652dc32498f221d8262950cef8c08e38a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198005140269" title="Slashshot">Slashshot</a></td><td>76561198005140269</td><td><a href="https://steamcommunity.com/id/Slashshot93/" target="_blank">Steam Profil</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank" title="Pallas"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053" title="Pallas">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank"><img src="https://avatars.steamstatic.com/8154b7b0191af1a6fa3ee479f1742739e6b9a894_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989675888">dANTE</a></td><td>76561197989675888</td><td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank">Steam Profil</a></td><td>547</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank" title="Calmo.CH"><img src="https://avatars.steamstatic.com/d5f87817aa0e703dfdb751872ff2545763312145_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197977007065" title="Calmo.CH">Calmo.CH</a></td><td>76561197977007065</td><td><a href="https://steamcommunity.com/profiles/76561197977007065/" target="_blank">Steam Profil</a></td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank"><img src="https://avatars.steamstatic.com/4630dfff0852bfa9ba5d90058491e1b218af8dd6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198124796053">Pallas</a></td><td>76561198124796053</td><td><a href="https://steamcommunity.com/profiles/76561198124796053/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank" title="dANTE"><img src="https://avatars.steamstatic.com/8154b7b0191af1a6fa3ee479f1742739e6b9a894_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989675888" title="dANTE">dANTE</a></td><td>76561197989675888</td><td><a href="https://steamcommunity.com/profiles/76561197989675888/" target="_blank">Steam Profil</a></td><td>547</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/id/ALT_F4_Gamer/" target="_blank"><img src="https://avatars.steamstatic.com/6ffd461a8b28bac7bb43f4eb20f209809f654ea8_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198057486067">Alt F4 Gamer</a></td><td>76561198057486067</td><td><a href="https://steamcommunity.com/id/ALT_F4_Gamer/" target="_blank">Steam Profil</a></td><td>24</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/ALT_F4_Gamer/" target="_blank" title="Alt F4 Gamer"><img src="https://avatars.steamstatic.com/6ffd461a8b28bac7bb43f4eb20f209809f654ea8_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198057486067" title="Alt F4 Gamer">Alt F4 Gamer</a></td><td>76561198057486067</td><td><a href="https://steamcommunity.com/id/ALT_F4_Gamer/" target="_blank">Steam Profil</a></td><td>24</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

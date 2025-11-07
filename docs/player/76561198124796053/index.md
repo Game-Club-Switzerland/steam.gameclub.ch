@@ -2037,8 +2037,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
 <td>386</td>
 <td></td>
 <td></td>
@@ -3470,13 +3470,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/304390"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/304390/24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6.jpg" alt="For Honor" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/304390">For Honor</a></td>
-<td>38627</td>
+<td>38940</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1287</td><tr>
+<td>1396</td><tr>
 <td></td>
 <td><a href="/game/304430">304430</a></td>
 <td>0</td>
@@ -4404,8 +4404,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>90</td>
 <td></td>
 <td></td>
@@ -5420,7 +5420,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>11</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1222680">1222680</a></td>
 <td>0</td>

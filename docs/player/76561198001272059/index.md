@@ -651,8 +651,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>1100</td>
 <td></td>
 <td></td>
@@ -939,8 +939,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>205</td>
 <td></td>
 <td></td>
@@ -1209,8 +1209,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2399830">2399830</a></td>
+<td><a href="/game/2399830"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2399830/655cc2012105979c2b8e4821d568351c86b22be7.jpg" alt="ARK: Survival Ascended" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2399830">ARK: Survival Ascended</a></td>
 <td>1587</td>
 <td></td>
 <td></td>
@@ -1253,7 +1253,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>1041</td><tr>
+<td>188</td><tr>
 <td></td>
 <td><a href="/game/2933130">2933130</a></td>
 <td>1009</td>
@@ -1281,8 +1281,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3241660">3241660</a></td>
+<td><a href="/game/3241660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg" alt="R.E.P.O." style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3241660">R.E.P.O.</a></td>
 <td>3825</td>
 <td></td>
 <td></td>

@@ -608,13 +608,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/381210"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/381210/aa152097a700fd6f4707397ce41794ea30874790.jpg" alt="Dead by Daylight" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/381210">Dead by Daylight</a></td>
-<td>1083</td>
+<td>1544</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>461</td><tr>
 <td><a href="/game/400750"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/400750/31294c5a56bb88cc09000e8bc88c5473fd251107.jpg" alt="Call to Arms - Gates of Hell: Ostfront" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/400750">Call to Arms - Gates of Hell: Ostfront</a></td>
 <td>1295</td>
@@ -633,8 +633,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>331</td>
 <td></td>
 <td></td>
@@ -698,13 +698,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/739630"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/739630/125673b382059f666ec81477173380a76e1df0be.jpg" alt="Phasmophobia" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/739630">Phasmophobia</a></td>
-<td>9659</td>
+<td>9785</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>125</td><tr>
 <td></td>
 <td><a href="/game/784150">784150</a></td>
 <td>394</td>
@@ -731,7 +731,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>215</td><tr>
+<td></td><tr>
 <td><a href="/game/1091500"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1091500/42b9b33fa0f0d997beb299c6157592a8fe7d8f68.jpg" alt="Cyberpunk 2077" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1091500">Cyberpunk 2077</a></td>
 <td>6574</td>
@@ -749,7 +749,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>435</td><tr>
+<td>194</td><tr>
 <td><a href="/game/1144200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1144200/9312af21d070f126acbd2237c461b0d06d9b3e20.jpg" alt="Ready or Not" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1144200">Ready or Not</a></td>
 <td>2281</td>
@@ -767,7 +767,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>709</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1295920">1295920</a></td>
 <td>775</td>
@@ -806,13 +806,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1366800"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1366800/16138bef561b61372e02f3006da2c76a21cdbbd7.jpg" alt="Crosshair X" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1366800">Crosshair X</a></td>
-<td>150470</td>
+<td>153931</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>6609</td><tr>
+<td>6080</td><tr>
 <td></td>
 <td><a href="/game/1509960">1509960</a></td>
 <td>151</td>
@@ -822,15 +822,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1583230">1583230</a></td>
-<td>635</td>
-<td></td>
-<td></td>
+<td><a href="/game/1583230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1583230/edf77785498d06effc5d8c4db72c0d364978b66f.jpg" alt="High On Life" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1583230">High On Life</a></td>
+<td>1001</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>366</td><tr>
 <td><a href="/game/1623730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1623730/f5523077a8f4c923c2e8d8c17794b3319035fa73.jpg" alt="Palworld" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1623730">Palworld</a></td>
 <td>9745</td>
@@ -840,6 +840,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td><a href="/game/1669480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1669480/1b3482217912250caa90f73e284875c042c9f9fa.jpg" alt="Firefighting Simulator: Ignite" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1669480">Firefighting Simulator: Ignite</a></td>
+<td>187</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>187</td><tr>
 <td></td>
 <td><a href="/game/1693980">1693980</a></td>
 <td>794</td>
@@ -875,7 +884,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>8</td><tr>
+<td></td><tr>
 <td><a href="/game/1903340"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1903340/d48fb3ed033a08bad9bf0a2e1ceb145e58ffe0aa.jpg" alt="Clair Obscur: Expedition 33" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1903340">Clair Obscur: Expedition 33</a></td>
 <td>974</td>
@@ -984,15 +993,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2592160">2592160</a></td>
-<td>109</td>
-<td></td>
-<td></td>
+<td><a href="/game/2592160"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2592160/1fa72a0254bb96aab1642604720d74c376f97756.jpg" alt="Dispatch" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2592160">Dispatch</a></td>
+<td>532</td>
 <td></td>
 <td></td>
 <td></td>
-<td>109</td><tr>
+<td></td>
+<td></td>
+<td>532</td><tr>
 <td></td>
 <td><a href="/game/2725200">2725200</a></td>
 <td>0</td>
@@ -1004,22 +1013,22 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1769</td>
+<td>2252</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1769</td><tr>
-<td></td>
-<td><a href="/game/2881650">2881650</a></td>
-<td>915</td>
-<td></td>
-<td></td>
+<td>784</td><tr>
+<td><a href="/game/2881650"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2881650/513cf7f2e22c94f4372369e29bffccc4c239e9c0.jpg" alt="Content Warning" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2881650">Content Warning</a></td>
+<td>1102</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>186</td><tr>
 <td></td>
 <td><a href="/game/2916430">2916430</a></td>
 <td>430</td>
@@ -1065,8 +1074,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3241660">3241660</a></td>
+<td><a href="/game/3241660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg" alt="R.E.P.O." style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3241660">R.E.P.O.</a></td>
 <td>2415</td>
 <td></td>
 <td></td>

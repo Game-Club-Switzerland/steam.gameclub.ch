@@ -29,7 +29,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>5</td><tr>
+<td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
 <td>33241</td>
@@ -38,7 +38,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>133</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1500">1500</a></td>
 <td>0</td>
@@ -119,7 +119,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>5</td><tr>
+<td></td><tr>
 <td><a href="/game/221380"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221380/109c74df17f9b67ea47d8f01e3d1ec25278b9f73.jpg" alt="Age of Empires II (2013)" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/221380">Age of Empires II (2013)</a></td>
 <td>102</td>
@@ -318,8 +318,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>283</td>
 <td></td>
 <td></td>
@@ -390,8 +390,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1237970">1237970</a></td>
+<td><a href="/game/1237970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg" alt="Titanfall® 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1237970">Titanfall® 2</a></td>
 <td>70</td>
 <td></td>
 <td></td>
@@ -434,7 +434,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>12</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1603640">1603640</a></td>
 <td>431</td>
@@ -455,13 +455,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1763250"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1763250/7826d78ceea3256381284e688368539b83b91e24.jpg" alt="SWORN" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1763250">SWORN</a></td>
-<td>3285</td>
+<td>3350</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>243</td><tr>
+<td>112</td><tr>
 <td></td>
 <td><a href="/game/1831830">1831830</a></td>
 <td>159</td>
@@ -507,6 +507,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td><a href="/game/2879840"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2879840/5a074cdd5ce4819bf6b201aeabd704edb13e4bb6.jpg" alt="Escape Simulator 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2879840">Escape Simulator 2</a></td>
+<td>262</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>262</td><tr>
 <td><a href="/game/2904000"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2904000/6df73644737e8e4c401c86dff97a1b699fb410d5.jpg" alt="The Spell Brigade" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2904000">The Spell Brigade</a></td>
 <td>356</td>

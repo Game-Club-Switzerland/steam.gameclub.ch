@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/903950">903950</a>
+# <a href="https://store.steampowered.com/app/903950">903950</a>
 
-**App ID:** 903950
+**App ID:** <a href="https://steamdb.info/app/903950">903950</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank"><img src="https://avatars.steamstatic.com/faa3fc7efb1b5a6fd17e8dbd1d883d5762ab0ada_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198990547488">tamsin</a></td><td>76561198990547488</td><td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank">Steam Profil</a></td><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank" title="tamsin"><img src="https://avatars.steamstatic.com/faa3fc7efb1b5a6fd17e8dbd1d883d5762ab0ada_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198990547488" title="tamsin">tamsin</a></td><td>76561198990547488</td><td><a href="https://steamcommunity.com/profiles/76561198990547488/" target="_blank">Steam Profil</a></td><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

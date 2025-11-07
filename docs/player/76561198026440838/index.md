@@ -255,8 +255,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
 <td>55</td>
 <td></td>
 <td></td>
@@ -417,8 +417,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>166</td>
 <td></td>
 <td></td>
@@ -437,13 +437,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/578080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/578080/609f27278aa70697c13bf99f32c5a0248c381f9d.jpg" alt="PUBG: BATTLEGROUNDS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/578080">PUBG: BATTLEGROUNDS</a></td>
-<td>96248</td>
+<td>96855</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2145</td><tr>
+<td>1369</td><tr>
 <td></td>
 <td><a href="/game/727020">727020</a></td>
 <td>0</td>

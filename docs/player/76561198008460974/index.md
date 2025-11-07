@@ -561,8 +561,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/41070">41070</a></td>
+<td><a href="/game/41070"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg" alt="Serious Sam 3: BFE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/41070">Serious Sam 3: BFE</a></td>
 <td>0</td>
 <td></td>
 <td></td>

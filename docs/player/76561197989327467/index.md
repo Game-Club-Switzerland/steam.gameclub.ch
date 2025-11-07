@@ -299,7 +299,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>231</td><tr>
+<td></td><tr>
 <td><a href="/game/290080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/290080/e78ba7a1d2c9397853fdfeacf4aa1a781e58824e.jpg" alt="Life is Feudal: Your Own" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/290080">Life is Feudal: Your Own</a></td>
 <td>42720</td>
@@ -741,15 +741,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1874880">1874880</a></td>
-<td>0</td>
-<td></td>
-<td></td>
+<td><a href="/game/1874880"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1874880/0de311f3ef216db08badc6a9ef7c5fd8712ac334.jpg" alt="Arma Reforger" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1874880">Arma Reforger</a></td>
+<td>38</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>38</td><tr>
 <td></td>
 <td><a href="/game/1890860">1890860</a></td>
 <td>0</td>
@@ -833,13 +833,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1316</td>
+<td>1648</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1316</td><tr>
+<td>661</td><tr>
 <td></td>
 <td><a href="/game/2820130">2820130</a></td>
 <td>166</td>

@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/16900">16900</a>
+# <a href="https://store.steampowered.com/app/16900">16900</a>
 
-**App ID:** 16900
+**App ID:** <a href="https://steamdb.info/app/16900">16900</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank"><img src="https://avatars.steamstatic.com/8dfe278c7493b6984540e57ecd57b791df13841e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969110834">predch</a></td><td>76561197969110834</td><td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank">Steam Profil</a></td><td>54</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank" title="predch"><img src="https://avatars.steamstatic.com/8dfe278c7493b6984540e57ecd57b791df13841e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969110834" title="predch">predch</a></td><td>76561197969110834</td><td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank">Steam Profil</a></td><td>54</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

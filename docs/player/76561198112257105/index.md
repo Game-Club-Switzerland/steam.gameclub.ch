@@ -203,13 +203,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/400750"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/400750/31294c5a56bb88cc09000e8bc88c5473fd251107.jpg" alt="Call to Arms - Gates of Hell: Ostfront" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/400750">Call to Arms - Gates of Hell: Ostfront</a></td>
-<td>10919</td>
+<td>11792</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2631</td><tr>
+<td>1161</td><tr>
 <td></td>
 <td><a href="/game/424840">424840</a></td>
 <td>1</td>
@@ -308,7 +308,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>81</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1035510">1035510</a></td>
 <td>0</td>
@@ -399,8 +399,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3241660">3241660</a></td>
+<td><a href="/game/3241660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg" alt="R.E.P.O." style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3241660">R.E.P.O.</a></td>
 <td>1442</td>
 <td></td>
 <td></td>

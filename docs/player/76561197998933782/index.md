@@ -1326,8 +1326,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>515</td>
 <td></td>
 <td></td>
@@ -1434,8 +1434,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1237970">1237970</a></td>
+<td><a href="/game/1237970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg" alt="Titanfall® 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1237970">Titanfall® 2</a></td>
 <td>383</td>
 <td></td>
 <td></td>

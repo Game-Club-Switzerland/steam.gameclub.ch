@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/780290">780290</a>
+# <a href="https://store.steampowered.com/app/780290">780290</a>
 
-**App ID:** 780290
+**App ID:** <a href="https://steamdb.info/app/780290">780290</a>
 
 ## Playtime
 
@@ -19,8 +19,8 @@ hide:
 
 **Deck:** 0
 
-**Anzahl Players:** 2
-## 2 Player
+**Anzahl Players:** 1
+## 1 Player
 
 <table id="charts-table" class="display" style="width:100%">
             <thead>
@@ -40,8 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank"><img src="https://avatars.steamstatic.com/b1a566f4c88a09457b86b1249801cf508bca625b_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033175487">3W | Myrmidon</a></td><td>76561198033175487</td><td><a href="https://steamcommunity.com/profiles/76561198033175487/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
-<tr>
-<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>139</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank" title="Kolleg"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545" title="Kolleg">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>139</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

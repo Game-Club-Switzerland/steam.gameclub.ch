@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/502520"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/502520/ccb1a390ce1da1a960e78f52f443df75ee50db39.jpg" alt="Ultimate General: Civil War" style="width:32px;height:32px;border-radius:4px;" /> Ultimate General: Civil War</a>
+#  <a href="https://store.steampowered.com/app/502520"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/502520/ccb1a390ce1da1a960e78f52f443df75ee50db39.jpg" alt="Ultimate General: Civil War" style="width:32px;height:32px;border-radius:4px;" /> Ultimate General: Civil War</a>
 
-**App ID:** 502520
+**App ID:** <a href="https://steamdb.info/app/502520">502520</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>1602</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1545066781</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank" title="3W | D3lt@.ch"><img src="https://avatars.steamstatic.com/363ea361fc7ff2a14a2a780a5e15e66cee03e434_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197966417969" title="3W | D3lt@.ch">3W | D3lt@.ch</a></td><td>76561197966417969</td><td><a href="https://steamcommunity.com/id/3wd3lta/" target="_blank">Steam Profil</a></td><td>1602</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1545066781</td><td></td></tr>
 </tbody>
 </table>

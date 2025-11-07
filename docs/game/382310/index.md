@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/382310">382310</a>
+# <a href="https://store.steampowered.com/app/382310">382310</a>
 
-**App ID:** 382310
+**App ID:** <a href="https://steamdb.info/app/382310">382310</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank"><img src="https://avatars.steamstatic.com/8dfe278c7493b6984540e57ecd57b791df13841e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969110834">predch</a></td><td>76561197969110834</td><td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank">Steam Profil</a></td><td>1213</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank" title="predch"><img src="https://avatars.steamstatic.com/8dfe278c7493b6984540e57ecd57b791df13841e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197969110834" title="predch">predch</a></td><td>76561197969110834</td><td><a href="https://steamcommunity.com/profiles/76561197969110834/" target="_blank">Steam Profil</a></td><td>1213</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>17112</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank" title="Kolleg"><img src="https://avatars.steamstatic.com/8f6916be3dcc60a0c3e9391276bce389a138b83a_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198033415545" title="Kolleg">Kolleg</a></td><td>76561198033415545</td><td><a href="https://steamcommunity.com/profiles/76561198033415545/" target="_blank">Steam Profil</a></td><td>17112</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

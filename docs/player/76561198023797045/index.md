@@ -453,15 +453,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
-<td>1752</td>
-<td></td>
-<td></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
+<td>2063</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>310</td><tr>
 <td></td>
 <td><a href="/game/207170">207170</a></td>
 <td>1913</td>
@@ -1289,7 +1289,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>79</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1252330">1252330</a></td>
 <td>1950</td>
@@ -1326,8 +1326,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1583230">1583230</a></td>
+<td><a href="/game/1583230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1583230/edf77785498d06effc5d8c4db72c0d364978b66f.jpg" alt="High On Life" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1583230">High On Life</a></td>
 <td>1219</td>
 <td></td>
 <td></td>

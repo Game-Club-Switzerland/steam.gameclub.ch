@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/730820">730820</a>
+# <a href="https://store.steampowered.com/app/730820">730820</a>
 
-**App ID:** 730820
+**App ID:** <a href="https://steamdb.info/app/730820">730820</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank"><img src="https://avatars.steamstatic.com/1080d0b6680c13d8ad37086de683791b549bbff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960353130">modano</a></td><td>76561197960353130</td><td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank" title="modano"><img src="https://avatars.steamstatic.com/1080d0b6680c13d8ad37086de683791b549bbff7_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960353130" title="modano">modano</a></td><td>76561197960353130</td><td><a href="https://steamcommunity.com/profiles/76561197960353130/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989327467">ROOB1984</a></td><td>76561197989327467</td><td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank">Steam Profil</a></td><td>159</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank" title="ROOB1984"><img src="https://avatars.steamstatic.com/f435dd79466196cdb7b9e6b507dcdfac7d39657e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197989327467" title="ROOB1984">ROOB1984</a></td><td>76561197989327467</td><td><a href="https://steamcommunity.com/profiles/76561197989327467/" target="_blank">Steam Profil</a></td><td>159</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

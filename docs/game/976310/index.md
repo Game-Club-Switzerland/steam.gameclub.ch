@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/976310">976310</a>
+# <a href="https://store.steampowered.com/app/976310">976310</a>
 
-**App ID:** 976310
+**App ID:** <a href="https://steamdb.info/app/976310">976310</a>
 
 ## Playtime
 
@@ -40,8 +40,8 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975592846">3W | Lizard</a></td><td>76561197975592846</td><td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank" title="3W | Lizard"><img src="https://avatars.steamstatic.com/1a20ba8b02900ad1b51bee0bd9313b851de05d39_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197975592846" title="3W | Lizard">3W | Lizard</a></td><td>76561197975592846</td><td><a href="https://steamcommunity.com/profiles/76561197975592846/" target="_blank">Steam Profil</a></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank"><img src="https://avatars.steamstatic.com/8de675938148c0df03b2db741e544543c0bf0c41_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198040885982">☠SENTINEL☠</a></td><td>76561198040885982</td><td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank">Steam Profil</a></td><td>46</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank" title="☠SENTINEL☠"><img src="https://avatars.steamstatic.com/8de675938148c0df03b2db741e544543c0bf0c41_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198040885982" title="☠SENTINEL☠">☠SENTINEL☠</a></td><td>76561198040885982</td><td><a href="https://steamcommunity.com/profiles/76561198040885982/" target="_blank">Steam Profil</a></td><td>46</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

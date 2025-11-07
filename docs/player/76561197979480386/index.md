@@ -302,13 +302,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/221100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221100/16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d.jpg" alt="DayZ" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/221100">DayZ</a></td>
-<td>968</td>
+<td>1374</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>968</td><tr>
+<td>991</td><tr>
 <td><a href="/game/221380"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221380/109c74df17f9b67ea47d8f01e3d1ec25278b9f73.jpg" alt="Age of Empires II (2013)" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/221380">Age of Empires II (2013)</a></td>
 <td>2852</td>
@@ -428,13 +428,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/275850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/275850/fccb20f309ac5ae05b3cb4576a8a3357edf86f2e.jpg" alt="No Man's Sky" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/275850">No Man's Sky</a></td>
-<td>331</td>
+<td>332</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>1</td><tr>
 <td><a href="/game/281990"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/281990/cb4a03deab1e34ed2a5cbbdf419c66bb6459625f.jpg" alt="Stellaris" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/281990">Stellaris</a></td>
 <td>19849</td>
@@ -590,13 +590,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/403190"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/403190/27b6fa6d15815d342618080fb2d9905ecb0fdb00.jpg" alt="Planetbase" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/403190">Planetbase</a></td>
-<td>7317</td>
+<td>7345</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1470</td><tr>
+<td>196</td><tr>
 <td></td>
 <td><a href="/game/414720">414720</a></td>
 <td>209</td>
@@ -821,7 +821,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>40</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/591370">591370</a></td>
 <td>2240</td>
@@ -975,15 +975,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
-<td>229</td>
-<td></td>
-<td></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
+<td>1438</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>1209</td><tr>
 <td><a href="/game/1018830"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1018830/fd9708e0d7a90c5f6f91ef6917af78a5e256a3e6.jpg" alt="Element TD 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1018830">Element TD 2</a></td>
 <td>2254</td>
@@ -1121,13 +1121,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1645820"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1645820/51a09232eed1243103f8d746b2f1b685322463f1.jpg" alt="SurrounDead" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1645820">SurrounDead</a></td>
-<td>860</td>
+<td>901</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>41</td><tr>
 <td></td>
 <td><a href="/game/1649080">1649080</a></td>
 <td>369</td>

@@ -219,8 +219,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
 <td>1150</td>
 <td></td>
 <td></td>
@@ -299,7 +299,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>57</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/268910">268910</a></td>
 <td>7</td>
@@ -416,7 +416,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>672</td><tr>
+<td>211</td><tr>
 <td></td>
 <td><a href="/game/403640">403640</a></td>
 <td>2084</td>
@@ -786,15 +786,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3241660">3241660</a></td>
-<td>461</td>
-<td></td>
-<td></td>
+<td><a href="/game/3241660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg" alt="R.E.P.O." style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3241660">R.E.P.O.</a></td>
+<td>578</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>116</td><tr>
 <td><a href="/game/3527290"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3527290/b3a992fd5991bd2f4c956d58e062b0ce2988d6cd.jpg" alt="PEAK" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3527290">PEAK</a></td>
 <td>1219</td>
@@ -803,5 +803,5 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>209</td></tbody>
+<td></td></tbody>
 </table>

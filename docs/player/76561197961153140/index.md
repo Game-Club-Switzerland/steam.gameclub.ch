@@ -176,13 +176,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>49865</td>
+<td>50346</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2221</td><tr>
+<td>1055</td><tr>
 <td></td>
 <td><a href="/game/7000">7000</a></td>
 <td>0</td>
@@ -356,13 +356,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/204880"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204880/31832cdd443b665a8ae599f76761411f3d939b98.jpg" alt="Sins of a Solar Empire: Rebellion" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/204880">Sins of a Solar Empire: Rebellion</a></td>
-<td>122</td>
+<td>224</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>102</td><tr>
 <td></td>
 <td><a href="/game/205590">205590</a></td>
 <td>1190</td>
@@ -803,7 +803,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>294</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/582660">582660</a></td>
 <td>0</td>
@@ -975,6 +975,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td><a href="/game/979690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/979690/ced822d46392fcb97daaeb303523b7ff5defecd7.jpg" alt="The Ascent" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/979690">The Ascent</a></td>
+<td>415</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>415</td><tr>
 <td><a href="/game/1016920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1016920/d52e7b3ffc58010b2792160e07ce6834f8c3d80b.jpg" alt="Unrailed!" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1016920">Unrailed!</a></td>
 <td>136</td>
@@ -1262,7 +1271,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>82</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/2149010">2149010</a></td>
 <td>0</td>
@@ -1308,8 +1317,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3241660">3241660</a></td>
+<td><a href="/game/3241660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg" alt="R.E.P.O." style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3241660">R.E.P.O.</a></td>
 <td>494</td>
 <td></td>
 <td></td>

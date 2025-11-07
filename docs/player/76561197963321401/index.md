@@ -1839,8 +1839,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1967,6 +1967,15 @@ hide:
 <td></td><tr>
 <td></td>
 <td><a href="/game/1647420">1647420</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1966720">1966720</a></td>
 <td>0</td>
 <td></td>
 <td></td>

@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/214420">214420</a>
+# <a href="https://store.steampowered.com/app/214420">214420</a>
 
-**App ID:** 214420
+**App ID:** <a href="https://steamdb.info/app/214420">214420</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198301048925/" target="_blank"><img src="https://avatars.steamstatic.com/f48e9b8d8417021a0558ee2fba57f700d81b0967_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198301048925">Ranix</a></td><td>76561198301048925</td><td><a href="https://steamcommunity.com/profiles/76561198301048925/" target="_blank">Steam Profil</a></td><td>1972</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198301048925/" target="_blank" title="Ranix"><img src="https://avatars.steamstatic.com/f48e9b8d8417021a0558ee2fba57f700d81b0967_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198301048925" title="Ranix">Ranix</a></td><td>76561198301048925</td><td><a href="https://steamcommunity.com/profiles/76561198301048925/" target="_blank">Steam Profil</a></td><td>1972</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

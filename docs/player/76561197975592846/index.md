@@ -543,8 +543,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -642,8 +642,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/588650">588650</a></td>
+<td><a href="/game/588650"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/588650/a431361e5dae5fd6ac2433064b62b2a37abc38f1.jpg" alt="Dead Cells" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/588650">Dead Cells</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -768,8 +768,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -777,8 +777,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>0</td>
 <td></td>
 <td></td>

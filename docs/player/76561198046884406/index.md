@@ -615,8 +615,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/41070">41070</a></td>
+<td><a href="/game/41070"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg" alt="Serious Sam 3: BFE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/41070">Serious Sam 3: BFE</a></td>
 <td>158</td>
 <td></td>
 <td></td>
@@ -2064,6 +2064,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td><a href="/game/588650"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/588650/a431361e5dae5fd6ac2433064b62b2a37abc38f1.jpg" alt="Dead Cells" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/588650">Dead Cells</a></td>
+<td>374</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>374</td><tr>
 <td><a href="/game/594650"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/594650/06c70772db40f714537f4d80c11859a68560a6b3.jpg" alt="Hunt: Showdown 1896" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/594650">Hunt: Showdown 1896</a></td>
 <td>133</td>
@@ -2172,8 +2181,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>306</td>
 <td></td>
 <td></td>
@@ -2237,13 +2246,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1154030"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1154030/6ee1578894b8cb810ce9146d7d45d586fa2e2f04.jpg" alt="Titan Quest II" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1154030">Titan Quest II</a></td>
-<td>138</td>
+<td>493</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>354</td><tr>
 <td></td>
 <td><a href="/game/1172380">1172380</a></td>
 <td>379</td>
@@ -2326,6 +2335,15 @@ hide:
 <td></td>
 <td></td><tr>
 <td></td>
+<td><a href="/game/1966900">1966900</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
 <td><a href="/game/2155180">2155180</a></td>
 <td>233</td>
 <td></td>
@@ -2361,6 +2379,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td><a href="/game/2321470"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2321470/21c0012fc6c4419bad40b03ce6db571d2390642b.jpg" alt="Deep Rock Galactic: Survivor" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2321470">Deep Rock Galactic: Survivor</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
 <td><a href="/game/2427700"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2427700/852629f282e0dfc3e12da56ed5692043665cf9d3.jpg" alt="Backpack Battles" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2427700">Backpack Battles</a></td>
 <td>358</td>
@@ -2388,15 +2415,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2784470">2784470</a></td>
-<td>668</td>
-<td></td>
-<td></td>
+<td><a href="/game/2784470"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2784470/d1d0c590e82d977b24e1070a9ec1aeea9e4cd9f4.jpg" alt="9 Kings" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2784470">9 Kings</a></td>
+<td>723</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>54</td><tr>
 <td></td>
 <td><a href="/game/3024040">3024040</a></td>
 <td>2761</td>
@@ -2435,11 +2462,11 @@ hide:
 <td></td><tr>
 <td><a href="/game/3405340"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3405340/8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8.jpg" alt="Megabonk" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3405340">Megabonk</a></td>
-<td>1872</td>
+<td>1998</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>593</td></tbody>
+<td>396</td></tbody>
 </table>

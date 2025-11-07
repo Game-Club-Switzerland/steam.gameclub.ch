@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/1566880">1566880</a>
+# <a href="https://store.steampowered.com/app/1566880">1566880</a>
 
-**App ID:** 1566880
+**App ID:** <a href="https://steamdb.info/app/1566880">1566880</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198035642423">Häsi</a></td><td>76561198035642423</td><td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank">Steam Profil</a></td><td>148</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank" title="Häsi"><img src="https://avatars.steamstatic.com/603a2a51978eabb89f03acdf961a704c90ed9bdf_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198035642423" title="Häsi">Häsi</a></td><td>76561198035642423</td><td><a href="https://steamcommunity.com/id/SgtHasi/" target="_blank">Steam Profil</a></td><td>148</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

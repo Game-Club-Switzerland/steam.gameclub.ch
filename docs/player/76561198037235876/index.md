@@ -1,0 +1,3363 @@
+---
+hide:
+  - navigation
+  - toc
+---
+# <a href="https://steamcommunity.com/profiles/76561198037235876/" target="_blank"><img src="https://avatars.steamstatic.com/ff66d7ecdb46a2149b8a34f896885c36a533e130_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a> Bai
+
+<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Playtime Forever</th>
+                <th>Windows</th>
+                <th>Mac</th>
+                <th>Linux</th>
+                <th>Deck</th>
+                <th>last Played</th>
+                <th>Playtime 2 Weeks</th>
+            </tr>
+        </thead>
+        <tbody>
+    <tr>
+<td><a href="/game/240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/240/9052fa60c496a1c03383b27687ec50f4bf0f0e10.jpg" alt="Counter-Strike: Source" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/240">Counter-Strike: Source</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/570"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/570/0bbb630d63262dd66d2fdd0f7d37e8661a410075.jpg" alt="Dota 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/570">Dota 2</a></td>
+<td>6342</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/620"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/620/25a5a16b2423bf7487ac5340b5b0948cef48c5f8.jpg" alt="Portal 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/620">Portal 2</a></td>
+<td>230</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/730">Counter-Strike 2</a></td>
+<td>13837</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2810">2810</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2820">2820</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2870">2870</a></td>
+<td>2734</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/4000"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg" alt="Garry's Mod" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/4000">Garry's Mod</a></td>
+<td>4478</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/4570">4570</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/4580">4580</a></td>
+<td>382</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/8930"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/8930/fbe80c4743e226f0bf65559c91b12953d4446808.jpg" alt="Sid Meier's Civilization V" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/8930">Sid Meier's Civilization V</a></td>
+<td>7256</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/9200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg" alt="RAGE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/9200">RAGE</a></td>
+<td>756</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/9310">9310</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/9450">9450</a></td>
+<td>2046</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/15210">15210</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/15620">15620</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/16810">16810</a></td>
+<td>481</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/17300">17300</a></td>
+<td>1863</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/20570">20570</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/20900">20900</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/20920"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/20920/62dd5c627664df1bcabc47727c7dcd7ccab353e9.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/20920">The Witcher 2: Assassins of Kings Enhanced Edition</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/22300">22300</a></td>
+<td>512</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/22320">22320</a></td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/22330">22330</a></td>
+<td>397</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/22380">22380</a></td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/32370">32370</a></td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/33250">33250</a></td>
+<td>557</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/33910">33910</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/33930">33930</a></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/34330"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/34330/2fa97296a62daf0329b3867ad6837a2289229fbb.jpg" alt="Total War: SHOGUN 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/34330">Total War: SHOGUN 2</a></td>
+<td>5892</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/39680">39680</a></td>
+<td>1420</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/43110">43110</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/47810">47810</a></td>
+<td>3878</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/47890">47890</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/48700">48700</a></td>
+<td>16822</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/48720">48720</a></td>
+<td>615</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/49300">49300</a></td>
+<td>237</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/56400">56400</a></td>
+<td>271</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/57650">57650</a></td>
+<td>364</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/58520">58520</a></td>
+<td>1288</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/65800">65800</a></td>
+<td>908</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/65980">65980</a></td>
+<td>330</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/72850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/72850/b9aca8a189abd8d6aaf09047dbb0f57582683e1c.jpg" alt="The Elder Scrolls V: Skyrim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/72850">The Elder Scrolls V: Skyrim</a></td>
+<td>44357</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/91310">91310</a></td>
+<td>1371</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/98800">98800</a></td>
+<td>504</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/102500">102500</a></td>
+<td>961</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/102600">102600</a></td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/105600">105600</a></td>
+<td>6060</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/107410"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/107410/3212af52faf994c558bd622cb0f360c1ef295a6b.jpg" alt="Arma 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/107410">Arma 3</a></td>
+<td>25634</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/108600">108600</a></td>
+<td>591</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/200510">200510</a></td>
+<td>2781</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/200710">200710</a></td>
+<td>348</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/201310">201310</a></td>
+<td>16355</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/203770">203770</a></td>
+<td>19177</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/204030">204030</a></td>
+<td>153</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
+<td>950</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/206420">206420</a></td>
+<td>872</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/208140">208140</a></td>
+<td>3284</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/208480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/208480/5d13ffd781fa7658903fbd762b51a76f8c734d2b.jpg" alt="Assassin's Creed® III" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/208480">Assassin's Creed® III</a></td>
+<td>2083</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/208580">208580</a></td>
+<td>415</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/211420">211420</a></td>
+<td>1974</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/211820">211820</a></td>
+<td>3290</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/212680">212680</a></td>
+<td>732</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/213670">213670</a></td>
+<td>1447</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/218680">218680</a></td>
+<td>264</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/219640">219640</a></td>
+<td>1337</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/219740">219740</a></td>
+<td>1210</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/219830">219830</a></td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/220200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/220200/6dc8c1377c6b0ffedaeaec59c253f8c33fb3e62b.jpg" alt="Kerbal Space Program" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/220200">Kerbal Space Program</a></td>
+<td>8720</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/220240">220240</a></td>
+<td>223</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/220700">220700</a></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/221100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221100/16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d.jpg" alt="DayZ" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/221100">DayZ</a></td>
+<td>479</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/221380"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/221380/109c74df17f9b67ea47d8f01e3d1ec25278b9f73.jpg" alt="Age of Empires II (2013)" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/221380">Age of Empires II (2013)</a></td>
+<td>400</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/223830">223830</a></td>
+<td>4674</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/224440">224440</a></td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/224500">224500</a></td>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/224580">224580</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/225540">225540</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/227160">227160</a></td>
+<td>238</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/227680">227680</a></td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/227860">227860</a></td>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/230070">230070</a></td>
+<td>170</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/231740">231740</a></td>
+<td>234</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/232810">232810</a></td>
+<td>244</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/233250">233250</a></td>
+<td>870</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/233860">233860</a></td>
+<td>7666</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/233980">233980</a></td>
+<td>209</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/234530">234530</a></td>
+<td>161</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/234650">234650</a></td>
+<td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/236430"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/236430/8d5b3da903efb047d4efb670c08714a4d1071e83.jpg" alt="DARK SOULS™ II" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/236430">DARK SOULS™ II</a></td>
+<td>422</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/236690">236690</a></td>
+<td>5210</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/236850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/236850/2553e828486183a4f5d5eb33036a95f07c698ded.jpg" alt="Europa Universalis IV" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/236850">Europa Universalis IV</a></td>
+<td>71839</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/236870">236870</a></td>
+<td>632</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/238010">238010</a></td>
+<td>760</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/239160">239160</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/239350">239350</a></td>
+<td>454</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/239820">239820</a></td>
+<td>1289</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/241000">241000</a></td>
+<td>896</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/241540">241540</a></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/241600">241600</a></td>
+<td>952</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/241930">241930</a></td>
+<td>1118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/242050">242050</a></td>
+<td>1364</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/242760">242760</a></td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/242920">242920</a></td>
+<td>868</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/246110">246110</a></td>
+<td>736</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/247730">247730</a></td>
+<td>1374</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/248390">248390</a></td>
+<td>351</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/248630">248630</a></td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/248860">248860</a></td>
+<td>1368</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/249050">249050</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/249550">249550</a></td>
+<td>249</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/250520">250520</a></td>
+<td>1264</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/251570"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/251570/f6515dd177b2992aebcb563151fbe836a600f364.jpg" alt="7 Days to Die" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/251570">7 Days to Die</a></td>
+<td>7968</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/251730">251730</a></td>
+<td>268</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/252490"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/252490/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg" alt="Rust" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/252490">Rust</a></td>
+<td>2211</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/252950"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/252950/9ad6dd3d173523354385955b5fb2af87639c4163.jpg" alt="Rocket League" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/252950">Rocket League</a></td>
+<td>1608</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/253250">253250</a></td>
+<td>526</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/254320">254320</a></td>
+<td>1063</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/255710">255710</a></td>
+<td>673</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/257350">257350</a></td>
+<td>74</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/259060">259060</a></td>
+<td>2365</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/259680">259680</a></td>
+<td>4093</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/261470">261470</a></td>
+<td>3644</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/261550">261550</a></td>
+<td>2086</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/262060">262060</a></td>
+<td>3642</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/264140">264140</a></td>
+<td>327</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/264160">264160</a></td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/268500"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/268500/f275aeb0b1b947262810569356a199848c643754.jpg" alt="XCOM 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/268500">XCOM 2</a></td>
+<td>15792</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/268650">268650</a></td>
+<td>885</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/268870">268870</a></td>
+<td>1525</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/271590"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/271590/1e72f87eb927fa1485e68aefaff23c7fd7178251.jpg" alt="Grand Theft Auto V Legacy" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/271590">Grand Theft Auto V Legacy</a></td>
+<td>1591</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/275850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/275850/fccb20f309ac5ae05b3cb4576a8a3357edf86f2e.jpg" alt="No Man's Sky" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/275850">No Man's Sky</a></td>
+<td>6957</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/276810">276810</a></td>
+<td>3859</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/281990"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/281990/cb4a03deab1e34ed2a5cbbdf419c66bb6459625f.jpg" alt="Stellaris" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/281990">Stellaris</a></td>
+<td>18223</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/286160">286160</a></td>
+<td>2509</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/287580">287580</a></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/288120">288120</a></td>
+<td>355</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/289070">289070</a></td>
+<td>165</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/289130">289130</a></td>
+<td>1014</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/290080"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/290080/e78ba7a1d2c9397853fdfeacf4aa1a781e58824e.jpg" alt="Life is Feudal: Your Own" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/290080">Life is Feudal: Your Own</a></td>
+<td>1461</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/291650">291650</a></td>
+<td>1330</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/292030"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/292030/78d0ff98b67851f24539cdf2402cf147679134f4.jpg" alt="The Witcher 3: Wild Hunt" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/292030">The Witcher 3: Wild Hunt</a></td>
+<td>2269</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/294100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/294100/addbe3b704b267060b4d5d7649cfb292de61bd70.jpg" alt="RimWorld" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/294100">RimWorld</a></td>
+<td>2970</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/304030">304030</a></td>
+<td>35439</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/304390"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/304390/24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6.jpg" alt="For Honor" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/304390">For Honor</a></td>
+<td>10710</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/322330">322330</a></td>
+<td>449</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/323850">323850</a></td>
+<td>821</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/324510">324510</a></td>
+<td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/325610">325610</a></td>
+<td>2080</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/326460">326460</a></td>
+<td>967</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/327070">327070</a></td>
+<td>137</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/327400">327400</a></td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/328760">328760</a></td>
+<td>266</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/329970">329970</a></td>
+<td>194</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/333300">333300</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/333640">333640</a></td>
+<td>6298</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/334230">334230</a></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/335620">335620</a></td>
+<td>809</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/342560">342560</a></td>
+<td>301</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/342940">342940</a></td>
+<td>3331</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/345010">345010</a></td>
+<td>2669</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/351700">351700</a></td>
+<td>10722</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/356040">356040</a></td>
+<td>631</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/359320">359320</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/362490">362490</a></td>
+<td>4128</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/362620">362620</a></td>
+<td>873</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/364360">364360</a></td>
+<td>4721</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/365360">365360</a></td>
+<td>16568</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/367540">367540</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/368230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/368230/0d741624c643448ff74741f50a4b80a24529b869.jpg" alt="Kingdom: Classic" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/368230">Kingdom: Classic</a></td>
+<td>241</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/371970">371970</a></td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/374320">374320</a></td>
+<td>2073</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/377160"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/377160/779c4356ebe32af2af7c9f0bbba595dfe872cd7f.jpg" alt="Fallout 4" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/377160">Fallout 4</a></td>
+<td>6484</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/378360">378360</a></td>
+<td>18221</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/378720">378720</a></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/379430">379430</a></td>
+<td>3288</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/383120">383120</a></td>
+<td>4130</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/385240">385240</a></td>
+<td>105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/392110">392110</a></td>
+<td>937</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/392160"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/392160/89022109a84c57ed7e329933e42c1153e06c1096.jpg" alt="X4: Foundations" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/392160">X4: Foundations</a></td>
+<td>2667</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/394310">394310</a></td>
+<td>387</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/394360">394360</a></td>
+<td>1317</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/399720">399720</a></td>
+<td>474</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/403640">403640</a></td>
+<td>92</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/403950">403950</a></td>
+<td>431</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/413150">413150</a></td>
+<td>2374</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/422420">422420</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/431960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg" alt="Wallpaper Engine" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431960">Wallpaper Engine</a></td>
+<td>4725</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/434170">434170</a></td>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/435150">435150</a></td>
+<td>453</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/442070">442070</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/445220">445220</a></td>
+<td>3694</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/457140">457140</a></td>
+<td>381</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/464920">464920</a></td>
+<td>4205</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/468920">468920</a></td>
+<td>268</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/473690">473690</a></td>
+<td>1814</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/489630">489630</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/489830">489830</a></td>
+<td>6251</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/494840">494840</a></td>
+<td>315</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/496300"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/496300/d51edb8c8d40e68818adffcd3f9b40149173b2d5.jpg" alt="Kingdom: New Lands" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/496300">Kingdom: New Lands</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/505460">505460</a></td>
+<td>3670</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/512900">512900</a></td>
+<td>232</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/518790">518790</a></td>
+<td>4777</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/528230">528230</a></td>
+<td>562</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/535230">535230</a></td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/538030">538030</a></td>
+<td>236</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/553540">553540</a></td>
+<td>1634</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/553850"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/553850/c3dff088e090f81d6e3d88eabbb67732647c69cf.jpg" alt="HELLDIVERS™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/553850">HELLDIVERS™ 2</a></td>
+<td>1337</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/560130">560130</a></td>
+<td>238</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/568220">568220</a></td>
+<td>712</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/573490">573490</a></td>
+<td>591</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/576770">576770</a></td>
+<td>149</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/582010">582010</a></td>
+<td>3926</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/582660">582660</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/588950">588950</a></td>
+<td>884</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/592260">592260</a></td>
+<td>1980</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/594570">594570</a></td>
+<td>8173</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/599140">599140</a></td>
+<td>218</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/602490">602490</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/606230">606230</a></td>
+<td>1014</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/611500">611500</a></td>
+<td>456</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/616560">616560</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/621060">621060</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/625960">625960</a></td>
+<td>484</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/629760">629760</a></td>
+<td>1209</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/630900">630900</a></td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/637090">637090</a></td>
+<td>88649</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/640820">640820</a></td>
+<td>12449</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/644390">644390</a></td>
+<td>397</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/644930">644930</a></td>
+<td>4264</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/646570">646570</a></td>
+<td>6767</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/647960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/647960/d354109ad7689cc6d0bdeb492ea0af558b1ef71c.jpg" alt="Rusted Warfare - RTS" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/647960">Rusted Warfare - RTS</a></td>
+<td>230</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/650940">650940</a></td>
+<td>649</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/654310">654310</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/659540">659540</a></td>
+<td>167</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/669330"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/669330/9b4eb6bc3c9bbce8d27e5a49c895bc3e06d68763.jpg" alt="Mechabellum" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/669330">Mechabellum</a></td>
+<td>9728</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/680360">680360</a></td>
+<td>146</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/700030">700030</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/703080">703080</a></td>
+<td>4072</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/704450">704450</a></td>
+<td>1234</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/718670">718670</a></td>
+<td>1141</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/718850">718850</a></td>
+<td>1825</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/719040">719040</a></td>
+<td>321</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/720620">720620</a></td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/722060">722060</a></td>
+<td>4198</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/734510">734510</a></td>
+<td>255</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/736190">736190</a></td>
+<td>2014</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/739630"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/739630/125673b382059f666ec81477173380a76e1df0be.jpg" alt="Phasmophobia" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/739630">Phasmophobia</a></td>
+<td>144</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/753420">753420</a></td>
+<td>84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/763890"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/763890/d1d7287619c05af415234776315019124fbb032e.jpg" alt="Wildermyth" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/763890">Wildermyth</a></td>
+<td>1930</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/784080">784080</a></td>
+<td>9437</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/784150">784150</a></td>
+<td>661</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/794260">794260</a></td>
+<td>3120</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/800270">800270</a></td>
+<td>2301</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/804010">804010</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/833360">833360</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/838350">838350</a></td>
+<td>2154</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/841770">841770</a></td>
+<td>767</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/846030">846030</a></td>
+<td>696</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/859580">859580</a></td>
+<td>922</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/881100">881100</a></td>
+<td>2303</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/882100">882100</a></td>
+<td>400</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/889080">889080</a></td>
+<td>715</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/890570">890570</a></td>
+<td>208</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/895620">895620</a></td>
+<td>1012</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/909660">909660</a></td>
+<td>1209</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/920680">920680</a></td>
+<td>564</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/933820">933820</a></td>
+<td>634</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/955900">955900</a></td>
+<td>24732</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/956680">956680</a></td>
+<td>1100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/973230">973230</a></td>
+<td>1624</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/975370">975370</a></td>
+<td>3134</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/978520">978520</a></td>
+<td>501</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/979110">979110</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/979640">979640</a></td>
+<td>546</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/990080">990080</a></td>
+<td>1988</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/994220">994220</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1011390">1011390</a></td>
+<td>362</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1022980">1022980</a></td>
+<td>3691</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1029780">1029780</a></td>
+<td>488</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1040230">1040230</a></td>
+<td>216</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1058430">1058430</a></td>
+<td>1497</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1063790">1063790</a></td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1071140">1071140</a></td>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/1086940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1086940/d866cae7ea1e471fdbc206287111f1b642373bd9.jpg" alt="Baldur's Gate 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1086940">Baldur's Gate 3</a></td>
+<td>1779</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/1091500"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1091500/42b9b33fa0f0d997beb299c6157592a8fe7d8f68.jpg" alt="Cyberpunk 2077" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1091500">Cyberpunk 2077</a></td>
+<td>6303</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1095040">1095040</a></td>
+<td>243</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/1096530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1096530/ee1daddb7b47a1861d1274e46904bd1aee98ecff.jpg" alt="Solasta: Crown of the Magister" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1096530">Solasta: Crown of the Magister</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1097530">1097530</a></td>
+<td>970</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1102190">1102190</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1105670">1105670</a></td>
+<td>606</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1108370">1108370</a></td>
+<td>823</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1128000">1128000</a></td>
+<td>396</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1128920">1128920</a></td>
+<td>1153</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1154840">1154840</a></td>
+<td>4454</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1154850">1154850</a></td>
+<td>83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1158310">1158310</a></td>
+<td>1152</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1159290">1159290</a></td>
+<td>186</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1160490">1160490</a></td>
+<td>181</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1161580">1161580</a></td>
+<td>1893</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1162750">1162750</a></td>
+<td>444</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1174180">1174180</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1176470">1176470</a></td>
+<td>2961</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1184370">1184370</a></td>
+<td>2562</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1184820">1184820</a></td>
+<td>1498</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1199030">1199030</a></td>
+<td>271</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1218210">1218210</a></td>
+<td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1244800">1244800</a></td>
+<td>680</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1260590">1260590</a></td>
+<td>595</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1264280">1264280</a></td>
+<td>755</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1266820">1266820</a></td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1267910">1267910</a></td>
+<td>596</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1269710">1269710</a></td>
+<td>67</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1271280">1271280</a></td>
+<td>159</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1277400">1277400</a></td>
+<td>3191</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1287530">1287530</a></td>
+<td>191</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1296830">1296830</a></td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1305310">1305310</a></td>
+<td>75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1357210">1357210</a></td>
+<td>1572</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/1366540"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1366540/55fa75b8e6586427da47f58f320e975e990a460b.jpg" alt="Dyson Sphere Program" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1366540">Dyson Sphere Program</a></td>
+<td>2151</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1374840">1374840</a></td>
+<td>128</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1442430">1442430</a></td>
+<td>720</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1446780">1446780</a></td>
+<td>1213</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/1455840"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1455840/c7f24bc1facf1af3378ad655eed2dee7acc5c7b2.jpg" alt="Dorfromantik" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1455840">Dorfromantik</a></td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1465460">1465460</a></td>
+<td>1333</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1468810">1468810</a></td>
+<td>10815</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1531540">1531540</a></td>
+<td>1777</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1547890">1547890</a></td>
+<td>190</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1585910">1585910</a></td>
+<td>335</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1606340">1606340</a></td>
+<td>671</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/1617400"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1617400/9fa251921f007cfa0f074b3a548f083cb3150d1c.jpg" alt="The Bazaar" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1617400">The Bazaar</a></td>
+<td>4356</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>544</td><tr>
+<td></td>
+<td><a href="/game/1623210">1623210</a></td>
+<td>243</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/1623730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1623730/f5523077a8f4c923c2e8d8c17794b3319035fa73.jpg" alt="Palworld" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1623730">Palworld</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1638300">1638300</a></td>
+<td>861</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1649730">1649730</a></td>
+<td>649</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1669000">1669000</a></td>
+<td>1409</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1674890">1674890</a></td>
+<td>331</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1741640">1741640</a></td>
+<td>2049</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1771300">1771300</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1782120">1782120</a></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1794680">1794680</a></td>
+<td>192</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1843940">1843940</a></td>
+<td>136</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1888160">1888160</a></td>
+<td>247</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/1963040">1963040</a></td>
+<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/1984270"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1984270/92ef41a1c3b74f2417a479d25a02ea127e6ec4ae.jpg" alt="Digimon Story Time Stranger" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1984270">Digimon Story Time Stranger</a></td>
+<td>1123</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2059170">2059170</a></td>
+<td>208</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2098160">2098160</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2103140">2103140</a></td>
+<td>210</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2135150">2135150</a></td>
+<td>11031</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2140510">2140510</a></td>
+<td>390</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2216660">2216660</a></td>
+<td>153</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2246340">2246340</a></td>
+<td>577</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2247820">2247820</a></td>
+<td>192</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2290000">2290000</a></td>
+<td>120</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2343600">2343600</a></td>
+<td>165</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2356780">2356780</a></td>
+<td>243</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2379780">2379780</a></td>
+<td>556</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2399160">2399160</a></td>
+<td>213</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2436940">2436940</a></td>
+<td>351</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2503770">2503770</a></td>
+<td>276</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2623190">2623190</a></td>
+<td>82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/2694490"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2694490/f4e2e3a5f1e1e4c3b6f0c8e2f4d6a7b8c9d0e1f2.jpg" alt="The Last of Us Part I" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2694490">The Last of Us Part I</a></td>
+<td>272</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2697930">2697930</a></td>
+<td>386</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2746910">2746910</a></td>
+<td>236</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/2824490">2824490</a></td>
+<td>1305</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/2870340"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2870340/3018a3917f239af2ef89902714ad4a63ecc8fc6c.jpg" alt="Decktamer" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2870340">Decktamer</a></td>
+<td>374</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>374</td><tr>
+<td></td>
+<td><a href="/game/3036010">3036010</a></td>
+<td>243</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/3240220">3240220</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/3325500">3325500</a></td>
+<td>947</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td><a href="/game/3405340"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3405340/8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8.jpg" alt="Megabonk" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3405340">Megabonk</a></td>
+<td>2787</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>78</td><tr>
+<td><a href="/game/3527290"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3527290/b3a992fd5991bd2f4c956d58e062b0ce2988d6cd.jpg" alt="PEAK" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3527290">PEAK</a></td>
+<td>478</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td></tbody>
+</table>

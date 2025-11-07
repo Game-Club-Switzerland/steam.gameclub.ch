@@ -158,13 +158,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>9750</td>
+<td>10009</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>363</td><tr>
+<td>259</td><tr>
 <td><a href="/game/2700"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2700/95e6320bcf5262271367a83d21fed0dcf12ba73d.jpg" alt="RollerCoaster Tycoon 3: Platinum!" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2700">RollerCoaster Tycoon 3: Platinum!</a></td>
 <td>486</td>
@@ -173,7 +173,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>59</td><tr>
+<td></td><tr>
 <td><a href="/game/4000"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg" alt="Garry's Mod" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/4000">Garry's Mod</a></td>
 <td>8</td>
@@ -660,8 +660,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
 <td>888</td>
 <td></td>
 <td></td>
@@ -1280,9 +1280,9 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>47</td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td></td><tr>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>280</td>
 <td></td>
 <td></td>
@@ -1319,13 +1319,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1091500"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1091500/42b9b33fa0f0d997beb299c6157592a8fe7d8f68.jpg" alt="Cyberpunk 2077" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1091500">Cyberpunk 2077</a></td>
-<td>1882</td>
+<td>1917</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>34</td><tr>
 <td></td>
 <td><a href="/game/1172380">1172380</a></td>
 <td>82</td>
@@ -1433,7 +1433,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>119</td><tr>
+<td></td><tr>
 <td><a href="/game/2211170"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2211170/b1eea80c219787aa6bf7e6bbda8e1a039c145cd8.jpg" alt="Unrailed 2: Back on Track" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2211170">Unrailed 2: Back on Track</a></td>
 <td>135</td>
@@ -1442,7 +1442,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>65</td><tr>
+<td></td><tr>
 <td><a href="/game/2272400"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2272400/389e4324538c9984bdf22be72f6acc5a7bce6c9d.jpg" alt="Station to Station" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2272400">Station to Station</a></td>
 <td>27</td>
@@ -1478,5 +1478,5 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>225</td></tbody>
+<td></td></tbody>
 </table>

@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/667420">667420</a>
+# <a href="https://store.steampowered.com/app/667420">667420</a>
 
-**App ID:** 667420
+**App ID:** <a href="https://steamdb.info/app/667420">667420</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198101713625/" target="_blank"><img src="https://avatars.steamstatic.com/0f6b9a1e8b9fb698ec008053ecf64a440cf75370_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198101713625">Keyan</a></td><td>76561198101713625</td><td><a href="https://steamcommunity.com/profiles/76561198101713625/" target="_blank">Steam Profil</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198101713625/" target="_blank" title="Keyan"><img src="https://avatars.steamstatic.com/0f6b9a1e8b9fb698ec008053ecf64a440cf75370_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198101713625" title="Keyan">Keyan</a></td><td>76561198101713625</td><td><a href="https://steamcommunity.com/profiles/76561198101713625/" target="_blank">Steam Profil</a></td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

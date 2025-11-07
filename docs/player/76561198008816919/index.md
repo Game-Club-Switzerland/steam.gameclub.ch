@@ -507,8 +507,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1237970">1237970</a></td>
+<td><a href="/game/1237970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg" alt="Titanfall® 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1237970">Titanfall® 2</a></td>
 <td>399</td>
 <td></td>
 <td></td>

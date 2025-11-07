@@ -219,15 +219,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
-<td>249</td>
-<td></td>
-<td></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
+<td>400</td>
 <td></td>
 <td></td>
 <td></td>
-<td>46</td><tr>
+<td></td>
+<td></td>
+<td>197</td><tr>
 <td></td>
 <td><a href="/game/207140">207140</a></td>
 <td>0</td>
@@ -465,6 +465,15 @@ hide:
 <td></td>
 <td><a href="/game/367450">367450</a></td>
 <td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/367520">367520</a></td>
+<td>0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -804,8 +813,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>1592</td>
 <td></td>
 <td></td>
@@ -813,8 +822,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>976</td>
 <td></td>
 <td></td>
@@ -822,8 +831,8 @@ hide:
 <td></td>
 <td></td>
 <td>114</td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>195</td>
 <td></td>
 <td></td>
@@ -1100,7 +1109,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>22</td><tr>
+<td></td><tr>
 <td><a href="/game/1435790"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1435790/6c294463e2be859160824246e2123a08afce83c4.jpg" alt="Escape Simulator" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1435790">Escape Simulator</a></td>
 <td>458</td>
@@ -1262,7 +1271,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>445</td><tr>
+<td>117</td><tr>
 <td></td>
 <td><a href="/game/1934680">1934680</a></td>
 <td>493</td>
@@ -1379,7 +1388,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>67</td><tr>
+<td></td><tr>
 <td><a href="/game/2567870"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2567870/231b8f624ff26721431fe5749fa5ab5bccd75ff4.jpg" alt="Chained Together" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2567870">Chained Together</a></td>
 <td>297</td>
@@ -1409,7 +1418,7 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1370</td>
+<td>2607</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1443,6 +1452,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td><a href="/game/3167020"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3167020/5bb8d31708442a8f3ddbc100d7be7c3fde530d18.jpg" alt="Escape from Duckov" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3167020">Escape from Duckov</a></td>
+<td>650</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>650</td><tr>
 <td></td>
 <td><a href="/game/3240220">3240220</a></td>
 <td>0</td>

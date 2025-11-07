@@ -633,8 +633,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -651,8 +651,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -768,8 +768,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1237970">1237970</a></td>
+<td><a href="/game/1237970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg" alt="Titanfall® 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1237970">Titanfall® 2</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -921,6 +921,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td><a href="/game/2352620"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2352620/364217c140be107d1c8e23dabc573bba9fa8fcd0.jpg" alt="Fellowship" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2352620">Fellowship</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
 <td><a href="/game/2567870"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2567870/231b8f624ff26721431fe5749fa5ab5bccd75ff4.jpg" alt="Chained Together" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2567870">Chained Together</a></td>
 <td>0</td>
@@ -975,8 +984,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3241660">3241660</a></td>
+<td><a href="/game/3241660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg" alt="R.E.P.O." style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3241660">R.E.P.O.</a></td>
 <td>0</td>
 <td></td>
 <td></td>

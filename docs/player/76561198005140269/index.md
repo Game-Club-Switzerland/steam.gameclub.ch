@@ -588,8 +588,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
 <td>604</td>
 <td></td>
 <td></td>
@@ -606,8 +606,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
 <td>2575</td>
 <td></td>
 <td></td>
@@ -1227,8 +1227,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>93</td>
 <td></td>
 <td></td>
@@ -1236,8 +1236,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>151</td>
 <td></td>
 <td></td>

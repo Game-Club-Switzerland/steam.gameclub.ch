@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/237990">237990</a>
+# <a href="https://store.steampowered.com/app/237990">237990</a>
 
-**App ID:** 237990
+**App ID:** <a href="https://steamdb.info/app/237990">237990</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198036229973/" target="_blank"><img src="https://avatars.steamstatic.com/f2b95daa4388da07acd68dc30e73b616caa8dd05_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198036229973">Tyler Durden</a></td><td>76561198036229973</td><td><a href="https://steamcommunity.com/profiles/76561198036229973/" target="_blank">Steam Profil</a></td><td>44</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198036229973/" target="_blank" title="Tyler Durden"><img src="https://avatars.steamstatic.com/f2b95daa4388da07acd68dc30e73b616caa8dd05_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198036229973" title="Tyler Durden">Tyler Durden</a></td><td>76561198036229973</td><td><a href="https://steamcommunity.com/profiles/76561198036229973/" target="_blank">Steam Profil</a></td><td>44</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

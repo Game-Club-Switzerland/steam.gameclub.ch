@@ -3,13 +3,13 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/1763250"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1763250/7826d78ceea3256381284e688368539b83b91e24.jpg" alt="SWORN" style="width:32px;height:32px;border-radius:4px;" /> SWORN</a>
+#  <a href="https://store.steampowered.com/app/1763250"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1763250/7826d78ceea3256381284e688368539b83b91e24.jpg" alt="SWORN" style="width:32px;height:32px;border-radius:4px;" /> SWORN</a>
 
-**App ID:** 1763250
+**App ID:** <a href="https://steamdb.info/app/1763250">1763250</a>
 
 ## Playtime
 
-**Forever:** 4505
+**Forever:** 4570
 
 **Windows:** 0
 
@@ -40,10 +40,10 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank"><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960504659">cortez</a></td><td>76561197960504659</td><td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Steam Profil</a></td><td>427</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank" title="m93"><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198153937434" title="m93">m93</a></td><td>76561198153937434</td><td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">Steam Profil</a></td><td>3350</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>112</td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank"><img src="https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198153937434">m93</a></td><td>76561198153937434</td><td><a href="https://steamcommunity.com/profiles/76561198153937434/" target="_blank">Steam Profil</a></td><td>3285</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>243</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank" title="cortez"><img src="https://avatars.steamstatic.com/99ee2e7af5120add107ab024259b1174c3374c95_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197960504659" title="cortez">cortez</a></td><td>76561197960504659</td><td><a href="https://steamcommunity.com/profiles/76561197960504659/" target="_blank">Steam Profil</a></td><td>427</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197961153140">mYKe</a></td><td>76561197961153140</td><td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank">Steam Profil</a></td><td>793</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank" title="mYKe"><img src="https://avatars.steamstatic.com/d5ef05cf3cb3602d3fe15216cf663b753c3b5b25_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197961153140" title="mYKe">mYKe</a></td><td>76561197961153140</td><td><a href="https://steamcommunity.com/profiles/76561197961153140/" target="_blank">Steam Profil</a></td><td>793</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

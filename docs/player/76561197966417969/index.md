@@ -110,7 +110,7 @@ hide:
 <td>416</td>
 <td>0</td>
 <td>1760689349</td>
-<td>150</td><tr>
+<td></td><tr>
 <td><a href="/game/500"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/500/428df26bc35b09319e31b1ffb712487b20b3245c.jpg" alt="Left 4 Dead" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/500">Left 4 Dead</a></td>
 <td>163</td>
@@ -155,7 +155,7 @@ hide:
 <td>439</td>
 <td>0</td>
 <td>1760813555</td>
-<td>375</td><tr>
+<td></td><tr>
 <td><a href="/game/1200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1200/66519d69efc5b98bdafe61347db4ec8be01dff7b.jpg" alt="Red Orchestra: Ostfront 41-45" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1200">Red Orchestra: Ostfront 41-45</a></td>
 <td>0</td>
@@ -1091,7 +1091,7 @@ hide:
 <td>267</td>
 <td>0</td>
 <td>1760715850</td>
-<td>267</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/200390">200390</a></td>
 <td>678</td>
@@ -1227,8 +1227,8 @@ hide:
 <td>0</td>
 <td>1654780612</td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
 <td>924</td>
 <td>0</td>
 <td>0</td>
@@ -3243,8 +3243,8 @@ hide:
 <td>0</td>
 <td>1735270153</td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>334</td>
 <td>334</td>
 <td>0</td>
@@ -3809,7 +3809,7 @@ hide:
 <td>1504</td>
 <td>0</td>
 <td>1760793369</td>
-<td>662</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/3027930">3027930</a></td>
 <td>11</td>
@@ -3828,8 +3828,8 @@ hide:
 <td>0</td>
 <td>1725802700</td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3167020">3167020</a></td>
+<td><a href="/game/3167020"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3167020/5bb8d31708442a8f3ddbc100d7be7c3fde530d18.jpg" alt="Escape from Duckov" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3167020">Escape from Duckov</a></td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -3845,5 +3845,5 @@ hide:
 <td>228</td>
 <td>0</td>
 <td>1760821594</td>
-<td>228</td></tbody>
+<td></td></tbody>
 </table>

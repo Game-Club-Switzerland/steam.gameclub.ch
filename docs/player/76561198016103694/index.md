@@ -29,7 +29,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>78</td><tr>
+<td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
 <td>675</td>
@@ -554,13 +554,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/251570"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/251570/f6515dd177b2992aebcb563151fbe836a600f364.jpg" alt="7 Days to Die" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/251570">7 Days to Die</a></td>
-<td>16169</td>
+<td>16959</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>906</td><tr>
+<td>823</td><tr>
 <td><a href="/game/252490"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/252490/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg" alt="Rust" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/252490">Rust</a></td>
 <td>66</td>
@@ -750,8 +750,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>231</td>
 <td></td>
 <td></td>
@@ -911,7 +911,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>1</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/809230">809230</a></td>
 <td>81</td>
@@ -930,8 +930,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>3923</td>
 <td></td>
 <td></td>
@@ -1004,13 +1004,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1144200"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1144200/9312af21d070f126acbd2237c461b0d06d9b3e20.jpg" alt="Ready or Not" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1144200">Ready or Not</a></td>
-<td>10517</td>
+<td>10534</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>569</td><tr>
+<td>323</td><tr>
 <td><a href="/game/1172620"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1172620/f95f362708fc326511c5d86566c447ee625bf776.jpg" alt="Sea of Thieves" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1172620">Sea of Thieves</a></td>
 <td>4067</td>
@@ -1073,7 +1073,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>2333</td><tr>
+<td>74</td><tr>
 <td></td>
 <td><a href="/game/1615290">1615290</a></td>
 <td>1374</td>
@@ -1173,8 +1173,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2881650">2881650</a></td>
+<td><a href="/game/2881650"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2881650/513cf7f2e22c94f4372369e29bffccc4c239e9c0.jpg" alt="Content Warning" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2881650">Content Warning</a></td>
 <td>63</td>
 <td></td>
 <td></td>
@@ -1182,8 +1182,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3241660">3241660</a></td>
+<td><a href="/game/3241660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg" alt="R.E.P.O." style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3241660">R.E.P.O.</a></td>
 <td>662</td>
 <td></td>
 <td></td>

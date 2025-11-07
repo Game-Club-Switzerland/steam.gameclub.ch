@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-#  <a href="https://steamdb.info/app/3008130"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3008130/48a57f9344332b2c9c16c3590a14af7b39abd8eb.jpg" alt="Dying Light: The Beast" style="width:32px;height:32px;border-radius:4px;" /> Dying Light: The Beast</a>
+#  <a href="https://store.steampowered.com/app/3008130"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3008130/48a57f9344332b2c9c16c3590a14af7b39abd8eb.jpg" alt="Dying Light: The Beast" style="width:32px;height:32px;border-radius:4px;" /> Dying Light: The Beast</a>
 
-**App ID:** 3008130
+**App ID:** <a href="https://steamdb.info/app/3008130">3008130</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>3556</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>220</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank" title="Dismieter (CH)"><img src="https://avatars.steamstatic.com/d83d70483792572cace3586b41ad5ed65779d2d6_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197993773607" title="Dismieter (CH)">Dismieter (CH)</a></td><td>76561197993773607</td><td><a href="https://steamcommunity.com/profiles/76561197993773607/" target="_blank">Steam Profil</a></td><td>3556</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

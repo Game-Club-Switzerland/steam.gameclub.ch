@@ -984,8 +984,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>666</td>
 <td></td>
 <td></td>
@@ -1002,8 +1002,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>22500</td>
 <td></td>
 <td></td>
@@ -1353,24 +1353,24 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2289750">2289750</a></td>
-<td>629</td>
-<td></td>
-<td></td>
+<td><a href="/game/2289750"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2289750/1fef27acdb71f5880ce846c21476200d1ce9629a.jpg" alt="Super Fantasy Kingdom" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2289750">Super Fantasy Kingdom</a></td>
+<td>2327</td>
 <td></td>
 <td></td>
 <td></td>
-<td>629</td><tr>
+<td></td>
+<td></td>
+<td>2327</td><tr>
 <td><a href="/game/2321470"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2321470/21c0012fc6c4419bad40b03ce6db571d2390642b.jpg" alt="Deep Rock Galactic: Survivor" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2321470">Deep Rock Galactic: Survivor</a></td>
-<td>18222</td>
+<td>19380</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1867</td><tr>
+<td>1875</td><tr>
 <td></td>
 <td><a href="/game/2379780">2379780</a></td>
 <td>7065</td>
@@ -1380,8 +1380,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2399830">2399830</a></td>
+<td><a href="/game/2399830"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2399830/655cc2012105979c2b8e4821d568351c86b22be7.jpg" alt="ARK: Survival Ascended" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2399830">ARK: Survival Ascended</a></td>
 <td>19062</td>
 <td></td>
 <td></td>
@@ -1434,8 +1434,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2784470">2784470</a></td>
+<td><a href="/game/2784470"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2784470/d1d0c590e82d977b24e1070a9ec1aeea9e4cd9f4.jpg" alt="9 Kings" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2784470">9 Kings</a></td>
 <td>2946</td>
 <td></td>
 <td></td>
@@ -1454,13 +1454,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>1270</td>
+<td>1706</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>722</td><tr>
+<td>512</td><tr>
 <td></td>
 <td><a href="/game/2850100">2850100</a></td>
 <td>1236</td>
@@ -1524,8 +1524,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3949040">3949040</a></td>
+<td><a href="/game/3949040"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3949040/cd01f1daaaa3fb022e9913dc2d66a23c5091b5d5.jpg" alt="RV There Yet?" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3949040">RV There Yet?</a></td>
 <td>0</td>
 <td></td>
 <td></td>

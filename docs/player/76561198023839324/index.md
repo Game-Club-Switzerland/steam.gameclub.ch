@@ -156,8 +156,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
 <td>41</td>
 <td></td>
 <td></td>
@@ -686,7 +686,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>97</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/779340">779340</a></td>
 <td>441</td>
@@ -732,8 +732,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>688</td>
 <td></td>
 <td></td>
@@ -752,13 +752,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/972660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/972660/21c6c86b51df38e9480231792acf0cfc30f51820.jpg" alt="Spiritfarer®: Farewell Edition" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/972660">Spiritfarer®: Farewell Edition</a></td>
-<td>13</td>
+<td>16</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>3</td><tr>
 <td></td>
 <td><a href="/game/987840">987840</a></td>
 <td>0</td>
@@ -779,13 +779,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1086940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1086940/d866cae7ea1e471fdbc206287111f1b642373bd9.jpg" alt="Baldur's Gate 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1086940">Baldur's Gate 3</a></td>
-<td>5101</td>
+<td>5473</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>279</td><tr>
+<td>652</td><tr>
 <td><a href="/game/1096530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1096530/ee1daddb7b47a1861d1274e46904bd1aee98ecff.jpg" alt="Solasta: Crown of the Magister" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1096530">Solasta: Crown of the Magister</a></td>
 <td>197</td>
@@ -794,7 +794,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>197</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1114290">1114290</a></td>
 <td>51</td>
@@ -1040,13 +1040,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1868140"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1868140/2f19d6889f66eae88e8b5a36727d560ec88a00cb.jpg" alt="DAVE THE DIVER" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1868140">DAVE THE DIVER</a></td>
-<td>338</td>
+<td>355</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>338</td><tr>
+<td>136</td><tr>
 <td></td>
 <td><a href="/game/1888930">1888930</a></td>
 <td>717</td>
@@ -1074,8 +1074,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1904480">1904480</a></td>
+<td><a href="/game/1904480"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1904480/e8df84738a435cdcc3e6355ac63b33413ba93faf.jpg" alt="Absolum" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1904480">Absolum</a></td>
 <td>265</td>
 <td></td>
 <td></td>
@@ -1127,7 +1127,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>135</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/2071280">2071280</a></td>
 <td>247</td>
@@ -1137,8 +1137,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2097570">2097570</a></td>
+<td><a href="/game/2097570"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2097570/95fb11fdc7275b083b8e6b4a9e58ba6a8a938e49.jpg" alt="StarVaders" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2097570">StarVaders</a></td>
 <td>44</td>
 <td></td>
 <td></td>
@@ -1163,7 +1163,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>1</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/2379780">2379780</a></td>
 <td>1394</td>

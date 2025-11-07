@@ -2829,8 +2829,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/41070">41070</a></td>
+<td><a href="/game/41070"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg" alt="Serious Sam 3: BFE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/41070">Serious Sam 3: BFE</a></td>
 <td>253</td>
 <td></td>
 <td></td>
@@ -4350,8 +4350,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
 <td>175</td>
 <td></td>
 <td></td>
@@ -4386,8 +4386,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/205100">205100</a></td>
+<td><a href="/game/205100"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg" alt="Dishonored" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/205100">Dishonored</a></td>
 <td>202</td>
 <td></td>
 <td></td>
@@ -13305,8 +13305,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>41</td>
 <td></td>
 <td></td>
@@ -14792,13 +14792,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/526870"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/526870/ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6.jpg" alt="Satisfactory" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/526870">Satisfactory</a></td>
-<td>41099</td>
+<td>41241</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>141</td><tr>
 <td></td>
 <td><a href="/game/526880">526880</a></td>
 <td>216</td>
@@ -15680,7 +15680,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>155</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/650220">650220</a></td>
 <td>282</td>
@@ -16059,8 +16059,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>282</td>
 <td></td>
 <td></td>
@@ -16125,6 +16125,15 @@ hide:
 <td></td>
 <td><a href="/game/879420">879420</a></td>
 <td>178</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/897630">897630</a></td>
+<td>0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16412,13 +16421,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/1086940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1086940/d866cae7ea1e471fdbc206287111f1b642373bd9.jpg" alt="Baldur's Gate 3" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1086940">Baldur's Gate 3</a></td>
-<td>20635</td>
+<td>21106</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>471</td><tr>
 <td><a href="/game/1096530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1096530/ee1daddb7b47a1861d1274e46904bd1aee98ecff.jpg" alt="Solasta: Crown of the Magister" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/1096530">Solasta: Crown of the Magister</a></td>
 <td>223</td>
@@ -17022,15 +17031,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/2456740">2456740</a></td>
-<td>153</td>
-<td></td>
-<td></td>
+<td><a href="/game/2456740"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2456740/91593017a96a23af849781d6a68e9599cf250b4d.jpg" alt="inZOI" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/2456740">inZOI</a></td>
+<td>249</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>96</td><tr>
 <td></td>
 <td><a href="/game/2623190">2623190</a></td>
 <td>279</td>
@@ -17048,5 +17057,5 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>12</td></tbody>
+<td></td></tbody>
 </table>

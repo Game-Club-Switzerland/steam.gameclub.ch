@@ -1226,7 +1226,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>123</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/259680">259680</a></td>
 <td>2077</td>
@@ -1668,8 +1668,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/431240">431240</a></td>
+<td><a href="/game/431240"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg" alt="Golf With Your Friends" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/431240">Golf With Your Friends</a></td>
 <td>504</td>
 <td></td>
 <td></td>
@@ -1884,8 +1884,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/588650">588650</a></td>
+<td><a href="/game/588650"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/588650/a431361e5dae5fd6ac2433064b62b2a37abc38f1.jpg" alt="Dead Cells" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/588650">Dead Cells</a></td>
 <td>466</td>
 <td></td>
 <td></td>
@@ -2028,8 +2028,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>916</td>
 <td></td>
 <td></td>
@@ -2055,8 +2055,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>753</td>
 <td></td>
 <td></td>
@@ -2109,8 +2109,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/979690">979690</a></td>
+<td><a href="/game/979690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/979690/ced822d46392fcb97daaeb303523b7ff5defecd7.jpg" alt="The Ascent" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/979690">The Ascent</a></td>
 <td>59</td>
 <td></td>
 <td></td>
@@ -2252,7 +2252,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>10</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1145360">1145360</a></td>
 <td>1599</td>
@@ -2612,7 +2612,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>291</td><tr>
+<td>113</td><tr>
 <td><a href="/game/2375530"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2375530/6c541723471af35e6016d9a455913c2dad4b6799.jpg" alt="Descenders Next" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2375530">Descenders Next</a></td>
 <td>797</td>
@@ -2621,7 +2621,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>8</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/2379780">2379780</a></td>
 <td>1265</td>
@@ -2651,13 +2651,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/3026450"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3026450/2e5e5fe9bd3fc1860909e6452a3dbac4cb58feac.jpg" alt="Deadly Days: Roadtrip" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3026450">Deadly Days: Roadtrip</a></td>
-<td>527</td>
+<td>821</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>443</td><tr>
+<td>620</td><tr>
 <td></td>
 <td><a href="/game/3240220">3240220</a></td>
 <td>321</td>

@@ -840,8 +840,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/552990">552990</a></td>
+<td><a href="/game/552990"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/552990/023b6bb5bcf82f9222d70cd38fdb18a899bd67e8.jpg" alt="World of Warships" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/552990">World of Warships</a></td>
 <td>332</td>
 <td></td>
 <td></td>
@@ -1146,8 +1146,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>425</td>
 <td></td>
 <td></td>

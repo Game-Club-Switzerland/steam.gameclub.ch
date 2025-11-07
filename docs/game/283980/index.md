@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/283980">283980</a>
+# <a href="https://store.steampowered.com/app/283980">283980</a>
 
-**App ID:** 283980
+**App ID:** <a href="https://steamdb.info/app/283980">283980</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank"><img src="https://avatars.steamstatic.com/c1386d46ab8023a869a0dad9c7c10f126814af98_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198031568987">Phalanx</a></td><td>76561198031568987</td><td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank">Steam Profil</a></td><td>54</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank" title="Phalanx"><img src="https://avatars.steamstatic.com/c1386d46ab8023a869a0dad9c7c10f126814af98_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198031568987" title="Phalanx">Phalanx</a></td><td>76561198031568987</td><td><a href="https://steamcommunity.com/id/Stereoclip/" target="_blank">Steam Profil</a></td><td>54</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

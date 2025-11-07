@@ -3,13 +3,13 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/835960">835960</a>
+#  <a href="https://store.steampowered.com/app/835960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/835960/3f79ab72358e4a867351997738c994cdab35da19.jpg" alt="The Talos Principle 2" style="width:32px;height:32px;border-radius:4px;" /> The Talos Principle 2</a>
 
-**App ID:** 835960
+**App ID:** <a href="https://steamdb.info/app/835960">835960</a>
 
 ## Playtime
 
-**Forever:** 1235
+**Forever:** 1264
 
 **Windows:** 0
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td>1235</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank" title="BigApple"><img src="https://avatars.steamstatic.com/c2ccb85440535c4503bfd8bdbcf964d097f8dcd4_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198014147147" title="BigApple">BigApple</a></td><td>76561198014147147</td><td><a href="https://steamcommunity.com/profiles/76561198014147147/" target="_blank">Steam Profil</a></td><td>1264</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>29</td></tr>
 </tbody>
 </table>

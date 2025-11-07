@@ -1434,8 +1434,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1443,8 +1443,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1515,8 +1515,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1066780">1066780</a></td>
+<td><a href="/game/1066780"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1066780/734280d4e8071353b46b7d033a2a6010b2a26e11.jpg" alt="Transport Fever 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1066780">Transport Fever 2</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1875,8 +1875,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1874880">1874880</a></td>
+<td><a href="/game/1874880"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1874880/0de311f3ef216db08badc6a9ef7c5fd8712ac334.jpg" alt="Arma Reforger" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1874880">Arma Reforger</a></td>
 <td>0</td>
 <td></td>
 <td></td>

@@ -3,9 +3,9 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/33420">33420</a>
+# <a href="https://store.steampowered.com/app/33420">33420</a>
 
-**App ID:** 33420
+**App ID:** <a href="https://steamdb.info/app/33420">33420</a>
 
 ## Playtime
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561198016307525/" target="_blank"><img src="https://avatars.steamstatic.com/64dcc88a5dd10692a2ab53e6dab84b6479903a2d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198016307525">blasi84</a></td><td>76561198016307525</td><td><a href="https://steamcommunity.com/profiles/76561198016307525/" target="_blank">Steam Profil</a></td><td>26</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561198016307525/" target="_blank" title="blasi84"><img src="https://avatars.steamstatic.com/64dcc88a5dd10692a2ab53e6dab84b6479903a2d_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561198016307525" title="blasi84">blasi84</a></td><td>76561198016307525</td><td><a href="https://steamcommunity.com/profiles/76561198016307525/" target="_blank">Steam Profil</a></td><td>26</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr>
 </tbody>
 </table>

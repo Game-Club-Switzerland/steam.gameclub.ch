@@ -399,8 +399,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/41070">41070</a></td>
+<td><a href="/game/41070"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg" alt="Serious Sam 3: BFE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/41070">Serious Sam 3: BFE</a></td>
 <td>30</td>
 <td></td>
 <td></td>
@@ -507,15 +507,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
-<td>1284</td>
-<td></td>
-<td></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
+<td>1318</td>
 <td></td>
 <td></td>
 <td></td>
-<td>42</td><tr>
+<td></td>
+<td></td>
+<td>76</td><tr>
 <td><a href="/game/204880"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204880/31832cdd443b665a8ae599f76761411f3d939b98.jpg" alt="Sins of a Solar Empire: Rebellion" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/204880">Sins of a Solar Empire: Rebellion</a></td>
 <td>0</td>
@@ -1371,8 +1371,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/668580">668580</a></td>
+<td><a href="/game/668580"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/668580/2a9828aaf232ea5c4b2575212786c62166306390.jpg" alt="Atomic Heart" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/668580">Atomic Heart</a></td>
 <td>339</td>
 <td></td>
 <td></td>
@@ -1488,8 +1488,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>640</td>
 <td></td>
 <td></td>
@@ -1497,8 +1497,8 @@ hide:
 <td></td>
 <td></td>
 <td>184</td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>1115</td>
 <td></td>
 <td></td>
@@ -1832,13 +1832,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/2807960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2807960/83f46c4ec33b6e72c403fcd96a61e8b47ca77254.jpg" alt="Battlefield™ 6" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/2807960">Battlefield™ 6</a></td>
-<td>3124</td>
+<td>3817</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2469</td><tr>
+<td>1311</td><tr>
 <td><a href="/game/3017860"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3017860/f0d79db78568f80f3532151fed5d9633191d0ebe.jpg" alt="DOOM: The Dark Ages" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/3017860">DOOM: The Dark Ages</a></td>
 <td>1677</td>
@@ -1856,7 +1856,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>18</td><tr>
+<td>17</td><tr>
 <td></td>
 <td><a href="/game/3156770">3156770</a></td>
 <td>1022</td>
@@ -1893,8 +1893,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3949040">3949040</a></td>
+<td><a href="/game/3949040"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3949040/cd01f1daaaa3fb022e9913dc2d66a23c5091b5d5.jpg" alt="RV There Yet?" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3949040">RV There Yet?</a></td>
 <td>307</td>
 <td></td>
 <td></td>

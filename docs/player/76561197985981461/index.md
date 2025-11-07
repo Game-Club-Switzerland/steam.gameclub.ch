@@ -1506,8 +1506,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1515,8 +1515,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1605,8 +1605,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1066780">1066780</a></td>
+<td><a href="/game/1066780"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1066780/734280d4e8071353b46b7d033a2a6010b2a26e11.jpg" alt="Transport Fever 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1066780">Transport Fever 2</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1848,8 +1848,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1583230">1583230</a></td>
+<td><a href="/game/1583230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1583230/edf77785498d06effc5d8c4db72c0d364978b66f.jpg" alt="High On Life" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1583230">High On Life</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1965,8 +1965,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3167020">3167020</a></td>
+<td><a href="/game/3167020"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3167020/5bb8d31708442a8f3ddbc100d7be7c3fde530d18.jpg" alt="Escape from Duckov" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3167020">Escape from Duckov</a></td>
 <td>0</td>
 <td></td>
 <td></td>
@@ -1976,6 +1976,15 @@ hide:
 <td></td><tr>
 <td></td>
 <td><a href="/game/3240220">3240220</a></td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><tr>
+<td></td>
+<td><a href="/game/3450310">3450310</a></td>
 <td>0</td>
 <td></td>
 <td></td>

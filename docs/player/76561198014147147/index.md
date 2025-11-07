@@ -408,8 +408,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
 <td>13</td>
 <td></td>
 <td></td>
@@ -858,15 +858,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/668580">668580</a></td>
-<td>747</td>
-<td></td>
-<td></td>
+<td><a href="/game/668580"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/668580/2a9828aaf232ea5c4b2575212786c62166306390.jpg" alt="Atomic Heart" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/668580">Atomic Heart</a></td>
+<td>757</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>9</td><tr>
 <td></td>
 <td><a href="/game/690790">690790</a></td>
 <td>61</td>
@@ -930,24 +930,24 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/835960">835960</a></td>
-<td>1235</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
-<td>3895</td>
+<td><a href="/game/835960"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/835960/3f79ab72358e4a867351997738c994cdab35da19.jpg" alt="The Talos Principle 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/835960">The Talos Principle 2</a></td>
+<td>1264</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td>29</td><tr>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
+<td>3900</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td><tr>
 <td></td>
 <td><a href="/game/882140">882140</a></td>
 <td>575</td>
@@ -975,15 +975,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1066780">1066780</a></td>
-<td>4587</td>
-<td></td>
-<td></td>
+<td><a href="/game/1066780"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1066780/734280d4e8071353b46b7d033a2a6010b2a26e11.jpg" alt="Transport Fever 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1066780">Transport Fever 2</a></td>
+<td>4631</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td><tr>
+<td></td>
+<td></td>
+<td>43</td><tr>
 <td></td>
 <td><a href="/game/1066890">1066890</a></td>
 <td>365</td>

@@ -381,8 +381,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/41070">41070</a></td>
+<td><a href="/game/41070"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg" alt="Serious Sam 3: BFE" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/41070">Serious Sam 3: BFE</a></td>
 <td>2240</td>
 <td></td>
 <td></td>
@@ -507,8 +507,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
 <td>68</td>
 <td></td>
 <td></td>
@@ -1146,6 +1146,15 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
+<td><a href="/game/668580"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/668580/2a9828aaf232ea5c4b2575212786c62166306390.jpg" alt="Atomic Heart" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/668580">Atomic Heart</a></td>
+<td>1057</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1057</td><tr>
 <td><a href="/game/674940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/674940/28bc7ba8952d488e01e7136126cbbc3b42ee443a.jpg" alt="Stick Fight: The Game" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/674940">Stick Fight: The Game</a></td>
 <td>1845</td>
@@ -1245,8 +1254,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>1192</td>
 <td></td>
 <td></td>
@@ -1254,8 +1263,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/892970">892970</a></td>
+<td><a href="/game/892970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg" alt="Valheim" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/892970">Valheim</a></td>
 <td>6658</td>
 <td></td>
 <td></td>
@@ -1317,8 +1326,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/979690">979690</a></td>
+<td><a href="/game/979690"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/979690/ced822d46392fcb97daaeb303523b7ff5defecd7.jpg" alt="The Ascent" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/979690">The Ascent</a></td>
 <td>495</td>
 <td></td>
 <td></td>
@@ -1452,8 +1461,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1237970">1237970</a></td>
+<td><a href="/game/1237970"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg" alt="Titanfall® 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1237970">Titanfall® 2</a></td>
 <td>387</td>
 <td></td>
 <td></td>
@@ -1820,5 +1829,5 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>581</td></tbody>
+<td>58</td></tbody>
 </table>

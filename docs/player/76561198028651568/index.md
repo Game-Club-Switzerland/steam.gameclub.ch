@@ -1301,13 +1301,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/544550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/544550/2111b7ad54c3d3ed9b4b1afed7d99336270c13e3.jpg" alt="Stationeers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/544550">Stationeers</a></td>
-<td>14604</td>
+<td>15319</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>329</td><tr>
+<td>1068</td><tr>
 <td><a href="/game/546560"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/546560/225032ac2ad1aca8f5fd98baa2b9daf1eebea5ca.jpg" alt="Half-Life: Alyx" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/546560">Half-Life: Alyx</a></td>
 <td>468</td>
@@ -1550,7 +1550,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>821</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/1168610">1168610</a></td>
 <td>49</td>
@@ -1649,7 +1649,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>312</td><tr>
+<td>123</td><tr>
 <td></td>
 <td><a href="/game/2217730">2217730</a></td>
 <td>1</td>

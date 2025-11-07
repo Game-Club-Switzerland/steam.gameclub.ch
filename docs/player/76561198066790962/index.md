@@ -489,8 +489,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/204360">204360</a></td>
+<td><a href="/game/204360"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg" alt="Castle Crashers" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/204360">Castle Crashers</a></td>
 <td>1212</td>
 <td></td>
 <td></td>
@@ -1343,5 +1343,5 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>134</td></tbody>
+<td></td></tbody>
 </table>

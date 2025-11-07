@@ -149,13 +149,13 @@ hide:
 <td></td><tr>
 <td><a href="/game/730"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg" alt="Counter-Strike 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
 <td><a href="/game/730">Counter-Strike 2</a></td>
-<td>60842</td>
+<td>61519</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2349</td><tr>
+<td>1323</td><tr>
 <td></td>
 <td><a href="/game/7940">7940</a></td>
 <td>51</td>
@@ -362,7 +362,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>2</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/255520">255520</a></td>
 <td>0</td>
@@ -614,7 +614,7 @@ hide:
 <td></td>
 <td></td>
 <td></td>
-<td>337</td><tr>
+<td></td><tr>
 <td></td>
 <td><a href="/game/581320">581320</a></td>
 <td>0</td>
@@ -723,8 +723,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/880940">880940</a></td>
+<td><a href="/game/880940"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/880940/0e2e222010d009ca46b575cc5c53a23250434341.jpg" alt="Pummel Party" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/880940">Pummel Party</a></td>
 <td>233</td>
 <td></td>
 <td></td>
@@ -840,8 +840,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/3241660">3241660</a></td>
+<td><a href="/game/3241660"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg" alt="R.E.P.O." style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/3241660">R.E.P.O.</a></td>
 <td>30</td>
 <td></td>
 <td></td>

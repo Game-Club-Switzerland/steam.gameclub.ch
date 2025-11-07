@@ -3,13 +3,13 @@ hide:
   - navigation
   - toc
 ---
-# <a href="https://steamdb.info/app/2062430">2062430</a>
+#  <a href="https://store.steampowered.com/app/2062430"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/2062430/7651f4667f6084ef598a2da930d11e26d0aa5f82.jpg" alt="BALL x PIT" style="width:32px;height:32px;border-radius:4px;" /> BALL x PIT</a>
 
-**App ID:** 2062430
+**App ID:** <a href="https://steamdb.info/app/2062430">2062430</a>
 
 ## Playtime
 
-**Forever:** 412
+**Forever:** 804
 
 **Windows:** 0
 
@@ -40,6 +40,6 @@ hide:
             </thead>
             <tbody>
         <tr>
-<td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197984860875">Tumba</a></td><td>76561197984860875</td><td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Steam Profil</a></td><td>412</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>412</td></tr>
+<td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank" title="Tumba"><img src="https://avatars.steamstatic.com/897c109fd930143c3d84e2bd02d85f804f7d89a1_full.jpg" alt="Avatar" style="width:48px;height:48px;border-radius:4px;"></a></td><td><a href="/player/76561197984860875" title="Tumba">Tumba</a></td><td>76561197984860875</td><td><a href="https://steamcommunity.com/profiles/76561197984860875/" target="_blank">Steam Profil</a></td><td>804</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>804</td></tr>
 </tbody>
 </table>

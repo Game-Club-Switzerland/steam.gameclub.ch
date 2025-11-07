@@ -696,8 +696,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/863550">863550</a></td>
+<td><a href="/game/863550"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/863550/3f7c071da7a338e03f6243b73c02c072f1bacee9.jpg" alt="HITMAN™ 2" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/863550">HITMAN™ 2</a></td>
 <td>1411</td>
 <td></td>
 <td></td>
@@ -759,8 +759,8 @@ hide:
 <td></td>
 <td></td>
 <td></td><tr>
-<td></td>
-<td><a href="/game/1583230">1583230</a></td>
+<td><a href="/game/1583230"><img src="https://media.steampowered.com/steamcommunity/public/images/apps/1583230/edf77785498d06effc5d8c4db72c0d364978b66f.jpg" alt="High On Life" style="width:32px;height:32px;border-radius:4px;" /></a></td>
+<td><a href="/game/1583230">High On Life</a></td>
 <td>79</td>
 <td></td>
 <td></td>
