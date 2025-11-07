@@ -85,7 +85,7 @@ class SteamGameClubMarkdown:
                 #f.write(f"<td>{', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>\n")
                 players = gameListwithAllPlayTime[playerPlaytime].get('player', [])
                 player_html = ''.join([
-                    f"<a href=\"{allPlayerSummaries[p].get('profileurl', '')}\" target=\"_blank\" style=\"text-decoration:none;color:#66c0f4;\">"
+                    f"<a href=\"{allPlayerSummaries[p].get('profileurl', '')}\" target=\"_blank\" title=\"{allPlayerSummaries[p].get('personaname', '')}\" style=\"text-decoration:none;color:#66c0f4;\">"
                     f"<img src=\"{allPlayerSummaries[p].get('avatarfull', '')}\" alt=\"{allPlayerSummaries[p].get('personaname', '')}\" style=\"width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;\" />"
                     f"</a>"
                     for p in players if p in allPlayerSummaries
@@ -245,7 +245,7 @@ class SteamGameClubMarkdown:
                 #f.write(f"<td>{', '.join(gameListwithAllPlayTime[playerPlaytime].get('player', []))}</td>\n")
                 players = gameListwithAllPlayTime[playerPlaytime].get('player', [])
                 player_html = ''.join([
-                    f"<a href=\"{allPlayerSummaries[p].get('profileurl', '')}\" target=\"_blank\" style=\"text-decoration:none;color:#66c0f4;\" title=\"{allPlayerSummaries[p].get('personaname', '')}\">"
+                    f"<a href=\"{allPlayerSummaries[p].get('profileurl', '')}\" target=\"_blank\" title=\"{allPlayerSummaries[p].get('personaname', '')}\" style=\"text-decoration:none;color:#66c0f4;\">"
                     f"<img src=\"{allPlayerSummaries[p].get('avatarfull', '')}\" alt=\"{allPlayerSummaries[p].get('personaname', '')}\" style=\"width:24px;height:24px;border-radius:3px;vertical-align:middle;margin-right:6px;\" />"
                     f"</a>"
                     for p in players if p in allPlayerSummaries
@@ -383,8 +383,8 @@ class SteamGameClubMarkdown:
                         #gameDetail = steamWebApi.SteamWebApi().fetchAppDetails(game.get('appid'))
                         #print(gameDetail)
                         f.write(f"""<tr>
-                        <td><a href="{allPlayerSummaries[playerPlaytime].get('profileurl', '')}" target="_blank" title="{allPlayerSummaries[playerPlaytime].get('personaname', '')}">{allPlayerSummaries[playerPlaytime].get('personaname', '')}</a></td>
-                        <td><a href="https://steamdb.info/app/{game.get('appid')}">{game.get('appid')}</a></td>
+                        <td><a href="/player/{allPlayerSummaries[playerPlaytime].get('steamid', '')}" target="_blank" title="{allPlayerSummaries[playerPlaytime].get('personaname', '')}">{allPlayerSummaries[playerPlaytime].get('personaname', '')}</a></td>
+                        <td><a href="/game/{game.get('appid')}">{game.get('appid')}</a></td>
                         <td>{game.get('playtime_forever', '')}</td>
                         <td>{game.get('playtime_windows_forever', '')}</td>
                         <td>{game.get('playtime_mac_forever', '')}</td>
@@ -429,7 +429,7 @@ class SteamGameClubMarkdown:
                         if 'games' in allPlayerGetRecentlyPlayedGames[playerPlaytime]:
                             for game in allPlayerGetRecentlyPlayedGames[playerPlaytime]['games']:
                                 f.write(f"""<tr>
-                        <td><a href="{allPlayerSummaries[playerPlaytime].get('profileurl', '')}" target="_blank" title="{allPlayerSummaries[playerPlaytime].get('personaname', '')}">{allPlayerSummaries[playerPlaytime].get('personaname', '')}</a></td>
+                        <td><a href="/player/{allPlayerSummaries[playerPlaytime].get('steamid', '')}" target="_blank" title="{allPlayerSummaries[playerPlaytime].get('personaname', '')}">{allPlayerSummaries[playerPlaytime].get('personaname', '')}</a></td>
                         <td><a href="/game/{game.get('appid', '')}">{game.get('appid', '')}</a></td>
                         <td><a href="/game/{game.get('appid', '')}">{game.get('name', '')}</a></td>
                         <td>{game.get('playtime_2weeks', '')}</td>
@@ -458,12 +458,12 @@ class SteamGameClubMarkdown:
             f.write("---\n")
             if gameDetails:
                 if gameDetails.get('img_icon_url', ''):
-                    f.write(f"#  <a href=\"https://store.steampowered.com/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{gameDetails.get('img_icon_url', '')}.jpg\" alt=\"{gameDetails.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /> {gameDetails.get('name', '')}</a>\n\n")
+                    f.write(f"# <a href=\"https://store.steampowered.com/app/{appid}\"><img src=\"https://media.steampowered.com/steamcommunity/public/images/apps/{appid}/{gameDetails.get('img_icon_url', '')}.jpg\" alt=\"{gameDetails.get('name', '')}\" style=\"width:32px;height:32px;border-radius:4px;\" /> {gameDetails.get('name', '')}</a>\n\n")
                 else:
                     f.write(f"# <a href=\"https://store.steampowered.com/app/{appid}\">{gameDetails.get('name', '')}</a>\n\n")
             else:
                 f.write(f"# <a href=\"https://store.steampowered.com/app/{appid}\">{appid}</a>\n\n")
-            f.write(f"**App ID:** <a href=\"https://steamdb.info/app/{appid}\">{appid}</a>\n\n")
+            f.write(f"**SteamDB :simple-steamdb:** <a href=\"https://steamdb.info/app/{appid}\">{appid}</a>\n\n")
             f.write(f"## Playtime\n\n")
             f.write(f"**Forever:** {gameListwithAllPlayTime.get('playtime_forever', '')}\n\n")
             f.write(f"**Windows:** {gameListwithAllPlayTime.get('playtime_windows_forever', '')}\n\n")
@@ -493,8 +493,8 @@ class SteamGameClubMarkdown:
         """)
                 for player in gameListwithAllPlayTime.get('player', []):
                     f.write(f"<tr>\n")
-                    f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\" title=\"{allPlayerSummaries[player].get('personaname', '')}\"><img src=\"{allPlayerSummaries[player].get('avatarfull')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></a></td>")
-                    f.write(f"<td><a href=\"/player/{player}\" title=\"{allPlayerSummaries[player].get('personaname', '')}\">{allPlayerSummaries[player].get('personaname')}</a></td>")
+                    f.write(f"<td><a href=\"/player/{player}\" target=\"_blank\" title=\"{allPlayerSummaries[player].get('personaname', '')}\"><img src=\"{allPlayerSummaries[player].get('avatarfull')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></a></td>")
+                    f.write(f"<td><a href=\"/player/{player}\" target=\"_blank\" title=\"{allPlayerSummaries[player].get('personaname', '')}\">{allPlayerSummaries[player].get('personaname')}</a></td>")
                     f.write(f"<td>{allPlayerSummaries[player].get('steamid')}</td>")
                     f.write(f"<td><a href=\"{allPlayerSummaries[player].get('profileurl')}\" target=\"_blank\">Steam Profil</a></td>")
                     if allPlayerGetOwnedGames[player]:
@@ -532,6 +532,7 @@ class SteamGameClubMarkdown:
         for gameData in gameListwithAllPlayTime:
             SteamGameClubMarkdown.createMarkdownFileAppDetails(gameData, gameListwithAllPlayTime[gameData], allPlayerSummaries, allPlayerGetOwnedGames, allPlayerGetRecentlyPlayedGames)
 
+    #
     def createMarkdownFilePlayerDetailOld(player):
         if not player:
             print("No player data provided.")
@@ -620,6 +621,13 @@ class SteamGameClubMarkdown:
             f.write("  - toc\n")
             f.write("---\n")
             f.write(f"# <a href=\"{playerSummaries.get('profileurl')}\" target=\"_blank\"><img src=\"{playerSummaries.get('avatarfull')}\" alt=\"Avatar\" style=\"width:48px;height:48px;border-radius:4px;\"></a> {playerSummaries.get('personaname', 'Unknown Player')}\n\n")
+            if 'realname' in playerSummaries:
+                f.write(f"**Real Name:** {playerSummaries.get('realname', 'N/A')}\n\n")
+            if 'loccityid' in playerSummaries or 'locstatecode' in playerSummaries or 'loccountrycode' in playerSummaries:
+                f.write("### Location\n\n")
+                f.write(f"**Location:** {playerSummaries.get('loccountrycode', 'N/A')}\n\n")
+                f.write(f"**State:** {playerSummaries.get('locstatecode', 'N/A')}\n\n")
+                f.write(f"**City ID:** {playerSummaries.get('loccityid', 'N/A')}\n\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
