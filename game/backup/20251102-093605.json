@@ -1,0 +1,1332 @@
+{
+    "10": {
+        "appid": "10",
+        "name": "Counter-Strike",
+        "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5"
+    },
+    "80": {
+        "appid": "80",
+        "name": "Counter-Strike: Condition Zero",
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+    },
+    "100": {
+        "appid": "100",
+        "name": "Counter-Strike: Condition Zero Deleted Scenes",
+        "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+    },
+    "300": {
+        "appid": "300",
+        "name": "Day of Defeat: Source",
+        "img_icon_url": "062754bb5853b0534283ae27dc5d58200692b22d"
+    },
+    "440": {
+        "appid": "440",
+        "name": "Team Fortress 2",
+        "img_icon_url": "f568912870a4684f9ec76277a1a404dda6bab213"
+    },
+    "620": {
+        "appid": "620",
+        "name": "Portal 2",
+        "img_icon_url": "25a5a16b2423bf7487ac5340b5b0948cef48c5f8"
+    },
+    "240": {
+        "appid": "240",
+        "name": "Counter-Strike: Source",
+        "img_icon_url": "9052fa60c496a1c03383b27687ec50f4bf0f0e10"
+    },
+    "220": {
+        "appid": "220",
+        "name": "Half-Life 2",
+        "img_icon_url": "fcfb366051782b8ebf2aa297f3b746395858cb62"
+    },
+    "320": {
+        "appid": "320",
+        "name": "Half-Life 2: Deathmatch",
+        "img_icon_url": "795e85364189511f4990861b578084deef086cb1"
+    },
+    "360": {
+        "appid": "360",
+        "name": "Half-Life Deathmatch: Source",
+        "img_icon_url": "40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3"
+    },
+    "400": {
+        "appid": "400",
+        "name": "Portal",
+        "img_icon_url": "cfa928ab4119dd137e50d728e8fe703e4e970aff"
+    },
+    "500": {
+        "appid": "500",
+        "name": "Left 4 Dead",
+        "img_icon_url": "428df26bc35b09319e31b1ffb712487b20b3245c"
+    },
+    "730": {
+        "appid": "730",
+        "name": "Counter-Strike 2",
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+    },
+    "1200": {
+        "appid": "1200",
+        "name": "Red Orchestra: Ostfront 41-45",
+        "img_icon_url": "66519d69efc5b98bdafe61347db4ec8be01dff7b"
+    },
+    "1230": {
+        "appid": "1230",
+        "name": "Mare Nostrum",
+        "img_icon_url": "1e1f56340d2d98a66a9b357257be8e020fb6061f"
+    },
+    "1280": {
+        "appid": "1280",
+        "name": "Darkest Hour: Europe '44-'45",
+        "img_icon_url": "fb56136d0327b403e276460aca1ff0f559b02215"
+    },
+    "4000": {
+        "appid": "4000",
+        "name": "Garry's Mod",
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b"
+    },
+    "4560": {
+        "appid": "4560",
+        "name": "Company of Heroes - Legacy Edition",
+        "img_icon_url": "64946619217da497c9b29bc817bb40dd7d28c912"
+    },
+    "4760": {
+        "appid": "4760",
+        "name": "Rome: Total War",
+        "img_icon_url": "5dc68565149dc971af6428157bcb600d80690080"
+    },
+    "8500": {
+        "appid": "8500",
+        "name": "EVE Online",
+        "img_icon_url": "884d8c6482487e74b18ceef872ee9543a1c5828d"
+    },
+    "8930": {
+        "appid": "8930",
+        "name": "Sid Meier's Civilization V",
+        "img_icon_url": "fbe80c4743e226f0bf65559c91b12953d4446808"
+    },
+    "72850": {
+        "appid": "72850",
+        "name": "The Elder Scrolls V: Skyrim",
+        "img_icon_url": "b9aca8a189abd8d6aaf09047dbb0f57582683e1c"
+    },
+    "10180": {
+        "appid": "10180",
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "img_icon_url": "ad502494f1658220f9166c7e17ac90422bf6a479"
+    },
+    "49520": {
+        "appid": "49520",
+        "name": "Borderlands 2",
+        "img_icon_url": "a3f4945226e69b6196074df4c776e342d3e5a3be"
+    },
+    "218620": {
+        "appid": "218620",
+        "name": "PAYDAY 2",
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414"
+    },
+    "202990": {
+        "appid": "202990",
+        "name": "Call of Duty: Black Ops II - Multiplayer",
+        "img_icon_url": "1f3a69123b4c7e47904dcd0c55e48c5522e30284"
+    },
+    "221100": {
+        "appid": "221100",
+        "name": "DayZ",
+        "img_icon_url": "16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d"
+    },
+    "231430": {
+        "appid": "231430",
+        "name": "Company of Heroes 2",
+        "img_icon_url": "5e7e1866fb4f33a17393b0441cd1c750dbd91c5f"
+    },
+    "252490": {
+        "appid": "252490",
+        "name": "Rust",
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+    },
+    "244850": {
+        "appid": "244850",
+        "name": "Space Engineers",
+        "img_icon_url": "f9856a90000d88e9a89441a7381fe9877e91eaca"
+    },
+    "34330": {
+        "appid": "34330",
+        "name": "Total War: SHOGUN 2",
+        "img_icon_url": "2fa97296a62daf0329b3867ad6837a2289229fbb"
+    },
+    "392160": {
+        "appid": "392160",
+        "name": "X4: Foundations",
+        "img_icon_url": "89022109a84c57ed7e329933e42c1153e06c1096"
+    },
+    "220200": {
+        "appid": "220200",
+        "name": "Kerbal Space Program",
+        "img_icon_url": "6dc8c1377c6b0ffedaeaec59c253f8c33fb3e62b"
+    },
+    "214950": {
+        "appid": "214950",
+        "name": "Path of Exile 2",
+        "img_icon_url": "fa8ff2005f65d0cbc7403a5b18ca77c0bbc9d05a"
+    },
+    "290080": {
+        "appid": "290080",
+        "name": "Life is Feudal: Your Own",
+        "img_icon_url": "e78ba7a1d2c9397853fdfeacf4aa1a781e58824e"
+    },
+    "2694490": {
+        "appid": "2694490",
+        "name": "The Last of Us Part I",
+        "img_icon_url": "f4e2e3a5f1e1e4c3b6f0c8e2f4d6a7b8c9d0e1f2"
+    },
+    "1623730": {
+        "appid": "1623730",
+        "name": "Palworld",
+        "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73"
+    },
+    "377160": {
+        "appid": "377160",
+        "name": "Fallout 4",
+        "img_icon_url": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f"
+    },
+    "42690": {
+        "appid": "42690",
+        "name": "Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer",
+        "img_icon_url": "c3330a875925437d8216949b6571f6e941ba0679"
+    },
+    "42700": {
+        "appid": "42700",
+        "name": "Call of Duty: Black Ops",
+        "img_icon_url": "ea744d59efded3feaeebcafed224be9eadde90ac"
+    },
+    "42710": {
+        "appid": "42710",
+        "name": "Call of Duty: Black Ops - Multiplayer",
+        "img_icon_url": "d595fb4b01201cade09e1232f2c41c0866840628"
+    },
+    "107410": {
+        "appid": "107410",
+        "name": "Arma 3",
+        "img_icon_url": "3212af52faf994c558bd622cb0f360c1ef295a6b"
+    },
+    "24960": {
+        "appid": "24960",
+        "name": "Battlefield: Bad Company™ 2",
+        "img_icon_url": "3a8b5c53efd00554eb3315681754974c3edf1c41"
+    },
+    "1472930": {
+        "appid": "1472930",
+        "name": "Flock",
+        "img_icon_url": "d86e1f92dd32768f5dc2de20cea5d443bf259898"
+    },
+    "513710": {
+        "appid": "513710",
+        "name": "SCUM",
+        "img_icon_url": "c25483e3e989239b932901118e44cf71606b5973"
+    },
+    "427520": {
+        "appid": "427520",
+        "name": "Factorio",
+        "img_icon_url": "267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d"
+    },
+    "359550": {
+        "appid": "359550",
+        "name": "Tom Clancy's Rainbow Six® Siege X",
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e"
+    },
+    "407530": {
+        "appid": "407530",
+        "name": "ARK: Survival Of The Fittest",
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+    },
+    "1250410": {
+        "appid": "1250410",
+        "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+        "img_icon_url": "e374de450803dc212690bf721a14843a0dd2ad58"
+    },
+    "271590": {
+        "appid": "271590",
+        "name": "Grand Theft Auto V Legacy",
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251"
+    },
+    "2169200": {
+        "appid": "2169200",
+        "name": "Sniper Elite: Resistance",
+        "img_icon_url": "ff42cff6fe9771e468421603cb051fff1ba6f8d1"
+    },
+    "2567870": {
+        "appid": "2567870",
+        "name": "Chained Together",
+        "img_icon_url": "231b8f624ff26721431fe5749fa5ab5bccd75ff4"
+    },
+    "3097560": {
+        "appid": "3097560",
+        "name": "Liar's Bar",
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c"
+    },
+    "294100": {
+        "appid": "294100",
+        "name": "RimWorld",
+        "img_icon_url": "addbe3b704b267060b4d5d7649cfb292de61bd70"
+    },
+    "292030": {
+        "appid": "292030",
+        "name": "The Witcher 3: Wild Hunt",
+        "img_icon_url": "78d0ff98b67851f24539cdf2402cf147679134f4"
+    },
+    "544550": {
+        "appid": "544550",
+        "name": "Stationeers",
+        "img_icon_url": "2111b7ad54c3d3ed9b4b1afed7d99336270c13e3"
+    },
+    "1561960": {
+        "appid": "1561960",
+        "name": "Yield! Fall of Rome",
+        "img_icon_url": "51e9e2af5b360dd9a56f58f76a6204d237a61f26"
+    },
+    "1285060": {
+        "appid": "1285060",
+        "name": "Winter Falling",
+        "img_icon_url": "2f36069ce17d0d462783b5041bd4b99de753b886"
+    },
+    "2680990": {
+        "appid": "2680990",
+        "name": "GUNTOUCHABLES Playtestx",
+        "img_icon_url": "c15efe5b46521835f62310398191d10739baef5d"
+    },
+    "2198150": {
+        "appid": "2198150",
+        "name": "Tiny Glade",
+        "img_icon_url": "cabab057d40458476ae363e7c6b8281d561cde7f"
+    },
+    "673950": {
+        "appid": "673950",
+        "name": "Farm Together",
+        "img_icon_url": "d968e9e31ef9cb110f09780f7112bac1c9968716"
+    },
+    "2904000": {
+        "appid": "2904000",
+        "name": "The Spell Brigade",
+        "img_icon_url": "6df73644737e8e4c401c86dff97a1b699fb410d5"
+    },
+    "1018830": {
+        "appid": "1018830",
+        "name": "Element TD 2",
+        "img_icon_url": "fd9708e0d7a90c5f6f91ef6917af78a5e256a3e6"
+    },
+    "204880": {
+        "appid": "204880",
+        "name": "Sins of a Solar Empire: Rebellion",
+        "img_icon_url": "31832cdd443b665a8ae599f76761411f3d939b98"
+    },
+    "1455840": {
+        "appid": "1455840",
+        "name": "Dorfromantik",
+        "img_icon_url": "c7f24bc1facf1af3378ad655eed2dee7acc5c7b2"
+    },
+    "1637320": {
+        "appid": "1637320",
+        "name": "Dome Keeper",
+        "img_icon_url": "4ecf3a011cf5eeb37d0072a1a182b7ea5140e3e2"
+    },
+    "1016920": {
+        "appid": "1016920",
+        "name": "Unrailed!",
+        "img_icon_url": "d52e7b3ffc58010b2792160e07ce6834f8c3d80b"
+    },
+    "1426210": {
+        "appid": "1426210",
+        "name": "It Takes Two",
+        "img_icon_url": "6b15f6d81c4fc52056f4928b363b7fac591a945b"
+    },
+    "1029690": {
+        "appid": "1029690",
+        "name": "Sniper Elite 5",
+        "img_icon_url": "00bce3b25aed4dfd96e864e03dd315448dcb834b"
+    },
+    "1489630": {
+        "appid": "1489630",
+        "name": "Carrier Command 2",
+        "img_icon_url": "25ec1d2707d671f2391ea7db9ddde5a271dd54b9"
+    },
+    "620590": {
+        "appid": "620590",
+        "name": "Ancestors Legacy",
+        "img_icon_url": "356eb85a96475126c0f31816bbef73972838642f"
+    },
+    "648800": {
+        "appid": "648800",
+        "name": "Raft",
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68"
+    },
+    "312670": {
+        "appid": "312670",
+        "name": "Strange Brigade",
+        "img_icon_url": "328f1ee6525320b82ad06033da1e0194a9ae0436"
+    },
+    "221380": {
+        "appid": "221380",
+        "name": "Age of Empires II (2013)",
+        "img_icon_url": "109c74df17f9b67ea47d8f01e3d1ec25278b9f73"
+    },
+    "895400": {
+        "appid": "895400",
+        "name": "Deadside",
+        "img_icon_url": "084d1cc38c922bd38cfe1daff75583f58eb2ead2"
+    },
+    "945360": {
+        "appid": "945360",
+        "name": "Among Us",
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801"
+    },
+    "848480": {
+        "appid": "848480",
+        "name": "Creeper World 4",
+        "img_icon_url": "f1a79108f91fa64069f4bdd3f1cf66e944c28360"
+    },
+    "701160": {
+        "appid": "701160",
+        "name": "Kingdom Two Crowns",
+        "img_icon_url": "7bf44c4e301a0f6fae78f697b39b5a1268223945"
+    },
+    "3116470": {
+        "appid": "3116470",
+        "name": "IDUN Prologue - Frontline Survival",
+        "img_icon_url": "7adf6c43c4bf4a528596e54219422fdf36cfb85f"
+    },
+    "2321470": {
+        "appid": "2321470",
+        "name": "Deep Rock Galactic: Survivor",
+        "img_icon_url": "21c0012fc6c4419bad40b03ce6db571d2390642b"
+    },
+    "1957760": {
+        "appid": "1957760",
+        "name": "Islands & Trains",
+        "img_icon_url": "d9f84e194077a34e1c6c40e4fa2cef1f5d97c191"
+    },
+    "3520070": {
+        "appid": "3520070",
+        "name": "Megabonk Demo",
+        "img_icon_url": "2455195891174512906a50c75b653395cb9a7709"
+    },
+    "1358790": {
+        "appid": "1358790",
+        "name": "Tipston Salvage",
+        "img_icon_url": "d87d53da6e8a5b1830da74584c9dde77d0e1ef6b"
+    },
+    "346110": {
+        "appid": "346110",
+        "name": "ARK: Survival Evolved",
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265"
+    },
+    "10190": {
+        "appid": "10190",
+        "name": "Call of Duty: Modern Warfare 2 (2009) - Multiplayer",
+        "img_icon_url": "7dd7c2d5bce2413131762d7cbee3f059614ed69d"
+    },
+    "728880": {
+        "appid": "728880",
+        "name": "Overcooked! 2",
+        "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54"
+    },
+    "674940": {
+        "appid": "674940",
+        "name": "Stick Fight: The Game",
+        "img_icon_url": "28bc7ba8952d488e01e7136126cbbc3b42ee443a"
+    },
+    "249130": {
+        "appid": "249130",
+        "name": "LEGO® MARVEL Super Heroes",
+        "img_icon_url": "8462ed9e1004624c7109233eafd7098211da9f86"
+    },
+    "42640": {
+        "appid": "42640",
+        "name": "Blur",
+        "img_icon_url": "452829aa4c26bbd5bb8daf984b573885eecef01f"
+    },
+    "2001120": {
+        "appid": "2001120",
+        "name": "Split Fiction",
+        "img_icon_url": "a01dc6ea47db8c74964d581fe9f1f8039e0e4f33"
+    },
+    "2211170": {
+        "appid": "2211170",
+        "name": "Unrailed 2: Back on Track",
+        "img_icon_url": "b1eea80c219787aa6bf7e6bbda8e1a039c145cd8"
+    },
+    "308080": {
+        "appid": "308080",
+        "name": "Wing Breakers",
+        "img_icon_url": "abac09ae1c6f58d52312b03b726bdde402a6afdb"
+    },
+    "2272400": {
+        "appid": "2272400",
+        "name": "Station to Station",
+        "img_icon_url": "389e4324538c9984bdf22be72f6acc5a7bce6c9d"
+    },
+    "1731460": {
+        "appid": "1731460",
+        "name": "LEGO® Brawls",
+        "img_icon_url": "594a053617f0bab59b4ee1e3eee546e307608374"
+    },
+    "1046930": {
+        "appid": "1046930",
+        "name": "Dota Underlords",
+        "img_icon_url": "1f6f64144e8cc371c5382660e48998dfbe0a708e"
+    },
+    "3017860": {
+        "appid": "3017860",
+        "name": "DOOM: The Dark Ages",
+        "img_icon_url": "f0d79db78568f80f3532151fed5d9633191d0ebe"
+    },
+    "2273980": {
+        "appid": "2273980",
+        "name": "Orcs Must Die! Deathtrap",
+        "img_icon_url": "c909b799b50c5189d63b77a5b9689d41b892b997"
+    },
+    "2479810": {
+        "appid": "2479810",
+        "name": "Gray Zone Warfare",
+        "img_icon_url": "ca56095c6c464caf846590898beba429d0f75fe9"
+    },
+    "1366540": {
+        "appid": "1366540",
+        "name": "Dyson Sphere Program",
+        "img_icon_url": "55fa75b8e6586427da47f58f320e975e990a460b"
+    },
+    "548430": {
+        "appid": "548430",
+        "name": "Deep Rock Galactic",
+        "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447"
+    },
+    "283960": {
+        "appid": "283960",
+        "name": "Pajama Sam in No Need to Hide When It's Dark Outside",
+        "img_icon_url": "f95a3ae64106991a96e934d7205f3e1bb4beb80e"
+    },
+    "1144200": {
+        "appid": "1144200",
+        "name": "Ready or Not",
+        "img_icon_url": "9312af21d070f126acbd2237c461b0d06d9b3e20"
+    },
+    "3164500": {
+        "appid": "3164500",
+        "name": "Schedule I",
+        "img_icon_url": "3d9f9ed56cb6e1ba995883207290c39674e9c411"
+    },
+    "960090": {
+        "appid": "960090",
+        "name": "Bloons TD 6",
+        "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0"
+    },
+    "319630": {
+        "appid": "319630",
+        "name": "Life is Strange™",
+        "img_icon_url": "e54b13da0710a35e7088664a77632e79157d8332"
+    },
+    "686810": {
+        "appid": "686810",
+        "name": "Hell Let Loose",
+        "img_icon_url": "34a4b24b1132045d8e59e56b9c24bed725af55c7"
+    },
+    "1677280": {
+        "appid": "1677280",
+        "name": "Company of Heroes 3",
+        "img_icon_url": "714cc3ca1253f30ea8275f0d3f592c93723d7638"
+    },
+    "2807960": {
+        "appid": "2807960",
+        "name": "Battlefield™ 6",
+        "img_icon_url": "83f46c4ec33b6e72c403fcd96a61e8b47ca77254"
+    },
+    "550": {
+        "appid": "550",
+        "name": "Left 4 Dead 2",
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed"
+    },
+    "1172620": {
+        "appid": "1172620",
+        "name": "Sea of Thieves",
+        "img_icon_url": "f95f362708fc326511c5d86566c447ee625bf776"
+    },
+    "578080": {
+        "appid": "578080",
+        "name": "PUBG: BATTLEGROUNDS",
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d"
+    },
+    "400750": {
+        "appid": "400750",
+        "name": "Call to Arms - Gates of Hell: Ostfront",
+        "img_icon_url": "31294c5a56bb88cc09000e8bc88c5473fd251107"
+    },
+    "2073620": {
+        "appid": "2073620",
+        "name": "Arena Breakout: Infinite",
+        "img_icon_url": "4d54ea4bf3b0b391f3e2790afe992f4d8c5e40fd"
+    },
+    "2073850": {
+        "appid": "2073850",
+        "name": "THE FINALS",
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909"
+    },
+    "1282690": {
+        "appid": "1282690",
+        "name": "Crysis® 3 ",
+        "img_icon_url": "a41273a869d9c9c6900f07890f8be721e1bdb4f6"
+    },
+    "1113120": {
+        "appid": "1113120",
+        "name": "IXION",
+        "img_icon_url": "fcb898c0c19a604cebf5bca7bf2deff8c52bf889"
+    },
+    "251570": {
+        "appid": "251570",
+        "name": "7 Days to Die",
+        "img_icon_url": "f6515dd177b2992aebcb563151fbe836a600f364"
+    },
+    "228200": {
+        "appid": "228200",
+        "name": "Company of Heroes ",
+        "img_icon_url": "df92dc239acb3cf5d3e3eba645f3df2aaf7f91ad"
+    },
+    "393380": {
+        "appid": "393380",
+        "name": "Squad",
+        "img_icon_url": "eb66a8cb52165274c84cae6526205065d13119d5"
+    },
+    "3008130": {
+        "appid": "3008130",
+        "name": "Dying Light: The Beast",
+        "img_icon_url": "48a57f9344332b2c9c16c3590a14af7b39abd8eb"
+    },
+    "1941540": {
+        "appid": "1941540",
+        "name": "Mafia: The Old Country",
+        "img_icon_url": "4afa63381aebb28b832279ac0679d258b86e9cec"
+    },
+    "2909400": {
+        "appid": "2909400",
+        "name": "FINAL FANTASY VII REBIRTH",
+        "img_icon_url": "3dacad0a047962a94501d9d028c095993c48ce8b"
+    },
+    "1449320": {
+        "appid": "1449320",
+        "name": "Alfred Hitchcock - Vertigo",
+        "img_icon_url": "eaff963af20508668d04b7943c8a1b0ad4e80e1c"
+    },
+    "2677660": {
+        "appid": "2677660",
+        "name": "Indiana Jones and the Great Circle",
+        "img_icon_url": "1c7d38c42bcc9ea095c4ef7be469e4f6c5d3b3b5"
+    },
+    "1091500": {
+        "appid": "1091500",
+        "name": "Cyberpunk 2077",
+        "img_icon_url": "42b9b33fa0f0d997beb299c6157592a8fe7d8f68"
+    },
+    "310470": {
+        "appid": "310470",
+        "name": "Grand Ages: Medieval",
+        "img_icon_url": "323e2bf2cc781ae891d15e3e48dc214f1ef7702e"
+    },
+    "2507950": {
+        "appid": "2507950",
+        "name": "Delta Force",
+        "img_icon_url": "52bc6c4bf0c232cf30d66eb3d1638bf099bc6061"
+    },
+    "268500": {
+        "appid": "268500",
+        "name": "XCOM 2",
+        "img_icon_url": "f275aeb0b1b947262810569356a199848c643754"
+    },
+    "3527290": {
+        "appid": "3527290",
+        "name": "PEAK",
+        "img_icon_url": "b3a992fd5991bd2f4c956d58e062b0ce2988d6cd"
+    },
+    "1285190": {
+        "appid": "1285190",
+        "name": "Borderlands® 4",
+        "img_icon_url": "9a7ba760c036bb0a73310dc9731d7a84a329b921"
+    },
+    "1868140": {
+        "appid": "1868140",
+        "name": "DAVE THE DIVER",
+        "img_icon_url": "2f19d6889f66eae88e8b5a36727d560ec88a00cb"
+    },
+    "526870": {
+        "appid": "526870",
+        "name": "Satisfactory",
+        "img_icon_url": "ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6"
+    },
+    "647960": {
+        "appid": "647960",
+        "name": "Rusted Warfare - RTS",
+        "img_icon_url": "d354109ad7689cc6d0bdeb492ea0af558b1ef71c"
+    },
+    "1763250": {
+        "appid": "1763250",
+        "name": "SWORN",
+        "img_icon_url": "7826d78ceea3256381284e688368539b83b91e24"
+    },
+    "1238280": {
+        "appid": "1238280",
+        "name": "100 Doors Game - Escape from School",
+        "img_icon_url": "428e097dd11eabb9f519483f40dffd45f81ffec5"
+    },
+    "1124300": {
+        "appid": "1124300",
+        "name": "HUMANKIND™",
+        "img_icon_url": "c2d90169b56bc798213b8bcf949d3d5924a2d0a0"
+    },
+    "553850": {
+        "appid": "553850",
+        "name": "HELLDIVERS™ 2",
+        "img_icon_url": "c3dff088e090f81d6e3d88eabbb67732647c69cf"
+    },
+    "594650": {
+        "appid": "594650",
+        "name": "Hunt: Showdown 1896",
+        "img_icon_url": "06c70772db40f714537f4d80c11859a68560a6b3"
+    },
+    "570": {
+        "appid": "570",
+        "name": "Dota 2",
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075"
+    },
+    "1645820": {
+        "appid": "1645820",
+        "name": "SurrounDead",
+        "img_icon_url": "51a09232eed1243103f8d746b2f1b685322463f1"
+    },
+    "2582470": {
+        "appid": "2582470",
+        "name": "Wacky West",
+        "img_icon_url": "6cbdd48d51000ece11fc67e4113b622bf0b67e17"
+    },
+    "669330": {
+        "appid": "669330",
+        "name": "Mechabellum",
+        "img_icon_url": "9b4eb6bc3c9bbce8d27e5a49c895bc3e06d68763"
+    },
+    "281990": {
+        "appid": "281990",
+        "name": "Stellaris",
+        "img_icon_url": "cb4a03deab1e34ed2a5cbbdf419c66bb6459625f"
+    },
+    "415200": {
+        "appid": "415200",
+        "name": "Motorsport Manager",
+        "img_icon_url": "2b25f5560e3fb717c4d70e2089a56a0a9dd2df3f"
+    },
+    "236390": {
+        "appid": "236390",
+        "name": "War Thunder",
+        "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9"
+    },
+    "275850": {
+        "appid": "275850",
+        "name": "No Man's Sky",
+        "img_icon_url": "fccb20f309ac5ae05b3cb4576a8a3357edf86f2e"
+    },
+    "2427700": {
+        "appid": "2427700",
+        "name": "Backpack Battles",
+        "img_icon_url": "852629f282e0dfc3e12da56ed5692043665cf9d3"
+    },
+    "1677740": {
+        "appid": "1677740",
+        "name": "Stumble Guys",
+        "img_icon_url": "4517b0a1eff3befd699ede64a57e3f816d581be7"
+    },
+    "1938090": {
+        "appid": "1938090",
+        "name": "Call of Duty®",
+        "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3"
+    },
+    "1366800": {
+        "appid": "1366800",
+        "name": "Crosshair X",
+        "img_icon_url": "16138bef561b61372e02f3006da2c76a21cdbbd7"
+    },
+    "1302240": {
+        "appid": "1302240",
+        "name": "Labyrinthine",
+        "img_icon_url": "b507946b4217b31ba7a6cc7bcc61b085b437b5c2"
+    },
+    "739630": {
+        "appid": "739630",
+        "name": "Phasmophobia",
+        "img_icon_url": "125673b382059f666ec81477173380a76e1df0be"
+    },
+    "1149460": {
+        "appid": "1149460",
+        "name": "Icarus",
+        "img_icon_url": "3600ab7fb8dbc0898116ea1c0365de4f6d285d5a"
+    },
+    "257420": {
+        "appid": "257420",
+        "name": "Serious Sam 4",
+        "img_icon_url": "3f9e66277464a7145cbfe504acbad29477956d69"
+    },
+    "230410": {
+        "appid": "230410",
+        "name": "Warframe",
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa"
+    },
+    "3314790": {
+        "appid": "3314790",
+        "name": "CloverPit",
+        "img_icon_url": "93fcc4d2c3798356f019f030e7599dc13bd6a95a"
+    },
+    "1997040": {
+        "appid": "1997040",
+        "name": "MARVEL SNAP",
+        "img_icon_url": "ac70da51184b62607a88b9bd33cef0fab6aa2ebc"
+    },
+    "1549970": {
+        "appid": "1549970",
+        "name": "Aliens: Fireteam Elite",
+        "img_icon_url": "c2ad8ba213932fae2b528eda83973c22ae7379eb"
+    },
+    "381210": {
+        "appid": "381210",
+        "name": "Dead by Daylight",
+        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790"
+    },
+    "1594320": {
+        "appid": "1594320",
+        "name": "Captain of Industry",
+        "img_icon_url": "ac3ebd0dd8f4244545ca18091b23f60de42d7ade"
+    },
+    "552520": {
+        "appid": "552520",
+        "name": "Far Cry 5",
+        "img_icon_url": "928df2d32021f480499a97458068f62c45298e7a"
+    },
+    "1086940": {
+        "appid": "1086940",
+        "name": "Baldur's Gate 3",
+        "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9"
+    },
+    "2947440": {
+        "appid": "2947440",
+        "name": "SILENT HILL f",
+        "img_icon_url": "723be450a6354f275dbc901552654fb87e443430"
+    },
+    "972660": {
+        "appid": "972660",
+        "name": "Spiritfarer®: Farewell Edition",
+        "img_icon_url": "21c6c86b51df38e9480231792acf0cfc30f51820"
+    },
+    "1145350": {
+        "appid": "1145350",
+        "name": "Hades II",
+        "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c"
+    },
+    "3405340": {
+        "appid": "3405340",
+        "name": "Megabonk",
+        "img_icon_url": "8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8"
+    },
+    "3026450": {
+        "appid": "3026450",
+        "name": "Deadly Days: Roadtrip",
+        "img_icon_url": "2e5e5fe9bd3fc1860909e6452a3dbac4cb58feac"
+    },
+    "252950": {
+        "appid": "252950",
+        "name": "Rocket League",
+        "img_icon_url": "9ad6dd3d173523354385955b5fb2af87639c4163"
+    },
+    "2375530": {
+        "appid": "2375530",
+        "name": "Descenders Next",
+        "img_icon_url": "6c541723471af35e6016d9a455913c2dad4b6799"
+    },
+    "3102400": {
+        "appid": "3102400",
+        "name": "Deadly Days: Roadtrip Demo",
+        "img_icon_url": "af3fc0551f2a2b69a73975892de18aeeccce6dc5"
+    },
+    "550650": {
+        "appid": "550650",
+        "name": "Black Squad",
+        "img_icon_url": "213a736d8c5b75998b671de25e6621d1e7bc122a"
+    },
+    "1154030": {
+        "appid": "1154030",
+        "name": "Titan Quest II",
+        "img_icon_url": "6ee1578894b8cb810ce9146d7d45d586fa2e2f04"
+    },
+    "632360": {
+        "appid": "632360",
+        "name": "Risk of Rain 2",
+        "img_icon_url": "0b809ac6f25e6570fecae5fc47bca0139a7bf70c"
+    },
+    "2700": {
+        "appid": "2700",
+        "name": "RollerCoaster Tycoon 3: Platinum!",
+        "img_icon_url": "95e6320bcf5262271367a83d21fed0dcf12ba73d"
+    },
+    "813780": {
+        "appid": "813780",
+        "name": "Age of Empires II: Definitive Edition",
+        "img_icon_url": "e2b5a7beb58136b892e517cb93ae08b36065363c"
+    },
+    "4063300": {
+        "appid": "4063300",
+        "name": "INDUSTRIA 2 Demo",
+        "img_icon_url": "e1301f02d9fe7b996f26ad273bc88b0223f41971"
+    },
+    "285330": {
+        "appid": "285330",
+        "name": "RollerCoaster Tycoon 2: Triple Thrill Pack",
+        "img_icon_url": "1a59fffe8f8e41a446beaecbd58b961f5907a7a5"
+    },
+    "403190": {
+        "appid": "403190",
+        "name": "Planetbase",
+        "img_icon_url": "27b6fa6d15815d342618080fb2d9905ecb0fdb00"
+    },
+    "431960": {
+        "appid": "431960",
+        "name": "Wallpaper Engine",
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d"
+    },
+    "1898300": {
+        "appid": "1898300",
+        "name": "ASKA",
+        "img_icon_url": "153ab3ef3b1db7248ecf79b586037b57cb3db42d"
+    },
+    "1128860": {
+        "appid": "1128860",
+        "name": "Men of War II",
+        "img_icon_url": "b129588962c00db24cb874e8518bb4583aa4c8b6"
+    },
+    "763890": {
+        "appid": "763890",
+        "name": "Wildermyth",
+        "img_icon_url": "d1d7287619c05af415234776315019124fbb032e"
+    },
+    "200170": {
+        "appid": "200170",
+        "name": "Worms Revolution",
+        "img_icon_url": "15c154176bfa6bffabc7ebd31fd67de2485c6e1c"
+    },
+    "3651790": {
+        "appid": "3651790",
+        "name": "BALL x PIT Demo",
+        "img_icon_url": "ed59271bd82f04553c74f71b16f62e15835ece13"
+    },
+    "2312660": {
+        "appid": "2312660",
+        "name": "Skate Story Demo",
+        "img_icon_url": "04882009c6df0feeee416977e23e11c34a2f555b"
+    },
+    "219890": {
+        "appid": "219890",
+        "name": "Antichamber",
+        "img_icon_url": "1c3afe41623c51172ef1dc96427bf23bb940748b"
+    },
+    "883880": {
+        "appid": "883880",
+        "name": "Faraway: Director's Cut",
+        "img_icon_url": "ecde488ec10765d36f05c94963d8de5b925be71e"
+    },
+    "2014470": {
+        "appid": "2014470",
+        "name": "The Abandoned Planet",
+        "img_icon_url": "5145f1627a0bd2a72d3b07830a2d5f894576fb95"
+    },
+    "2019810": {
+        "appid": "2019810",
+        "name": "Boxes",
+        "img_icon_url": "549ff8f113021066fea1d088b438a5c72621798a"
+    },
+    "3241970": {
+        "appid": "3241970",
+        "name": "Heroes of Might and Magic: Olden Era Demo",
+        "img_icon_url": "7d581f8b17685e065582672f00b18f3c4110041f"
+    },
+    "2427520": {
+        "appid": "2427520",
+        "name": "ARC Raiders Playtest",
+        "img_icon_url": "876026528ffe8294549106927423488e0ee120bc"
+    },
+    "3556770": {
+        "appid": "3556770",
+        "name": "Heroes of Might and Magic: Olden Era Playtest",
+        "img_icon_url": "7d581f8b17685e065582672f00b18f3c4110041f"
+    },
+    "1708010": {
+        "appid": "1708010",
+        "name": "The Expanse: A Telltale Series",
+        "img_icon_url": "9a8f7c0cc12b2a7c05c884e368cbd5f609467f2f"
+    },
+    "534380": {
+        "appid": "534380",
+        "name": "Dying Light 2: Reloaded Edition",
+        "img_icon_url": "4036cc941abaeeed5ee8bd433ca69388723f7f19"
+    },
+    "397540": {
+        "appid": "397540",
+        "name": "Borderlands 3",
+        "img_icon_url": "0ac7b8d98fad581f65b0533bbce63bf953d743ac"
+    },
+    "1363080": {
+        "appid": "1363080",
+        "name": "Manor Lords",
+        "img_icon_url": "f0b869c004ddb564f961668130894f335fe04175"
+    },
+    "3929740": {
+        "appid": "3929740",
+        "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+        "img_icon_url": "850bbf8fe4ed3557cea5e2e0099a086ec677bdcb"
+    },
+    "4054540": {
+        "appid": "4054540",
+        "name": "Star Trek: Voyager - Across the Unknown Demo",
+        "img_icon_url": "a94854a0e11b0befa5cd5dcc4ef235dcfe9af23f"
+    },
+    "1903340": {
+        "appid": "1903340",
+        "name": "Clair Obscur: Expedition 33",
+        "img_icon_url": "d48fb3ed033a08bad9bf0a2e1ceb145e58ffe0aa"
+    },
+    "304390": {
+        "appid": "304390",
+        "name": "For Honor",
+        "img_icon_url": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6"
+    },
+    "1202690": {
+        "appid": "1202690",
+        "name": "Sex with the Devil",
+        "img_icon_url": "a0ca223137ac44880a05f8cc98be57665e1e77d5"
+    },
+    "397350": {
+        "appid": "397350",
+        "name": "Lords of the Realm II",
+        "img_icon_url": "c2485344955bc697aae3816405a1707e0d3e0cb8"
+    },
+    "250820": {
+        "appid": "250820",
+        "name": "SteamVR",
+        "img_icon_url": "7f286d5ee22905b51663e0cea505e1c2f7500f36"
+    },
+    "546560": {
+        "appid": "546560",
+        "name": "Half-Life: Alyx",
+        "img_icon_url": "225032ac2ad1aca8f5fd98baa2b9daf1eebea5ca"
+    },
+    "1001270": {
+        "appid": "1001270",
+        "name": "Kebab Chefs! - Restaurant Simulator",
+        "img_icon_url": "101ebac992c88da333970c8d0fb6bd3a6d7527fc"
+    },
+    "747660": {
+        "appid": "747660",
+        "name": "Five Nights at Freddy's: Security Breach",
+        "img_icon_url": "40abe4b1ce9c60e85aa569af8313bcbecd18e47c"
+    },
+    "388210": {
+        "appid": "388210",
+        "name": "Day of the Tentacle Remastered",
+        "img_icon_url": "6d8caff1e7eb9011b1c7c03e687c0d43753ac8bd"
+    },
+    "1096530": {
+        "appid": "1096530",
+        "name": "Solasta: Crown of the Magister",
+        "img_icon_url": "ee1daddb7b47a1861d1274e46904bd1aee98ecff"
+    },
+    "2026820": {
+        "appid": "2026820",
+        "name": "Die in the Dungeon",
+        "img_icon_url": "3709178513c4324129fc1fe3598cdc54cfb90b3c"
+    },
+    "2141730": {
+        "appid": "2141730",
+        "name": "Backrooms: Escape Together",
+        "img_icon_url": "d4b430f9594dcad772f320fe8792b2c94cf99e06"
+    },
+    "2225070": {
+        "appid": "2225070",
+        "name": "Trackmania",
+        "img_icon_url": "4b0f99cb45eef02df25bee27eb3d52052e8f8b55"
+    },
+    "1435790": {
+        "appid": "1435790",
+        "name": "Escape Simulator",
+        "img_icon_url": "6c294463e2be859160824246e2123a08afce83c4"
+    },
+    "2352620": {
+        "appid": "2352620",
+        "name": "Fellowship",
+        "img_icon_url": "364217c140be107d1c8e23dabc573bba9fa8fcd0"
+    },
+    "1716740": {
+        "appid": "1716740",
+        "name": "Starfield",
+        "img_icon_url": "b4d5828937b2d29b875405dce97bbae0a5d01bbe"
+    },
+    "1222670": {
+        "appid": "1222670",
+        "name": "The Sims™ 4",
+        "img_icon_url": "ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98"
+    },
+    "2465200": {
+        "appid": "2465200",
+        "name": "Sons Of The Forest Dedicated Server",
+        "img_icon_url": "3e382029f4751a9c377bcd0996a2ee7306c45e73"
+    },
+    "1326470": {
+        "appid": "1326470",
+        "name": "Sons Of The Forest",
+        "img_icon_url": "bd28fe592b339cff5a3eef743f31e3166c984c68"
+    },
+    "33350": {
+        "appid": "33350",
+        "name": "Anno 1404: Venice",
+        "img_icon_url": "eea0f486f11af4379355635a8a833f9dfe6ebd37"
+    },
+    "236850": {
+        "appid": "236850",
+        "name": "Europa Universalis IV",
+        "img_icon_url": "2553e828486183a4f5d5eb33036a95f07c698ded"
+    },
+    "230190": {
+        "appid": "230190",
+        "name": "War for the Overworld",
+        "img_icon_url": "9fd8f2fec6b8967dc79d87b2a704f866c02cfcef"
+    },
+    "201790": {
+        "appid": "201790",
+        "name": "Orcs Must Die! 2",
+        "img_icon_url": "fabd8658e8e76f7c99c56f26b69d29882756f9b4"
+    },
+    "355980": {
+        "appid": "355980",
+        "name": "Dungeon Warfare",
+        "img_icon_url": "d0d786801137b8155b50847df9728fc4682783d1"
+    },
+    "496300": {
+        "appid": "496300",
+        "name": "Kingdom: New Lands",
+        "img_icon_url": "d51edb8c8d40e68818adffcd3f9b40149173b2d5"
+    },
+    "204530": {
+        "appid": "204530",
+        "name": "Infested Planet",
+        "img_icon_url": "1b0a0c55cf13f519b3b51a944692ce679297c8ab"
+    },
+    "33230": {
+        "appid": "33230",
+        "name": "Assassin's Creed II",
+        "img_icon_url": "0492d8ee860ac99168e46efeb003029c3224cb38"
+    },
+    "40390": {
+        "appid": "40390",
+        "name": "Risen 2 - Dark Waters",
+        "img_icon_url": "874236eebecff1fe070032d137722ef3cdb47383"
+    },
+    "368230": {
+        "appid": "368230",
+        "name": "Kingdom: Classic",
+        "img_icon_url": "0d741624c643448ff74741f50a4b80a24529b869"
+    },
+    "21970": {
+        "appid": "21970",
+        "name": "R.U.S.E",
+        "img_icon_url": "644ccfb018f0435dbfadf5c0bc291cef6202d84c"
+    },
+    "208480": {
+        "appid": "208480",
+        "name": "Assassin's Creed® III",
+        "img_icon_url": "5d13ffd781fa7658903fbd762b51a76f8c734d2b"
+    },
+    "236430": {
+        "appid": "236430",
+        "name": "DARK SOULS™ II",
+        "img_icon_url": "8d5b3da903efb047d4efb670c08714a4d1071e83"
+    },
+    "502520": {
+        "appid": "502520",
+        "name": "Ultimate General: Civil War",
+        "img_icon_url": "ccb1a390ce1da1a960e78f52f443df75ee50db39"
+    },
+    "48190": {
+        "appid": "48190",
+        "name": "Assassin's Creed Brotherhood",
+        "img_icon_url": "6a87d0b61e45e8075decd1f8ace549300b036a52"
+    },
+    "249230": {
+        "appid": "249230",
+        "name": "Risen 3 - Titan Lords",
+        "img_icon_url": "5d980c5528886a10e276942a680b6ff75975a36f"
+    },
+    "207610": {
+        "appid": "207610",
+        "name": "The Walking Dead",
+        "img_icon_url": "87a13ae0a2a76488792924aa8bb0dd8a7760f931"
+    },
+    "19980": {
+        "appid": "19980",
+        "name": "Prince of Persia",
+        "img_icon_url": "2b404bd60fb97a9c1eabb9d4a573909c014a23fd"
+    },
+    "20920": {
+        "appid": "20920",
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "img_icon_url": "62dd5c627664df1bcabc47727c7dcd7ccab353e9"
+    },
+    "9200": {
+        "appid": "9200",
+        "name": "RAGE",
+        "img_icon_url": "258791dd730f3009acc4c6c1846ed75b2c3911fa"
+    },
+    "427250": {
+        "appid": "427250",
+        "name": "8-Bit Armies",
+        "img_icon_url": "c170b5d50ba49b0cbcff13bf9701a0c551e4b576"
+    },
+    "431600": {
+        "appid": "431600",
+        "name": "Metro: Last Light Complete Edition",
+        "img_icon_url": "7b84b80d2cebe41ba87c59b28e2473d3b33e797d"
+    },
+    "115320": {
+        "appid": "115320",
+        "name": "PROTOTYPE 2",
+        "img_icon_url": "157062f0a8a18c0ae1550feb327b21e2407f528a"
+    },
+    "40950": {
+        "appid": "40950",
+        "name": "Stronghold HD™",
+        "img_icon_url": "d926a3fecaa591d1b64e823ba74d990ca3d94543"
+    },
+    "2948190": {
+        "appid": "2948190",
+        "name": "World of Sea Battle",
+        "img_icon_url": "5db648c3d1dfd65f9cacb6af50a765d74c51c8b2"
+    },
+    "1237970": {
+        "appid": "1237970",
+        "name": "Titanfall® 2",
+        "img_icon_url": "d73c7e572859bd7490947d1aeab5c33eda18fd64"
+    },
+    "2784470": {
+        "appid": "2784470",
+        "name": "9 Kings",
+        "img_icon_url": "d1d0c590e82d977b24e1070a9ec1aeea9e4cd9f4"
+    },
+    "3949040": {
+        "appid": "3949040",
+        "name": "RV There Yet?",
+        "img_icon_url": "cd01f1daaaa3fb022e9913dc2d66a23c5091b5d5"
+    },
+    "880940": {
+        "appid": "880940",
+        "name": "Pummel Party",
+        "img_icon_url": "0e2e222010d009ca46b575cc5c53a23250434341"
+    },
+    "204360": {
+        "appid": "204360",
+        "name": "Castle Crashers",
+        "img_icon_url": "9b7625f9b70f103397fd0416fd92abb583db8659"
+    },
+    "2289750": {
+        "appid": "2289750",
+        "name": "Super Fantasy Kingdom",
+        "img_icon_url": "1fef27acdb71f5880ce846c21476200d1ce9629a"
+    },
+    "2386720": {
+        "appid": "2386720",
+        "name": "STRAFTAT",
+        "img_icon_url": "b068dd4be06a24096030295d4790caa23ff7de59"
+    },
+    "2399830": {
+        "appid": "2399830",
+        "name": "ARK: Survival Ascended",
+        "img_icon_url": "655cc2012105979c2b8e4821d568351c86b22be7"
+    },
+    "1904480": {
+        "appid": "1904480",
+        "name": "Absolum",
+        "img_icon_url": "e8df84738a435cdcc3e6355ac63b33413ba93faf"
+    },
+    "2097570": {
+        "appid": "2097570",
+        "name": "StarVaders",
+        "img_icon_url": "95fb11fdc7275b083b8e6b4a9e58ba6a8a938e49"
+    },
+    "2414270": {
+        "appid": "2414270",
+        "name": "Sunderfolk",
+        "img_icon_url": "17ec2a7e18f5fc2ec3873a25a0b8d4bc46d3d9da"
+    },
+    "2592160": {
+        "appid": "2592160",
+        "name": "Dispatch",
+        "img_icon_url": "1fa72a0254bb96aab1642604720d74c376f97756"
+    },
+    "431240": {
+        "appid": "431240",
+        "name": "Golf With Your Friends",
+        "img_icon_url": "c6379c8ec66ac02565f1155bf3821b846164d93c"
+    },
+    "2062430": {
+        "appid": "2062430",
+        "name": "BALL x PIT",
+        "img_icon_url": "7651f4667f6084ef598a2da930d11e26d0aa5f82"
+    },
+    "3167020": {
+        "appid": "3167020",
+        "name": "Escape from Duckov",
+        "img_icon_url": "5bb8d31708442a8f3ddbc100d7be7c3fde530d18"
+    },
+    "1984270": {
+        "appid": "1984270",
+        "name": "Digimon Story Time Stranger",
+        "img_icon_url": "92ef41a1c3b74f2417a479d25a02ea127e6ec4ae"
+    },
+    "1617400": {
+        "appid": "1617400",
+        "name": "The Bazaar",
+        "img_icon_url": "9fa251921f007cfa0f074b3a548f083cb3150d1c"
+    },
+    "2870340": {
+        "appid": "2870340",
+        "name": "Decktamer",
+        "img_icon_url": "3018a3917f239af2ef89902714ad4a63ecc8fc6c"
+    },
+    "552990": {
+        "appid": "552990",
+        "name": "World of Warships",
+        "img_icon_url": "023b6bb5bcf82f9222d70cd38fdb18a899bd67e8"
+    },
+    "2879840": {
+        "appid": "2879840",
+        "name": "Escape Simulator 2",
+        "img_icon_url": "5a074cdd5ce4819bf6b201aeabd704edb13e4bb6"
+    },
+    "1874880": {
+        "appid": "1874880",
+        "name": "Arma Reforger",
+        "img_icon_url": "0de311f3ef216db08badc6a9ef7c5fd8712ac334"
+    },
+    "1874910": {
+        "appid": "1874910",
+        "name": "Arma Reforger Tools",
+        "img_icon_url": "8941f3c434748da2b9a481fa8286c992076e066c"
+    },
+    "1583230": {
+        "appid": "1583230",
+        "name": "High On Life",
+        "img_icon_url": "edf77785498d06effc5d8c4db72c0d364978b66f"
+    },
+    "2881650": {
+        "appid": "2881650",
+        "name": "Content Warning",
+        "img_icon_url": "513cf7f2e22c94f4372369e29bffccc4c239e9c0"
+    }
+}
