@@ -1,0 +1,1 @@
+<script>async function loadSteamGroupWidget(){const e=await fetch('https://steam.gameclub.ch/widget/group/103582791430857185.html'),t=await e.text();document.getElementById('steam-group-widget-container').innerHTML=t}document.addEventListener('DOMContentLoaded',loadSteamGroupWidget);</script>
